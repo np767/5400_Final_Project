@@ -33,14 +33,20 @@ class SpeechDownloader:
         name = re.sub(r'[<>:"/\\|?*]', "", name)
         return name
 
-    def download_page(self, url: str, foldername: str, filename: str) -> bool:
+    def download_page(
+        self,
+        url: str,
+        foldername: str,
+        filename: str,
+        download_file_regardless: bool = False,
+    ) -> bool:
         """Download a webpage and save as text"""
 
         try:
             print(f"Downloading: {url}")
             filepath = os.path.join(self.output_dir, foldername, filename)
 
-            if not os.path.exists(filepath):
+            if not os.path.exists(filepath) or download_file_regardless:
                 response = requests.get(url, headers=self.headers, timeout=30)
                 response.raise_for_status()
 
@@ -48,7 +54,7 @@ class SpeechDownloader:
                 for tag in soup(["script", "style", "nav", "header", "footer"]):
                     tag.decompose()
 
-                text = soup.get_text(separator="\n", strip=True)
+                text = soup.get_text()
                 with open(filepath, "w", encoding="utf-8") as f:
                     f.write(f"Source URL: {url}\n")
                     f.write("=" * 80 + "\n\n")
@@ -64,7 +70,7 @@ class SpeechDownloader:
             print(f"✗ Error downloading {url}: {str(e)}")
             return False
 
-    def download_all_speeches(self):
+    def download_all_speeches(self, download_file: bool = False):
         """Download all speeches"""
 
         speeches = self.speeches
@@ -79,7 +85,7 @@ class SpeechDownloader:
             os.makedirs(folder_name, exist_ok=True)
 
             for filename, url in files.items():
-                if self.download_page(url, foldername, filename):
+                if self.download_page(url, foldername, filename, download_file):
                     successful += 1
                 else:
                     failed += 1
@@ -96,4 +102,4 @@ class SpeechDownloader:
 
 if __name__ == "__main__":
     downloader = SpeechDownloader(output_dir=OUTPUT_DIR, key_dir=SPEECHES_KEY)
-    downloader.download_all_speeches()
+    downloader.download_all_speeches(download_file=True)
