@@ -65,7 +65,7 @@ class SpeechDownloader:
             return False
 
     def download_all_speeches(self):
-        """Download all Bernie Sanders speeches"""
+        """Download all speeches"""
 
         speeches = self.speeches
         print(f"Starting download of {len(speeches)} speeches...")
