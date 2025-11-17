@@ -11,6 +11,7 @@ from .config import (
     SLEEP_TIME,
     DATA_DIR,
     SPEECH_URLS_FILE,
+    Path,
 )
 
 
@@ -18,15 +19,15 @@ class SpeechDownloader:
     def __init__(
         self,
         output_dir: str | None = None,
-        key_dir: str | None = None,
+        key_dir: str | Path = SPEECH_URLS_FILE,
         headers=None,
-        timeout=None,
-        sleep_time=None,
+        timeout: int = TIMEOUT,
+        sleep_time: int = SLEEP_TIME,
     ):
-        self.headers = headers or DEFAULT_HEADERS
-        self.timeout = timeout or TIMEOUT
-        self.sleep_time = sleep_time or SLEEP_TIME
-        self.key_dir = key_dir or SPEECH_URLS_FILE
+        self.headers = headers if headers is not None else DEFAULT_HEADERS
+        self.timeout = timeout
+        self.sleep_time = sleep_time
+        self.key_dir = key_dir
 
         with open(self.key_dir, "r") as file:
             data = json.load(file)
