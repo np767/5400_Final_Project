@@ -14,7 +14,8 @@ SPEECH_CATEGORIES = [
 
 # Preprocessing settings
 REMOVE_STOPWORDS = True
-PREPROCESSING_METHOD = "stem"
+USE_STEMMING = True
+USE_LEMMATIZATION = True
 
 # Output format
 SAVE_AS_TOKENS = True
