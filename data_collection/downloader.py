@@ -1,5 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
+from utils.helpers import (
+    ensure_politician_raw_directories,
+    ensure_politician_data_folder,
+)
 import os
 import time
 import re
@@ -11,6 +15,7 @@ from .config import (
     SLEEP_TIME,
     DATA_DIR,
     SPEECH_URLS_FILE,
+    Path,
 )
 
 
@@ -18,15 +23,15 @@ class SpeechDownloader:
     def __init__(
         self,
         output_dir: str | None = None,
-        key_dir: str | None = None,
+        key_dir: str | Path = SPEECH_URLS_FILE,
         headers=None,
-        timeout=None,
-        sleep_time=None,
+        timeout: int = TIMEOUT,
+        sleep_time: int = SLEEP_TIME,
     ):
-        self.headers = headers or DEFAULT_HEADERS
-        self.timeout = timeout or TIMEOUT
-        self.sleep_time = sleep_time or SLEEP_TIME
-        self.key_dir = key_dir or SPEECH_URLS_FILE
+        self.headers = headers if headers is not None else DEFAULT_HEADERS
+        self.timeout = timeout
+        self.sleep_time = sleep_time
+        self.key_dir = key_dir
 
         with open(self.key_dir, "r") as file:
             data = json.load(file)
@@ -34,7 +39,9 @@ class SpeechDownloader:
         self.speeches = data[self.politician]
 
         self.output_dir = output_dir or os.path.join(DATA_DIR, self.politician)
-        os.makedirs(self.output_dir, exist_ok=True)
+        folder_created = ensure_politician_data_folder(self.politician)
+        if not folder_created:
+            os.makedirs(self.output_dir, exist_ok=True)
 
     def sanitize_filename(self, name: str) -> str:
         """Remove invalid characters from filename"""
@@ -90,8 +97,12 @@ class SpeechDownloader:
         failed = 0
 
         for foldername, files in speeches.items():
-            folder_name = os.path.join(self.output_dir, foldername)
-            os.makedirs(folder_name, exist_ok=True)
+            folder_exists = ensure_politician_raw_directories(
+                self.politician, foldername
+            )
+            if not folder_exists:
+                folder_name = os.path.join(self.output_dir, foldername)
+                os.makedirs(folder_name, exist_ok=True)
 
             for filename, url in files.items():
                 if self.download_page(url, foldername, filename, download_file):
