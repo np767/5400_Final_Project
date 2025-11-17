@@ -1,5 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
+from utils.helpers import (
+    ensure_politician_raw_directories,
+    ensure_politician_data_folder,
+)
 import os
 import time
 import re
@@ -35,7 +39,9 @@ class SpeechDownloader:
         self.speeches = data[self.politician]
 
         self.output_dir = output_dir or os.path.join(DATA_DIR, self.politician)
-        os.makedirs(self.output_dir, exist_ok=True)
+        folder_created = ensure_politician_data_folder(self.politician)
+        if not folder_created:
+            os.makedirs(self.output_dir, exist_ok=True)
 
     def sanitize_filename(self, name: str) -> str:
         """Remove invalid characters from filename"""
@@ -91,8 +97,12 @@ class SpeechDownloader:
         failed = 0
 
         for foldername, files in speeches.items():
-            folder_name = os.path.join(self.output_dir, foldername)
-            os.makedirs(folder_name, exist_ok=True)
+            folder_exists = ensure_politician_raw_directories(
+                self.politician, foldername
+            )
+            if not folder_exists:
+                folder_name = os.path.join(self.output_dir, foldername)
+                os.makedirs(folder_name, exist_ok=True)
 
             for filename, url in files.items():
                 if self.download_page(url, foldername, filename, download_file):
