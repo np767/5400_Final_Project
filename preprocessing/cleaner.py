@@ -65,7 +65,7 @@ class SpeechCleaner:
         self.check_token_len = check_token_len
         self.min_token_len = min_token_len
 
-        self.stemmer = PorterStemmer() if use_stemming else None
+        self.stemmer = PorterStemmer() if use_stemming else None  #
         self.lemmatizer = WordNetLemmatizer() if use_lemmatizaion else None
 
         folder_exists = ensure_politician_processing_directories(politician)

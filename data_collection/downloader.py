@@ -32,16 +32,19 @@ class SpeechDownloader:
         self.timeout = timeout
         self.sleep_time = sleep_time
         self.key_dir = key_dir
+        self.output_dirs = []
 
         with open(self.key_dir, "r") as file:
             data = json.load(file)
-        self.politician = list(data.keys())[0]
-        self.speeches = data[self.politician]
+        self.politicians = list(data.keys())
+        self.speeches = data
 
-        self.output_dir = output_dir or os.path.join(DATA_DIR, self.politician)
-        folder_created = ensure_politician_data_folder(self.politician)
-        if not folder_created:
-            os.makedirs(self.output_dir, exist_ok=True)
+        for politician in self.politicians:
+            output_dir = os.path.join(DATA_DIR, politician)
+            folder_created = ensure_politician_data_folder(politician)
+            if not folder_created:
+                os.makedirs(output_dir, exist_ok=True)
+            self.output_dirs.append(output_dir)
 
     def sanitize_filename(self, name: str) -> str:
         """Remove invalid characters from filename"""
@@ -54,13 +57,14 @@ class SpeechDownloader:
         url: str,
         foldername: str,
         filename: str,
+        output_dir: str,
         download_file_regardless: bool = False,
     ) -> bool:
         """Download a webpage and save as text"""
 
         try:
             print(f"Downloading: {url}")
-            filepath = os.path.join(self.output_dir, foldername, filename)
+            filepath = os.path.join(output_dir, foldername, filename)
 
             if not os.path.exists(filepath) or download_file_regardless:
                 response = requests.get(url, headers=self.headers, timeout=self.timeout)
@@ -90,31 +94,40 @@ class SpeechDownloader:
         """Download all speeches"""
 
         speeches = self.speeches
-        print(f"Starting download of {len(speeches)} speeches...")
-        print(f"Output directory: {os.path.abspath(self.output_dir)}\n")
+        politician_summary_successful = {}
+        politician_summary_fails = {}
+        for politician in self.politicians:
+            output_dir = [direc for direc in self.output_dirs if politician in direc][0]
+            print(f"\nStarting download of {politician} speeches.")
+            print(f"Output directory: {os.path.abspath(output_dir)}\n")
 
-        successful = 0
-        failed = 0
+            successful = 0
+            failed = 0
 
-        for foldername, files in speeches.items():
-            folder_exists = ensure_politician_raw_directories(
-                self.politician, foldername
-            )
-            if not folder_exists:
-                folder_name = os.path.join(self.output_dir, foldername)
-                os.makedirs(folder_name, exist_ok=True)
+            for foldername, files in speeches[politician].items():
+                folder_exists = ensure_politician_raw_directories(
+                    politician, foldername
+                )
+                if not folder_exists:
+                    folder_name = os.path.join(output_dir, foldername)
+                    os.makedirs(folder_name, exist_ok=True)
 
-            for filename, url in files.items():
-                if self.download_page(url, foldername, filename, download_file):
-                    successful += 1
-                else:
-                    failed += 1
+                for filename, url in files.items():
+                    if self.download_page(
+                        url, foldername, filename, output_dir, download_file
+                    ):
+                        successful += 1
+                    else:
+                        failed += 1
 
-                time.sleep(self.sleep_time)
+                    time.sleep(self.sleep_time)
+            politician_summary_successful[politician] = successful
+            politician_summary_fails[politician] = failed
 
         print(f"\n{'='*80}")
-        print(f"Download complete!")
-        print(f"Successful: {successful}")
-        print(f"Failed: {failed}")
-        print(f"Files saved to: {os.path.abspath(self.output_dir)}")
-        print(f"{'='*80}")
+        for index, politician in enumerate(politician_summary_successful.keys()):
+            print(f"Download complete! - Politician: {politician}")
+            print(f"Successful: {politician_summary_successful[politician]}")
+            print(f"Failed: {politician_summary_fails[politician]}")
+            print(f"Files saved to: {os.path.abspath(self.output_dirs[index])}")
+            print(f"{'='*80}")
