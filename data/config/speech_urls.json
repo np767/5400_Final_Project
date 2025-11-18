@@ -1,4 +1,3 @@
-{
     "bernie_sanders": {
         "partisan_rally_speeches": {
             "rally_fighting_oligarchy_greeley.txt": "https://www.rev.com/transcripts/fighting-oligarcy-rally",
@@ -38,4 +37,22 @@
         }
     }
     
+"jd_vance": {
+    "partisan_rally_speeches": {
+      "vance_military_parade_august_2025.txt": "https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-president-trump-and-jd-vance-speak-at-a-military-parade-in-washington-61425",
+      "vance_rnc_night_3_july_2024.txt": "https://www.rev.com/transcripts/jd-vance-speaks-at-rnc-night-3",
+      "vance_rnc_victory_speech_july_2024.txt": "https://www.dispatch.com/story/opinion/2024/07/17/jd-vance-speech-rnc-vice-president-nomination/74450168007/"
+    },
+    "senate_floor_speeches": {
+      "vance_ukraine_aid_bill_april_2024.txt": "https://www.c-span.org/program/us-senate/senator-jd-vance-on-ukraine-aid-bill/641428"
+    },
+    "bipartisan_and_other_speeches": {
+      "vance_american_dynamism_summit_march_2025.txt": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-american-dynamism-summit",
+      "vance_la_federal_operations_center_june_2025.txt": "https://mahometdaily.com/transcript-of-jd-vance-speech-in-los-angeles/",
+      "vance_munich_security_conference_february_2025.txt": "https://www.presidency.ucsb.edu/documents/remarks-the-vice-president-the-munich-security-conference-0",
+      "vance_paris_ai_summit_february_2025.txt": "https://gist.github.com/lmmx/b373b9819318d014adfdc32182ab17ff",
+      "vance_press_budget_negotiations_september_2025.txt": "https://www.rev.com/transcripts/vance-speaks-on-looming-shutdown",
+      "vance_teneo_network_speech_september_2021.txt": "https://www.documentcloud.org/documents/24815790-jd-vance-teneo-network-2021-speech/"
+    }
+  }
 }
