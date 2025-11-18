@@ -98,7 +98,7 @@ class SpeechDownloader:
         politician_summary_fails = {}
         for politician in self.politicians:
             output_dir = [direc for direc in self.output_dirs if politician in direc][0]
-            print(f"\nStarting download of {politician} speeches")
+            print(f"\nStarting download of {politician} speeches.")
             print(f"Output directory: {os.path.abspath(output_dir)}\n")
 
             successful = 0
