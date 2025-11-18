@@ -9,3 +9,4 @@ from data_collection.downloader import SpeechDownloader
 if __name__ == "__main__":
     downloader = SpeechDownloader()
     downloader.download_all_speeches(download_file=True)
+    # Dummy comment
