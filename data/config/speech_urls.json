@@ -22,6 +22,20 @@
             "response_trump_address_2025.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-delivers-livestreamed-response-to-president-trumps-congressional-address/",
             "speech_trump_threat_democracy_2020.txt": "https://www.rev.com/transcripts/bernie-sanders-speech-transcript-trumps-threat-to-our-democracy"
         }
+    },
+
+
+    "desantis_ron": {
+        "partisan_rally_speeches": {
+            "rnc_2024.txt": "https://www.rev.com/transcripts/ron-johnson-speaks-at-rnc-2024-night-one"
+        },
+        "senate_floor_speeches": {
+            "state_of_state_2025.txt": "https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-delivers-state-state-address"
+        },
+        "bipartisan_and_other_speeches": {
+            "nbc_interview_2023.txt": "https://www.rev.com/transcripts/full-nbc-ron-desantis-interview-transcript",
+            "press_release_digital_BoR_2023": "https://www.rev.com/transcripts/gov-ron-desantis-outlines-digital-bill-of-rights-during-west-palm-beach-visit-transcript"
+        }
     }
     
 }
