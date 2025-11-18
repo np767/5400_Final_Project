@@ -1,29 +1,43 @@
-{
-  "bernie_sanders": {
-    "partisan_rally_speeches": {
-      "rally_fighting_oligarchy_greeley.txt": "https://www.rev.com/transcripts/fighting-oligarcy-rally",
-      "rally_fighting_oligarchy_idaho.txt": "https://www.rev.com/transcripts/bernie-sanders-at-fighting-oligarchy-event",
-      "rally_2020_campaign_brooklyn.txt": "https://vtdigger.org/2019/03/02/full-text-sen-bernie-sanders-2020-presidential-campaign-kickoff-speech/",
-      "rally_2016_post_primary.txt": "https://time.com/4372673/bernie-sanders-speech-text-read-transcript/",
-      "rally_dnc_2024.txt": "https://www.rev.com/transcripts/bernie-sanders-speaks-at-2024-democratic-national-convention"
+    "bernie_sanders": {
+        "partisan_rally_speeches": {
+            "rally_fighting_oligarchy_greeley.txt": "https://www.rev.com/transcripts/fighting-oligarcy-rally",
+            "rally_fighting_oligarchy_idaho.txt": "https://www.rev.com/transcripts/bernie-sanders-at-fighting-oligarchy-event",
+            "rally_2020_campaign_brooklyn.txt": "https://vtdigger.org/2019/03/02/full-text-sen-bernie-sanders-2020-presidential-campaign-kickoff-speech/",
+            "rally_2016_post_primary.txt": "https://time.com/4372673/bernie-sanders-speech-text-read-transcript/",
+            "rally_dnc_2024.txt": "https://www.rev.com/transcripts/bernie-sanders-speaks-at-2024-democratic-national-convention"
+        },
+        "senate_floor_speeches": {
+            "floor_2010_filibuster_the_speech.txt": "https://en.wikisource.org/wiki/The_Speech_(Sanders)",
+            "floor_2021_israel_gaza_ceasefire.txt": "https://www.rev.com/transcripts/bernie-sanders-senate-floor-speech-transcript-conflict-in-israel",
+            "floor_2021_minimum_wage.txt": "https://www.rev.com/transcripts/bernie-sanders-senate-floor-speech-on-minimum-wage-transcript-march-5",
+            "floor_2020_stimulus_2000_checks.txt": "https://www.newsweek.com/bernie-sanders-fiery-stimulus-speech-senate-full-transcript-1558228",
+            "floor_2025_oligarchy_authoritarianism.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-on-americas-dangerous-movement-toward-oligarchy-authoritarianism-kleptocracy/",
+            "floor_2025_what_oligarchs_want.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-on-the-senate-floor-what-the-oligarchs-really-want/",
+            "floor_2022_ukraine_crisis.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-senate-floor-speech-on-ukraine/",
+            "floor_2025_trump_budget.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-speech-on-trumps-bad-backwards-budget/"
+        },
+        "bipartisan_and_other_speeches": {
+            "bipartisan_sanders_institute_2018.txt": "https://www.democracynow.org/2018/11/30/full_bernie_sanders_speech_on_economic",
+            "response_trump_address_2025.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-delivers-livestreamed-response-to-president-trumps-congressional-address/",
+            "speech_trump_threat_democracy_2020.txt": "https://www.rev.com/transcripts/bernie-sanders-speech-transcript-trumps-threat-to-our-democracy"
+        }
     },
-    "senate_floor_speeches": {
-      "floor_2010_filibuster_the_speech.txt": "https://en.wikisource.org/wiki/The_Speech_(Sanders)",
-      "floor_2021_israel_gaza_ceasefire.txt": "https://www.rev.com/transcripts/bernie-sanders-senate-floor-speech-transcript-conflict-in-israel",
-      "floor_2021_minimum_wage.txt": "https://www.rev.com/transcripts/bernie-sanders-senate-floor-speech-on-minimum-wage-transcript-march-5",
-      "floor_2020_stimulus_2000_checks.txt": "https://www.newsweek.com/bernie-sanders-fiery-stimulus-speech-senate-full-transcript-1558228",
-      "floor_2025_oligarchy_authoritarianism.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-on-americas-dangerous-movement-toward-oligarchy-authoritarianism-kleptocracy/",
-      "floor_2025_what_oligarchs_want.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-on-the-senate-floor-what-the-oligarchs-really-want/",
-      "floor_2022_ukraine_crisis.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-senate-floor-speech-on-ukraine/",
-      "floor_2025_trump_budget.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-speech-on-trumps-bad-backwards-budget/"
-    },
-    "bipartisan_and_other_speeches": {
-      "bipartisan_sanders_institute_2018.txt": "https://www.democracynow.org/2018/11/30/full_bernie_sanders_speech_on_economic",
-      "response_trump_address_2025.txt": "https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-delivers-livestreamed-response-to-president-trumps-congressional-address/",
-      "speech_trump_threat_democracy_2020.txt": "https://www.rev.com/transcripts/bernie-sanders-speech-transcript-trumps-threat-to-our-democracy"
+
+
+    "desantis_ron": {
+        "partisan_rally_speeches": {
+            "rnc_2024.txt": "https://www.rev.com/transcripts/ron-johnson-speaks-at-rnc-2024-night-one"
+        },
+        "senate_floor_speeches": {
+            "state_of_state_2025.txt": "https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-delivers-state-state-address"
+        },
+        "bipartisan_and_other_speeches": {
+            "nbc_interview_2023.txt": "https://www.rev.com/transcripts/full-nbc-ron-desantis-interview-transcript",
+            "press_release_digital_BoR_2023": "https://www.rev.com/transcripts/gov-ron-desantis-outlines-digital-bill-of-rights-during-west-palm-beach-visit-transcript"
+        }
     }
-  },
-  "jd_vance": {
+    
+"jd_vance": {
     "partisan_rally_speeches": {
       "vance_military_parade_august_2025.txt": "https://www.democrats.senate.gov/newsroom/trump-transcripts/transcript-president-trump-and-jd-vance-speak-at-a-military-parade-in-washington-61425",
       "vance_rnc_night_3_july_2024.txt": "https://www.rev.com/transcripts/jd-vance-speaks-at-rnc-night-3",
