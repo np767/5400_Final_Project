@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from pathlib import Path
 from utils.helpers import (
     ensure_politician_raw_directories,
     ensure_politician_data_folder,
@@ -13,9 +14,8 @@ from .config import (
     DEFAULT_HEADERS,
     TIMEOUT,
     SLEEP_TIME,
-    DATA_DIR,
+    RAW_DATA_DIR,
     SPEECH_URLS_FILE,
-    Path,
 )
 
 
@@ -40,7 +40,7 @@ class SpeechDownloader:
         self.speeches = data
 
         for politician in self.politicians:
-            output_dir = os.path.join(DATA_DIR, politician)
+            output_dir = os.path.join(RAW_DATA_DIR, politician)
             folder_created = ensure_politician_data_folder(politician)
             if not folder_created:
                 os.makedirs(output_dir, exist_ok=True)
@@ -71,13 +71,57 @@ class SpeechDownloader:
                 response.raise_for_status()
 
                 soup = BeautifulSoup(response.text, "html.parser")
-                for tag in soup(["script", "style", "nav", "header", "footer"]):
+                for tag in soup(
+                    [
+                        "script",
+                        "style",
+                        "nav",
+                        "header",
+                        "footer",
+                        "aside",
+                        "form",
+                        "button",
+                        "iframe",
+                    ]
+                ):
                     tag.decompose()
 
-                text = soup.get_text()
+                main_content = None
+                content_selectors = [
+                    ("id", "main-content"),
+                    ("id", "content"),
+                    ("id", "article"),
+                    ("class", "entry-content"),
+                    ("class", "article-content"),
+                    ("class", "post-content"),
+                    ("class", "article-body"),
+                    ("role", "main"),
+                    ("tag", "article"),
+                    ("tag", "main"),
+                ]
+
+                for selector_type, selector_value in content_selectors:
+                    if selector_type == "id":
+                        main_content = soup.find(id=selector_value)
+                    elif selector_type == "class":
+                        main_content = soup.find(class_=selector_value)
+                    elif selector_type == "role":
+                        main_content = soup.find(attrs={"role": selector_value})
+                    elif selector_type == "tag":
+                        main_content = soup.find(selector_value)
+
+                    if main_content:
+                        break
+
+                if not main_content:
+                    main_content = soup.find("body") or soup
+
+                text = main_content.get_text(separator="\n", strip=True)
+                text = re.sub(r"\n{3,}", "\n\n", text)
+                lines = [line.strip() for line in text.split("\n") if line.strip()]
+                text = "\n".join(lines)
+
                 with open(filepath, "w", encoding="utf-8") as f:
-                    f.write(f"Source URL: {url}\n")
-                    f.write("=" * 80 + "\n\n")
                     f.write(text)
 
                 print(f"✓ Saved: {filename}")
