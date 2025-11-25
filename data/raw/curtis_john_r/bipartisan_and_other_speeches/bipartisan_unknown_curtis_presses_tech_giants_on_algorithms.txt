@@ -1,0 +1,25 @@
+CURTIS PRESSES TECH GIANTS ON ALGORITHMS
+Senator Curtis questioned representatives Google, Meta, and advocacy groups on the power of algorithms and Section 230 protections
+Washington, D.C.—
+At a Senate Commerce Committee hearing with tech executives and advocacy group representatives, U.S. Senator John Curtis (R-UT) challenged major platforms on the incentives that drive their content amplification systems and the downstream impact of algorithms on public debate.
+Click
+here
+or above to watch Curtis’ line of questioning
+Senator Curtis underscored that Section 230 of the
+Communications Decency Act
+was crafted to protect platforms acting in
+good faith
+as neutral hosts—not to provide blanket immunity for business choices that can intensify harms on debate or potentially radicalize individuals. In a question to the panel, Curtis draws a distinction from the original intent of Section 230 protections and its modern application:
+“We all know that Section 230 was meant to protect platforms that acted in good faith,”
+said Curtis
+. “But when an algorithm downranks speech or drives users towards extremism because it’s good for engagement, is that really good faith moderation? And should Section 230 immunity apply when you as a company or industry make decisions that magnify certain content and downgrade other content?”
+During questioning, Senator Curtis warned executives that Americans will look back on these hearing as they did when tobacco companies testified that smoking had no negative health impacts. Curtis challenged Markham Erickson, representing Google, about what keeps people on their platforms:
+“I actually think this is going to be a lot like the tobacco hearings. You’re saying, years from now, when we look back in history, there’s going to be no study or internal conversations that says, ‘it’s good to have people stay on our platform longer?’”
+To which Erickson replied
+, “Senator, we want people to stay on our platforms.”
+View a post on this exchange
+here
+.
+Later, Will Creeley of the Foundation for Individual Rights and Expression showed weariness of further government regulation, prompting Curtis to state:
+“The interference starts when [tech companies] apply an algorithm to content… the moment you make a decision to magnify [that content], do you not own that decision?”
+Curtis concluded his remarks with calls to further discussions on this topic, raising questions on why tech companies’ interference deserves protection from the law.
