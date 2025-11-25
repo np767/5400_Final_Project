@@ -1,0 +1,70 @@
+Senator Coons Facebook
+Senator Coons Instagram
+Senator Coons Twitter
+Senator Coons Youtube
+News
+Press Releases
+Senators Coons, McCormick introduce bill to boost U.S. AI leadership with energy-efficient liquid cooling technology
+November 20, 2025
+WASHINGTON – U.S. Senators Chris Coons (D-Del.) and Dave McCormick (R-Pa.) today introduced the Liquid Cooling for AI Act. This legislation is designed to help ensure American AI infrastructure is the most efficient, resilient, secure, and advanced in the world. Liquid cooling technology can better accommodate advanced chips in AI infrastructure, like data centers, while better managing energy consumption and its strain on utilities. In addition to Senators Coons and McCormick, this legislation is cosponsored by U.S. Senators Adam Schiff (D-Calif.) and Ted Budd (R-N.C.). Companion legislation is led in the U.S. House by Representatives Jay Obernolte (R-Calif.) and Josh Gottheimer (D-N.J.).
+The United States faces an unprecedented expansion in data center energy usage, primarily driven by the rapid growth of artificial intelligence processes and operations. A 2024 Lawrence Berkeley National Laboratory Energy Usage Report shows U.S. data centers consumed 4.4% of U.S. electricity in 2023 – up from 1.9% in 2018 – and could reach as high as 12.8% by 2028 due to rapid growth in AI and cloud computing. To put this in context, that demand would equal the combined electricity consumption of all U.S. residential lighting and household appliances.
+As the U.S. works to maintain technological supremacy and ramp up AI innovation, we must adopt transformative approaches to reduce both energy consumption and infrastructure costs. The Liquid Cooling for AI Act works to address these challenges by:
+Directing the Government Accountability Office (GAO) to assess the research and development (R&D) needs and conditions affecting liquid cooling utilization in data centers
+Requiring the Department of Energy to evaluate GAO’s findings and submit a report to Congress with recommendations for liquid cooling and heat reuse R&D
+Creating a liquid cooling advisory
+organization of industry experts to consult with federal agencies and establish government-wide best practices for liquid cooling in AI facilities
+“Leading the world in AI innovation shouldn’t have to mean skyrocketing energy bills for American families or giving up ground in the fight against climate change,”
+said Senator Coons
+. “This bipartisan bill will encourage the development of new technologies that keep American businesses and our military ahead in the AI race, promoting innovation and growing our economy while keeping our nation secure and lowering costs.”
+“As our nation pushes to win the global AI race, we must ensure we use the most advanced technologies available, and that includes innovative cooling systems capable of supporting advanced chips,”
+said Senator McCormick
+.
+“This legislation is a step towards easing pressure on utilities and customers, promoting energy efficiency in AI infrastructure, and leveraging market-driven technologies to boost U.S. computing capacity.”
+“The United States must win the AI Race against China, but it cannot do so without access to abundant and affordable energy. Liquid cooling of IT equipment at data centers and other advancements can ease electrical grid strain and help lower costs for consumers,”
+said Senator Budd.
+“I am glad to work with Senators McCormick and Coons in this effort to boost energy efficiency so we can help unleash AI innovation across the country.”
+“With the dramatic growth of AI and the accompanying increase in electricity demand from data centers, we must ensure we are using the most efficient cooling technologies and protecting consumers from price hikes. This bipartisan legislation will help advance liquid cooling systems — a critical and sustainable method of cooling that improves energy efficiency and thermal performance, while improving affordability for consumers,”
+said Senator Schiff
+.
+The bill is endorsed by Chemours, American Chemistry Council, University of Delaware Office of Research, Accelsius, AI Supply Chain Alliance, SEMI Americas, 2CRSi, UNICOM Engineering, Alcatex, Cool Filtration, Grenzebach, Schneider Electric, Vertiv, and EneosUSA.
+“The AI Supply Chain Alliance strongly supports the bipartisan Liquid Cooling for AI Act in the Senate. As AI workloads grow and chip densities outpace traditional cooling, liquid cooling is essential infrastructure for America to lead in AI. This bill takes a smart, no-cost approach by directing the Government Accountability Office and Department of Energy to establish the research, guidance, and best practices needed to scale efficient, reliable AI systems nationwide. We look forward to working with Sens. McCormick, Coons, Schiff, and Budd to strengthen the U.S. AI supply chain and ensure America can build, power, and cool the next generation of AI,”
+said AI Supply Chain Alliance (AI-SCA)
+.
+“As AI workloads grow and next-gen chips generate more heat, data centers need more efficient and effective cooling solutions that can keep pace. By dramatically reducing energy and water usage compared to traditional air cooling, liquid cooling delivers both performance and sustainability. This bill is a forward-thinking step toward modernizing critical infrastructure, and we’re proud to support with innovative products that keep America at the forefront of the global AI race,”
+said
+Denise Dignam, Chemours President and CEO
+.
+“As data centers grow to power advanced AI systems, they place unprecedented strain on our electric grid and water resources. The Liquid Cooling for AI Act [or “this proposed legislation”] promotes a far more efficient heat transfer method than air, reducing energy consumption and water use while ensuring our digital infrastructure can meet future demands,”
+said Miguel Garcia-Diaz, Vice President of Research, Scholarship and Innovation, University of Delaware.
+"Maintaining U.S. leadership in AI and advanced computing requires infrastructure that is both efficient and sustainable. By prioritizing liquid cooling, this legislation supports innovation, reduces environmental impact, and ensures the nation remains competitive in the global technology landscape,”
+said Rusty Cone, General Manager, UNICOM Engineering
+.
+“Chemistry powers the innovations that drive American competitiveness,” said Chris Jahn, President and CEO, American Chemistry Council. “From advanced cooling technologies to the materials enabling artificial intelligence, the chemical industry is fueling breakthroughs across every facet of technology development. We thank Senators McCormick and Coons for introducing the Liquid Cooling for AI Act, which will help guide smart, science-based decisions to keep the U.S. at the forefront of the AI race and global manufacturing leadership. American success relies on American Chemistry,”
+said Chris Jahn, American Chemistry Council CEO
+.
+"The need is urgent: Energy demand is rising sharply as more data centers and high-performance computing clusters expand to support AI-driven products and services. The Liquid Cooling for AI Act of 2025 would lay the groundwork for the development and adoption of liquid cooling technologies that are essential to maintaining the U.S. AI sector's momentum and sustaining its growth in the long term. SEMI applauds Senator McCormick and Senator Coons for championing this critical legislation,”
+said
+Joe Stockunas, President, SEMI Americas
+.
+“The acceleration of AI workloads presents an unprecedented opportunity for the United States to lead the world in efficient, resilient, and responsible data center innovation. Advanced liquid cooling technologies are essential to meeting the rising power density and sustainability demands of next-generation AI systems. We commend Senators Coons and McCormick for introducing the 'Liquid Cooling for AI Act', which sets an essential foundation for safeguarding U.S. technological leadership while promoting sustainable infrastructure. At 2CRSi, we are proud to support policies that drive innovation, reduce energy consumption, and enable the deployment of advanced AI computing at scale,”
+said Alain Wilmouth, CEO, 2CRSi
+.
+"AI and data-center growth are inevitable, and the responsible path forward is understanding every sustainable option. This bill takes a pragmatic, technical look at liquid cooling by recognizing the differences between 1-phase and 2-phase systems, as well as the differences between direct-to-chip and immersion, so communities and operators can make informed decisions that support both climate goals and economic growth,”
+said Dr. Richard Bonner, CTO, Accelsius
+.
+“Modine remains committed to Engineering a Cleaner Healthier World™ and part of our mission involves offering best-in-class thermal management solutions for data centers. We are excited to support the Liquid Cooling for AI Act, along with Chemours, to develop energy efficient and low-water usage two-phase immersion thermal management solutions for data center applications,”
+said Mark Johnson, Vice President, Innovation and Technology, Modine
+.
+The text of the bill is available
+here
+.
+A one-pager is available
+here
+.
+A section-by-section is available
+here
+.
+Previous Article
+Next Article
+nav-mobile-modal
+search-mobile-modal

@@ -1,0 +1,49 @@
+CURTIS, KELLY INTRODUCE ALGORITHM ACCOUNTABILITY ACT
+Critical legislation to hold tech companies accountable for their part in harming and radicalizing Americans
+Washington, D.C. –
+U.S. Senators John Curtis (R-UT) and Mark Kelly (D-AZ) introduced legislation to modernize online protections and hold social media companies accountable for harms caused by content pushed by their algorithmic feeds.  The bill, the Algorithm Accountability Act, amends Section 230 of the Communications Decency Act of 1996 to impose a duty of care on the companies that utilize recommendation-based algorithms.
+The duty of care requires platforms to responsibly design, train, test, deploy, operate, and maintain their recommendation-based algorithm to prevent foreseeable bodily injury or death. It also gives injured individuals a clear civil right of action to seek relief in federal court.
+“Section 230 was written nearly 30 years ago for a very different internet,”
+said Senator Curtis.
+“What began as a commonsense protection for a fledgling industry has grown into a blanket immunity shield for some of the most powerful companies on the planet—companies that intentionally design algorithms that exploit user behavior, amplify dangerous content, and keep people online at any cost. Our bill will hold them accountable.”
+“Too many families have been hurt by social media algorithms designed with one goal: make money by getting people hooked,”
+said Senator Kelly
+. “Over and over again, these companies refuse to take responsibility when their platforms contribute to violence, crime, or self-harm. We’re going to change that and finally allow Americans to hold companies accountable.”
+Resources:
+Bill summary
+Bill text
+Section-by-section
+In a recent
+Wall Street Journal
+opinion piece,
+Curtis
+outlined the urgent need for accountability for the social media algorithms that contribute to radicalization and violence:
+“The idea behind the Algorithm Accountability Act is simple: If companies use algorithms to influence the reach of content, they should bear responsibility when those algorithms negligently cause harm. We hold automakers accountable when a design flaw causes an accident. We hold pharmaceutical companies accountable when their products cause injury. There is no reason Big Tech should be treated differently.”
+Read the full opinion
+here
+.
+What they are saying:
+“Utah has led the nation in passing laws to protect children from the harms of social media, but these challenges don’t stop at state lines. We need a national standard for accountability. I fully support Senator Curtis’ Algorithm Accountability Act. By establishing a duty of care for social media platforms, this bill will help protect families across the country from the deceptive and addictive algorithmic designs that put profit above people. It’s time for Congress to act.”
+– Utah Governor Spencer J. Cox
+.
+“Big Tech has made billions off algorithms that hook our children and harm their mental health. This legislation will help us better protect kids while also upholding our sacred right to free speech. I commend Sen. Curtis for sponsoring a bill that puts families first, holds platforms accountable, and preserves states’ sovereign rights.”
+– Utah
+Attorney General Derek Brow
+.
+“Senator Curtis’ Algorithm Accountability Act is crucial for rebuilding public trust in social media platforms by establishing a clear standard of care for social media algorithms, ensuring that these platforms prioritize transparency and accountability. Utah has seen firsthand the harms caused by these companies, having initiated the nation’s first lawsuits against them, and has led the way with pioneering laws to protect minors on social media. We must hold these companies accountable to create a safer online environment for all users.”
+– Margaret Woolley Busse, Executive Director of the Utah Department of Commerce
+.
+“Social media companies are making billions of dollars off of addictive algorithms that are proven to be harmful, especially to young people. At the Arizona’s Attorney General’s Office, we’ve taken to steps to hold these companies accountable, like by suing Meta for knowingly damaging youth mental health with their algorithms and by calling out social media companies when they regularly facilitate crime— including the trafficking of drugs, sharing of child sexual abuse material, and facilitating of human trafficking. I’m so glad to see Senator Kelly take a proactive step and introduce a stronger law that will hold big tech accountable for the devastating harm their purposefully addictive algorithms are causing.”
+– Kris Mayes, Arizona Attorney General.
+“Parents are doing everything they can, but we can’t compete with systems designed to know and influence our kids. The Algorithm Accountability Act brings long-overdue responsibility to platforms that have operated without it for far too long. Holding tech companies to a reasonable duty of care finally aligns their power with their responsibility. This legislation finally brings the accountability urgently needed for the algorithms that shape young people’s lives and, too often, their deaths.”
+– Amy Neville, The Alexander Neville Foundation.
+“When an algorithm predicts a child’s vulnerabilities and then pushes harmful content anyway, that is not an accident, it is a foreseeable design failure. Parents RISE! supports the Algorithm Accountability Act because companies must be responsible for the tools they create.”
+– Julianna Arnold, Parents RISE!
+“For far too long we have known that social media companies are engaging our kids with algorithms that feed them shocking videos on gore, disordered eating, cutting and suicide to name just a few. These teens are NOT looking this information up, it is a design choice by these companies to keep kids online longer solely for profit. The Algorithm Accountability Act will go a long way in holding these companies legally responsible for these dangerous and deadly algorithmic design choices.”
+– Kristin Bride, The Carson J. Bride Effect.
+“Annalee, was 18 when we lost her to suicide in 2020. What we discovered afterward was devastating: her social media algorithms repeatedly fed her pro-suicide, depression, and anxiety content, normalizing those ideas and surrounding her in a world we didn’t know she was trapped inside. Parents are up against platforms that study our children more closely than we ever could and use that knowledge to keep them online, even when the content harms them. Annalee was a bright, kind, young woman who deserved protection—not automated systems that exploited her struggles. The Algorithm Accountability Act is exactly the kind of legislation that will stop what happened to my daughter from happening to others, and I am thankful to Senator Kelly for taking this issue seriously.”
+– Lori Schott, Annalee’s mother.
+“This bill takes an essential step toward safeguarding children by establishing a duty of care in algorithmic design — an approach strongly supported by families across the country. In Count on Mothers’ nationwide research, we found striking consensus on one issue: social media’s design practices are harming children. Mothers voiced deep concern about the mental and physical toll of addictive, profit-driven algorithms, with 96% supporting federal action to hold platforms accountable. This bill’s ‘duty of care’ provision and liability for foreseeable harm reflect what families nationwide have said they need—meaningful accountability, enforceable safeguards, and design standards that protect children’s wellbeing.”
+– Jennifer Bransford, Founder of Count on Mothers
+“The Algorithm Accountability Act, sponsored by Senator John Curtis, is an incredibly important piece of proposed legislation which would amend Section 230 of the Communications Act. For the first time, social media companies would be held accountable for their proprietary algorithms that feed users content through recommendation and promotion. If these algorithms result in foreseeable harm to users, as they have clearly done in many cases, companies can be held liable in a court of law even despite mandatory arbitration clauses in user agreements.  This would be a huge victory for parents, for children, and for all Americans.  Senator Curtis is to be commended for his strong action on all our behalf.  “Stop the algorithm!’”
+– Valerie M. Hudson, University Distinguished Professor, The Bush School of Government and Public Service, Texas A&M University
