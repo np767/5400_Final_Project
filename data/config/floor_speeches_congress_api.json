@@ -1,0 +1,339 @@
+{
+    "coons_christopher_a": {
+        "house_floor_speeches": {
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH135_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH135-4.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH137_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH137-6.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH137_10.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH137-10.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH141.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH141.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH150.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH150.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH150_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH150-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH151.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH151.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH153_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH153-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-4.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-5.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-6.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH193_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH193-2.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH194.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH194.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH194_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH194-2.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH195.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH195.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH195_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH195-2.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH197_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH197-2.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH198.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH198.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH257_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH257-3.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH257_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH257-9.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH258.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH258.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH260.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH260.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH261.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH261.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH262.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH262.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH262_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH262-2.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH264.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH264.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH264_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH264-2.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH276_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH276-2.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH276_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH276-3.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH277_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH277-2.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH278_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH278-2.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH280_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH280-7.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH281_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH281-2.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH281_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH281-3.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS210.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS210.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS211_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS211-5.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS233_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS233-2.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS235_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS235-5.htm"
+        }
+    },
+    "bennet_michael_f": {
+        "house_floor_speeches": {
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH135_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH135-5.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH150_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH150-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-6.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH197_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH197-3.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH198_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH198-2.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH255_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH255-4.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH277.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH277.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH281_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH281-3.htm",
+            "floor_2024_02_06_CREC_2024_02_06_pt1_PgH459.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-06/html/CREC-2024-02-06-pt1-PgH459.htm",
+            "floor_2024_02_07_CREC_2024_02_07_pt1_PgH521_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-07/html/CREC-2024-02-07-pt1-PgH521-3.htm"
+        }
+    },
+    "collins_susan_m": {
+        "house_floor_speeches": {
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH135_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH135-6.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH139.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH139.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH141.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH141.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH143.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH143.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH146.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH146.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH146_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH146-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH153_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH153-7.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-6.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH192.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH192.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH192_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH192-2.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH193.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH193.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH200.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH200.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH256.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH256.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH261.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH261.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH262_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH262-2.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH264.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH264.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH279.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH279.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH281_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH281-3.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS205_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS205-9.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS205_10.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS205-10.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS207_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS207-2.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS208.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS208.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS209.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS209.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS209_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS209-4.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS210.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS210.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS210_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS210-2.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS210_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS210-3.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS211_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS211-3.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS211_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS211-5.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS211_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS211-6.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS212.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS212.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS212_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS212-2.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS227_11.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS227-11.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS229.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS229.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS229_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS229-2.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS230.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS230.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS232.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS232.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS232_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS232-2.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS233_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS233-2.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS235.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS235.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS235_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS235-2.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS235_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS235-3.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS235_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS235-4.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS235_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS235-5.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS237.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS237.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS240.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS240.htm"
+        }
+    },
+    "khanna_ro": {
+        "house_floor_speeches": {
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH196.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH196.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH278.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH278.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH281.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH281.htm",
+            "floor_2024_01_30_CREC_2024_01_30_pt1_PgH281_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-30/html/CREC-2024-01-30-pt1-PgH281-3.htm",
+            "floor_2023_01_09_CREC_2023_01_09_pt1_PgH51_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-01-09/html/CREC-2023-01-09-pt1-PgH51-5.htm",
+            "floor_2023_01_27_CREC_2023_01_27_pt1_PgH435_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-01-27/html/CREC-2023-01-27-pt1-PgH435-3.htm",
+            "floor_2023_01_27_CREC_2023_01_27_pt1_PgH472_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-01-27/html/CREC-2023-01-27-pt1-PgH472-5.htm",
+            "floor_2023_02_02_CREC_2023_02_02_pt1_PgH634_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-02/html/CREC-2023-02-02-pt1-PgH634-7.htm",
+            "floor_2023_02_02_CREC_2023_02_02_pt1_PgH635.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-02/html/CREC-2023-02-02-pt1-PgH635.htm",
+            "floor_2023_02_02_CREC_2023_02_02_pt1_PgH657.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-02/html/CREC-2023-02-02-pt1-PgH657.htm"
+        }
+    },
+    "bernie_sanders": {
+        "senate_floor_speeches": {
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS236_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS236-2.htm"
+        }
+    },
+    "hirono_mazie_k": {
+        "house_floor_speeches": {
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH135_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH135-4.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH135_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH135-5.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH143.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH143.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-5.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH194.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH194.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH257_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH257-3.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH257_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH257-9.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH258.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH258.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH260.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH260.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH261.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH261.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH262.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH262.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH262_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH262-2.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH264.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH264.htm",
+            "floor_2024_01_29_CREC_2024_01_29_pt1_PgH264_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-29/html/CREC-2024-01-29-pt1-PgH264-2.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS211_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS211-3.htm",
+            "floor_2024_01_24_CREC_2024_01_24_pt1_PgS233_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-24/html/CREC-2024-01-24-pt1-PgS233-2.htm"
+        }
+    },
+    "justice_james_c": {
+        "house_floor_speeches": {
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH135_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH135-6.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH137_10.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH137-10.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH151.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH151.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH153_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH153-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-6.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS205_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS205-9.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS205_10.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS205-10.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS209.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS209.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS209_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS209-4.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS210.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS210.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS211_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS211-6.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS212.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS212.htm",
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS212_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS212-2.htm"
+        }
+    },
+    "booker_cory_a": {
+        "house_floor_speeches": {
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH137_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH137-6.htm",
+            "floor_2024_01_18_CREC_2024_01_18_pt1_PgH194_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-18/html/CREC-2024-01-18-pt1-PgH194-2.htm",
+            "floor_2024_01_31_CREC_2024_01_31_pt1_PgH322_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-31/html/CREC-2024-01-31-pt1-PgH322-2.htm",
+            "floor_2024_02_01_CREC_2024_02_01_pt1_PgH375_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-01/html/CREC-2024-02-01-pt1-PgH375-2.htm",
+            "floor_2024_02_06_CREC_2024_02_06_pt1_PgH435_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-06/html/CREC-2024-02-06-pt1-PgH435-7.htm",
+            "floor_2024_02_06_CREC_2024_02_06_pt1_PgH476_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-06/html/CREC-2024-02-06-pt1-PgH476-2.htm",
+            "floor_2024_02_07_CREC_2024_02_07_pt1_PgH508_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-07/html/CREC-2024-02-07-pt1-PgH508-4.htm",
+            "floor_2024_02_13_CREC_2024_02_13_pt1_PgH551_8.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-13/html/CREC-2024-02-13-pt1-PgH551-8.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_01_23_CREC_2024_01_23_pt1_PgS211_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-23/html/CREC-2024-01-23-pt1-PgS211-5.htm",
+            "floor_2024_02_12_CREC_2024_02_12_pt1_PgS859_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-12/html/CREC-2024-02-12-pt1-PgS859-9.htm"
+        }
+    },
+    "curtis_john_r": {
+        "house_floor_speeches": {
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH137_10.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH137-10.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH139.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH139.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH141.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH141.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH146.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH146.htm",
+            "floor_2024_01_16_CREC_2024_01_16_pt1_PgH146_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-16/html/CREC-2024-01-16-pt1-PgH146-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH150.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH150.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH150_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH150-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH153_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH153-7.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-2.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-4.htm",
+            "floor_2024_01_17_CREC_2024_01_17_pt1_PgH154_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-17/html/CREC-2024-01-17-pt1-PgH154-6.htm"
+        }
+    },
+    "hickenlooper_john_w": {
+        "house_floor_speeches": {
+            "floor_2024_01_31_CREC_2024_01_31_pt1_PgH327_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-01-31/html/CREC-2024-01-31-pt1-PgH327-5.htm",
+            "floor_2024_02_01_CREC_2024_02_01_pt1_PgH368.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-01/html/CREC-2024-02-01-pt1-PgH368.htm",
+            "floor_2024_03_05_CREC_2024_03_05_pt1_PgH792.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-05/html/CREC-2024-03-05-pt1-PgH792.htm",
+            "floor_2024_03_19_CREC_2024_03_19_pt1_PgH1194_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-19/html/CREC-2024-03-19-pt1-PgH1194-2.htm",
+            "floor_2024_03_19_CREC_2024_03_19_pt1_PgH1195.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-19/html/CREC-2024-03-19-pt1-PgH1195.htm",
+            "floor_2024_03_19_CREC_2024_03_19_pt1_PgH1198.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-19/html/CREC-2024-03-19-pt1-PgH1198.htm",
+            "floor_2024_03_19_CREC_2024_03_19_pt1_PgH1201.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-19/html/CREC-2024-03-19-pt1-PgH1201.htm",
+            "floor_2024_03_19_CREC_2024_03_19_pt1_PgH1203.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-19/html/CREC-2024-03-19-pt1-PgH1203.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_02_08_CREC_2024_02_08_pt1_PgS490.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-08/html/CREC-2024-02-08-pt1-PgS490.htm",
+            "floor_2024_02_27_CREC_2024_02_27_pt1_PgS996_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-27/html/CREC-2024-02-27-pt1-PgS996-2.htm",
+            "floor_2024_03_14_CREC_2024_03_14_pt1_PgS2386.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-14/html/CREC-2024-03-14-pt1-PgS2386.htm"
+        }
+    },
+    "correa_j": {
+        "house_floor_speeches": {
+            "floor_2024_02_01_CREC_2024_02_01_pt1_PgH369_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-01/html/CREC-2024-02-01-pt1-PgH369-3.htm",
+            "floor_2024_02_06_CREC_2024_02_06_pt1_PgH459.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-06/html/CREC-2024-02-06-pt1-PgH459.htm",
+            "floor_2024_04_12_CREC_2024_04_12_pt1_PgH2328.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-04-12/html/CREC-2024-04-12-pt1-PgH2328.htm",
+            "floor_2024_04_19_CREC_2024_04_19_pt1_PgH2533_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-04-19/html/CREC-2024-04-19-pt1-PgH2533-2.htm",
+            "floor_2024_06_27_CREC_2024_06_27_pt1_PgH4354.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-06-27/html/CREC-2024-06-27-pt1-PgH4354.htm"
+        }
+    },
+    "gillibrand_kirsten_e": {
+        "house_floor_speeches": {
+            "floor_2024_02_01_CREC_2024_02_01_pt1_PgH373_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-01/html/CREC-2024-02-01-pt1-PgH373-2.htm",
+            "floor_2024_02_07_CREC_2024_02_07_pt1_PgH509.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-07/html/CREC-2024-02-07-pt1-PgH509.htm",
+            "floor_2024_02_28_CREC_2024_02_28_pt1_PgH719_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH719-2.htm",
+            "floor_2024_02_28_CREC_2024_02_28_pt1_PgH721.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH721.htm",
+            "floor_2024_02_28_CREC_2024_02_28_pt1_PgH722.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH722.htm",
+            "floor_2024_02_28_CREC_2024_02_28_pt1_PgH724.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH724.htm",
+            "floor_2024_02_28_CREC_2024_02_28_pt1_PgH725.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH725.htm",
+            "floor_2024_02_28_CREC_2024_02_28_pt1_PgH726.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-28/html/CREC-2024-02-28-pt1-PgH726.htm",
+            "floor_2024_03_06_CREC_2024_03_06_pt1_PgH830_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-06/html/CREC-2024-03-06-pt1-PgH830-3.htm",
+            "floor_2024_03_06_CREC_2024_03_06_pt1_PgH831.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-06/html/CREC-2024-03-06-pt1-PgH831.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_02_08_CREC_2024_02_08_pt1_PgS463_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-08/html/CREC-2024-02-08-pt1-PgS463-7.htm"
+        }
+    },
+    "johnson_ron": {
+        "house_floor_speeches": {
+            "floor_2024_02_05_CREC_2024_02_05_pt1_PgH396.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-05/html/CREC-2024-02-05-pt1-PgH396.htm",
+            "floor_2024_02_06_CREC_2024_02_06_pt1_PgH449.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-06/html/CREC-2024-02-06-pt1-PgH449.htm",
+            "floor_2024_03_05_CREC_2024_03_05_pt1_PgH791.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-05/html/CREC-2024-03-05-pt1-PgH791.htm",
+            "floor_2024_06_14_CREC_2024_06_14_pt1_PgH4097.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-06-14/html/CREC-2024-06-14-pt1-PgH4097.htm",
+            "floor_2024_06_26_CREC_2024_06_26_pt1_PgH4167_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-06-26/html/CREC-2024-06-26-pt1-PgH4167-3.htm",
+            "floor_2024_06_27_CREC_2024_06_27_pt1_PgH4354.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-06-27/html/CREC-2024-06-27-pt1-PgH4354.htm",
+            "floor_2023_03_09_CREC_2023_03_09_pt1_PgH1214.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-03-09/html/CREC-2023-03-09-pt1-PgH1214.htm"
+        },
+        "senate_floor_speeches": {
+            "floor_2024_02_08_CREC_2024_02_08_pt1_PgS463_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-08/html/CREC-2024-02-08-pt1-PgS463-7.htm",
+            "floor_2023_05_01_CREC_2023_05_01_pt1_PgS1432.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-05-01/html/CREC-2023-05-01-pt1-PgS1432.htm",
+            "floor_2023_05_01_CREC_2023_05_01_pt1_PgS1433.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-05-01/html/CREC-2023-05-01-pt1-PgS1433.htm"
+        }
+    },
+    "kennedy_john": {
+        "senate_floor_speeches": {
+            "floor_2024_02_12_CREC_2024_02_12_pt1_PgS859_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-02-12/html/CREC-2024-02-12-pt1-PgS859-9.htm"
+        }
+    },
+    "strong_dale": {
+        "house_floor_speeches": {
+            "floor_2024_03_08_CREC_2024_03_08_pt1_PgH1049_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-08/html/CREC-2024-03-08-pt1-PgH1049-4.htm",
+            "floor_2024_03_13_CREC_2024_03_13_pt1_PgH1173.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-13/html/CREC-2024-03-13-pt1-PgH1173.htm",
+            "floor_2024_03_22_CREC_2024_03_22_pt1_PgH1488_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-03-22/html/CREC-2024-03-22-pt1-PgH1488-3.htm",
+            "floor_2024_04_30_CREC_2024_04_30_pt1_PgH2740.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-04-30/html/CREC-2024-04-30-pt1-PgH2740.htm",
+            "floor_2024_06_26_CREC_2024_06_26_pt1_PgH4167_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-06-26/html/CREC-2024-06-26-pt1-PgH4167-3.htm"
+        }
+    },
+    "hassan_margaret_wood": {
+        "house_floor_speeches": {
+            "floor_2024_04_19_CREC_2024_04_19_pt1_PgH2532_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-04-19/html/CREC-2024-04-19-pt1-PgH2532-3.htm",
+            "floor_2024_06_26_CREC_2024_06_26_pt1_PgH4167_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2024-06-26/html/CREC-2024-06-26-pt1-PgH4167-3.htm"
+        }
+    },
+    "chuck_schumer": {
+        "senate_floor_speeches": {
+            "floor_2023_01_23_CREC_2023_01_23_pt1_PgS42_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-01-23/html/CREC-2023-01-23-pt1-PgS42-3.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-2.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-3.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-4.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_5.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-5.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_6.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-6.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_7.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-7.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_8.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-8.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-9.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS337_10.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS337-10.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS338.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS338.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS338_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS338-2.htm",
+            "floor_2023_02_13_CREC_2023_02_13_pt1_PgS338_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-02-13/html/CREC-2023-02-13-pt1-PgS338-3.htm"
+        }
+    },
+    "kaine_tim": {
+        "house_floor_speeches": {
+            "floor_2023_03_10_CREC_2023_03_10_pt1_PgH1255.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-03-10/html/CREC-2023-03-10-pt1-PgH1255.htm"
+        }
+    },
+    "blackburn_marsha": {
+        "senate_floor_speeches": {
+            "floor_2023_05_03_CREC_2023_05_03_pt1_PgS1496.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-05-03/html/CREC-2023-05-03-pt1-PgS1496.htm",
+            "floor_2023_09_06_CREC_2023_09_06_pt1_PgS4222.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-09-06/html/CREC-2023-09-06-pt1-PgS4222.htm"
+        }
+    },
+    "ted_cruz": {
+        "senate_floor_speeches": {
+            "floor_2023_09_07_CREC_2023_09_07_pt1_PgS4254_4.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-09-07/html/CREC-2023-09-07-pt1-PgS4254-4.htm",
+            "floor_2023_09_07_CREC_2023_09_07_pt1_PgS4256.txt": "https://www.govinfo.gov/content/pkg/CREC-2023-09-07/html/CREC-2023-09-07-pt1-PgS4256.htm"
+        }
+    },
+    "bera_ami": {
+        "house_floor_speeches": {
+            "floor_2022_03_29_CREC_2022_03_29_pt1_PgH3925_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-03-29/html/CREC-2022-03-29-pt1-PgH3925-2.htm",
+            "floor_2022_05_13_CREC_2022_05_13_pt1_PgH4925_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-05-13/html/CREC-2022-05-13-pt1-PgH4925-3.htm",
+            "floor_2022_05_17_CREC_2022_05_17_pt1_PgHnull_14.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-05-17/html/CREC-2022-05-17-pt1-PgHnull-14.htm",
+            "floor_2022_06_24_CREC_2022_06_24_pt1_PgH5892_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-06-24/html/CREC-2022-06-24-pt1-PgH5892-2.htm",
+            "floor_2022_06_24_CREC_2022_06_24_pt1_PgH5895.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-06-24/html/CREC-2022-06-24-pt1-PgH5895.htm",
+            "floor_2022_07_15_CREC_2022_07_15_pt1_PgH6631.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-07-15/html/CREC-2022-07-15-pt1-PgH6631.htm",
+            "floor_2022_07_28_CREC_2022_07_28_pt1_PgH7273_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-07-28/html/CREC-2022-07-28-pt1-PgH7273-2.htm",
+            "floor_2022_08_12_CREC_2022_08_12_pt1_PgH7577_2.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-08-12/html/CREC-2022-08-12-pt1-PgH7577-2.htm",
+            "floor_2022_09_29_CREC_2022_09_29_pt1_PgH8235.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-09-29/html/CREC-2022-09-29-pt1-PgH8235.htm",
+            "floor_2022_12_08_CREC_2022_12_08_pt1_PgH8827_3.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-12-08/html/CREC-2022-12-08-pt1-PgH8827-3.htm"
+        }
+    },
+    "cornyn_john": {
+        "senate_floor_speeches": {
+            "floor_2022_05_02_CREC_2022_05_02_pt1_PgS2238.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-05-02/html/CREC-2022-05-02-pt1-PgS2238.htm",
+            "floor_2022_05_26_CREC_2022_05_26_pt1_PgS2713_9.txt": "https://www.govinfo.gov/content/pkg/CREC-2022-05-26/html/CREC-2022-05-26-pt1-PgS2713-9.htm"
+        }
+    }
+}
