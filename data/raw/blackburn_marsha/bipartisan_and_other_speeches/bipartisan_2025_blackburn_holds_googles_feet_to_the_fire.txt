@@ -1,0 +1,33 @@
+NASHVILLE, Tenn.
+– U.S. Senator
+Marsha Blackburn
+(R-Tenn.) sent a follow-up letter to Google CEO
+Sundar Pichai
+, blasting the company for failing to meaningfully respond to her
+deep concerns
+about its large language model, Gemma, fabricating criminal allegations against her.
+Senator Blackburn’s push for accountability follows a Senate Commerce Committee
+hearing
+, where she
+grilled
+a Google representative on Gemma’
+fabrication
+of news articles linking conservative activist Robby Starbuck and Senator Blackburn to false child abuse allegations. Senator Blackburn then
+discovered
+Gemma also manufactured links to fake news articles in response to the question, “Has Marsha Blackburn been accused of rape?”
+Gemma’s Defamatory Outputs Are a Catastrophic Failure of Oversight
+“Your reply fails to meaningfully address the core issues I raised. Google asserts that Gemma’s defamatory outputs are unavoidable ‘hallucinations’ inherent to all large language models and that removing Gemma from Google AI Studio sufficiently mitigates the risk. Neither is accurate, and neither addresses the underlying problem. This is not simply a technical glitch; it is a catastrophic failure of oversight of an AI model downloaded by more than 200 million people. It is also emblematic of a broader pattern of bias against conservatives within Google’s products.”
+Removing Gemma from AI Studio Does Nothing to Prevent Defamatory Content
+“Google acknowledges that Gemma remains fully accessible to developers, who have already exported and deployed the same underlying model weights across hundreds of downstream applications and interactive tools. Removing Gemma from AI Studio does nothing to prevent those developers from continuing to deploy and distribute variations of the same model that generated patently false and defamatory statements about me and other conservatives. In other words, the model that produced the defamatory content has not been contained. It continues to be re-packaged and re-distributed across platforms you do not control but which your company enables.”
+Google Turned a Blind Eye to Gemma’s Harmful Hallucinations Until It Needed to Save Face
+“Google has known about Gemma's harmful hallucinations for years but chose to turn a blind eye until it needed to save face. Google has demonstrated that it is technically capable of preventing these defamatory outputs. When the same query of whether I have been accused of rape is entered into your flagship Gemini model, the model does not fabricate criminal allegations. This proves that the harm is neither inevitable nor inherent to the technology. It is the outcome of design and deployment choices made by Google.”
+Google Has Dodged
+Accountability and Blamed Heinous Criminal Allegations on Technical Issues
+“Thus, the distinction your letter draws between ‘consumer products’ and ‘developer models’ is not a justification. It is an admission that Google intentionally released a model without the safeguards that Google already knows how to implement. My message is simple: Shut your AI models down completely until you can control them. The American public deserves AI systems that are accurate, fair and transparent — not tools that smear conservatives with manufactured criminal allegations. Google's response is a desperate attempt to dodge accountability and blames the fabrication of heinous criminal allegations on 'technical issues.' Google's unacceptable excuses fail to address how this happened and how the company will prevent it from happening in the future.”
+Click
+here
+to read the full letter.
+RELATED
+Blackburn Demands Answers from Google After Gemma Manufactured Fake Criminal Allegations Against Her
+VIDEO: Blackburn Blasts Google for Targeting Conservatives, Demands Accountability
+VIDEO: Blackburn Eviscerates Meta for Lobbying Against Kids Online Safety Act, Grills Google on Gemma AI Technology Fabricating News Stories
