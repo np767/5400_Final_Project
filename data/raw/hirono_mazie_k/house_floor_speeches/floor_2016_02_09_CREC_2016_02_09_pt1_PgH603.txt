@@ -1,0 +1,1987 @@
+[Congressional Record Volume 162, Number 23 (Tuesday, February 9, 2016)]
+[House]
+[Pages H603-H614]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+VETERANS EMPLOYMENT, EDUCATION, AND HEALTHCARE IMPROVEMENT ACT
+Mr. MILLER of Florida. Mr. Speaker, I move to suspend the rules and
+pass the bill (H.R. 3016) to amend title 38, United States Code, to
+clarify the role of podiatrists in the Department of Veterans Affairs,
+as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 3016
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.--This Act may be cited as the ``Veterans
+Employment, Education, and Healthcare Improvement Act''.
+(b) Table of Contents.--The table of contents for this Act
+is as follows:
+Sec. 1. Short title; table of contents.
+TITLE I--VETERANS HEALTH CARE
+Sec. 101. Role of podiatrists in Department of Veterans Affairs.
+Sec. 102. Priority of medal of honor recipients in health care system
+of Department of Veterans Affairs.
+Sec. 103. Improvement of care provided to newborn children.
+Sec. 104. Comptroller General audit of budget of Veterans Health
+Administration.
+Sec. 105. Outreach to veterans regarding effect of certain delayed
+payments by Department of Veterans Affairs Chief Business
+Office.
+Sec. 106. Department of Veterans Affairs pilot program on dog training
+therapy.
+TITLE II--VETERANS ECONOMIC OPPORTUNITY AND TRANSITION ADMINISTRATION
+Sec. 201. Establishment of Veterans Economic Opportunity and Transition
+Administration.
+Sec. 202. Under Secretary for Veterans Economic Opportunity and
+Transition.
+TITLE III--EDUCATION ASSISTANCE AND VOCATIONAL REHABILITATION
+Sec. 301. Modification and improvement of transfer of unused education
+benefits to family members under Department of Veterans
+Affairs Post-9/11 Educational Assistance Program.
+Sec. 302. Clarification of eligibility for Marine Gunnery Sergeant John
+David Fry Scholarship.
+Sec. 303. Approval of courses of education and training for purposes of
+the vocational rehabilitation program of the Department
+of Veterans Affairs.
+Sec. 304. Authority to prioritize vocational rehabilitation services
+based on need.
+Sec. 305. Recodification and improvement of election process for Post-
+9/11 Educational Assistance Program.
+Sec. 306. Clarification of assistance provided for certain flight
+training and other programs of education.
+Sec. 307. Consideration of certain time spent receiving medical care
+from Secretary of Defense as active duty for purposes of
+eligibility for post-9/11 educational assistance.
+Sec. 308. Work-study allowance.
+Sec. 309. Vocational rehabilitation and education action plan.
+Sec. 310. Reduction in redundancy and inefficiencies in vocational
+rehabilitation claims processing.
+TITLE IV--ADMINISTRATION OF EDUCATIONAL ASSISTANCE
+Sec. 401. Centralized reporting of veteran enrollment by certain
+groups, districts, and consortiums of educational
+institutions.
+Sec. 402. Provision of information regarding veteran entitlement to
+educational assistance.
+Sec. 403. Role of State approving agencies.
+Sec. 404. Criteria used to approve courses.
+Sec. 405. Compliance surveys.
+[[Page H604]]
+Sec. 406. Survey of individuals using their entitlement to educational
+assistance under the educational assistance programs
+administered by the Secretary of Veterans Affairs.
+Sec. 407. Improvement of information technology of the Veterans
+Benefits Administration of the Department of Veterans
+Affairs.
+Sec. 408. Technical amendment relating to in-State tuition rate for
+individuals to whom entitlement is transferred under All-
+Volunteer Force Educational Assistance Program and Post-
+9/11 Educational Assistance.
+TITLE V--OTHER MATTERS
+Sec. 501. Amount of loan guaranteed under home loan program of
+Department of Veterans Affairs.
+Sec. 502. Longitudinal study of job counseling, training, and placement
+service for veterans.
+Sec. 503. Limitations on subcontracts under contracts with small
+business concerns owned and controlled by veterans.
+Sec. 504. Procedures for provision of certain information to State
+veterans agencies to facilitate the furnishing of
+assistance and benefits to veterans.
+TITLE I--VETERANS HEALTH CARE
+SEC. 101. ROLE OF PODIATRISTS IN DEPARTMENT OF VETERANS
+AFFAIRS.
+(a) Inclusion as Physician.--
+(1) In general.--Subchapter I of chapter 74 of title 38,
+United States Code, is amended by adding at the end the
+following new section:
+``Sec. 7413. Treatment of podiatrists
+``For purposes of this chapter, the term `physician'
+includes a podiatrist.''.
+(2) Clerical amendment.--The table of sections at the
+beginning of such chapter is amended by inserting after the
+item relating to section 7412 the following new item:
+``7413. Treatment of podiatrists.''.
+(3) Conforming amendment.--Section 7401(1) of such title is
+amended by striking ``Physicians, dentists, podiatrists,''
+and inserting ``Physicians, dentists,''.
+(b) Qualifications.--Section 7402(b) of such title is
+amended--
+(1) in paragraph (1)--
+(A) in subparagraph (A), by striking ``or of doctor of
+osteopathy'' and inserting ``, doctor of osteopathy, or
+doctor of podiatric medicine''; and
+(B) in subparagraph (C), by inserting ``podiatry,'' after
+``surgery,'';
+(2) by striking paragraph (5); and
+(3) by redesignating paragraphs (6) through (14) as
+paragraphs (5) through (13), respectively.
+(c) Period of Appointment.--Section 7403(a)(2) of such
+title is amended--
+(1) by striking subparagraph (C); and
+(2) by redesignating subparagraphs (D) through (H) as
+subparagraphs (C) through (G), respectively.
+(d) Modification of Pay Grade.--
+(1) Grade.--The list in section 7404(b) of such title is
+amended by striking ``CLINICAL PODIATRIST, CHIROPRACTOR, AND
+OPTOMETRIST SCHEDULE'' and inserting ``CLINICAL CHIROPRACTOR
+AND OPTOMETRIST SCHEDULE''.
+(2) Application.--The amendment made by paragraph (1) shall
+apply with respect to a pay period of the Department of
+Veterans Affairs beginning on or after the date that is 30
+days after the date of the enactment of this Act.
+(e) Contracts for Scarce Services.--Section 7409(a) of such
+title is amended by striking ``podiatrists,''.
+(f) Personnel Administration.--Section 7421(b) of such
+title is amended--
+(1) by striking paragraph (3); and
+(2) by redesignating paragraphs (4) through (8) as
+paragraphs (3) through (7), respectively.
+(g) Medical Directors.--Section 7306(a)(4) of such title is
+amended by inserting ``, doctor of podiatric medicine,''
+after ``doctor of medicine''.
+(h) Application.--The amendments made by this section shall
+apply with respect to podiatrists employed by the Department
+of Veterans Affairs as of the date of the enactment of this
+Act or who are appointed on or after such date.
+SEC. 102. PRIORITY OF MEDAL OF HONOR RECIPIENTS IN HEALTH
+CARE SYSTEM OF DEPARTMENT OF VETERANS AFFAIRS.
+(a) Enrollment Priority.--Section 1705(a) of title 38,
+United States Code, is amended--
+(1) in paragraph (1), by striking the period at the end and
+inserting the following: ``and veterans who were awarded the
+medal of honor under section 3741, 6241, or 8741 of title 10
+or section 491 of title 14.''; and
+(2) in paragraph (3), by striking ``veterans who were
+awarded the medal of honor under section 3741, 6241, or 8741
+of title 10 or section 491 of title 14,''.
+(b) Eligibility.--Section 1710(a)(2)(D) of such title is
+amended by inserting after ``war'' the following: ``, who was
+awarded the medal of honor under section 3741, 6241, or 8741
+of title 10 or section 491 of title 14,''.
+(c) Extended Care Services.--Section 1710B(c)(2) of such
+title is amended--
+(1) in subparagraph (B), by striking ``or'';
+(2) in subparagraph (C), by striking the period at the end
+and inserting ``; or''; and
+(3) by adding at the end the following new subparagraph:
+``(D) to a veteran who was awarded the medal of honor under
+section 3741, 6241, or 8741 of title 10 or section 491 of
+title 14.''.
+(d) Copayment for Medications.--Section 1722A(a)(3) of such
+title is amended--
+(1) in subparagraph (B), by striking ``or'';
+(2) in subparagraph (C), by striking the period at the end
+and inserting ``; or''; and
+(3) by adding at the end the following new subparagraph:
+``(D) to a veteran who was awarded the medal of honor under
+section 3741, 6241, or 8741 of title 10 or section 491 of
+title 14.''.
+(e) Application.--The priority of enrollment of medal of
+honor recipients pursuant to chapter 17 of title 38, United
+States Code, as amended by this section, shall apply to each
+such recipient, regardless of the date on which the medal is
+awarded.
+SEC. 103. IMPROVEMENT OF CARE PROVIDED TO NEWBORN CHILDREN.
+Section 1786 of title 38, United States Code, is amended--
+(1) in subsection (a), by striking ``seven days'' and
+inserting ``42 days''; and
+(2) by adding at the end the following new subsection:
+``(c) Annual Report.--Not later than October 31, 2016, and
+each year thereafter through 2020, the Secretary shall submit
+to the Committees on Veterans' Affairs of the House of
+Representatives and the Senate a report on the health care
+services provided under subsection (a) during the fiscal year
+preceding the date of the report, including the number of
+newborn children who received such services during such
+fiscal year.''.
+SEC. 104. COMPTROLLER GENERAL AUDIT OF BUDGET OF VETERANS
+HEALTH ADMINISTRATION.
+(a) In General.--Subchapter II of chapter 73 of title 38,
+United States Code, is amended by adding at the end the
+following new section:
+``Sec. 7330B. Comptroller General audit of VHA budget
+``(a) In General.--The Comptroller General of the United
+States shall periodically conduct an audit of elements of the
+budget of the Veterans Health Administration, including the
+budget formulation, execution, allocation, and use of funds.
+``(b) Selection of Elements.--(1) In selecting elements of
+the budget of the Veterans Health Administration for purposes
+of an audit under subsection (a), the Comptroller General
+shall take into consideration--
+``(A) knowledge of the programs of the Veterans Health
+Administration;
+``(B) current issues;
+``(C) national priorities; and
+``(D) priorities expressed by the appropriate congressional
+committees.
+``(2) Not later than 30 days before conducting an audit
+under subsection (a), the Comptroller General shall submit to
+the appropriate congressional committees notice of the
+elements selected by the Comptroller General for purposes of
+the audit.
+``(c) Appropriate Congressional Committees.--In this
+section, the term `appropriate congressional committees'
+means--
+``(1) the Committee on Veterans' Affairs, the Committee on
+Appropriations, and the Committee on the Budget of the
+Senate; and
+``(2) the Committee on Veterans' Affairs, the Committee on
+Appropriations, and the Committee on the Budget of the House
+of Representatives.''.
+(b) Clerical Amendment.--The table of sections at the
+beginning of such chapter is amended by inserting after the
+item relating to section 7330A the following new item:
+``7330B. Comptroller General audit of VHA budget.''.
+SEC. 105. OUTREACH TO VETERANS REGARDING EFFECT OF CERTAIN
+DELAYED PAYMENTS BY DEPARTMENT OF VETERANS
+AFFAIRS CHIEF BUSINESS OFFICE.
+(a) Outreach.--The Secretary of Veterans Affairs shall
+conduct outreach, including through national and local
+veterans service organizations, to inform veterans of how to
+resolve credit issues caused by delayed payment of a claim
+for emergency hospital care, medical services, or other
+emergency health care furnished through a non-Department of
+Veterans Affairs provider. The Secretary shall establish a
+toll-free telephone number for veterans to report such credit
+issues to the Chief Business Office of the Department of
+Veterans Affairs.
+(b) Annual Report.--
+(1) In general.--During the five-year period beginning on
+the date of the enactment of this Act, the Secretary of
+Veterans Affairs shall annually submit to Congress a report
+on the effectiveness of the Chief Business Office in
+providing timely payment of proper invoices for emergency
+hospital care, medical services, or other emergency health
+care furnished through non-Department of Veterans Affairs
+providers by the required payment date during both the five-
+year period preceding the date of the report and the one-year
+period preceding such date. For any part of the period
+covered by a report under this subsection that occurred
+before October 1, 2014, the report shall evaluate the
+provision of such payments by the Veterans Integrated Service
+Networks.
+(2) Matters included.--The reports under paragraph (1)
+shall include, for each period covered by the report, the
+following:
+(A) The number of veterans who contacted the Secretary
+regarding a delayed payment that negatively affected, or will
+potentially negatively affect, the credit of the veteran.
+(B) The total amount of interest penalties paid by the
+Secretary of Veterans Affairs
+[[Page H605]]
+under section 3902 of title 31, United States Code, by reason
+of a delayed payment.
+(C) The number of proper invoices submitted, listed in a
+table for each quarter and fiscal year of each such period
+that includes--
+(i) the total amount owed by the Secretary under the proper
+invoices;
+(ii) the payment status of each proper invoice, as of the
+date of the report; and
+(iii) the period that elapsed until each proper invoice was
+paid, including an explanation of any delayed payment.
+(D) Any comments regarding delayed payments made by medical
+providers.
+(E) A description of the best practices that the Chief
+Business Office can carry out to provide timely payment of a
+proper invoice, including a plan to improve such timely
+payments.
+(c) Quarterly Reports on Pending Claims.--During the five-
+year period beginning on the date of the enactment of this
+Act, the Chief Business Office of the Department of Veterans
+Affairs shall submit to Congress quarterly reports on the
+number of pending claims for reimbursement for emergency
+hospital care, medical services, and other emergency health
+care furnished through non-Department of Veterans Affairs
+providers. Each such report shall include each of the
+following:
+(1) The total number of such pending claims for each
+hospital system of the Department, as of the last day of the
+quarter covered by the report.
+(2) The total number of veterans who submitted such a
+pending claim in each State, as of such day.
+(3) The aggregate amount of all such pending claims in each
+State, as of such day.
+(4) As of such day--
+(A) the number of such pending claims that have been
+pending for 30 days or longer;
+(B) the number of such pending claims that have been
+pending for 90 days or longer; and
+(C) the number of such pending claims that have been
+pending for 365 days or longer.
+(5) For each hospital system, for the quarter covered by
+the report--
+(A) the number of claims for reimbursement for emergency
+hospital care, medical services, and other emergency health
+care furnished through non-Department of Veterans Affairs
+providers approved during such quarter;
+(B) the number of such claims denied during such quarter;
+and
+(C) the number of such claims denied listed by each denial
+reason group.
+(d) Comptroller General Study.--
+(1) In general.--The Comptroller General of the United
+States shall conduct a study that evaluates the effectiveness
+of the Chief Business Office in providing timely payment of a
+proper invoice for emergency hospital care, medical services,
+or other emergency health care furnished through non-
+Department of Veterans Affairs providers by the required
+payment date.
+(2) Submittal.--The Comptroller General shall submit to
+Congress a report on the study conducted under paragraph (1),
+including the total amount of interest penalties paid by the
+Secretary of Veterans Affairs under section 3902 of title 31,
+United States Code, by reason of a delayed payment.
+(e) Definitions.--In this section:
+(1) The term ``delayed payment'' means a proper invoice
+that is not paid by the Secretary of Veterans Affairs until
+after the required payment date.
+(2) The term ``proper invoice'' has the meaning given that
+term in section 3901(a) of title 31, United States Code.
+(3) The term ``required payment date'' means the date that
+payment is due for a contract pursuant to section 3903(a) of
+title 31, United States Code.
+SEC. 106. DEPARTMENT OF VETERANS AFFAIRS PILOT PROGRAM ON DOG
+TRAINING THERAPY.
+(a) In General.--Commencing not later than 120 days after
+the date of the enactment of the Act, the Secretary of
+Veterans Affairs shall carry out a pilot program under which
+the Secretary shall enter into a contract with one or more
+appropriate non-government entities for the purpose of
+assessing the effectiveness of addressing post-deployment
+mental health and post-traumatic stress disorder symptoms
+through a therapeutic medium of training service dogs for
+veterans with disabilities.
+(b) Duration of Pilot Program.--The pilot program required
+by subsection (a) shall be carried out during the five-year
+period beginning on the date of the commencement of the pilot
+program.
+(c) Locations of Pilot Program.--In entering into contracts
+for purposes of the pilot program, the Secretary shall seek
+to enter into contracts with appropriate non-government
+entities located in close proximity to at least three but not
+more than five medical centers of the Department.
+(d) Appropriate Non-Government Entities.--For purposes of
+the pilot program, an appropriate non-government entity is an
+entity that is certified in the training and handling of
+service dogs and that has a training area that would be
+appropriate for use in educating veterans with mental health
+conditions in the art and science of service dog training and
+handling. Such training area shall--
+(1) include a dedicated space that is suitable for grooming
+and training dogs indoors;
+(2) be wheelchair accessible;
+(3) include classroom or lecture space;
+(4) include office space for staff;
+(5) include a suitable space for storing training
+equipment;
+(6) provide for periodic use of other training areas for
+training the dogs with wheelchairs and conducting other
+exercises;
+(7) include outdoor exercise and toileting space for dogs;
+and
+(8) provide transportation for weekly field trips to train
+dogs in other environments.
+(e) Design of Pilot Program.--Each contract entered into
+under subsection (a) shall provide that the non-government
+entity shall--
+(1) ensure that veterans participating in the program
+receive training from certified service dog training
+instructors;
+(2) ensure that in selecting assistance dogs for use in the
+program, dogs residing in animal shelters or foster homes are
+looked at as an option, if appropriate, and ensure that all
+dogs used in the program have adequate temperament and health
+clearances;
+(3) ensure that each service dog in training participating
+in the pilot program is taught all essential commands
+pertaining to service dog skills;
+(4) ensure that each service dog in training lives at the
+pilot program site or a volunteer foster home in the vicinity
+of such site while receiving training;
+(5) ensure that the pilot program involves both lecture of
+service dog training methodologies and practical hands-on
+training and grooming of service dogs; and
+(6) ensure that the pilot program is designed to--
+(A) maximize the therapeutic benefits to veterans
+participating in the program; and
+(B) provide well-trained service dogs to veterans with
+disabilities; and
+(7) in hiring service dog training instructors to carry out
+training under the pilot program, give a preference to
+veterans who have successfully graduated from post-traumatic
+stress disorder or other residential treatment programs and
+who have received adequate certification in service dog
+training.
+(f) Administration.--In order to carry out the pilot
+program under section (a), the Secretary of Veterans Affairs
+shall--
+(1) administer the program through the Recreation Therapy
+Service of the Department of Veterans Affairs under the
+direction of a certified recreational therapist with
+sufficient administrative experience to oversee the pilot
+program; and
+(2) establish a director of service dog training with a
+background working in social services, experience in teaching
+others to train service dogs in a vocational setting, and at
+least one year of experience working with veterans or active
+duty service members with post-traumatic stress disorder in a
+clinical setting.
+(g) Veteran Eligibility.--The Secretary shall select
+veterans for participation in the pilot program. A veteran
+with post-traumatic stress disorder or other post-deployment
+mental health condition may volunteer to participate in the
+pilot program, if the Secretary determines that there are
+adequate program resources available for such veteran at the
+pilot program site. Veterans may participate in the pilot
+program in conjunction with the compensated work therapy
+program of the Department of Veterans Affairs.
+(h) Collection of Data.--The Secretary shall collect data
+on the pilot program required under subsection (a) to
+determine how effective the program is for the veterans
+participating in the program. Such data shall include data to
+determine how effectively the program assists veterans in--
+(1) reducing stigma associated with post-traumatic stress
+disorder or other post-deployment mental health condition;
+(2) improving emotional regulation;
+(3) improving patience;
+(4) instilling or re-establishing a sense of purpose;
+(5) providing an opportunity to help fellow veterans;
+(6) reintegrating into the community;
+(7) exposing the dog to new environments and in doing so,
+helping the veteran reduce social isolation and withdrawal;
+(8) building relationship skills, including parenting
+skills;
+(9) relaxing the hyper-vigilant survival state;
+(10) improving sleep patterns; and
+(11) enabling veterans to decrease the use of pain
+medication.
+(i) Reports to Congress.--Not later than one year after the
+date of the commencement of the pilot program under
+subsection (a), and each year thereafter for the duration of
+the pilot program, the Secretary shall submit to Congress a
+report on the pilot program. Each such report shall include--
+(1) the number of veterans participating in the pilot
+program;
+(2) a description of the services carried out under the
+pilot program;
+(3) the effects that participating in the pilot program has
+on the following--
+(A) symptoms of post-traumatic stress disorder and post-
+deployment adjustment difficulties, including depression,
+maintenance of sobriety, suicidal ideations, and
+homelessness;
+(B) potentially relevant physiological markers that
+possibly relate to the interactions with the service dogs;
+(C) family dynamics;
+(D) insomnia and pain management; and
+(E) overall well-being; and
+(4) the recommendations of the Secretary with respect to
+the extension or expansion of the pilot program.
+[[Page H606]]
+(j) Definition.--For the purposes of this section, the term
+``service dog training instructor'' means an instructor who
+provides the direct training of veterans with post-traumatic
+stress disorder and other post-deployment issues in the art
+and science of service dog training and handling.
+TITLE II--VETERANS ECONOMIC OPPORTUNITY AND TRANSITION ADMINISTRATION
+SEC. 201. ESTABLISHMENT OF VETERANS ECONOMIC OPPORTUNITY AND
+TRANSITION ADMINISTRATION.
+(a) Veterans Economic Opportunity and Transition
+Administration.--
+(1) In general.--Part V of title 38, United States Code, is
+amended by adding at the end the following new chapter:
+``CHAPTER 80--VETERANS ECONOMIC OPPORTUNITY AND TRANSITION
+ADMINISTRATION
+``Sec.
+``8001. Organization of Administration.
+``8002. Functions of Administration.
+``Sec. 8001. Organization of Administration
+``(a) Veterans Economic Opportunity and Transition
+Administration.--There is in the Department of Veterans
+Affairs a Veterans Economic Opportunity and Transition
+Administration. The primary function of the Veterans Economic
+Opportunity and Transition Administration is the
+administration of the programs of the Department that provide
+assistance related to economic opportunity to veterans and
+their dependents and survivors.
+``(b) Under Secretary for Economic Opportunity and
+Transition.--The Veterans Economic Opportunity and Transition
+Administration is under the Under Secretary for Veterans
+Economic Opportunity and Transition, who is directly
+responsible to the Secretary for the operations of the
+Administration.
+``Sec. 8002. Functions of Administration
+``The Veterans Economic Opportunity and Transition
+Administration is responsible for the administration of the
+following programs of the Department:
+``(1) Vocational rehabilitation and employment programs.
+``(2) Educational assistance programs.
+``(3) Veterans' housing loan and related programs.
+``(4) The verification of small businesses owned and
+controlled by veterans pursuant to subsection (f) of section
+8127 of this title, including the administration of the
+database of veteran-owned businesses described in such
+subsection.
+``(5) The Transition Assistance Program under section 1144
+of title 10.
+``(6) Any other program of the Department that the
+Secretary determines appropriate.''.
+(2) Clerical amendments.--The tables of chapters at the
+beginning of title 38, United States Code, and of part V of
+title 38, United States Code, are each amended by inserting
+after the item relating to chapter 79 the following new item:
+``80.  Veterans Economic Opportunity and Transition Administ8001''.....
+(b) Effective Date.--Chapter 80 of title 38, United States
+Code, as added by subsection (a), shall take effect on
+October 1, 2017.
+(c) Full-Time Employees.--For fiscal years 2017 and 2018,
+the total number of full-time equivalent employees authorized
+for the Veterans Benefits Administration and the Veterans
+Economic Opportunity and Transition Administration, as
+established under chapter 80 of title 38, United States Code,
+as added by subsection (a), may not exceed 21,913.
+SEC. 202. UNDER SECRETARY FOR VETERANS ECONOMIC OPPORTUNITY
+AND TRANSITION.
+(a) Under Secretary.--
+(1) In general.--Chapter 3 of title 38, United States Code,
+is amended by inserting after section 306 the following new
+section:
+``Sec. 306A. Under Secretary for Veterans Economic
+Opportunity and Transition
+``(a) Under Secretary.--There is in the Department an Under
+Secretary for Veterans Economic Opportunity and Transition,
+who is appointed by the President, by and with the advice and
+consent of the Senate. The Under Secretary for Veterans
+Economic Opportunity and Transition shall be appointed
+without regard to political affiliation or activity and
+solely on the basis of demonstrated ability in--
+``(1) information technology; and
+``(2) the administration of programs within the Veterans
+Economic Opportunity and Transition Administration or
+programs of similar content and scope.
+``(b) Responsibilities.--The Under Secretary for Veterans
+Economic Opportunity and Transition is the head of, and is
+directly responsible to the Secretary for the operations of,
+the Veterans Economic Opportunity and Transition
+Administration.
+``(c) Vacancies.--(1) Whenever a vacancy in the position of
+Under Secretary for Veterans Economic Opportunity and
+Transition occurs or is anticipated, the Secretary shall
+establish a commission to recommend individuals to the
+President for appointment to the position.
+``(2) A commission established under this subsection shall
+be composed of the following members appointed by the
+Secretary:
+``(A) Three persons representing education and training,
+vocational rehabilitation, employment, real estate, mortgage
+finance and related industries, and survivor benefits
+activities affected by the Veterans Economic Opportunity and
+Transition Administration.
+``(B) Two persons representing veterans served by the
+Veterans Economic Opportunity and Transition Administration.
+``(C) Two persons who have experience in the management of
+private sector benefits programs of similar content and scope
+to the economic opportunity and transition programs of the
+Department.
+``(D) The Deputy Secretary of Veterans Affairs.
+``(E) The chairman of the Veterans' Advisory Committee on
+Education formed under section 3692 of this title.
+``(F) One person who has held the position of Under
+Secretary for Veterans Economic Opportunity and Transition,
+if the Secretary determines that it is desirable for such
+person to be a member of the commission.
+``(3) A commission established under this subsection shall
+recommend at least three individuals for appointment to the
+position of Under Secretary for Veterans Economic Opportunity
+and Transition. The commission shall submit all
+recommendations to the Secretary. The Secretary shall forward
+the recommendations to the President and the Committees on
+Veterans' Affairs of the Senate and House of Representatives
+with any comments the Secretary considers appropriate.
+Thereafter, the President may request the commission to
+recommend additional individuals for appointment.
+``(4) The Assistant Secretary or Deputy Assistant Secretary
+of Veterans Affairs who performs personnel management and
+labor relations functions shall serve as the executive
+secretary of a commission established under this subsection.
+``(d) Qualifications of Recommended Individuals.--Each
+individual recommended to the President by the commission for
+appointment to the position of Under Secretary for Veterans
+Economic Opportunity and Transition shall be an individual
+who has held a senior level position in the private sector
+with responsibilities relating to at least one of the
+following:
+``(1) Education policy.
+``(2) Vocational rehabilitation.
+``(3) Employment.
+``(4) Job placement.
+``(5) Home loan finance.
+``(6) Small business development.''.
+(2) Clerical amendment.--The table of sections at the
+beginning of such chapter is amended by inserting after the
+item relating to section 306 the following new item:
+``306A. Under Secretary for Veterans Economic Opportunity and
+Transition.''.
+(b) Conforming Amendments.--Title 38, United States Code,
+is further amended--
+(1) in section 306(c)(2), by striking subparagraphs (A) and
+(E) and redesignating subparagraphs (B), (C), (D), and (F),
+as subparagraphs (A) through (D), respectively;
+(2) in section 317(d)(2), by inserting after ``Under
+Secretary for Benefits,'' the following: ``the Under
+Secretary for Veterans Economic Opportunity and
+Transition,'';
+(3) in section 318(d)(2), by inserting after ``Under
+Secretary for Benefits,'' the following: ``the Under
+Secretary for Veterans Economic Opportunity and
+Transition,'';
+(4) in section 516(e)(2)(C), by striking ``Health and the
+Under Secretary for Benefits'' and inserting ``Health, the
+Under Secretary for Benefits, and the Under Secretary for
+Veterans Economic Opportunity and Transition'';
+(5) in section 541(a)(2)(B), by striking ``Health and the
+Under Secretary for Benefits'' and inserting ``Health, the
+Under Secretary for Benefits, and the Under Secretary for
+Veterans Economic Opportunity and Transition'';
+(6) in section 542(a)(2)(B)(iii), by striking ``Health and
+the Under Secretary for Benefits'' and inserting ``Health,
+the Under Secretary for Benefits, and the Under Secretary for
+Veterans Economic Opportunity and Transition'';
+(7) in section 544(a)(2)(B)(vi), by striking ``Health and
+the Under Secretary for Benefits'' and inserting ``Health,
+the Under Secretary for Benefits, and the Under Secretary for
+Veterans Economic Opportunity and Transition'';
+(8) in section 709(c)(2)(A), by inserting after ``Under
+Secretary for Benefits,'' the following: ``the Under
+Secretary for Veterans Economic Opportunity and
+Transition,'';
+(9) in section 7701(a), by inserting after ``assistance''
+the following: ``, other than assistance related to Economic
+Opportunity and Transition,''; and
+(10) in section 7703, by striking paragraphs (2) and (3)
+and redesignating paragraphs (4) and (5) as paragraphs (2)
+and (3), respectively.
+(c) Effective Date.--Section 306A of title 38, United
+States Code, as added by subsection (a), and the amendments
+made by this section, shall take effect on October 1, 2017.
+TITLE III--EDUCATION ASSISTANCE AND VOCATIONAL REHABILITATION
+SEC. 301. MODIFICATION AND IMPROVEMENT OF TRANSFER OF UNUSED
+EDUCATION BENEFITS TO FAMILY MEMBERS UNDER
+DEPARTMENT OF VETERANS AFFAIRS POST-9/11
+EDUCATIONAL ASSISTANCE PROGRAM.
+(a) Rate of Payment.--Subsection (h)(3)(B) of section 3319
+of title 38, United States Code, is amended by inserting
+before the period at the end the following: ``, except that
+the amount of the monthly stipend described in subsection
+(c)(1)(B) or (g)(3)(A)(ii) of section 3313, as the case may
+be, shall be payable in an amount equal to 50 percent of
+[[Page H607]]
+the amount of such stipend that would otherwise be payable
+under this chapter to the individual making the transfer''.
+(b) Applicability.--The amendment made by this section
+shall apply with respect to an election to transfer
+entitlement under section 3319 of title 38, United States
+Code, that is made on or after the date that is 180 days
+after the date of the enactment of this Act.
+SEC. 302. CLARIFICATION OF ELIGIBILITY FOR MARINE GUNNERY
+SERGEANT JOHN DAVID FRY SCHOLARSHIP.
+(a) In General.--Section 701(d) of the Veterans Access,
+Choice, and Accountability Act of 2014 (Public Law 113-146;
+128 Stat. 1796; 38 U.S.C. 3311 note) is amended to read as
+follows:
+``(d) Applicability.--
+``(1) In general.--The amendments made by this section
+shall apply with respect to a quarter, semester, or term, as
+applicable, commencing on or after January 1, 2015.
+``(2) Deaths that occurred between september 11, 2001, and
+december 31, 2005.--For purposes of section 3311(f)(2) of
+title 38, United States Code, any member of the Armed Forces
+who died during the period beginning on September 11, 2001,
+and ending on December 31, 2005, is deemed to have died on
+January 1, 2006.''.
+(b) Election on Receipt of Certain Benefits.--Section
+3311(f) of title 38, United States Code, is amended--
+(1) in paragraph (3), by striking ``A surviving spouse''
+and inserting ``Except as provided in paragraph (4), a
+surviving spouse'';
+(2) by redesignating paragraph (4) as paragraph (5); and
+(3) by inserting after paragraph (3) the following new
+paragraph (4):
+``(4) Exception for certain elections.--
+``(A) In general.--An election made under paragraph (3) by
+a spouse described in subparagraph (B) may not be treated as
+irrevocable if such election occurred before the date of the
+enactment of this paragraph.
+``(B) Eligible surviving spouse.--A spouse described in
+this subparagraph is an individual--
+``(i) who is entitled to assistance under subsection (a)
+pursuant to paragraph (9) of subsection (b); and
+``(ii) who was the spouse of a member of the Armed Forces
+who died during the period beginning on September 11, 2001,
+and ending on December 31, 2005.''.
+(c) Technical Amendment.--Paragraph (5) of subsection (f)
+of section 3311 of title 38, United States Code, as
+redesignated by subsection (b)(2), is amended by striking
+``that paragraph'' and inserting ``paragraph (9) of
+subsection (b)''.
+(d) Yellow Ribbon G.I. Education Enhancement Program.--
+Section 3317(a) of such title is amended by striking
+``paragraphs (1) and (2) of section 3311(b)'' and inserting
+``paragraphs (1), (2), and (9) of section 3311(b) of this
+title''.
+SEC. 303. APPROVAL OF COURSES OF EDUCATION AND TRAINING FOR
+PURPOSES OF THE VOCATIONAL REHABILITATION
+PROGRAM OF THE DEPARTMENT OF VETERANS AFFAIRS.
+(a) In General.--Section 3104(b) of title 38, United States
+Code, is amended by adding at the end the following new
+sentence: ``To the maximum extent practicable, a course of
+education or training may be pursued by a veteran as part of
+a rehabilitation program under this chapter only if the
+course is approved for purposes of chapter 30 or 33 of this
+title. The Secretary may waive the requirement under the
+preceding sentence to the extent the Secretary determines
+appropriate.''.
+(b) Effective Date.--The amendment made by subsection (a)
+shall apply with respect to a course of education or training
+pursued by a veteran who first begins a program of
+rehabilitation under chapter 31 of title 38, United States
+Code, on or after the date that is one year after the date of
+the enactment of this Act.
+SEC. 304. AUTHORITY TO PRIORITIZE VOCATIONAL REHABILITATION
+SERVICES BASED ON NEED.
+Section 3104 of title 38, United States Code, as amended by
+section 303, is further amended by adding at the end the
+following new subsection:
+``(c)(1) The Secretary shall have the authority to
+administer this chapter by prioritizing the provision of
+services under this chapter based on need, as determined by
+the Secretary. In evaluating need for purposes of this
+subsection, the Secretary shall consider disability ratings,
+the severity of employment handicaps, qualification for a
+program of independent living, income, and any other factor
+the Secretary determines appropriate.
+``(2) Not later than 90 days before making any changes to
+the prioritization of the provision of services under this
+chapter as authorized under paragraph (1), the Secretary
+shall submit to Congress a plan describing such changes.''.
+SEC. 305. RECODIFICATION AND IMPROVEMENT OF ELECTION PROCESS
+FOR POST-9/11 EDUCATIONAL ASSISTANCE PROGRAM.
+(a) In General.--Subchapter III of chapter 33 of title 38,
+United States Code, is amended by adding at the end the
+following new section:
+``Sec. 3326. Election to receive educational assistance
+``(a) Individuals Eligible to Elect Participation in Post-
+9/11 Educational Assistance.--An individual may elect to
+receive educational assistance under this chapter if such
+individual--
+``(1) as of August 1, 2009--
+``(A) is entitled to basic educational assistance under
+chapter 30 of the title and has used, but retains unused,
+entitlement under that chapter;
+``(B) is entitled to educational assistance under chapter
+107, 1606, or 1607 of title 10 and has used, but retains
+unused, entitlement under the applicable chapter;
+``(C) is entitled to basic educational assistance under
+chapter 30 of this title but has not used any entitlement
+under that chapter;
+``(D) is entitled to educational assistance under chapter
+107, 1606, or 1607 of title 10 but has not used any
+entitlement under such chapter;
+``(E) is a member of the Armed Forces who is eligible for
+receipt of basic educational assistance under chapter 30 this
+title and is making contributions toward such assistance
+under section 3011(b) or 3012(c) of this title; or
+``(F) is a member of the Armed Forces who is not entitled
+to basic educational assistance under chapter 30 of this
+title by reason of an election under section 3011(c)(1) or
+3012(d)(1) of this title; and
+``(2) as of the date of the individual's election under
+this paragraph, meets the requirements for entitlement to
+educational assistance under this chapter.
+``(b) Cessation of Contributions Toward GI Bill.--Effective
+as of the first month beginning on or after the date of an
+election under subsection (a) of an individual described by
+paragraph (1)(E) of that subsection, the obligation of the
+individual to make contributions under section 3011(b) or
+3012(c) of this title, as applicable, shall cease, and the
+requirements of such section shall be deemed to be no longer
+applicable to the individual.
+``(c) Revocation of Remaining Transferred Entitlement.--
+``(1) Election to revoke.--If, on the date an individual
+described in paragraph (1)(A) or (1)(C) of subsection (a)
+makes an election under that subsection, a transfer of the
+entitlement of the individual to basic educational assistance
+under section 3020 of this title is in effect and a number of
+months of the entitlement so transferred remain unutilized,
+the individual may elect to revoke all or a portion of the
+entitlement so transferred that remains unutilized.
+``(2) Availability of revoked entitlement.--Any entitlement
+revoked by an individual under this paragraph shall no longer
+be available to the dependent to whom transferred, but shall
+be available to the individual instead for educational
+assistance under chapter 33 of this title in accordance with
+the provisions of this section.
+``(3) Availability of unrevoked entitlement.--Any
+entitlement described in paragraph (1) that is not revoked by
+an individual in accordance with that paragraph shall remain
+available to the dependent or dependents concerned in
+accordance with the current transfer of such entitlement
+under section 3020 of this title.
+``(d) Post-9/11 Educational Assistance.--
+``(1) In general.--Subject to paragraph (2) and except as
+provided in subsection (e), an individual making an election
+under subsection (a) shall be entitled to educational
+assistance under this chapter in accordance with the
+provisions of this chapter, instead of basic educational
+assistance under chapter 30 this title, or educational
+assistance under chapter 107, 1606, or 1607 of title 10, as
+applicable.
+``(2) Limitation on entitlement for certain individuals.--
+In the case of an individual making an election under
+subsection (a) who is described by paragraph (1)(A) of that
+subsection, the number of months of entitlement of the
+individual to educational assistance under this chapter 33
+shall be the number of months equal to--
+``(A) the number of months of unused entitlement of the
+individual under chapter 30 of this title, as of the date of
+the election, plus
+``(B) the number of months, if any, of entitlement revoked
+by the individual under subsection (c)(1).
+``(e) Continuing Entitlement to Educational Assistance Not
+Available Under 9/11 Assistance Program.--
+``(1) In general.--In the event educational assistance to
+which an individual making an election under subsection (a)
+would be entitled under chapter 30 of this title, or chapter
+107, 1606, or 1607 of title 10, as applicable, is not
+authorized to be available to the individual under the
+provisions of this chapter the individual shall remain
+entitled to such educational assistance in accordance with
+the provisions of the applicable chapter.
+``(2) Charge for use of entitlement.--The utilization by an
+individual of entitlement under paragraph (1) shall be
+chargeable against the entitlement of the individual to
+educational assistance under this chapter at the rate of one
+month of entitlement under this chapter for each month of
+entitlement utilized by the individual under paragraph (1)
+(as determined as if such entitlement were utilized under the
+provisions of chapter 30 of this title, or chapter 107, 1606,
+or 1607 of title 10, as applicable).
+``(f) Additional Post-9/11 Assistance for Members Having
+Made Contributions Toward GI Bill.--
+``(1) Additional assistance.--In the case of an individual
+making an election under subsection (a) who is described by
+subparagraph (A), (C), or (E) of paragraph (1) of that
+subsection, the amount of educational assistance payable to
+the individual under this chapter 33 as a monthly stipend
+payable under paragraph (1)(B) of section 3313(c) of
+[[Page H608]]
+this title, or under paragraphs (2) through (7) of that
+section (as applicable), shall be the amount otherwise
+payable as a monthly stipend under the applicable paragraph
+increased by the amount equal to--
+``(A) the total amount of contributions toward basic
+educational assistance made by the individual under section
+3011(b) or 3012(c) of this title, as of the date of the
+election, multiplied by
+``(B) the fraction--
+``(i) the numerator of which is--
+``(I) the number of months of entitlement to basic
+educational assistance under chapter 30 of this title
+remaining to the individual at the time of the election; plus
+``(II) the number of months, if any, of entitlement under
+such chapter 30 revoked by the individual under subsection
+(c)(1); and
+``(ii) the denominator of which is 36 months.
+``(2) Months of remaining entitlement for certain
+individuals.--In the case of an individual covered by
+paragraph (1) who is described by subsection (a)(1)(E), the
+number of months of entitlement to basic educational
+assistance remaining to the individual for purposes of
+paragraph (1)(B)(i)(II) shall be 36 months.
+``(3) Timing of payment.--The amount payable with respect
+to an individual under paragraph (1) shall be paid to the
+individual together with the last payment of the monthly
+stipend payable to the individual under paragraph (1)(B) of
+section 3313(c) of this title, or under subsections (b)
+through (g) of that section (as applicable), before the
+exhaustion of the individual's entitlement to educational
+assistance under this chapter.
+``(g) Continuing Entitlement to Additional Assistance for
+Critical Skills or Speciality and Additional Service.--An
+individual making an election under subsection (a)(1) who, at
+the time of the election, is entitled to increased
+educational assistance under section 3015(d) of this title,
+or section 16131(i) of title 10, or supplemental educational
+assistance under subchapter III of chapter 30 of this title,
+shall remain entitled to such increased educational
+assistance or supplemental educational assistance in the
+utilization of entitlement to educational assistance under
+this chapter, in an amount equal to the quarter, semester, or
+term, as applicable, equivalent of the monthly amount of such
+increased educational assistance or supplemental educational
+assistance payable with respect to the individual at the time
+of the election.
+``(h) Alternative Election by Secretary.--
+``(1) In general.--In the case of an individual who, on or
+after January 1, 2016, submits to the Secretary an election
+under this section that the Secretary determines is clearly
+against the interests of the individual, or who fails to make
+an election under this section, the Secretary may make an
+alternative election on behalf of the individual that the
+Secretary determines is in the best interests of the
+individual.
+``(2) Notice.--If the Secretary makes an election on behalf
+of an individual under this subsection, the Secretary shall
+notify the individual by not later than seven days after
+making such election and shall provide the individual with a
+30-day period, beginning on the date of the individual's
+receipt of such notice, during which the individual may
+modify or revoke the election made by the Secretary on the
+individual's behalf. The Secretary shall include, as part of
+such notice, a clear statement of why the alternative
+election made by the Secretary is in the best interests of
+the individual as compared to the election submitted by the
+individual. The Secretary shall provide the notice required
+under this paragraph by electronic means whenever possible.
+``(i) Irrevocability of Elections.--An election under
+subsection (a) or (c)(1) is irrevocable.''.
+(b) Clerical Amendment.--The table of sections at the
+beginning of such chapter is amended by adding at the end the
+following new item:
+``3326. Election to receive educational assistance.''.
+(c) Conforming Repeal.--Subsection (c) of section 5003 of
+the Post-9/11 Veterans Educational Assistance Act of 2008
+(Public Law 110-252; 38 U.S.C. 3301 note) is hereby repealed.
+SEC. 306. CLARIFICATION OF ASSISTANCE PROVIDED FOR CERTAIN
+FLIGHT TRAINING AND OTHER PROGRAMS OF
+EDUCATION.
+(a) Flight Training.--Subsection (c)(1)(A) of section 3313
+of title 38, United States Code, is amended--
+(1) in clause (i)--
+(A) by redesignating subclauses (I) and (II) as items (aa)
+and (bb), respectively;
+(B) by striking ``In the case of a program of education
+pursued at a public institution of higher learning'' and
+inserting ``(I) Subject to subclause (II), in the case of a
+program of education pursued at a public institution of
+higher learning not described in clause (ii)(II)(bb)''; and
+(C) by adding at the end the following new subclause:
+``(II) In determining the actual net cost for in-State
+tuition and fees pursuant to subclause (I), the Secretary may
+not pay for tuition and fees relating to flight training.'';
+and
+(2) in clause (ii)--
+(A) in subclause (I), by redesignating items (aa) and (bb)
+as subitems (AA) and (BB), respectively;
+(B) in subclause (II), by redesignating items (aa) and (bb)
+as subitems (AA) and (BB), respectively;
+(C) by redesignating subclauses (I) and (II) as items (aa)
+and (bb), respectively;
+(D) by striking ``In the case of a program of education
+pursued at a non-public or foreign institution of higher
+learning'' and inserting ``(I) In the case of a program of
+education described in subclause (II)''; and
+(E) by adding at the end the following new subclause:
+``(II) A program of education described in this subclause
+is any of the following:
+``(aa) A program of education pursued at a non-public or
+foreign institution of higher learning.
+``(bb) A program of education pursued at a public
+institution of higher learning in which flight training is
+required to earn the degree being pursued (including with
+respect to a dual major, concentration, or other element of
+such a degree).''.
+(b) Certain Programs of Education Carried Out Under
+Contract.--Section 3313(c)(1)(A)(ii)(II) of title 38, United
+States Code, as added by subsection (a)(2)(E), is amended by
+adding at the end the following new item:
+``(cc) A program of education pursued at a public
+institution of higher learning in which the public
+institution of higher learning enters into a contract or
+agreement with an entity (other than another public
+institution of higher learning) to provide such program of
+education or a portion of such program of education.''.
+(c) Application.--
+(1) In general.--Except as provided by paragraph (2), the
+amendments made by subsection (a) and (b) shall apply with
+respect to a quarter, semester, or term, as applicable,
+commencing on or after the date of the enactment of this Act.
+(2) Special rule for current students.--In the case of an
+individual who, as of the date of the enactment of this Act,
+is using educational assistance under chapter 33 of title 38,
+United States Code, to pursue a course of education that
+includes a program of education described in item (bb) or
+(cc) of section 3313(c)(1)(A)(ii)(II) of title 38, United
+States Code, as added by subsections (a) and (b),
+respectively, the amendment made by such subsection shall
+apply with respect to a quarter, semester, or term, as
+applicable, commencing on or after the date that is two years
+after the date of the enactment of this Act.
+SEC. 307. CONSIDERATION OF CERTAIN TIME SPENT RECEIVING
+MEDICAL CARE FROM SECRETARY OF DEFENSE AS
+ACTIVE DUTY FOR PURPOSES OF ELIGIBILITY FOR
+POST-9/11 EDUCATIONAL ASSISTANCE.
+(a) In General.--Section 3301(1)(B) of title 38, United
+States Code, is amended by inserting ``12301(h),'' after
+``12301(g),''.
+(b) Application.--The amendment made by subsection (a)
+shall apply with respect to active duty service by a member
+of a reserve component covered by section 12301(h) of title
+10, United States, beginning on or after the date that is 180
+days after the date of the enactment of this Act.
+SEC. 308. WORK-STUDY ALLOWANCE.
+Section 3485(a)(4) of title 38, United States Code, is
+amended by striking ``June 30, 2013'' each place it appears
+and inserting ``June 30, 2013, or the period beginning on
+June 30, 2016, and ending on June 30, 2021''.
+SEC. 309. VOCATIONAL REHABILITATION AND EDUCATION ACTION
+PLAN.
+Not later than 270 days after the date of the enactment of
+this Act, the Secretary of Veterans Affairs shall develop and
+publish an action plan for improving the services and
+assistance provided under chapter 31 of title 38, United
+States Code. Such plan shall include each of the following:
+(1) A comprehensive analysis of, and recommendations and a
+proposed implementation plan for remedying workload
+management challenges at regional offices of the Department
+of Veterans Affairs, including steps to reduce counselor
+caseloads of veterans participating in a rehabilitation
+program under such chapter, particularly for counselors who
+are assisting veterans with traumatic brain injury and post-
+traumatic stress disorder and counselors with educational and
+vocational counseling workloads.
+(2) A comprehensive analysis of the reasons for the
+disproportionately low percentage of veterans with service-
+connected disabilities who served in the Armed Forces after
+September 11, 2001, who opt to participate in a
+rehabilitation program under such chapter relative to the
+percentage of such veterans who use their entitlement to
+educational assistance under chapter 33 of title 38, United
+States Code, including an analysis of barriers to timely
+enrollment in rehabilitation programs under chapter 31 of
+such title and of any barriers to a veteran enrolling in the
+program of that veteran's choice.
+(3) Recommendations and a proposed implementation plan for
+encouraging more veterans with service-connected disabilities
+who served in the Armed Forces after September 11, 2001, to
+participate in rehabilitation programs under chapter 31 of
+such title.
+(4) A national staff training program for vocational
+rehabilitation counselors of the Department that includes the
+provision of--
+(A) training to assist counselors in understanding the very
+profound disorientation experienced by warriors whose lives
+and life-plans have been upended and out of their control
+because of their injury;
+[[Page H609]]
+(B) training to assist counselors in working in partnership
+with veterans on individual rehabilitation plans; and
+(C) training on post-traumatic stress disorder and other
+mental health conditions and on moderate to severe traumatic
+brain injury that is designed to improve the ability of such
+counselors to assist veterans with these conditions,
+including by providing information on the broad spectrum of
+such conditions and the effect of such conditions on an
+individual's abilities and functional limitations.
+SEC. 310. REDUCTION IN REDUNDANCY AND INEFFICIENCIES IN
+VOCATIONAL REHABILITATION CLAIMS PROCESSING.
+(a) Vocational Rehabilitation Claims.--The Secretary of
+Veterans Affairs shall reduce redundancy and inefficiencies
+in the use of information technology to process claims for
+rehabilitation programs under chapter 31 of title 38, United
+States Code, by--
+(1) ensuring that all payments for and on behalf of
+veterans participating in a rehabilitation program under such
+chapter are only processed and paid out of one corporate
+information technology system, in order to eliminate the
+redundancy of multiple information technology payment
+systems; and
+(2) enhancing the information technology system supporting
+veterans participating in such a program to support more
+accurate accounting of services and outcomes for such
+veterans.
+(b) Authorization of Appropriations.--There is authorized
+to be appropriated to the Secretary of Veterans Affairs for
+fiscal year 2016 $10,000,000 to carry out this section.
+(c) Report.--Not later than 180 days after the date of the
+enactment of this Act, the Secretary of Veterans Affairs
+shall submit to Congress a report on the changes made
+pursuant to subsection (a).
+TITLE IV--ADMINISTRATION OF EDUCATIONAL ASSISTANCE
+SEC. 401. CENTRALIZED REPORTING OF VETERAN ENROLLMENT BY
+CERTAIN GROUPS, DISTRICTS, AND CONSORTIUMS OF
+EDUCATIONAL INSTITUTIONS.
+(a) In General.--Section 3684(a) of title 38, United States
+Code, is amended--
+(1) in paragraph (1), by inserting ``32, 33,'' after
+``31,''; and
+(2) by adding at the end the following new paragraph:
+``(4) For purposes of this subsection, the term
+`educational institution' may include a group, district, or
+consortium of separately accredited educational institutions
+located in the same State that are organized in a manner that
+facilitates the centralized reporting of the enrollments in
+such group, district, or consortium of institutions.''.
+(b) Effective Date.--The amendments made by subsection (a)
+shall apply with respect to reports submitted on or after the
+date of the enactment of this Act.
+SEC. 402. PROVISION OF INFORMATION REGARDING VETERAN
+ENTITLEMENT TO EDUCATIONAL ASSISTANCE.
+(a) In General.--Subchapter II of chapter 36 of title 38,
+United States Code, is amended by adding at the end the
+following new section:
+``Sec. 3699. Provision of certain information to educational
+institutions
+``For each veteran or other individual pursuing a course of
+education that has been approved under this chapter using
+educational assistance to which the veteran or other
+individual is entitled under chapter 30, 32, 33, or 35 of
+this title, the Secretary shall make available to the
+educational institution offering the course information about
+the amount of such educational assistance to which the
+veteran or other individual is entitled. Such information
+shall be provided to such educational institution through a
+secure information technology system accessible by the
+educational institution and shall be regularly updated to
+reflect any amounts used by the veteran or other
+individual.''.
+(b) Clerical Amendment.--The table of sections at the
+beginning of such chapter is amended by inserting after the
+item relating to section 3698 the following new item:
+``3699. Provision of certain information to educational
+institutions.''.
+SEC. 403. ROLE OF STATE APPROVING AGENCIES.
+(a) Approval of Certain Courses.--Section 3672(b)(2)(A) of
+title 38, United States Code, is amended by striking ``the
+following'' and all that follows through the colon and
+inserting the following: ``a program of education is deemed
+to be approved for purposes of this chapter if a State
+approving agency determines that the program is one of the
+following programs:''.
+(b) Approval of Other Courses.--Section 3675 of such title
+is amended--
+(1) in subsection (a)(1)--
+(A) by striking ``The Secretary or a State approving
+agency'' and inserting ``A State approving agency, or the
+Secretary when acting in the role of a State approving
+agency,''; and
+(B) by striking ``offered by proprietary for-profit
+educational institutions'' and inserting ``not covered by
+section 3672 of this title''; and
+(2) in subsection (b), by striking ``the Secretary or the
+State approving agency'' each place it appears and inserting
+``the State approving agency, or the Secretary when acting in
+the role of a State approving agency,''.
+SEC. 404. CRITERIA USED TO APPROVE COURSES.
+(a) Nonaccredited Courses.--Section 3676(c)(14) of title
+38, United States Code, is amended by inserting before the
+period the following: ``if the Secretary, in consultation
+with the State approving agency and pursuant to regulations
+prescribed to carry out this paragraph, determines such
+criteria are necessary and treat public, private, and
+proprietary for-profit educational institutions equitably''.
+(b) Accredited Courses.--Section 3675(b)(3) of such title
+is amended by striking ``and (3)'' and inserting ``(3), and
+(14)''.
+(c) Application.--The amendment made by subsection (a)
+shall apply with respect to--
+(1) criteria developed pursuant to paragraph (14) of
+subsection (c) of section 3676 of title 38, United States
+Code, on or after January 1, 2013; and
+(2) an investigation conducted under such subsection that
+is covered by a reimbursement of expenses paid by the
+Secretary of Veterans Affairs to a State pursuant to section
+3674 of such title on or after October 1, 2015.
+SEC. 405. COMPLIANCE SURVEYS.
+(a) In General.--Section 3693 of such title is amended--
+(1) by striking subsection (a) and inserting the following
+new subsection (a):
+``(a)(1) Except as provided in subsection (b), the
+Secretary shall conduct an annual compliance survey of
+educational institutions and training establishments offering
+one or more courses approved for the enrollment of eligible
+veterans or persons if at least 20 such veterans or persons
+are enrolled in any such course. The Secretary shall--
+``(A) design the compliance surveys to ensure that such
+institutions or establishments, as the case may be, and
+approved courses are in compliance with all applicable
+provisions of chapters 30 through 36 of this title;
+``(B) survey each such educational institution and training
+establishment not less than once during every two-year
+period; and
+``(C) assign not fewer than one education compliance
+specialist to work on compliance surveys in any year for each
+40 compliance surveys required to be made under this section
+for such year.
+``(2) The Secretary, in consultation with the State
+approving agencies, shall--
+``(A) annually determine the parameters of the surveys
+required under paragraph (1); and
+``(B) not later than September 1 of each year, make
+available to the State approving agencies a list of the
+educational institutions and training establishments that
+will be surveyed during the fiscal year following the date of
+making such list available.''; and
+(2) by adding at the end the following new subsection:
+``(c) In this section, the terms `educational institution'
+and `training establishment' have the meaning given such
+terms in section 3452 of this title.''.
+(b) Conforming Amendments.--Subsection (b) of such section
+is amended--
+(1) by striking ``subsection (a) of this section for an
+annual compliance survey'' and inserting ``subsection (a)(1)
+for a compliance survey'';
+(2) by striking ``institution'' and inserting ``educational
+institution or training establishment''; and
+(3) by striking ``institution's demonstrated record of
+compliance'' and inserting ``record of compliance of such
+institution or establishment''.
+SEC. 406. SURVEY OF INDIVIDUALS USING THEIR ENTITLEMENT TO
+EDUCATIONAL ASSISTANCE UNDER THE EDUCATIONAL
+ASSISTANCE PROGRAMS ADMINISTERED BY THE
+SECRETARY OF VETERANS AFFAIRS.
+(a) Survey Required.--By not later than 270 days after the
+date of the enactment of this Act, the Secretary of Veterans
+Affairs shall enter into a contract with a non-government
+entity for the conduct of a survey of a statistically valid
+sample of individuals who have used or are using their
+entitlement to educational assistance under chapters 30, 32,
+33, and 35 of title 38, United States Code, to pursue a
+program of education or training. The contract shall provide
+that--
+(1) not later than one month before the collection of data
+under the survey begins, the survey shall be submitted to the
+Committees on Veterans' Affairs of the Senate and House of
+Representatives;
+(2) the non-government entity shall complete the survey and
+submit to the Secretary the results of the survey by not
+later than 180 days after entering into the contract; and
+(3) the survey shall be conducted by electronic means and
+by any other means the non-government entity determines
+appropriate.
+(b) Information To Be Collected.--The contract under
+subsection (a) shall provide that the survey shall be
+designed to collect the following types of information about
+each individual surveyed, where applicable:
+(1) Demographic information, including the highest level of
+education completed by the individual, the military
+occupational specialty or specialties of the individual while
+serving on active duty as a member of the Armed Forces or as
+a member of the National Guard or of a Reserve Component of
+the Armed Forces, and whether the individual has a service-
+connected disability.
+(2) The opinion of the individual regarding participation
+in the transition assistance program under section 1144 of
+title 10, United States Code, and the effectiveness of the
+program, including instruction on the use of the benefits
+under laws administered by the Secretary of Veterans Affairs.
+(3) The resources the individual used to help the
+individual--
+[[Page H610]]
+(A) decide to use the individual's entitlement to
+educational assistance to enroll in a program of education or
+training; and
+(B) choose the program of education or training the
+individual pursued.
+(4) The individual's goal when the individual enrolled in
+the program of education or training.
+(5) The nature of the individual's experience with the
+education benefits processing system of the Department of
+Veterans Affairs.
+(6) The nature of the individual's experience with the
+school certifying official of the educational institution
+where the individual pursued the program of education or
+training who processed the individual's claim.
+(7) Any services or benefits the educational institution or
+program of education or training provided to veterans while
+the individual pursued the program of education or training.
+(8) The type of educational institution at which the
+individual pursued the program of education or training.
+(9) Whether the individual completed the program of
+education or training or the number of credit hours completed
+by the individual as of the time of the survey, and, if
+applicable, any degree or certificate obtained by the
+individual for completing the program.
+(10) The employment status of the individual and whether
+such employment status differs from the employment status of
+the individual prior to enrolling in the program of education
+or training.
+(11) Whether the individual is or was enrolled in a program
+of education on a full-time or part-time basis.
+(12) The opinion of the individual on the effectiveness of
+the educational assistance program of the Department of
+Veterans Affairs under which the individual was entitled to
+educational assistance.
+(13) Whether the individual was ever entitled to a
+rehabilitation under chapter 31 of title 38, United States
+Code, and whether the individual participated in such a
+program.
+(14) A description of any circumstances that prevented the
+individual from using the individual's entitlement to
+educational assistance to pursue a desired career path or
+degree.
+(15) Whether the individual is using the individual's
+entitlement to educational assistance to pursue a program of
+education or training or has transferred such an entitlement
+to a dependent.
+(16) Such other matters as the Secretary determines
+appropriate.
+(c) Report.--Not later than 90 days after receiving the
+results of the survey required under this section, the
+Secretary shall submit to the Committees on Veterans' Affairs
+of the Senate and House of Representatives a report on the
+results of the survey and any recommendations of the
+Secretary relating to such results. Such report shall also
+include an unedited version of the results of the survey
+submitted by the non-government entity that conducted the
+study.
+SEC. 407. IMPROVEMENT OF INFORMATION TECHNOLOGY OF THE
+VETERANS BENEFITS ADMINISTRATION OF THE
+DEPARTMENT OF VETERANS AFFAIRS.
+(a) Processing of Certain Educational Assistance Claims.--
+The Secretary of Veterans Affairs shall, to the maximum
+extent possible, make such changes and improvements to the
+information technology system of the Veterans Benefits
+Administration of the Department of Veterans Affairs to
+ensure that--
+(1) to the maximum extent possible, all original and
+supplemental claims for educational assistance under chapter
+33 of title 38, United States Code, are adjudicated
+electronically; and
+(2) rules-based processing is used to make decisions with
+respect to such claims with little human intervention.
+(b) Implementation Plan.--Not later than 180 days after the
+date of the enactment of this Act, the Secretary of Veterans
+Affairs shall submit to Congress a plan to implement the
+changes and improvements described in subsection (a).
+(c) Report.--Not later than one year after the date of the
+enactment of this Act, the Secretary of Veterans Affairs
+shall submit to Congress a report on the implementation of
+the changes and improvements described in subsection (a).
+(d) Authorization of Appropriations.--There is authorized
+to be appropriated to the Secretary of Veterans Affairs
+$30,000,000 to carry out this section during fiscal years
+2016 and 2017.
+SEC. 408. TECHNICAL AMENDMENT RELATING TO IN-STATE TUITION
+RATE FOR INDIVIDUALS TO WHOM ENTITLEMENT IS
+TRANSFERRED UNDER ALL-VOLUNTEER FORCE
+EDUCATIONAL ASSISTANCE PROGRAM AND POST-9/11
+EDUCATIONAL ASSISTANCE.
+(a) Technical Amendment.--Section 3679(c)(2)(B) of title
+38, United States Code, is amended by striking ``or 3319 of
+this title'' and all that follows and inserting ``of this
+title or to whom educational assistance is transferred under
+section 3319 of this title.''.
+(b) Applicability.--The amendment made by subsection (a)
+shall apply with respect to a course, semester, or term that
+begins after July 1, 2016.
+TITLE V--OTHER MATTERS
+SEC. 501. AMOUNT OF LOAN GUARANTEED UNDER HOME LOAN PROGRAM
+OF DEPARTMENT OF VETERANS AFFAIRS.
+(a) Adjustment of Loan Limit.--Section 3703(a)(1) of title
+38, United States Code, is amended--
+(1) in subparagraph (A)(i)(IV)--
+(A) by striking ``the lesser of''; and
+(B) by striking ``or 25 percent of the loan''; and
+(2) in subparagraph (C), by striking ``Freddie Mac'' and
+all that follows through the period at the end and inserting
+``amount of the loan.''.
+(b) Effective Date.--The amendments made by this section
+shall apply with respect to a loan guaranteed under section
+3710 of title 38, United States Code, on or after the date
+that is 30 days after the date of the enactment of this Act.
+SEC. 502. LONGITUDINAL STUDY OF JOB COUNSELING, TRAINING, AND
+PLACEMENT SERVICE FOR VETERANS.
+(a) In General.--Chapter 41 of title 38, United States
+Code, is amended by adding at the end the following new
+section:
+``Sec. 4115. Longitudinal study of job counseling, training,
+and placement service for veterans
+``(a) Study Required.--(1) The Secretary shall enter into a
+contract with a non-government entity to conduct a
+longitudinal study of a statistically valid sample of each of
+the groups of individuals described in paragraph (2). The
+contract shall provide for the study of each such group over
+a period of at least five years.
+``(2) The groups of individuals described in this paragraph
+are the following:
+``(A) Veterans who have received intensive services.
+``(B) Veterans who did not receive intensive services but
+who otherwise received services under this chapter.
+``(C) Veterans who did not seek or receive services under
+this chapter.
+``(3) The study required by this subsection shall include
+the collection of the following information for each
+individual who participates in the study:
+``(A) The average number of months such individual served
+on active duty.
+``(B) The distribution of disability ratings of such
+individual.
+``(C) Any unemployment benefits received by such
+individual.
+``(D) The average number of months such individual was
+employed during the year covered by the report.
+``(E) The average annual starting and ending salaries of
+any such individual who was employed during the year covered
+by the report.
+``(F) The average annual income of such individual.
+``(G) The average total household income of such individual
+for the year covered by the report.
+``(H) The percentage of such individuals who own their
+principal residences.
+``(I) The employment status of such individual.
+``(J) In the case of such an individual who received
+services under this chapter, whether the individual believes
+that any service provided by a disabled veterans' outreach
+specialist or local veterans' employment representative
+helped the individual to become employed.
+``(K) In the case of such an individual who believes such a
+service helped the individual to become employed, whether--
+``(i) the individual retained the position of employment
+for a period of one year or longer; and
+``(ii) the individual believes such a service helped the
+individual to secure a higher wage or salary.
+``(L) The conditions under which such individual was
+discharged or released from the Armed Forces.
+``(M) Whether such individual has used any educational
+assistance to which the individual is entitled under this
+title.
+``(N) Whether such individual has participated in a
+rehabilitation program under chapter 31 of this title.
+``(O) Demographic information about such individual.
+``(P) Such other information as the Secretary determines
+appropriate.
+``(b) Annual Reports.--(1) By not later than July 1 of each
+year covered by the study required under subsection (a), the
+Secretary shall submit to the Committees on Veterans' Affairs
+of the Senate and House of Representatives a report on the
+outcomes of the study during the preceding year.
+``(2) The Secretary shall include in each annual report
+submitted under paragraph (1) any information the Secretary
+determines is necessary to determine the long-term outcomes
+of the individuals in the groups described in subsection
+(a)(2).''.
+(b) Clerical Amendment.--The table of sections at the
+beginning of such chapter is amended by adding at the end the
+following new item:
+``4115. Longitudinal study of job counseling, training, and placement
+service for veterans.''.
+SEC. 503. LIMITATIONS ON SUBCONTRACTS UNDER CONTRACTS WITH
+SMALL BUSINESS CONCERNS OWNED AND CONTROLLED BY
+VETERANS.
+(a) In General.--Section 8127 of title 38, United States
+Code, is amended--
+(1) by redesignating subsection (l) as subsection (m); and
+(2) by inserting after subsection (k) the following new
+subsection (l):
+``(l) Limitations on Subcontracting.--(1)(A) The
+requirements applicable to a covered small business concern
+under section 46
+[[Page H611]]
+of the Small Business Act (15 U.S.C. 657s) shall apply with
+respect to a small business concern owned and controlled by a
+veteran with a service-connected disability or a small
+business concern owned and controlled by a veteran that is
+awarded a contract that is counted for purposes of meeting
+the goals under subsection (a).
+``(B) For purposes of applying the requirements of section
+46 of the Small Business Act (15 U.S.C. 657s) pursuant to
+subparagraph (A), the term `similarly situated entity' used
+in such section 46 includes a subcontractor for a small
+business concern owned and controlled by a veteran with a
+service-connected disability or a small business concern
+owned and controlled by a veteran described in such
+subparagraph (A).
+``(2) Before awarding a contract that is counted for
+purposes of meeting the goals under subsection (a), the
+Secretary shall obtain from an offeror a certification that
+the offeror will comply with the requirements described in
+paragraph (1)(A) if awarded the contract. Such certification
+shall--
+``(A) specify the exact performance requirements applicable
+under such paragraph; and
+``(B) explicitly acknowledge that the certification is
+subject to section 1001 of title 18.
+``(3) If the Secretary determines that a small business
+concern that is awarded a contract that is counted for
+purposes of meeting the goals under subsection (a) did not
+act in good faith with respect to the requirements described
+in paragraph (1)(A), the small business concern shall be
+subject to the penalties specified in--
+``(A) section 16(g)(1) of the Small Business Act (15 U.S.C.
+645(g)(1)); and
+``(B) section 1001 of title 18.
+``(4)(A) The Director of Small and Disadvantaged Business
+Utilization for the Department, established pursuant to
+section 15(k) of the Small Business Act (15 U.S.C. 644(k)),
+and the Chief Acquisition Officer of the Department,
+established pursuant to section 1702 of title 41, shall
+jointly implement a process using the systems described in
+section 16(g)(2) of the Small Business Act (15 U.S.C.
+645(g)(2)), or any other systems available, to monitor
+compliance with this subsection. The Chief Acquisition
+Officer shall refer any violations of this subsection to the
+Inspector General of the Department.
+``(B) Not later than November 30 of each year, the
+Inspector General shall submit to the Committees on Veterans'
+Affairs of the Senate and House of Representatives a report
+for the fiscal year preceding the fiscal year during which
+the report is submitted that includes, for the fiscal year
+covered by the report--
+``(i) the number of referred violations received under
+subparagraph (A); and
+``(ii) the disposition of such referred violations,
+including the number of small business concerns suspended or
+debarred from Federal contracting or referred to the Attorney
+General for prosecution.''.
+(b) Effective Date.--Subsection (l) of section 8127 of
+title 38, United States Code, as added by subsection (a)
+shall apply with respect to a contract entered into after the
+date of the enactment of this Act.
+SEC. 504. PROCEDURES FOR PROVISION OF CERTAIN INFORMATION TO
+STATE VETERANS AGENCIES TO FACILITATE THE
+FURNISHING OF ASSISTANCE AND BENEFITS TO
+VETERANS.
+(a) Procedures Required.--The Secretary of Veterans Affairs
+shall develop procedures to share the information described
+in subsection (b) regarding veterans with State veterans
+agencies in electronic data format as a means of facilitating
+the furnishing of assistance and benefits to veterans.
+(b) Covered Information.--The information shared with State
+veterans agencies under subsection (a) regarding a veteran
+shall include the following:
+(1) Military service and separation data.
+(2) A personal email address.
+(3) A personal telephone number.
+(4) A mailing address.
+(c) Opt-Out Election.--A veteran may elect to prevent their
+information from being shared with State veterans agencies
+under subsection (a) pursuant to a process that the Secretary
+shall establish for purposes of this subsection.
+(d) Use of Information.--The Secretary shall ensure that
+the information shared with State veterans agencies in
+accordance with the procedures developed under subsection (a)
+is only shared by such agencies with county government
+veterans service offices for such purposes as the Secretary
+shall specify for the administration and delivery of
+assistance and benefits.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Florida (Mr. Miller) and the gentlewoman from Florida (Ms. Brown) each
+will control 20 minutes.
+The Chair recognizes the gentleman from Florida.
+General Leave
+Mr. MILLER of Florida. Mr. Speaker, I ask unanimous consent that all
+Members may have 5 legislative days within which to revise and extend
+their remarks and to add any extraneous materials on H.R. 3016, as
+amended.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Florida?
+There was no objection?
+Mr. MILLER of Florida. Mr. Speaker, I yield myself such time as I may
+consume.
+I rise in support of H.R. 3016, as amended, the Veterans Employment,
+Education, and Healthcare Improvement Act.
+This bill, which was introduced by the chairman of our Subcommittee
+on Economic Opportunity, Congressman Wenstrup of Ohio, includes a
+number of provisions relating to veterans' health care, education, and
+employment benefits.
+One provision of the bill would authorize the Department of Veterans
+Affairs to create a new fourth administration to streamline the
+oversight of the many VA programs and benefits that assist veterans
+with transition and that promote their economic welfare. These benefits
+include vocational rehabilitation and employment, GI Bill education
+benefits, the verification of veteran-owned small businesses, the VA's
+portion of the Transition Assistance Program, and the home loan
+guaranty program.
+Another provision of the bill would make needed improvements to
+education and vocational rehabilitation and employment benefits by,
+among other things, closing a costly loophole that has allowed some
+contracted-out flight schools to charge the VA hundreds of thousands of
+dollars in excessive tuition and fee payments.
+Still other provisions would improve the administration of benefits
+and expand opportunities for the use of the home loan benefit by
+eliminating the loan limit that caps the amount of money the VA will
+guarantee under the home loan program. This would help tens of
+thousands of veterans who are living in high-cost areas to realize the
+dream that many Americans strive for.
+Health-related provisions of the bill would elevate the role of
+podiatrists in the VA medical facilities, improve care for the newborn
+children of female veterans, create a pilot program on service dog
+training for veterans with post-traumatic stress, and require the
+Government Accountability Office to conduct period audits of the VA's
+budget.
+I am grateful to Dr. Wenstrup, to Dr. Roe, and to the many other
+sponsors of these provisions for their hard work and leadership in
+crafting and in developing this legislation, and I urge all of my
+colleagues to support it.
+Mr. Speaker, I reserve the balance of my time.
+Ms. BROWN of Florida. Mr. Speaker, I yield myself such time as I may
+consume.
+I rise in support of H.R. 3016, as amended, the VA Provider Equity
+Act.
+The provisions of title I directly affect the health of veterans by
+making podiatrists equal to other doctors in the VA, by making Medal of
+Honor recipients a top priority in receiving health care at the VA, and
+by making the newborn babies of servicemembers eligible for VA health
+care in the first 6 weeks of life, to follow their mothers' eligibility
+at the VA.
+The legislation authorizes a GAO audit of the Veterans Health
+Administration's budget. I feel that the Veterans Health Administration
+has been more responsive under the leadership of Dr. David Shulkin, but
+I agree that everyone would be better informed of how the VHA is
+working if we are all starting on the same page. I am also pleased that
+a successful dog training program will be expanded to other parts of
+the country to help veterans who are recovering from TBI and PTSD.
+I am particularly pleased to support provisions in H.R. 3016 which
+improve the veterans' education and rehabilitation program and which
+increase limits on the veterans' home loan program while maintaining
+the VA's strict lending requirements.
+H.R. 3016 also contains several important improvements in education
+and employment programs for veterans. Representative Takano will have
+more to say because he has taken the lead on these as the ranking
+member of the Economic Opportunity Subcommittee.
+I also want to thank Chairman Miller for compromising on the
+establishment of a new administration within the VA, called the
+Veterans Economic Opportunity and Transition Administration.
+While I appreciate the chairman's attempt to compromise on another
+key provision, I want to make it clear that I oppose the policy to cut
+in half the living stipend for the children of servicemembers who have
+received their
+[[Page H612]]
+parents' transferred GI Bill benefits. We promised the men and women
+who signed up to serve in our Nation's military that they would be able
+to transfer their entire GI Bill benefits to a dependent spouse or
+child. It is unfair that we are now breaking part of that promise.
+While I understand that this change pays for the other essential
+provisions in this bill, I would have preferred that we would have kept
+the promise we made to servicemembers while finding other ways to pay
+for this package.
+As this legislation moves forward, I will continue to work with my
+colleagues to find a different way to pay for these provisions that
+does not violate the promise we made to our veterans.
+I had hoped our Republican colleagues would have brought this bill to
+the floor under an open rule so as to have given us the opportunity to
+propose amendments and to debate ways to improve the more controversial
+provisions of this bill. I am disappointed that we are not able to
+offer amendments to improve the bill today. Yet I will support this
+bill overall due to the number of positive improvements.
+Mr. Speaker, I reserve the balance of my time.
+Mr. MILLER of Florida. Mr. Speaker, I yield 3 minutes to the
+gentleman from the Second District of Ohio (Mr. Wenstrup), the chairman
+of the Economic Opportunity Subcommittee and a combat veteran, himself.
+Mr. WENSTRUP. Mr. Speaker, I rise in support of H.R. 3016, the
+Veterans Employment, Education, and Healthcare Improvement Act, as
+amended.
+I am proud to sponsor this bill and am glad to be joined by veteran
+service organizations in their support, like the VFW and the DAV. It
+will help ensure that the veterans receive the benefits they have
+earned.
+This veterans' legislation contains over 30 provisions from over a
+dozen Members of Congress and is the result of countless hours of work
+amongst the members of the committee. I want to highlight three
+specific provisions in the bill that improve the benefits our veterans
+receive.
+First is the VA Provider Equity Act, which would strengthen access to
+the comprehensive, first-class health care that veterans deserve. We
+all know wait times for health care at the VA remain somewhat
+unacceptable in many places. This is true, in part, because the VA
+struggles to employ enough healthcare specialists to meet the needs of
+veterans.
+The VA Provider Equity Act responds to this issue by aligning
+outdated VA standards more closely with the private sector practices of
+today. When introduced, every doctor on the Committee on Veterans'
+Affairs joined as an original cosponsor, understanding that we need to
+make it easier for the VA to recruit and retain the specialists our
+veterans so desperately need.
+The bill also includes H.R. 2344, the Veterans Vocational
+Rehabilitation and Employment Improvement Act of 2015, which I
+introduced earlier this year. The VA's Vocational Rehabilitation and
+Employment program helps disabled veterans to prepare for employment or
+to live as independently as possible. If a veteran chooses to pursue
+education or training through this program, current law does not
+require the courses to be approved for GI benefits. My provision would
+tighten this requirement to provide additional oversight and
+protections for our veterans.
+We also include the GI Bill Quality Enhancement Act. By giving State
+Approving Agencies the increased oversight of GI Bill programs, this
+provision would provide veterans with the information they need to make
+good choices about education and training programs that offer the best
+quality.
+The Veterans Employment, Education, and Healthcare Improvement Act
+would make important progress in streamlining veterans' access to their
+earned benefits. It is one simple step we can take to ensure that our
+veterans receive the benefits they have earned.
+I thank Representative Takano for his help in moving this forward,
+and I urge my colleagues to support it.
+Ms. BROWN of Florida. Mr. Speaker, I yield 4 minutes to the gentleman
+from California (Mr. Takano).
+Mr. TAKANO. I thank Ranking Member Corrine Brown for yielding time.
+Mr. Speaker, I rise in support of H.R. 3016.
+While there are parts of this bill that I hope to see changed as it
+moves forward, it includes numerous provisions that will have a
+positive impact on our Nation's veteran population, including several
+provisions I authored.
+Section 307 of this bill is the language from my GI Bill Fairness
+Act, bipartisan legislation to close a gap faced by our National
+Guardsmen and Reservists who have been repeatedly called to war
+throughout operations in Iraq and Afghanistan.
+Currently, members of the Guard and Reserve who are wounded in combat
+are sometimes placed on Active Duty for their recovery, treatment, and
+rehabilitation. Unfortunately, current Federal law does not recognize
+such Active Duty orders as eligible for Post-9/11 GI Bill education
+assistance, meaning that, unlike other members of the military, those
+who serve in the Guard and Reserve may actually lose benefits for being
+injured in the line of duty. This provision in H.R. 3016 would end
+unequal treatment and ensure these guardsmen and reservists are able to
+accrue GI Bill benefits, when ordered to Active Duty, for the purposes
+of receiving medical care.
+H.R. 3016 also includes my Work-Study for Student Veterans Act, which
+would reinstate certain VA work-study activities that expired on June
+30, 2013. The VA's Student Work-Study Allowance Program allows
+qualifying student veterans who are in college degree programs or in
+vocational or professional programs to be paid for working in a variety
+of capacities on campus, at VA facilities, or at other veteran-centered
+organizations to assist fellow veterans. The work-study program
+achieves two important goals: offering student veterans a way to earn a
+little extra money and providing transitioning veterans with the
+guidance and assistance of fellow veterans who know firsthand what that
+transition is like.
+{time}  1530
+I also strongly support section 306 of the bill, which caps the
+amount of post-9/11 GI Bill funds available to flight schools--private
+flight schools--that contract with community colleges at the same
+amount that the GI Bill caps funds available to private universities.
+Due to a current loophole in the GI Bill, student veterans have been
+able to take pilot training classes with questionable job placement
+prospects at exorbitant cost to the taxpayers. According to the Los
+Angeles Times, one flight company charged 12 student veterans over
+$500,000 each in GI Bill funds.
+While it is true that flight training can be more expensive than
+other vocational or academic programs, VA data shows that while the
+number of student veterans taking flight training increased by only 9
+percent between fiscal years '13 and '14, the total cost to taxpayers
+for this program grew by 87 percent during this same period, costing
+$37 million in taxpayer dollars.
+The drafters of the GI Bill never intended to create this windfall
+for the flight school industry. What's more, VFW and the American
+Legion support the cap, agreeing that this loophole is a disservice to
+student veterans who would be better served by one of the many flight
+school programs that cost well under the cap.
+I do have serious reservations about section 301 of this legislation,
+which would cut by half the monthly housing allowance provided to
+children of servicemembers who will have post-9/11 GI Bill benefits
+transferred to them. I don't believe that we should be paying for the
+great provisions in this bill by cutting benefits.
+Furthermore, the bill on the House floor today does not include a
+grandfather clause. That means that some current servicemembers will
+see the terms that they agreed to when they signed up changed. As this
+bill advances, I strongly urge the chairman and ranking member to find
+another pay-for and eliminate section 301.
+With that being said, I believe overall, with some tweaks, this
+legislation will provide valuable support for our veterans, and I urge
+my colleagues to support H.R. 3016.
+Mr. MILLER of Florida. Mr. Speaker, I yield 1\1/2\ minutes to the
+gentleman from Louisiana (Mr. Abraham), who is
+[[Page H613]]
+from the Fifth District of Louisiana and is a fine member of our
+Committee on Veterans' Affairs.
+Mr. ABRAHAM. Mr. Speaker, I would like to thank Chairman Miller,
+Ranking Member Brown, Subcommittee on Disability Assistance and
+Memorial Affairs Ranking Member Titus, and all Members who worked so
+hard to bring this bill to the floor.
+There are many provisions in H.R. 677, as amended, that would help
+improve services for veterans and their families, but I want to focus
+my remarks on a section that I am proud to have authored.
+First, the bill would authorize an automatic COLA for beneficiaries
+who receive the VA disability compensation. Although the Congress
+generally approves COLA legislation every year, veterans have to wait
+until Congress actually acts.
+Ms. BROWN of Florida. Mr. Speaker, I yield 4 minutes to the gentleman
+from Minnesota (Mr. Walz).
+Mr. WALZ. Mr. Speaker, as you have heard, I associate myself with the
+remarks of the positive nature of the provisions in this bill. It has
+been the House Veterans' Affairs Committee that has been in the
+forefront of improving veterans care, from the post-9/11 GI Bill, to
+healthcare changes, to job placements. We have been at the forefront of
+VA improvements, accountability, and reform.
+While this bill continues in that vein, as you have heard here, there
+is one provision in it that, for me personally, I cannot cross. To pay
+for these programs, an offset has to be found. That is a noble and
+correct principle; meaning, if we add anything, we need to find the
+pay-for somewhere else to not add to the debt.
+In the case of this, to pay for these absolutely wonderful programs,
+many which I helped write, we went back and we took a benefit. I am not
+going to debate whether that benefit was overly generous. I am not
+going to debate how many are using it.
+If one veteran signed up, served this Nation, went overseas and
+fought for our defense and they were promised a benefit, to pull it
+back at this time is an egregious breach of trust. At a time when the
+VA is hurting, at a time when the faith in government is hurting, the
+faith in the media, our soldiers need to know there are some things
+that will not be crossed.
+So I want to be very clear on this. The motives of the people who
+worked on this should never be questioned. I have never seen people
+with more integrity and more care for our veterans. Thought goes into
+this. Improvements try to be made. And when the American people are
+frustrated and they see nothing gets done, this committee and the
+bipartisanship of the care of our veterans is absolutely paramount.
+This is a devilish situation. How do we find the pay-for? My question
+is--and, yes, perhaps it is a chip on my shoulder of an enlisted
+soldier--why come to the soldiers first? There is nowhere else in the
+Federal Government that we can find this.
+The chairman rightfully pointed out today another egregious waste of
+money in decorating and bonuses to VA officials who are not fulfilling
+their duty. My question is: can't we find some way to at least get the
+people through who were there and, if we want to make the changes, do
+so? I know every effort in good faith has been made to do that. Yes, it
+can be argued that this was overly generous and should not have been
+there in the first place, but it was. It was signed up for and people
+went. I have stood in front of troops who said: You promised it to me,
+and I am counting on using it.
+It seems to me that as Representatives of the American people, I can
+go back and ask my constituents, and they will agree on almost nothing.
+If I ask them, ``Should we do everything necessary to care for our
+veterans,'' the answer is ``yes.'' If we can't find the offset, then
+let's have the courage to go back and ask them what would they be
+willing to do.
+I myself will be voting ``no'' on this piece of legislation, but I
+just urge my colleagues to have to weigh this. I hope over the years
+that I have proven I am not a person who would get in the way of having
+the perfect get in the way of the good or not trying to work for
+compromises. It is a line that I feel, if we cross, the trust gets
+breached, and it is very difficult to gain it back.
+I thank all Members who worked on this.
+Ms. BROWN of Florida. Mr. Speaker, I have no other speakers at this
+time.
+I yield back the balance of my time.
+Mr. MILLER of Florida. I yield myself such time as I may consume.
+Mr. Speaker, to my good friend from Minnesota (Mr. Walz), who is a
+stalwart supporter of veterans on our committee and brings many, many
+good issues to the forefront for both sides of the aisle to be able to
+work on together, I do not question his motives in his negative vote
+against this bill.
+I would say that any child who has already had their parents' post-9/
+11 child benefits transferred to them will not be affected by this
+change. They would still receive 100 percent of their current living
+stipend.
+It also gives 180 days after enactment before it begins to take
+effect. So any servicemembers who are eligible to transfer their
+benefits but have not done so would have 180 days to do so, so their
+child would still receive 100 percent of their monthly stipend.
+I yield 1 minute to the gentleman from the 15th Congressional
+District of Ohio (Mr. Stivers).
+Mr. STIVERS. Mr. Speaker, I thank the chairman and the folks on the
+committee for their great work on this bill. I stand today to support
+the bill and also to recognize one of the sections is the Veterans Dog
+Therapy Act, which was rolled into H.R. 3016.
+We lose 22 of our former servicemembers every day to suicide. This
+legislation will create a pilot program at three to five of our VA
+facilities, which is modeled on the Warrior Canine Connection program
+for getting access to service dogs for our veterans.
+Veterans enrolled in this program with service dogs have seen
+improvements in their PTSD and TBI-related symptoms. Additionally, it
+is shown that veterans who own service dogs have fewer symptoms of
+depression, better interpersonal skills, a lowered risk of substance
+abuse, and better overall mental health. While no one thing can help
+cure our suicide epidemic among veterans, this is a good start.
+I want to thank Tim Walz for being my cosponsor on this bill. I am
+glad it is rolled in.
+I urge my colleagues to support this provision as well as the entire
+bill.
+Mr. MILLER of Florida. Mr. Speaker, I yield 2 minutes to the
+gentleman from the Ninth Congressional District of Georgia (Mr.
+Collins).
+Mr. COLLINS of Georgia. Mr. Speaker, today I rise in support of H.R.
+3016, the Veterans Employment, Education, and Healthcare Improvement
+Act.
+I want to thank the chairman for yielding and his leadership. As we
+have heard today, this is something that truly does bring us together.
+As someone who continues to serve in the Air Force and looking at my
+brothers and sisters in arms, this is something we should be about.
+I want to thank my colleague from Ohio (Mr. Wenstrup) for bringing
+this important legislation to the floor, including language from my
+legislation, H.R. 423, concerning VA post-delivery care services.
+I also want to thank Dr. Roe from Tennessee for his amendment that
+would extend the coverage for a female veteran's post-delivery care to
+42 days.
+Female veterans face unique challenges, especially when many of the
+services available to them are designed for males. One of the most
+significant problems female veterans face is access to health care.
+Currently, the VA is authorized to provide up to 7 days of post-
+delivery care for a female veteran's newborn baby. Mr. Roe's amendment
+will expand coverage to 42 days, the length that the VA currently
+provides for mothers.
+Females represent the fastest growing group of veterans who are
+enrolling in VA health care, and many of them are mothers or soon will
+be. It is past time for the VA to expand its care and services to meet
+the needs of the female veteran. These women have risked their lives to
+protect our Nation, and our responsibility to them doesn't end when
+they are no longer serving on Active Duty. In fact, their service to
+our country may jeopardize the very lives of their future children,
+meaning our responsibility to them is even greater.
+Research shows that having PTSD in the year before delivery increases
+a
+[[Page H614]]
+woman's risk of premature delivery by 35 percent. Premature infants
+typically need longer hospitalizations after they are born. I know what
+it is like to be the parent of a little baby who needed intensive
+medical care for an extended period of time from the moment she was
+born. By the way, she is getting ready to turn 24 right now.
+Any new mother who has given selflessly to her country shouldn't have
+to worry about Congress standing in her way as she tries to give
+selflessly to her own child.
+I thank my colleague and Chairman Miller for their leadership on this
+issue, and I would urge the passage of this bill.
+Mr. MILLER of Florida. Mr. Speaker, I have no more speakers at this
+time.
+I would encourage all my colleagues to support H.R. 3016, as amended.
+I yield back the balance of my time.
+Ms. JACKSON LEE. Mr. Speaker, I rise today in strong support of H.R.
+3016, ``Veterans Employment, Education, and Healthcare Improvement.''
+I support this bill because it will benefit our veterans who have
+suffered debilitating injuries to their lower extremities as a result
+of their service to the United States.
+Specifically, this bill clarifies the role of podiatrists in the
+Department of Veteran Affairs and increases their pay grade to match
+other VA physician compensation.
+There is a need in the Department of Veteran Affairs to classify
+podiatrists as physicians.
+Our veterans continue to suffer from a variety of foot and lower leg
+conditions as a direct result of their honorable service which can
+result from both traumatic and progressive etiologies.
+A growing number of our veterans have diabetes, which puts them at
+risk for other disorders and even amputation.
+The VA Podiatry Program Office spends a great deal of its time
+collaborating with a number of other programs developing and
+implementing initiatives relative to the prevention and treatment of
+diabetes and disorders related to diabetes.
+Houston, Texas is home to the Michael E. DeBakey Veterans Affairs
+Medical Center, in one of the nation's greatest medical centers; the
+MEDMC has 837 medical providers, but no board certified podiatrists.
+Our veterans need and deserve specialized treatment and assistance
+for foot injuries.
+My congressional district is home to over 25,000 veterans and as an
+avid supporter of Veteran Affairs I strongly support this bill.
+As a supporter and co-sponsor of numerous bills to assist veterans,
+such as H.R. 90, the Healthcare Improvement Act, I strongly believe it
+is our duty to give our veterans the best care when they return home.
+It is important we recognize podiatrists, who change the lives of our
+veterans, to be defined as physicians by the Department of Veteran
+Affairs, and increase their pay grade to reflect other VA physician
+compensation.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Florida (Mr. Miller) that the House suspend the rules
+and pass the bill, H.R. 3016, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+The title of the bill was amended so as to read: ``A bill to amend
+title 38, United States Code, to make certain improvements in the laws
+administered by the Secretary of Veterans Affairs relating to health
+care, educational assistance, and vocational rehabilitation, to
+establish the Veterans Economic Opportunity and Transition
+Administration, and for other purposes.''.
+A motion to reconsider was laid on the table.
+____________________

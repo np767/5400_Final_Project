@@ -1,0 +1,374 @@
+[Congressional Record Volume 170, Number 8 (Tuesday, January 16, 2024)]
+[House]
+[Pages H143-H145]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+PROTECT REPORTERS FROM EXPLOITATIVE STATE SPYING ACT
+Mr. KILEY. Mr. Speaker, I move to suspend the rules and pass the bill
+(H.R. 4250) to maintain the free flow of information to the public by
+establishing appropriate limits on the federally compelled disclosure
+of information obtained as part of engaging in journalism, and for
+other purposes.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 4250
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Protect Reporters from
+Exploitative State Spying Act'' or the ``PRESS Act''.
+SEC. 2. DEFINITIONS.
+In this Act:
+(1) Covered journalist.--The term ``covered journalist''
+means a person who regularly gathers, prepares, collects,
+photographs, records, writes, edits, reports, investigates,
+or publishes news or information that concerns local,
+national, or international events or other matters of public
+interest for dissemination to the public.
+(2) Covered service provider.--
+(A) In general.--The term ``covered service provider''
+means any person that, by an electronic means, stores,
+processes, or transmits information in order to provide a
+service to customers of the person.
+(B) Inclusions.--The term ``covered service provider''
+includes--
+(i) a telecommunications carrier and a provider of an
+information service (as such terms are defined in section 3
+of the Communications Act of 1934 (47 U.S.C. 153));
+(ii) a provider of an interactive computer service and an
+information content provider (as such terms are defined in
+section 230 of the Communications Act of 1934 (47 U.S.C.
+230));
+(iii) a provider of remote computing service (as defined in
+section 2711 of title 18, United States Code); and
+(iv) a provider of electronic communication service (as
+defined in section 2510 of title 18, United States Code) to
+the public.
+(3) Document.--The term ``document'' means writings,
+recordings, and photographs, as those terms are defined by
+Federal Rule of Evidence 1001 (28 U.S.C. App.).
+(4) Federal entity.--The term ``Federal entity'' means an
+entity or employee of the judicial or executive branch or an
+administrative agency of the Federal Government with the
+power to issue a subpoena or issue other compulsory process.
+(5) Journalism.--The term ``journalism'' means gathering,
+preparing, collecting, photographing, recording, writing,
+editing, reporting, investigating, or publishing news or
+information that concerns local, national, or international
+events or other matters of public interest for dissemination
+to the public.
+(6) Personal account of a covered journalist.--The term
+``personal account of a covered journalist'' means an account
+with a covered service provider used by a covered journalist
+that is not provided, administered, or operated by the
+employer of the covered journalist.
+(7) Personal technology device of a covered journalist.--
+The term ``personal technology device of a covered
+journalist'' means a handheld communications device, laptop
+computer, desktop computer, or other internet-connected
+device used by a covered journalist that is not provided or
+administered by the employer of the covered journalist.
+(8) Protected information.--The term ``protected
+information'' means any information identifying a source who
+provided information as part of engaging in journalism, and
+any records, contents of a communication, documents, or
+information that a covered journalist obtained or created as
+part of engaging in journalism.
+(9) Specified offense against a minor.--The term
+``specified offense against a minor'' has the meaning given
+that term in section 111(7) of the Adam Walsh Child
+Protection and Safety Act of 2006 (34 U.S.C. 20911(7)).
+SEC. 3. LIMITS ON COMPELLED DISCLOSURE FROM COVERED
+JOURNALISTS.
+In any matter arising under Federal law, a Federal entity
+may not compel a covered journalist to disclose protected
+information, unless a court in the judicial district in which
+the subpoena or other compulsory process is, or will be,
+issued determines by a preponderance of the evidence, after
+providing notice and an opportunity to be heard to the
+covered journalist, that--
+(1) disclosure of the protected information is necessary to
+prevent, or to identify any perpetrator of, an act of
+terrorism against the United States; or
+(2) disclosure of the protected information is necessary to
+prevent a threat of imminent violence, significant bodily
+harm, or death, including specified offenses against a minor.
+SEC. 4. LIMITS ON COMPELLED DISCLOSURE FROM COVERED SERVICE
+PROVIDERS.
+(a) Conditions for Compelled Disclosure.--In any matter
+arising under Federal law, a Federal entity may not compel a
+covered service provider to provide testimony or any document
+consisting of any record, information, or other
+communications stored by a covered provider on behalf of a
+covered journalist, including testimony or any document
+relating to a personal account of a covered journalist or a
+personal technology device of a covered journalist, unless a
+court in the judicial district in which the subpoena or other
+compulsory process is, or will be, issued determines by a
+preponderance of the evidence that there is a reasonable
+threat of imminent violence unless the testimony or document
+is provided, and issues an order authorizing the Federal
+entity to compel the disclosure of the testimony or document.
+(b) Notice to Court.--A Federal entity seeking to compel
+the provision of testimony or any document described in
+subsection (a) shall inform the court that the testimony or
+document relates to a covered journalist.
+(c) Notice to Covered Journalist and Opportunity To Be
+Heard.--
+(1) In general.--A court may authorize a Federal entity to
+compel the provision of testimony or a document under this
+section only after the Federal entity seeking the testimony
+or document provides the covered journalist on behalf of whom
+the testimony or document is stored pursuant to subsection
+(a)--
+(A) notice of the subpoena or other compulsory request for
+such testimony or document from the covered service provider
+not later than the time at which such subpoena or request is
+issued to the covered service provider; and
+(B) an opportunity to be heard before the court before the
+time at which the provision of the testimony or document is
+compelled.
+(2) Exception to notice requirement.--
+(A) In general.--Notice and an opportunity to be heard
+under paragraph (1) may be delayed for not more than 45 days
+if the court involved determines there is clear and
+convincing evidence that such notice would pose a clear and
+substantial threat to the integrity of a criminal
+investigation, or would present an imminent risk of death or
+serious bodily harm, including specified offenses against a
+minor.
+(B) Extensions.--The 45-day period described in
+subparagraph (A) may be extended by the court for additional
+periods of not more than 45 days if the court involved makes
+a new and independent determination that there is clear and
+convincing evidence that providing notice to the covered
+journalist would pose a clear and substantial threat to the
+integrity of a criminal investigation, or would present an
+imminent risk of death or serious bodily harm, including
+specified offenses against a minor, under current
+circumstances.
+SEC. 5. LIMITATION ON CONTENT OF INFORMATION.
+The content of any testimony, document, or protected
+information that is compelled under sections 3 or 4 shall--
+(1) not be overbroad, unreasonable, or oppressive, and, as
+appropriate, be limited to the purpose of verifying published
+information or describing any surrounding circumstances
+relevant to the accuracy of such published information; and
+(2) be narrowly tailored in subject matter and period of
+time covered so as to avoid compelling the production of
+peripheral, nonessential, or speculative information.
+SEC. 6. RULE OF CONSTRUCTION.
+Nothing in this Act shall be construed to--
+(1) apply to civil defamation, slander, or libel claims or
+defenses under State law, regardless of whether or not such
+claims or defenses, respectively, are raised in a State or
+Federal court; or
+(2) prevent the Federal Government from pursuing an
+investigation of a covered journalist or organization that
+is--
+(A) suspected of committing a crime;
+(B) a witness to a crime unrelated to engaging in
+journalism;
+(C) suspected of being an agent of a foreign power, as
+defined in section 101 of the Foreign Intelligence
+Surveillance Act of 1978 (50 U.S.C. 1801);
+(D) an individual or organization designated under
+Executive Order 13224 (50 U.S.C. 1701 note; relating to
+blocking property and prohibiting transactions with persons
+who commit, threaten to commit, or support terrorism);
+(E) a specially designated terrorist, as that term is
+defined in section 595.311 of title 31, Code of Federal
+Regulations (or any successor thereto); or
+(F) a terrorist organization, as that term is defined in
+section 212(a)(3)(B)(vi)(II) of the Immigration and
+Nationality Act (8 U.S.C. 1182(a)(3)(B)(vi)(II)).
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+California (Mr. Kiley) and the gentleman from Georgia (Mr. Johnson)
+each will control 20 minutes.
+[[Page H144]]
+The Chair recognizes the gentleman from California.
+General Leave
+Mr. KILEY. Mr. Speaker, I ask unanimous consent that all Members may
+have 5 legislative days in which to revise and extend their remarks and
+to insert extraneous material on H.R. 4250.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from California?
+There was no objection.
+Mr. KILEY. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, today, I am presenting bipartisan legislation to protect
+vital First Amendment freedoms from being infringed and chilled by
+overreaching government actions. I thank my colleagues across the aisle
+for their support of this issue.
+This bill prohibits the Federal Government from compelling a
+journalist to disclose documents, communications, or other information
+obtained or created as part of the journalist's job.
+Our Founders chose to enshrine the freedom of the press in the First
+Amendment of the Constitution, alongside freedom of speech and other
+fundamental freedoms, because it is a lynchpin of republican
+government. It is vital to the functioning of a free and democratic
+society.
+As James Madison said: ``A popular government without popular
+information, or the means of acquiring it, is but a prologue to a farce
+or a tragedy; or, perhaps both. . . . And a people who mean to be their
+own governors, must arm themselves with the power which knowledge
+gives.''
+Well, the most commonly understood form of potential abuse involves
+the output of a free press; that is, censorship. It is also critically
+important to protect the input; that is, the work of journalists in
+reporting on the affairs of the Nation. A key aspect of freedom of the
+press is the pursuit of the truth without government entanglements or
+intimidation.
+If the government forces journalists to reveal sources or work
+product, it could undermine the gathering of information that is in the
+public interest. That is why 32 States and the District of Columbia
+have expressly protected this right with statutory shield laws, and 49
+States have either a statutory or common law privilege that protects
+journalists from compelled disclosure. These laws allow journalists to
+do their jobs without fear that the government will unreasonably seize
+their records.
+Today's legislation, the PRESS Act, does the same thing at the
+Federal level. Administrations from both parties have been guilty of
+unjustly targeting journalists and using compulsory processes to obtain
+information from them and their sources.
+Now, over the years, versions of this very bill have received
+widespread support from across the political spectrum, and indeed, this
+bill passed through the Judiciary Committee on a unanimous, bipartisan
+vote.
+Mr. Speaker, liberty depends on the freedom of the press, and
+journalists are often the first to expose government fraud, waste,
+abuse, and encroachments on personal freedoms.
+In a free country, we need to make sure that the government cannot
+unmask journalists' sources without good cause, and that is why the
+need for this legislation is so strong. This bill provides those
+protections, and it is long past time for this legislation to be signed
+into law.
+I will close by again thanking my Democrat colleagues for their
+support and especially my fellow Judiciary Committee colleague, Mr.
+Raskin. This bill is proof that it is possible for Congress to set
+politics aside and act to protect the rights of all Americans.
+Mr. Speaker, I urge support, and I reserve the balance of my time.
+Mr. JOHNSON of Georgia. Mr. Speaker, I rise in strong support of H.R.
+4250, the Protect Reporters from Exploitive State Spying Act, or the
+PRESS Act, and I yield myself such time as I may consume in support of
+this bill.
+Introduced by my colleagues, Representatives Kevin Kiley, Darrell
+Issa, Harriet Hageman, Russell Fry, Jamie Raskin, and Ted Lieu, H.R.
+4250 is a reporter shield law that will ensure that journalists can
+engage in effective journalism while reducing the risks of putting
+themselves, or their confidential sources upon whom they rely to bring
+critical stories to the public's attention, in legal jeopardy.
+Specifically, H.R. 4250 would create a strong but qualified Federal
+statutory privilege that protects journalists from being compelled by
+the Federal Government to reveal confidential sources and information.
+The bill also allows the government to defeat this privilege under
+certain circumstances where a court determines that the disclosure is
+necessary to prevent or identify any perpetrator of an act of terrorism
+or to prevent a threat of imminent violence, significant bodily harm or
+death, and then only after the journalist is provided notice and an
+opportunity to be heard before the court.
+Additionally, the bill prohibits the Federal Government from
+compelling an electronic service provider that stores a journalist's
+information to disclose that information, as well as information
+relating to the journalist's personal account or technology device to
+the government. The government can defeat this privilege only if a
+court determines that there is a reasonable threat of imminent violence
+absent the information's disclosure and subject to notice and other
+requirements and exceptions.
+Lastly, the PRESS Act contains a rule of construction that provides
+that the act should not be construed to apply to civil defamation,
+slander, libel claims, or defenses under State law. The rule of
+construction also makes clear that the act does not prevent the Federal
+Government from pursuing an investigation of a journalist or
+organization that is suspected of engaging in criminal or terrorist
+activity, is a witness to a crime unrelated to journalism, or is
+suspected of being an agent of a foreign power.
+This is necessary and long-overdue legislation. Over the past several
+decades, Democratic and Republican Presidential administrations have
+attempted to crack down on leaks of classified information to media
+outlets, and these investigations have included efforts to obtain
+journalists' records.
+In 2021, the Washington Post, the New York Times, and CNN reported
+that the Department of Justice, under the Trump administration, sought
+the information and records of their reporters. Previously, during the
+Obama administration, the Department reportedly searched FOX News
+reporter Jeffrey Rosen's emails and even listed him as a co-conspirator
+in an Espionage Act case against the source of leaked information.
+These and other recent episodes further illustrate the need for
+stronger protections for journalists and their sources.
+Indeed, one of the most critical roles that the free press plays in
+our democracy is to keep the public informed about the functioning of
+government and the policymaking process, including allegations of
+government wrongdoing or incompetence. Yet, the press' ability to carry
+out this role would be seriously eroded if a reporter could not obtain
+complete and accurate information about such wrongdoing or incompetence
+by assuring confidential sources their anonymity.
+The PRESS Act would protect a journalist's ability to bring these
+important stories to the public's attention, stories which almost
+always hinge on protecting the identity of confidential sources without
+unwarranted interference by the Federal Government.
+{time}  1730
+The lack of a Federal press shield law is quite striking given the
+broad and bipartisan support for such laws.
+Currently, over 40 States and the District of Columbia have enacted
+press shield laws or otherwise afford similar privileges through their
+State constitutions or common law.
+Here in Congress, there is longstanding and bipartisan support for a
+Federal press shield law. For example, former Vice President Mike
+Pence, when he was a Member of Congress back in 2005, introduced the
+Free Flow of Information Act, which was very similar in concept to H.R.
+4250.
+The Free Flow of Information Act subsequently passed the House twice
+in the 110th and the 111th Congresses, the first time by a 398-21 vote,
+and the second time by voice vote under suspension of the rules.
+Last Congress, the House passed the PRESS Act by voice vote under
+suspension of the rules, as well.
+[[Page H145]]
+In this Congress, the bill passed the Judiciary Committee by a 23-0
+vote, and, unfortunately, despite this history of broad bipartisan
+support, the Senate has never acted on any of these bills, though hope
+springs eternal.
+I am encouraged that, even as stark differences among Members of this
+body remain, this important legislation continues to enjoy bipartisan
+support.
+I thank Chairman Jordan for his work in helping to bring H.R. 4250 to
+the floor today, and I urge my colleagues to vote ``yes.''
+Mr. Speaker, I reserve the balance of my time.
+Mr. KILEY. Mr. Speaker, I have no further speakers. I am prepared to
+close, and I reserve the balance of my time.
+Mr. JOHNSON of Georgia. Mr. Speaker, I yield myself the balance of my
+time to close.
+Mr. Speaker, I note that the PRESS Act is endorsed by a number of
+First Amendment and press freedom organizations, including the ACLU,
+the Center for Democracy and Technology, the Committee to Protect
+Journalists, Demand Progress, the Electronic Frontier Foundation, the
+First Amendment Coalition, the Freedom of the Press Foundation, the
+Knight First Amendment Institute at Columbia University, the National
+Association of Broadcasters, PEN America, the Protect The 1st
+Foundation, the Radio Television Digital News Association, and the
+Reporters Committee for Freedom of the Press.
+Mr. Speaker, I urge my colleagues to vote ``yes'' on H.R. 4250, a
+necessary and long overdue Federal protection for journalists and their
+sources.
+Mr. Speaker, I yield back the balance of my time.
+Mr. KILEY. Mr. Speaker, I thank the gentleman for his remarks. I
+again thank Mr. Raskin for working with me on this legislation, as well
+as Chair Jordan and Ranking Member Nadler for helping to get it through
+the Judiciary Committee with unanimous bipartisan support.
+I very much look forward to seeing this bill get to the President's
+desk and get signed into law this year. I urge all of my colleagues
+here in the House to support it.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from California (Mr. Kiley) that the House suspend the rules
+and pass the bill, H.R. 4250.
+The question was taken.
+The SPEAKER pro tempore. In the opinion of the Chair, two-thirds
+being in the affirmative, the ayes have it.
+Mr. KILEY. Mr. Speaker, I object to the vote on the ground that a
+quorum is not present and make the point of order that a quorum is not
+present.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further
+proceedings on this question will be postponed.
+The point of no quorum is considered withdrawn.
+____________________

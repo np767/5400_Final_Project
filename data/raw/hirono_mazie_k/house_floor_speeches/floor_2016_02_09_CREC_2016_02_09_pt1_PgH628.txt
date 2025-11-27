@@ -1,0 +1,356 @@
+[Congressional Record Volume 162, Number 23 (Tuesday, February 9, 2016)]
+[House]
+[Pages H628-H630]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+VA MEDICAL CENTER RECOVERY ACT
+Mr. ABRAHAM. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 3234) to amend title 38, United States Code, to establish
+within the Department of Veterans Affairs an Office of Failing Medical
+Center Recovery, and for other purposes, as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 3234
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``VA Medical Center Recovery
+Act''.
+SEC. 2. EVALUATION AND IMPROVEMENT OF MEDICAL CENTERS.
+(a) Underperforming Medical Centers.--
+(1) In general.--Chapter 73 of title 38, United States
+Code, is amended by inserting after section 7311A the
+following new section:
+``Sec. 7311B. Evaluation and improvement of medical centers
+``(a) Identification of Underperforming Medical Centers.--
+(1) Not later than 15 days after the end of each fiscal
+quarter, the Secretary shall publish in the Federal Register
+and on a publically available, searchable Internet website of
+the Department a compilation of key health metrics for each
+medical center of the Department.
+``(2) On a semiannual basis, the Secretary shall determine,
+under the key health metrics, whether each medical center of
+the Department is satisfactory or underperforming.
+``(b) Rapid Deployment Teams.--(1) Not later than 30 days
+after the date on which the Secretary identifies a medical
+center as an underperforming medical center under subsection
+(a)(2), the Secretary shall deploy a rapid deployment team to
+the medical center to ensure that the medical center achieves
+satisfactory performance as quickly as practicable.
+``(2) Each rapid deployment team deployed to an
+underperforming medical center under paragraph (1) shall--
+``(A) identify the areas of the medical center that require
+improvement, including with respect to the procedures of the
+medical center, inefficiencies of the medical center, and
+whether the medical center follows directives and best
+practices;
+``(B) establish a remediation plan to improve the
+performance of the medical center;
+``(C) review and assesses the status of any--
+``(i) disciplinary actions taken at the medical center;
+``(ii) recommendations made by the Inspector General of the
+Department applicable to the medical center; and
+``(iii) findings made by the Comptroller General of the
+United States applicable to the medical center; and
+``(D) provide training to the director and staff of the
+medical center with respect to carrying out such
+improvements.
+``(3) The Secretary shall ensure that--
+``(A) the director of each underperforming medical center
+carries out the remediation plan under paragraph (2)(B); and
+``(B) the rapid deployment team has access to all
+facilities and all electronic systems, records, reports,
+audits, reviews, documents, papers, or other materials the
+rapid deployment team determines necessary to carry out this
+subsection.
+``(4) Each rapid deployment team deployed to an
+underperforming medical center under paragraph (1) shall
+consist of--
+``(A) subject matter experts with experience in--
+``(i) customer service training;
+``(ii) increasing the efficiency of organizations;
+``(iii) clinical care specific to the areas in which the
+underperforming medical center requires improvement; and
+``(iv) any other areas that the Secretary determines
+appropriate to improve the underperforming medical center;
+and
+``(B) an employee of the Office of the Inspector General of
+the Department.
+``(5) To the extent practicable, each rapid deployment team
+shall include process improvement subject matter experts from
+the Veterans Experience Office of the Department.
+``(6) The Secretary shall determine the duration of the
+deployment of a rapid deployment team under paragraph (1).
+``(c) Investigations and Whistleblower Protections.--(1)
+The Inspector General of the Department shall prioritize
+investigations relating to underperforming medical centers.
+``(2) The Office of Accountability Review shall prioritize
+investigations of whistleblower retaliation relating to
+underperforming medical centers.
+``(d) Quarterly Reports.--On a quarterly basis, the
+Secretary shall submit to Congress a report that includes,
+with respect to the quarter covered by the report--
+``(1) each identification of an underperforming medical
+center made by the Secretary;
+``(2) the actions taken by the Secretary and rapid
+deployment teams with respect to improving underperforming
+medical centers; and
+``(3) an update on any progress made by each
+underperforming medical center, including whether the
+underperforming medical center is carrying out the
+remediation plan pursuant to subsection (b)(3)(A).
+``(e) Relationship to Quality Assurance and National
+Quality Management Officer.--The requirements of this section
+are in addition to any requirements under sections 7311 and
+7311A of this title.
+``(f) Definitions.--In this section:
+``(1) The term `underperforming medical center' means a
+medical center of the Department that the Secretary
+determines is underperforming under subsection (a)(2).
+``(2) The term `key health metrics' means the following:
+``(A) The Strategic Analytics Improvement and Learning
+(commonly referred to as `SAIL') data used by the Department
+(or such successor data metric).
+``(B) An evaluation system established by the Secretary
+based on the total data described in subparagraph (A) to
+determine whether the performance of a medical center is
+satisfactory or underperforming and requires remediation
+pursuant to this section.''.
+(2) Clerical amendment.--The table of sections at the
+beginning of chapter 73 of such title is amended by adding
+after the item relating to section 7311A the following new
+item:
+``7311B. Evaluation and improvement of medical centers''.
+(b) Initial Key Health Metrics Publication.--The Secretary
+shall publish the initial key health metrics under section
+7311B(a)(1) of title 38, United States Code, as added by
+subsection (a)(1), by not later than 90 days after the date
+of the enactment of this Act.
+(c) Initial Identification of an Underperforming Medical
+Center.--The Secretary shall make the initial identifications
+under section 7311B(a)(2) of title 38, United States Code, as
+added by subsection (a)(1), by not later than 180 days after
+the date of the enactment of this Act.
+[[Page H629]]
+SEC. 3. STANDARDIZED TRAINING FOR NURSES.
+(a) Training.--The Secretary of Veterans Affairs shall seek
+to enter into partnerships with recognized schools of nursing
+to provide undergraduate nursing students enrolled in such
+schools with standardized training with respect to the
+following:
+(1) The culture of the military and veterans.
+(2) Post-traumatic stress disorder.
+(3) Traumatic brain injury.
+(4) Amputation and assistive devices.
+(5) Environmental, chemical, and toxic exposure.
+(6) Substance use disorders.
+(7) Military sexual trauma.
+(8) Suicide.
+(9) Homelessness.
+(10) Serious illness at the end of life.
+(11) Benefits, services, and resources for veterans that
+are administered by the Federal Government.
+(b) Development.--In developing the training under
+subsection (a), the Secretary shall consult with appropriate
+accrediting bodies, schools of nursing, and industry leaders.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Louisiana (Mr. Abraham) and the gentleman from California (Mr. Takano)
+each will control 20 minutes.
+The Chair recognizes the gentleman from Louisiana.
+General Leave
+Mr. ABRAHAM. Mr. Speaker, I ask unanimous consent that all Members
+have 5 legislative days in which to revise and extend their remarks and
+add extraneous material on H.R. 3234, as amended.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Louisiana?
+There was no objection.
+Mr. ABRAHAM. Mr. Speaker, I yield myself as much time as I may
+consume.
+Mr. Speaker, I rise in support of H.R. 3234, as amended, the
+Department of Veterans Affairs VA Medical Center Recovery Act.
+This bill would require the VA to publish key health metrics and use
+these metrics to determine semiannually which VA medical centers are
+performing satisfactorily and which are underperforming.
+If a VA medical center is determined to be underperforming, VA would
+be required to send a rapid deployment team to the facility within 30
+days to establish a remediation plan and provide needed help in problem
+areas.
+The VA would also be required to send regular reports to Congress on
+which facilities are underperforming and what actions have been taken
+to improve their performance.
+In addition, the bill would require the VA inspector general to
+prioritize investigations related to underperforming medical centers
+and the Office of Accountability Review to prioritize investigations of
+whistleblower retaliation relating to underperforming medical centers.
+This bill would also include a provision to strengthen training for
+undergraduate nurses on veterans unique issues, needs, and benefits.
+H.R. 3234, as amended, is sponsored by Congresswoman Martha Roby from
+Alabama, and I am grateful for her leadership in introducing this
+legislation.
+I yield 2 minutes to the gentlewoman from Alabama (Mrs. Roby).
+Mrs. ROBY. Mr. Speaker, I rise to ask my colleagues to support H.R.
+3234, the VA Medical Center Recovery Act.
+This bill puts the responsibility for identifying and improving the
+worst performing VA medical centers squarely on the Secretary of
+Veterans Affairs, requiring him to deploy teams of experts to turn
+around failing facilities.
+The bill would, for the first time, require the VA to publish key
+metrics known as SAIL data on the Federal Register and would require
+the Secretary to report to Congress any medical centers determined to
+be failing.
+Some of my colleagues might wonder why such a bill is necessary,
+given the VA reform law that we passed more than a year ago. That was a
+good bill, but it wasn't a silver bullet. Many problems still exist in
+the VA, and it is our responsibility to address them.
+Mr. Speaker, the Central Alabama VA in my district became known as
+one of the worst in the country. My staff and I worked with
+whistleblowers and the press to uncover major instances of misconduct,
+negligence, and mismanagement inside the Central Alabama VA, including:
+Widespread manipulation of scheduling data. A nation-leading 57
+percent of employees reported that managers instructed them to change
+appointment times to hide long waits.
+More than 1,000 patient X-rays, some showing malignancies, went
+missing for months and even years.
+A pulmonologist was caught twice falsifying more than 1,200 patient
+records but somehow given a satisfactory review.
+An employee took a recovering veteran to a crackhouse, bought him
+drugs, and paid for prostitutes, all to extort his benefits. When
+caught, the employee wasn't fired, not until a year later, after our
+office exposed it publicly.
+In the wake of these exposures, the Central Alabama VA Director
+became the first senior VA manager fired under the new law.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. ABRAHAM. I yield the gentlewoman an additional 3 minutes.
+Mrs. ROBY. But even after leadership changes, data showed that the
+Central Alabama VA's two medical centers in Montgomery and Tuskegee
+were ranked the worst and the second worst in the Nation for delays in
+patient care.
+By any measure, the Central Alabama VA was the definition of a
+failing VA system. We had a severe problem, and it required immediate
+attention.
+But, Mr. Speaker, getting the attention of the top VA leaders proved
+difficult. Once our problems left the front page, there wasn't a whole
+lot of followup.
+My veterans in Alabama were subject to some of the worst healthcare
+service in the country, and no one wanted to take responsibility.
+Mr. Speaker, I began to think maybe it was because we were depending
+on a broken bureaucracy to fix itself, that maybe it was because we
+were asking VA leaders, rather than requiring them, to intervene.
+Mr. Speaker, I decided that it was time that we changed that. So, in
+July, I filed that legislation and began working with the Veterans'
+Affairs Committee to get a hearing and a vote.
+I don't sit on the Veterans' Affairs Committee, so I want to thank
+the chairman, Jeff Miller; the subcommittee chairman, Dan Benishek; and
+all the members of the committee for being receptive and working with
+me on this bill.
+I also want to thank all the committee staff for their hard work.
+There is no question this bill represents a major step forward and a
+foundation to build upon.
+It should be noted that almost 2 years after the scandal first broke,
+we are making progress in central Alabama at the VA. Staffing is up,
+wait times are down. We are building a Community Veterans Health
+Network that I believe one day can be an example for the entire Nation.
+We have a long way to go, and I am truly optimistic about the future.
+But, Mr. Speaker, it shouldn't have taken this long and it shouldn't
+have taken a Member of Congress breathing down the necks of top VA
+officials to get the attention that our veterans deserve.
+You know, sometimes I wonder what would have happened if our
+courageous whistleblowers hadn't stepped up or if the reporters we
+worked with didn't think it was a story?
+What if the truth about the missing X-rays, the manipulated
+pulmonology records, and the crackhouse never came out? What if we want
+exposed all of that?
+Would our veterans in central Alabama still be subject to the worst
+health care in the country? Would we even know?
+I don't want what happened in central Alabama to ever happen again
+anywhere. This bill helps to ensure that by requiring key VA health
+metrics to be published for everyone to see and making sure that the VA
+officials at the very top cannot hide behind the layers of bureaucracy
+when it comes to severely failing centers.
+Again, I ask my colleagues to support this bill.
+{time}  1630
+Mr. ABRAHAM. Mr. Speaker, I reserve the balance of my time.
+Mr. TAKANO. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, this legislation, H.R. 3234, as amended, is designed to
+establish criteria for the evaluation and improvement of VA medical
+centers. The
+[[Page H630]]
+bill requires the VA to create key health metrics to measure whether
+each medical center is satisfactory or underperforming.
+The metrics will be published on the VA Web site, and an
+underperforming medical center will be subject to a rapid deployment
+team being sent to the facility to create a remediation plan and bring
+them up to standards. The VA will issue quarterly reports on the
+underperforming facilities and their progress in the following
+remediation plan.
+Additionally, the bill seeks to require the VA to enter into
+partnerships with recognized schools of nursing to provide
+undergraduate nursing students enrolled in such schools with
+standardized training. The bill lists the 11 areas the training should
+involve, including PTSD, TBI, and military sexual trauma.
+Mr. Speaker, this bill addresses issues the committee has expressed
+concerns about in the past. I support its passage.
+Mr. Speaker, I urge the passage of H.R. 3234, as amended.
+I yield back the balance of my time.
+Mr. ABRAHAM. Mr. Speaker, I also once again encourage all Members to
+support H.R. 3234, as amended.
+I yield back the balance of my time.
+Ms. JACKSON LEE. Mr. Speaker, I rise in strong support of H.R. 3234,
+the Failing VA Medical Center Recovery Act.
+I support this legislation because it would establish in the
+Department of Veterans Affairs an Office of Failing Medical Center
+Recovery, and the position of Under Secretary for Failing Medical
+Center Recovery to head the Office.
+The Office shall carry out the managerial and day-to-day operational
+control of each VA failing medical center.
+The bill directs that the VA shall: publish in the Federal Register
+and on a publicly available VA website a compilation of key health
+metrics for each VA medical center; certify semiannually that each VA
+medical center ranked as ``failing'' is subject to managerial and day-
+to-day operational control by the Office; revoke the certification of a
+VA medical center as a failing medical center if it achieves a ranking
+of ``satisfactory'' or better for three consecutive fiscal quarters;
+submit to Congress a quarterly report on the Office, including actions
+taken by the Under Secretary regarding covered failing medical centers;
+and transfer each covered failing medical center from the direct
+control of the relevant Veterans Integrated Service Network to the
+direct control of the Under Secretary.
+The bill also ensures that the Inspector General of the VA will
+prioritize investigations relating to covered failing medical centers,
+and the Office of Accountability Review will prioritize investigations
+of whistle blower retaliation relating to such centers.
+Mr. Speaker, the reason this important legislation is needed is
+illustrated by the tragic and heart breaking cases of thousands of
+veterans who were left waiting for care for serious medical conditions.
+In the State of Texas we have 1,099,141 Veterans under the age of 65
+and 590,618 who are over the age of 65. There are over 1,689,759
+veterans living in our state.
+The 18th Congressional District has 20,607 under age 65 and 9,844
+Veterans over the age of 65.
+The Michael E. Debakey Veterans Hospital Center, located in Houston
+Texas serves the health care needs of thousands of veterans and their
+families.
+The Debakey Veterans Hospital Center provides support to veterans and
+their families who are amputees, cancer, spinal cord injuries,
+traumatic brain injury, and have visual impairments.
+The Medical center provides family support services through its
+Fisher House that provides living suites at no cost to family members
+of hospitalized Veterans and military members.
+Today, with our vote on H.R. 3234, we can renew our commitment to our
+nation's more than 2 million troops and reservists, their families, and
+the 22 million veterans who served our nation.
+I urge all Members to join me in voting to pass H.R. 3234.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Louisiana (Mr. Abraham) that the House suspend the rules
+and pass the bill, H.R. 3234, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+The title of the bill was amended so as to read: ``A bill to amend
+title 38, United States Code, to direct the Secretary of Veterans
+Affairs to evaluate the ability of each medical center of the
+Department to provide quality health care to veterans, to ensure that
+the Secretary improves such medical centers that are underperforming,
+and for other purposes.''.
+A motion to reconsider was laid on the table.
+____________________

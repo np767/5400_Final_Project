@@ -1,0 +1,256 @@
+[Congressional Record Volume 165, Number 170 (Monday, October 28, 2019)]
+[House]
+[Pages H8491-H8493]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+{time}  1630
+PREVENTING ONLINE SALES OF E-CIGARETTES TO CHILDREN ACT
+Ms. BASS. Mr. Speaker, I move to suspend the rules and pass the bill
+(H.R. 3942) to apply requirements relating to delivery sales of
+cigarettes to delivery sales of electronic nicotine delivery systems,
+and for other purposes, as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 3942
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Preventing Online Sales of
+E-Cigarettes to Children Act''.
+SEC. 2. AMENDMENTS TO THE JENKINS ACT.
+(a) In General.--The Act entitled ``An Act to assist States
+in collecting sales and use taxes on cigarettes'', approved
+October 19, 1949 (commonly known as the ``Jenkins Act'') (15
+U.S.C. 375 et seq.), is amended--
+(1) in section 1 (15 U.S.C. 375)--
+(A) in paragraph (2)(A)(ii)--
+(i) by striking ``includes roll-your-own tobacco'' and
+inserting the following: ``includes--
+``(I) roll-your-own tobacco'';
+(ii) in subclause (I), as so designated, by striking the
+period at the end and inserting ``; and''; and
+(iii) by adding at the end the following:
+``(II) an electronic nicotine delivery system.'';
+(B) by redesignating paragraphs (7) through (14) as
+paragraphs (8) through (15), respectively; and
+(C) by inserting after paragraph (6) the following:
+``(7) Electronic nicotine delivery system.--The term
+`electronic nicotine delivery system'--
+``(A) means any electronic device that, through an
+aerosolized solution, delivers nicotine, flavor, or any other
+substance to the user inhaling from the device;
+``(B) includes--
+``(i) an e-cigarette;
+``(ii) an e-hookah;
+``(iii) an e-cigar;
+``(iv) a vape pen;
+``(v) an advanced refillable personal vaporizer;
+``(vi) an electronic pipe; and
+``(vii) any component, liquid, part, or accessory of a
+device described in subparagraph (A), without regard to
+whether the component, liquid, part, or accessory is sold
+separately from the device; and
+``(C) does not include a product that is--
+``(i) approved by the Food and Drug Administration for--
+``(I) sale as a tobacco cessation product; or
+``(II) any other therapeutic purpose; and
+``(ii) marketed and sold solely for a purpose described in
+clause (i).''; and
+(2) in section 2A(b)(1) (15 U.S.C. 376a(b)(1)), by
+inserting ``NICOTINE/'' after ``CIGARETTES/''.
+(b) Effective Date.--This section, and the amendments made
+by this section, shall take effect on the date that is 90
+days after the date of enactment of this Act.
+SEC. 3. NONMAILABILITY OF ELECTRONIC NICOTINE DELIVERY
+SYSTEMS.
+(a) Regulations.--Not later than 120 days after the date of
+enactment of this Act, the United States Postal Service shall
+promulgate regulations to clarify the applicability of the
+prohibition on mailing of cigarettes under section 1716E of
+title 18, United States Code, to electronic nicotine delivery
+systems, in accordance with the amendment to the definition
+of ``cigarette'' made by section 2.
+(b) Effective Date.--The prohibition on mailing of
+cigarettes under section 1716E of title 18, United States
+Code, shall apply to electronic nicotine delivery systems on
+and after the date on which the United States Postal Service
+promulgates regulations under subsection (a) of this section.
+SEC. 4. DETERMINATION OF BUDGETARY EFFECTS.
+The budgetary effects of this Act, for the purpose of
+complying with the Statutory Pay-As-You-Go Act of 2010, shall
+be determined by reference to the latest statement titled
+``Budgetary Effects of PAYGO Legislation'' for this Act,
+submitted for printing in the Congressional Record by the
+Chairman of the House Budget Committee, provided that such
+statement has been submitted prior to the vote on passage.
+The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from
+California (Ms. Bass) and the gentleman from North Dakota (Mr.
+Armstrong) each will control 20 minutes.
+The Chair recognizes the gentlewoman from California.
+General Leave
+Ms. BASS. Mr. Speaker, I ask unanimous consent that all Members may
+have 5 legislative days in which to revise and extend their remarks and
+include extraneous material on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from California?
+There was no objection.
+[[Page H8492]]
+Ms. BASS. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, H.R. 3942, the Preventing Online Sales of E-Cigarettes
+to Children Act, is an important bill to protect our young people. I
+applaud the gentlewoman from Connecticut (Ms. DeLauro) for taking the
+lead on this issue and introducing this bipartisan legislation.
+This bill addresses a very serious public health crisis in our
+country, one which is tragically affecting our children. Since last
+summer, a mysterious and severe pulmonary disease associated with the
+use of e-cigarettes and the practice of vaping has sickened over 1,000
+mostly young and otherwise healthy people, 18 of whom have died.
+Public health advocates place the blame for this crisis on the
+aggressive marketing of vaping products that appeal to kids, including
+e-liquids with fruit, bubble gum, or even cotton candy flavors in
+packaging that features superhero or cartoon characters. Advocates also
+cite the mushrooming popularity of USB flash drive-like e-cigarettes,
+which have a high nicotine content, appealing flavors, and can easily
+be concealed.
+Evidence of the attractiveness of these products to young people is
+reflected in some staggering statistics. According to the 2018 National
+Youth Tobacco Survey, between 2017 and 2018 there was a 78 percent
+increase in e-cigarette use among high school students and a 48 percent
+increase among middle school students. H.R. 3942 will play an important
+role in addressing this crisis.
+Congress regulates the sales of tobacco products via interstate
+shipment through the 1949 Jenkins Act. In 2010, Congress extended the
+Jenkins Act to regulate delivery sales of tobacco products over the
+internet through the Prevent All Cigarette Trafficking Act, or PACT
+Act.
+Among other things, the PACT Act curbed internet sales of cigarettes
+to underage people by encouraging and requiring that delivery agents
+check identification in person when the product is delivered.
+H.R. 3942 amends current law to curb online sales of e-cigarettes to
+minors. It amends the definition of ``cigarette'' to extend to any
+electronic nicotine delivery system, which includes e-cigarettes, vape
+pens, and other electronic devices.
+A violation of the provisions of the Jenkins Act is a Federal felony,
+punishable by up to 3 years in prison. Amending current law to extend
+these protections to e-cigarettes is the right thing to do.
+Mr. Speaker, I urge my colleagues to join me in supporting this
+important bill, and I reserve the balance of my time.
+House of Representatives,
+Committee on Oversight and Reform,
+Washington, DC, October 28, 2019.
+Hon. Jerrold Nadler,
+Chairman, Committee on the Judiciary,
+House of Representatives, Washington, DC.
+Dear Mr. Chairman: I am writing to you concerning H.R.
+3942, the Preventing Online Sales of E-Cigarettes to Children
+Act. There are certain provisions in the legislation which
+fall within the Rule X jurisdiction of the Committee on
+Oversight and Reform.
+In the interest of permitting your Committee to proceed
+expeditiously on this bill, I am willing to waive this
+Committee's right to sequential referral. I do so with the
+understanding that by waiving consideration of the bill, the
+Committee on Oversight and Reform does not waive any future
+jurisdictional claim over the subject matters contained in
+the bill which fall within its Rule X jurisdiction. I request
+that you urge the Speaker to name Members of this Committee
+to any conference committee which is named to consider such
+provisions.
+Please place this letter into the Congressional Record
+during consideration of the measure on the House floor. Thank
+you for the cooperative spirit in which you have worked
+regarding this matter and others between our respective
+Committees.
+Sincerely,
+Carolyn B. Maloney,
+Acting Chairwoman.
+Mr. ARMSTRONG. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, I rise today in support of H.R. 3942, the Preventing
+Online Sales of E-Cigarettes to Children Act.
+This bill can be summarized in this way: If minors can't buy e-
+cigarettes in a store, they shouldn't be able to buy e-cigarettes
+online.
+Today, anyone who purchases alcohol or tobacco at a brick-and-mortar
+retail store is subject to age verification requirements. Online
+retailers of alcohol must also verify a purchaser's age to ensure the
+sales comply with State and Federal law. However, online retailers of
+e-cigarettes are exempted from verifying the age of their customers.
+When the PACT Act was passed in 2010, it did a great job of curbing
+youth smoking. Unfortunately, e-cigarettes were not in existence yet.
+This loophole exists at a time when youth vaping is at epidemic
+levels. Today, one in five high school students is using e-cigarettes.
+Kids can have e-cigarettes delivered right to their door without
+requiring an adult signature.
+Teen vaping rates have doubled since 2017, and over 3 million minors
+used e-cigarettes last year. The lack of age verification requirements
+is hurting kids.
+The Preventing Online Sales of E-Cigarettes to Children Act would
+require age verification upon delivery of online purchases of e-
+cigarettes and other vapor products. It closes the online delivery
+loophole and will prevent the underage purchase of e-cigarettes online.
+This bill has a broad coalition of support.
+I thank Representative Rosa DeLauro for her partnership on this
+legislation to protect the next generation, as well as House Judiciary
+Committee Ranking Member Doug Collins.
+This bill also has bipartisan support in the Senate, with Senators
+Dianne Feinstein, John Cornyn, and Chris Van Hollen all on board.
+Patient advocacy organizations like the American Cancer Society
+Cancer Action Network and the American Lung Association also support
+this legislation.
+Business and trade associations like the National Association of
+Convenience Stores, the Petroleum Marketer Association of America, and
+the Convenience Distribution Association all also support this bill.
+Mr. Speaker, I reserve the balance of my time.
+Ms. BASS. Mr. Speaker, I notice that there are a number of young
+people who are in the gallery, so I am hoping that they pay close
+attention to this debate since it is all about you guys.
+The SPEAKER pro tempore. The Chair would remind Members to avoid
+referencing occupants of the gallery.
+Ms. BASS. Mr. Speaker, I yield 2 minutes to the gentlewoman from
+Florida (Ms. Mucarsel-Powell).
+Ms. MUCARSEL-POWELL. Mr. Speaker, today I rise in support of H.R.
+3942, the Preventing Online Sales of E-Cigarettes to Children Act.
+The spread of e-cigarettes is a public health crisis. I have had
+multiple conversations with parents who are seeing their children
+become addicted to tobacco products, and, as a mom, I refuse to stand
+idly by as a new generation of children become addicted to this
+substance.
+We have seen multiple deaths from the use of vaping products and
+several hundred lung disease cases in Florida alone. Approximately
+5,600 kids in Florida are becoming new daily smokers each year. This is
+affecting children regardless of ZIP Code or income level.
+For years, e-cigarette companies have targeted our children using
+specialty flavors like cotton candy and made their products easy to
+purchase online without any age verification.
+We have the responsibility to do everything we can to keep this
+addictive substance out of the hands of our kids, including requiring
+online and in-person verification for e-cigarette purchases.
+The health of our Nation's children is at risk because of e-
+cigarettes and vaping products. The time to act is now.
+Mr. ARMSTRONG. Mr. Speaker, I reserve the balance of my time.
+Ms. BASS. Mr. Speaker, H.R. 3942 is an important measure to address a
+threat to the health of our children and young people.
+For the reasons discussed here today, I urge my colleagues to join me
+in supporting this bipartisan legislation, and I reserve the balance of
+my time.
+Mr. ARMSTRONG. Mr. Speaker, I have a 12-year-old daughter; I have a
+9-year-old son. There are schools across the country that are removing
+doors on bathroom stalls and banning hoodies. Teen vaping and youth
+vaping is a real
+[[Page H8493]]
+issue. This bill is a small step forward to start canceling that.
+At its simplest, this bill works to modernize Federal law to treat e-
+cigarettes the same as any other nicotine product, and that is a good
+thing.
+Mr. Speaker, I yield back the balance of my time.
+Ms. BASS. Mr. Speaker, I urge my colleagues to join me in supporting
+this bipartisan legislation, and I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentlewoman from California (Ms. Bass) that the House suspend the rules
+and pass the bill, H.R. 3942, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+A motion to reconsider was laid on the table.
+____________________

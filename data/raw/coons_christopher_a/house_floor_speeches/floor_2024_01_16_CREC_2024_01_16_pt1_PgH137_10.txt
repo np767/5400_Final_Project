@@ -1,0 +1,308 @@
+[Congressional Record Volume 170, Number 8 (Tuesday, January 16, 2024)]
+[House]
+[Pages H137-H139]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+MOVING AMERICANS PRIVACY PROTECTION ACT
+Mr. SMITH of Nebraska. Mr. Speaker, I move to suspend the rules and
+pass the bill (H.R. 1568) to amend the Tariff Act of 1930 to protect
+personally identifiable information, and for other purposes, as
+amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 1568
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Moving Americans Privacy
+Protection Act''.
+SEC. 2. PROTECTION OF PERSONALLY IDENTIFIABLE INFORMATION.
+(a) In General.--Paragraph (2) of section 431(c) of the
+Tariff Act of 1930 (19 U.S.C. 1431(c)) is amended to read as
+follows:
+``(2)(A) The information listed in paragraph (1) shall not
+be available for public disclosure if--
+``(i) the Secretary of the Treasury makes an affirmative
+finding on a shipment-by-shipment basis that disclosure is
+likely to pose a threat of personal injury or property
+damage; or
+``(ii) the information is exempt under the provisions of
+section 552(b)(1) of title 5, United States Code.
+``(B) The Secretary shall ensure that any personally
+identifiable information, including Social Security numbers
+and passport numbers, is removed from any manifest signed,
+produced, delivered, or electronically transmitted under
+[[Page H138]]
+this section before access to the manifest is provided to the
+public.''.
+(b) Effective Date.--The amendment made by subsection (a)
+shall take effect on the date that is 30 days after the date
+of the enactment of this Act.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Nebraska (Mr. Smith) and the gentleman from New Jersey (Mr. Pascrell)
+each will control 20 minutes.
+The Chair recognizes the gentleman from Nebraska.
+General Leave
+Mr. SMITH of Nebraska. Mr. Speaker, I ask unanimous consent that all
+Members may have 5 legislative days to revise and extend their remarks
+and include extraneous material on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Nebraska?
+There was no objection.
+Mr. SMITH of Nebraska. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, the legislation before us today, the Moving Americans
+Privacy Protection Act, takes an important step to protect the privacy
+of all Americans, especially our veterans and servicemembers returning
+from overseas. It requires Customs and Border Protection to remove
+personally identifiable information from any shipping manifest before
+CBP makes the manifest information available to the public.
+Under current law, Customs and Border Protection is required to make
+certain shipping manifest information available for public disclosure.
+Unfortunately, there is no requirement to ensure these manifests do not
+contain Americans' personal information. Instead, U.S. citizens
+returning home from military postings or job opportunities abroad are
+expected to navigate a complicated and bureaucratic system--that often
+experiences significant delays, I might add--to request that any
+personal information be removed from manifests to protect their
+identity from fraudsters and scammers.
+Our brave men and women in uniform, as well as Americans whose
+employers or family commitments have required them to relocate
+overseas, already face numerous hurdles when they return home. Ensuring
+U.S. Customs and Border Protection proactively removes this data from
+manifests is a simple, straightforward, and actually long overdue step
+to protect their identities.
+I applaud Representatives Michael Waltz and Bill Pascrell for their
+leadership on this legislation and Senators Daines, Stabenow, and
+Peters for leading this effort in the Senate. I urge my colleagues in
+the House of Representatives to follow the Ways and Means Committee's
+lead and unanimously pass this bipartisan legislation.
+Mr. Speaker, I reserve the balance of my time.
+Mr. PASCRELL. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I rise in support of H.R. 1568, the bipartisan Moving
+Americans Privacy Protection Act.
+I believe that privacy is something we are going to be discussing on
+this floor for the next 10 years. We are trying to catch up to the
+electronics that exist in our lives, and we want to make sure that
+people are all respected.
+We know protecting privacy is a difficult and constantly evolving
+challenge. This is especially true in our modern world. Privacy is
+deeply important for all Americans, particularly our servicemembers
+abroad. Unfortunately, our troops are often victims of identity theft.
+For security purposes, U.S. Customs and Border Protection requires
+manifest sheets to document the cargo of incoming vessels. The Moving
+Americans Privacy Protection Act will ensure that personal data on
+cargo manifests cannot be abused.
+I am proud to co-lead this crucial and commonsense measure with the
+gentleman from Florida (Mr. Waltz).
+In recent years, manifest data has been mistakenly exposed, enabling
+identity theft, credit card fraud, and unwanted solicitations. Our plan
+will protect Americans from having their personal information
+compromised.
+We must make sure information like names, addresses, Social Security
+numbers, and passport numbers can be removed from cargo manifests
+before they are disclosed. This is a no-brainer. We are talking about
+protecting people's privacy, including servicemembers and their
+families serving abroad.
+Mr. Speaker, I include in the Record two letters of support for the
+Moving Americans Privacy Protection Act: the first is from the New
+Jersey Warehouse and Movers Association; the second is from the
+American Trucking Associations and a coalition of supportive
+organizations.
+New Jersey Warehouse &
+Movers Association
+September 11, 2023.
+Hon. Bill Pascrell,
+Washington, DC.
+Representative Pascrell: As the leader of the New Jersey
+Warehouse & Movers Association, I have the privilege of
+representing moving and storage companies located across the
+Garden State. Thank you for your continued leadership,
+especially as a member of the US House Ways & Means
+Committee.
+Our members especially thank you for introducing, along
+with Representative Mike Walz, the bipartisan Moving
+Americans Privacy Protection Act (``MAPPA'' / HR 1568). As
+you know, this legislation would help protect the privacy and
+personally identifiable information (PII) of American
+servicemembers, federal employees, private sector workers,
+and their families who are returning to the United States
+after living abroad.
+With multiple defense and government installations, more
+than a dozen Fortune 500 corporate headquarters, globally
+recognized colleges and universities, and its status as a
+center for international trade, New Jersey residents
+frequently move overseas and then return to the US. This
+exchange plays an important role in our state's continued
+economic growth, and the moving industry is proud to support
+these individuals and their families. Unfortunately, current
+government policy regarding the security of their PII
+unwittingly places them at risk of identity theft, financiat
+fraud, and other crimes. The MAPPA would change this policy
+and require US Customs to remove the PII contained in vessel
+manifests from trade data that is provided to sale.
+Passage of legislation accomplishing the goal of the MAPPA
+has been a long-standing priority of the moving industry. We
+are thankful for introducing identical legislation in the
+House (HR 1568) and the Senate (S 758). The Senate passed S
+758 in March 2023, making House approval the only step
+necessary before the legislation goes to the White House for
+the President's signature.
+As such, the New Jersey moving industry asks you to contact
+House Ways and Means Committee Ranking Member Richard Neal
+and urge him to support the Committee, including S 758 as
+passed by the Senate in the next available markup, to approve
+the legislation without amendment, and for the House to
+consider the legislation under suspension of the rules. We
+also understand that Rep. Waltz is testifying in support of
+MAPPA during the Ways and Means Committee's ``Member Day''
+hearing on September 14, 2023--joint testimony in support of
+the legislation or a letter of support for the legislation
+submitted for the hearing's record would be appreciated as we
+all work to enact this necessary and commonsense legislation.
+Thank you again for your leadership on this important
+issue.
+May 24, 2023.
+Hon. Jason Smith,
+Chairman, Committee on Ways and Means,
+Washington, DC.
+Hon. Adrian Smith,
+Chairman, Subcommittee on Trade, Committee on Ways and Means,
+Washington, DC.
+Hon. Richard Neal,
+Ranking Member, Committee on Ways and Means, Washington, DC.
+Hon. Earl Blumenauer,
+Ranking Member, Subcommittee on Trade, Committee on Ways and
+Means, Washington, DC.
+Dear Chairman J. Smith, Ranking Member Neal, Chairman A.
+Smith, and Ranking Member Blumenauer: Our organizations
+respectfully request Committee sign off for House
+consideration--under suspension of the rules as a stand-alone
+bill--the Moving Americans Privacy Protection Act (S. 758),
+as passed by the Senate on March 9, 2023.
+The legislation addresses a specific and unique issue and
+helps protect the sensitive personal data of servicemembers,
+federal employees, private sector workers. and families who
+are returning to the United States after living abroad. S.
+758 was introduced on a bipartisan basis by Senators Daines,
+Peters, Stabenow, and Marshall and passed the Senate by voice
+vote. It has a bipartisan House companion (H.R. 1568)
+introduced by Representatives Waltz and Pascrell. The
+legislation is identical to the Moving Americans Privacy
+Protection Act (115th--H.R. 4403), which in 2018 the Ways &
+Means Committee reported out by voice vote, followed by House
+passage under the suspension calendar. The Congressional
+Budget Office and Joint Tax Committee have determined a
+``zero'' score for the legislation.
+Each year, the U.S. military, federal departments, and
+private sector organizations relocate tens of thousands of
+Americans back home to the U.S. after posting overseas. Other
+Americans return home after time abroad for personal reasons.
+When shipping their personal household goods to the U.S.,
+these individuals must include elements of Personally
+Identifiable Information
+[[Page H139]]
+(PII) on shipping forms which are made part of vessel
+manifests. The PII often contains Social Security numbers,
+Passport numbers, home addresses, and other sensitive data.
+Currently U.S. Customs and Border Protection (CBP) is
+required to make all commercial information from vessel
+manifests--often capturing the sensitive PII of returning
+American citizens--available to data brokers who package and
+resell this data throughout their subscriber network. Without
+concrete action to protect the PII, normally held under
+strict security by the U.S. Government, these elements can be
+exposed, placing Americans at risk of identity theft,
+financial fraud, and other abuses of their data.
+The Moving Americans Privacy Protection Act helps protect
+Americans from this risk by ensuring PII is removed from
+manifests prior to CBP providing and selling the commercial
+manifest information to data brokers. While it does not amend
+other provisions of the Tariff Act or in any other way modify
+Customs, authorities or trade policy, it does remove the U.S.
+Government from making sensitive PII of servicemembers and
+other Americans available to potential criminals as citizens
+move back home to the United States.
+Given the focused nature of this legislation and increase
+in identity theft crimes in recent years, we urge the
+Committee to agree to direct House consideration of the
+Senate-passed version of the Moving Americans Privacy
+Protection Act (S. 758) as a stand-alone bill under
+suspension of the rules.
+Thank you for your consideration.
+Sincerely,
+American Trucking Associations,
+International Association of Movers,
+Military Officers Association of America,
+Senior Executives Association,
+Worldwide ERC
+.
+Mr. PASCRELL. Mr. Speaker, I strongly encourage my colleagues to
+support this commonsense measure today.
+Mr. Speaker, I reserve the balance of my time.
+Mr. SMITH of Nebraska. Mr. Speaker, I yield 5 minutes to the
+gentleman from Florida (Mr. Waltz), an expert on this topic.
+Mr. WALTZ. Mr. Speaker, I rise today in support of my bill, H.R.
+1568, the Moving Americans Privacy Protection Act.
+This bipartisan, bicameral bill will require U.S. Customs and Border
+Protection, CBP, to remove personally identifiable information,
+including Social Security and passport numbers, from cargo manifests
+before they are disclosed to the public.
+Currently, CBP requires manifest sheets, which include PII, in order
+to disclose and document the cargo of incoming vessels for customs and
+security purposes. Now, originally, the intent of this requirement was
+to increase competition. It was to facilitate better public analysis of
+import trends. It was to allow port authorities and transportation
+companies to more easily identify potential customers and changes in
+their industry.
+{time}  1645
+Like many things we do here, it had a viable and good intent.
+However, in recent years, the PII of relocating individuals has, again,
+been publicly released. That has enabled identity theft. It has enabled
+credit card fraud and unwanted solicitations.
+Importantly, from a national security standpoint, the disclosure
+allows our adversaries, from terrorist organizations to foreign
+intelligence organizations of our adversaries like China, Russia, and
+Iran, to easily access the PII of our servicemembers and their families
+as they move around the globe to keep this great Nation free.
+The personal identification, Mr. Speaker, of every American should be
+safe and secure, but due to the current public disclosure of cargo
+manifests, our servicemembers and their families are experiencing a
+higher risk of identity theft, fraud, and targeting as they move abroad
+in service of our Nation.
+It is critical that we take the necessary steps to protect them from
+this dangerous and fraudulent activity. The Moving Americans Privacy
+Protection Act is essential to protect the private information not only
+of our servicemembers but of all Americans.
+I thank Ways and Means Chairman Jason Smith, Democrat co-lead,
+Representative Pascrell, and particularly the Ways and Means staff for
+their hard work and working with my team to move this bill through
+committee and to the full House for consideration.
+I look forward to passage by the full House. I encourage my
+colleagues to support this legislation, and I look forward to working
+with Senator Daines, in particular, in the Senate to get this important
+bill signed into law.
+Mr. PASCRELL. Mr. Speaker, protecting the privacy of the American
+people must be our priority. I strongly urge my colleagues to support
+this commonsense measure.
+Mr. Speaker, I yield back the balance of my time.
+Mr. SMITH of Nebraska. Mr. Speaker, my colleagues have sufficiently
+described the details of this bill, why we need to do it, and that we
+should do it immediately.
+I certainly urge my colleagues to support it so that we can get this
+done, especially to assist our men and women in uniform.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Nebraska (Mr. Smith) that the House suspend the rules
+and pass the bill, H.R. 1568, as amended.
+The question was taken.
+The SPEAKER pro tempore. In the opinion of the Chair, two-thirds
+being in the affirmative, the ayes have it.
+Mr. SMITH of Nebraska. Mr. Speaker, I object to the vote on the
+ground that a quorum is not present and make the point of order that a
+quorum is not present.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further
+proceedings on this question will be postponed.
+The point of no quorum is considered withdrawn.
+____________________

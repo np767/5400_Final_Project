@@ -1,0 +1,2814 @@
+[Congressional Record Volume 162, Number 5 (Friday, January 8, 2016)]
+[House]
+[Pages H181-H200]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+FAIRNESS IN CLASS ACTION LITIGATION ACT OF 2015
+General Leave
+Mr. GOODLATTE. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days within which to revise and extend their
+remarks and to include extraneous materials on H.R. 1927.
+The SPEAKER pro tempore (Mr. LaMalfa). Is there objection to the
+request of the gentleman from Virginia?
+There was no objection.
+The SPEAKER pro tempore. Pursuant to House Resolution 581 and rule
+XVIII, the Chair declares the House in the Committee of the Whole House
+on the state of the Union for the consideration of the bill, H.R. 1927.
+The Chair appoints the gentleman from Illinois (Mr. Rodney Davis) to
+preside over the Committee of the Whole.
+{time}  0915
+In the Committee of the Whole
+Accordingly, the House resolved itself into the Committee of the
+Whole House on the state of the Union for the consideration of the bill
+(H.R. 1927) to amend title 28, United States Code, to improve fairness
+in class action litigation, with Mr. Rodney Davis of Illinois in the
+chair.
+The Clerk read the title of the bill.
+The CHAIR. Pursuant to the rule, the bill is considered read the
+first time.
+The gentleman from Virginia (Mr. Goodlatte) and the gentleman from
+Michigan (Mr. Conyers) each will control 30 minutes.
+The Chair recognizes the gentleman from Virginia.
+Mr. GOODLATTE. Mr. Chairman, I yield myself such time as I may
+consume.
+I rise today in support of a bill that combines two important
+reforms, the Fairness in Class Action Litigation Act and the Furthering
+Asbestos Claim Transparency Act, or the FACT Act. Let me first explain
+why my colleagues should vote in favor of the Fairness in Class Action
+Litigation Act.
+Last year an independent research firm surveyed companies in 26
+countries and found that 80 percent of those that were subject to a
+class action lawsuit were U.S. companies, putting those U.S. companies
+at a distinct economic disadvantage when competing with companies
+worldwide.
+The problem of overbroad class actions doesn't just affect U.S.
+companies. It affects consumers in the United States who are forced
+into lawsuits they don't want to be in. How do we know that? We know
+that because the median rate at which consumer class action members
+take the compensation offered in a settlement is an incredibly low
+0.023 percent. That is right.
+Only the tiniest fraction of 1 percent of consumer class action
+members--less than 1 quarter of 1 percent--even bothers to claim the
+compensation awarded them. That is clear proof that vastly large
+numbers of class members are satisfied with the products they purchase,
+don't want compensation, and don't want to be lumped into a gigantic
+class action lawsuit.
+Just recently a California judicial decision reported that, in a
+class action consisting of over 230,000 people, only two of those
+230,000 wanted the coupons offered in the class action settlement. The
+judge in that case said that the case produced ``absolutely no benefit,
+really, to anybody.'' So where is all of the money going in these
+cases? To the lawyers who brought the lawsuits that hardly anyone
+wanted to be in.
+In another case, the district court had refused to certify the class
+because most of the class members had not experienced any problems with
+the product. But then the Ninth Circuit Court of Appeals reversed,
+holding that ``proof of the manifestation of a defect is not a
+prerequisite to class certification.''
+In yet another case, when the Seventh Circuit Court of Appeals
+allowed the certification of an overbroad class action, it had to
+subsequently throw out the resulting settlement, stating, ``The
+district court approved a class action settlement that is inequitable,
+even scandalous,'' because the relatively few class members who were
+actually injured ended up claiming less than 2 percent of what the
+trial lawyers got the district judge to say was warranted based on the
+overbroad size of the class.
+Trial lawyers work the system today in the following way: They file
+lawsuits, for example, against a company that sells a washing machine.
+Some of those washing machines don't work the way they are supposed to,
+but most of them do. But the lawyers file a class action lawsuit that
+includes everyone who ever purchased a washing machine from the
+company, even the large number of people who are completely satisfied
+with their purchases.
+When trial lawyers lump injured, non-comparably injured, and non-
+injured people into the same class action lawsuit, the limited
+resources of the parties are wastefully spent weeding through hundreds
+of thousands of class members in order to find those with actual or
+significant injuries. That is money that could have been spent
+compensating deserving victims.
+Sometimes, because judges don't separate the injured from the non-
+injured in class actions early enough in the proceedings, they end up
+throwing out settlements because it turns out hardly any of the class
+members were harmed and didn't want compensation.
+Other times, when judges realize they have created an overbroad
+class, they justify their actions by coming up with novel theories to
+provide some compensation to people who are entirely satisfied with the
+product and who don't want compensation.
+Either way, the solution is to direct judges to determine as best
+they can early in the proceedings which proposed class members are
+significantly and comparably injured and which aren't and to treat them
+accordingly. That is fair to everyone.
+The purpose of a class action is to provide a fair means of
+evaluating like claims, not to provide a way for lawyers to
+artificially inflate the size of a class to extort a larger settlement
+value for themselves and, in the process, increase the prices of goods
+and services for everyone.
+Claims seeking monetary relief for personal injury or economic loss
+should be grouped in classes in which those who are the most injured
+receive the most compensation. No one should be forced into a class
+action with other uninjured or minimally injured members only to see
+their own compensation reduced.
+The Fairness in Class Action Litigation Act would simply make clear
+what currently should be clear to the Federal courts, namely, that
+uninjured class members are incompatible with rule 23(b)(3)'s current
+requirement that common claims predominate a class action.
+[[Page H182]]
+Here is the full text of the Fairness in Class Action Litigation Act,
+along with quotes from the Supreme Court that show how the bill's text
+codifies existing Supreme Court precedent:
+The bill simply provides that ``no Federal court shall certify any
+proposed class seeking monetary relief for personal injury or economic
+loss unless the party seeking to maintain such a class action
+affirmatively demonstrates that each proposed class member suffered the
+same type and scope of injury as the named class representative or
+representatives'' and that ``an order issued under rule 23(c)(1) of the
+Federal Rules of Civil Procedure that certifies a class seeking
+monetary relief for personal injury or economic loss shall include a
+determination, based on a rigorous analysis of the evidence presented,
+that the requirement in subsection (a) of this section is satisfied.''
+That is it. One page. Fair rules. Common sense and wholly consistent
+with Supreme Court precedent. Please join me in supporting this bill on
+behalf of consumers everywhere.
+The FACT Act is also simple, fair reform we should all support.
+This legislation helps asbestos victims who must look to the
+bankruptcy process to seek redress for their or their loved ones'
+injuries. Too often, by the time asbestos victims assert claims for
+compensation, the bankruptcy trust formed for their benefit has been
+diluted by fraudulent claims, leaving these victims without their
+entitled recovery.
+Fraud is able to exist because of the excessive lack of transparency
+plaintiffs' firms have forced on the asbestos trust system. Under the
+current Bankruptcy Code, plaintiffs' firms essentially are granted a
+statutory veto right over debtors' chapter 11 plans that seek to
+restructure asbestos liabilities. Plaintiffs' firms have exploited this
+leverage to obtain trust rules that prevent information contained
+within the trust from seeing the light of day.
+The predictable result has been a growing wave of claims and reports
+of fraud. The increase in fraudulent claims has caused many asbestos
+bankruptcy trusts to reduce recoveries paid to asbestos victims who
+emerge following the formation of trusts.
+The FACT Act, introduced by Congressman Farenthold, combats this
+fraud by introducing long-needed transparency into the system.
+First, it requires asbestos trusts to file quarterly reports on their
+public bankruptcy dockets. These reports will contain basic information
+about demands to the trusts and the bases for payments made by the
+trusts to claimants.
+Second, the FACT Act requires asbestos trusts to respond to
+information requests about claims asserted against and the bases for
+payments made by the asbestos trusts.
+These measures are carefully designed to increase transparency while
+providing claimants with sufficient privacy protection. To accomplish
+these goals, the bill leverages privacy protections contained elsewhere
+in the Bankruptcy Code and includes additional safeguards to preserve
+claimants' privacy.
+We cannot allow fraud to continue reducing recoveries for future
+asbestos victims.
+I thank Mr. Farenthold for introducing the FACT Act to combat fraud.
+I urge all of my colleagues to vote in favor of this important
+legislation.
+Mr. Chairman, I reserve the balance of my time.
+Mr. CONYERS. Mr. Chairman, I yield myself 5 minutes.
+Members of the House, I rise in strong opposition to H.R. 1927, the
+so-called Fairness in Class Action Litigation Act and Furthering
+Asbestos Claim Transparency Act.
+I oppose the legislation because it cleverly shields corporate
+wrongdoers by making it more difficult for those who have been harmed
+by their actions from obtaining justice and it allows these wrongdoers
+to further victimize their victims.
+Among H.R. 1927's many flaws is the fact that this legislation will
+have the effect of denying individuals access to justice and
+threatening victims of corporate wrongdoing, all in the name of
+protecting the powerful. Section 2 of H.R. 1927 will make it virtually
+impossible for victims of corporate wrongdoing to obtain relief through
+class actions in cases seeking monetary relief by requiring a party
+seeking class certification to show that every potential class member
+suffered the same type and scope of injury at the certification stage.
+Now, you know that is going to be difficult.
+We come to the realization that, as it is, class actions are very
+difficult to pursue. Under current procedure, the courts strictly limit
+the grounds on which a large group of plaintiffs may be certified as a
+class, including the requirements that their claims raise common and
+factual legal questions and that the class representative's claims are
+typical of those of the other class members.
+Rather than improving upon this class certification process, however,
+H.R. 1927 imposes requirements that are almost impossible to meet,
+effectively undermining the use of class actions.
+Finally, section 3 of H.R. 1927 gives asbestos defendants--the very
+entities whose products injured millions of Americans--new weapons with
+which to harm their victims.
+Section 3 requires a bankruptcy asbestos trust to report on the
+court's public case docket, which is then made available on the
+Internet, the name and exposure history of each asbestos victim who
+receives payment from such trust as well as the basis of any payment
+made to the victim.
+As a result, the confidential personal information of asbestos
+claimants, including their names and exposure histories, would be
+irretrievably released into the public domain. Just imagine what
+identity thieves and others, such as insurers, potential employers,
+lenders, and data collectors, could do with this sensitive information.
+Essentially, this bill revictimizes asbestos victims by exposing
+their private information to the public, information that has
+absolutely nothing to do with compensation for asbestos exposure. This
+explains why asbestos victims vigorously oppose this legislation, as it
+is an assault against their privacy interests.
+{time}  0930
+So, in sum, H.R. 1927 is a seriously flawed bill that only benefits
+those who cause harm to others. Not surprisingly, the White House has
+appropriately issued a veto threat, stating that the administration
+``strongly opposes House passage of H.R. 1927 because it would impair
+the enforcement of important Federal laws, constrain access to the
+courts, and needlessly threaten the privacy of asbestos victims.''
+For all these reasons, I urge that this House oppose H.R. 1927.
+Mr. Chairman, I reserve the balance of my time.
+Mr. GOODLATTE. Mr. Chairman, I yield 3 minutes to the gentleman from
+Pennsylvania (Mr. Marino), the chairman of the subcommittee.
+Mr. MARINO. Mr. Chairman, I rise today in support of the FACT Act. As
+chairman of the Subcommittee on Regulatory Reform, Commercial and
+Antitrust Law, I have examined this piece of legislation for over the
+past year. We held hearings on the bill and solicited views from
+experts and victims alike. I heard many of the same concerns that we
+are hearing this morning. However, my own conclusion is that the FACT
+Act is a sound and necessary bill.
+By preventing fraudulent claims, the FACT Act protects asbestos
+victims and ensures the viability of the asbestos bankruptcy trust for
+the unknown victims yet to come. Claims that the bill hurts the victims
+are false. To the contrary, it would be a disservice to the victims
+themselves to permit certain bad actors to raid the trust funds and
+line their pockets in the process.
+As companies that used asbestos filed bankruptcy, the trust funds
+were created in recognition that victims must be compensated. Any
+measure that preserves these funds is clearly pro-victim.
+Some critics contend that the bill violates victim privacy by
+requiring the disclosure of certain information. We examined this
+specific issue during our hearings, and it could not be farther from
+the truth. This bill provides protections that are absent in State tort
+cases where court dockets and the personal information of plaintiffs
+are part of the public record. Section 2 of the FACT Act simply
+requires the claimant's name and a description of their exposure
+history. It then explicitly states that any disclosure does not
+[[Page H183]]
+include any confidential medical records or the claimant's Social
+Security number. It is important to note what might be missed here.
+The FACT Act amends the Bankruptcy Code. By doing this, it
+incorporates the existing privacy protections therein that permit the
+bankruptcy judge to issue protective orders when disclosure of
+information would create ``an undue risk of identity theft or other
+unlawful injury.'' This is a sound and pertinent piece of legislation.
+I would like to thank Chairman Goodlatte and my colleague from Texas
+(Mr. Farenthold) for bringing it to the floor. I urge my colleagues to
+support this legislation.
+Mr. CONYERS. Mr. Chairman, I yield 3 minutes to the gentleman from
+Tennessee (Mr. Cohen).
+Mr. COHEN. Mr. Chairman, these bills are basically chamber of
+commerce week in the United States Congress. That is what we have come
+down to, is that the chambers of commerce who represent the large
+corporations who would be the defendants in these actions, by and
+large, and consist of the people that produce the asbestos, they are
+part of it too. It gives them an opportunity to not have to pay out
+damages to victims, victims where class actions are successful--but
+would make it more difficult to be successful--and people who have been
+victims of asbestos injuries, mesothelioma being the ultimate disease
+that kills people from exposure to asbestos.
+Now, on the other side of the chamber of commerce and my friends on
+the other side are people on this side and certain groups. I want to
+tell you who the folks are who are against the bill. The NAACP. The
+Leadership Conference on Civil and Human Rights, often called the
+conscience of the Congress. The American Federation of State, County
+and Municipal Employees. Consumers Union. The American Bar
+Association--and we have heard about how lawyers are doing this and
+lawyers are doing that, lawyers are on both sides of the cases--the
+American Bar Association. Americans for Financial Reform. Public
+Citizen. The Southern Poverty Law Center, Morris Dees and company. The
+National Disability Rights Network. The Asbestos Disease Awareness
+Organization.
+The Asbestos Disease Awareness Organization is the voice of the
+victims, and they are against this. I have to be against it because I
+stand with the victims and for justice and what is fair for people who
+have been harmed by corporate wrongdoing.
+I rise to tell a personal story. One of my best friends was a man
+named Warren Zevon. He was a singer and songwriter. Somewhere along the
+line, he was exposed to asbestos, and he died in September of 2003 of
+mesothelioma. But for asbestos and him being exposed to it in some
+manner, he would be with us today and would have been with us for the
+last 12 years, giving us entertainment and songs and maybe songs about
+some of the things that have been going down here.
+One of his last songs was ``I Was in the House When the House Burned
+Down.'' Well, it wasn't this House, but it could have been this House.
+This House is the people's House, and it should be looking out for
+victims and people who should get compensation in courts.
+When we travel internationally, one of the things we find is that
+people revere our justice system. They look to America for justice and
+an open court system that they don't have in their own nations. These
+bills would close the door on justice and close the door on the courts,
+and that is not what America is about and that is not why we are
+respected internationally.
+I respectfully ask that we oppose these bills and vote ``no.''
+Support the victims. Support justice.
+Mr. GOODLATTE. Mr. Chairman, I reserve the balance of my time.
+Mr. CONYERS. Mr. Chair, I yield 2\1/2\ minutes to the gentleman from
+Georgia (Mr. Johnson), a distinguished member of our committee.
+Mr. JOHNSON of Georgia. Mr. Chair, I rise in opposition to H.R. 1927,
+section 3, the so-called Fairness in Class Action Litigation Act of
+2015, which is actually the text of H.R. 526, the Furthering Asbestos
+Claim Transparency, or the FACT Act.
+It is a fact that the Koch brothers are probably sitting back at home
+with their fingers crossed watching these debates, hoping and feeling
+quite confident that this will pass because they know when it passes,
+it is going to help them.
+How does it help them? Well, they are the ones who manufactured or
+acquired the companies that manufactured the asbestos, this asbestos
+everybody knows now hurts people. So when people are hurt, they deserve
+to be able to go into a court of law and establish their claim and seek
+just compensation for their victimization by that company.
+What this legislation does is to put its ugly hand on the scale of
+justice in favor of the manufacturers of this dangerous product and,
+also, their insurance companies. It puts its ugly hand on that scale,
+weighs it down in favor of those companies. So all of them are looking
+upon us now, hoping that we do what they would like for us to do.
+Please know that not everybody is going to go along with this. There
+are some who stand with victims who deserve a day in court. They
+deserve, when they go to court, to not have to be subjected to the
+public release of their very private and sensitive information, their
+medical information. There should not be any kind of registry, like a
+gun registry, established.
+This is a registry--we should actually call it an asbestos death
+database--which would allow these insurance companies and producers,
+manufacturers of death, to have access to people's personal information
+so that they could use it against them when they file claims. That is
+what this bill is all about.
+I would ask that my colleagues understand the true purpose and vote
+``no'' on this act.
+Mr. GOODLATTE. Mr. Chairman, I yield 5 minutes to the gentleman from
+Texas (Mr. Farenthold), the chief sponsor of a portion of this
+legislation.
+Mr. FARENTHOLD. Mr. Chair, it is my privilege to be here to speak on
+behalf of the FACT Act.
+Just a quick, oversimplified history of how the asbestos trusts came
+into being. The manufacturers of asbestos, when it became known that it
+was such a deadly product, realized that there weren't enough assets
+within the company to pay all the claims. So they availed themselves of
+the bankruptcy laws of this country. What the bankruptcy courts said
+was: Look, put all of your assets into a trust to pay off the victims
+and you can reorganize your company. That is how these trusts were
+created.
+So the companies are not going to be on the hook anymore. The ones
+that survived, reorganized, or were acquired have had their
+obligations, with respect to asbestos, discharged in bankruptcy. What
+they did to do this was they created these trusts to compensate future
+victims.
+So what is happening now is there are people who are gaming the
+system, multiple claims in State or Federal courts. They are going to
+these trusts saying: I was injured by asbestos, pay me. Which is what
+is supposed to happen. But you are only supposed to get compensated
+once for your asbestos injury. If you do multiple claims, you are
+taking money out of the system that would be available for future
+victims. Diseases like mesothelioma take years to manifest themselves.
+What the FACT Act does is require these trusts to publish a very
+small amount of information--the name of the person who is filing a
+claim, the basis of their claim--I was exposed to asbestos at XYZ
+location and developed mesothelioma--and it specifically protects their
+privacy by prohibiting the release of their Social Security number.
+The information that is required here is actually less information
+than I would be required to give if, say, Mr. Cohen hit me with his
+car. If I were hit by his car, I would have to disclose my name, the
+nature of my injury, and a lot more information to file a suit in State
+court. We are not asking for any more information than is normally
+disclosed in any sort of litigation.
+In fact, there are specific privacy protections in the Bankruptcy
+Code that are going to protect even further than you would in a State
+court. This bill was written to help those veterans who were exposed to
+asbestos and are not yet manifesting symptoms. It was designed to help
+all the victims who were exposed and are not yet manifesting symptons.
+[[Page H184]]
+If we drain all the money out of these trusts, there is nothing that
+is going to be left to help the people who were injured later on in the
+process. So this is why I introduced the legislation, this is why I
+think it needs to pass, and this is why I urge my colleagues to join me
+in supporting it.
+I am also happy that this bill was combined with a great piece of
+legislation to get rid of some of the waste, fraud, and abuse that is
+happening within the system of class action lawsuits.
+I don't know about you, Mr. Chairman, but my wife and I have probably
+got a half a dozen or so notices in the mail over the years for class
+actions. As a lawyer, I actually sit down and read them. It ends up
+most of the time that they are offering me a coupon or a gift
+certificate or something worth a couple of dollars while the
+plaintiff's attorney is getting millions of dollars.
+We need to get this system down to where those who are actually
+injured as a result of whatever has happened in the class action get
+adequate compensation and those folks who weren't injured or are happy
+with the product don't get anything because they haven't asked for
+anything, they don't want anything, and they weren't injured.
+{time}  0945
+This will simplify the system. It will lower the cost, and it will
+make sure there is more money available for those who were actually
+injured.
+This is a great combination of bills, and I urge my colleagues to
+support it.
+Mr. CONYERS. Mr. Chairman, I include in the Record letters from 19
+veterans organizations that are totally opposed to this bill.
+January 7, 2015.
+Re Veterans Service Organizations oppose H.R. 1927, the
+Fairness in Class Action Litigation and Furthering
+Asbestos Claims Transparency Act.
+Hon. Paul Ryan,
+Speaker of the House, House of Representatives, Washington,
+DC.
+Hon. Kevin McCarthy,
+Majority Leader, House of Representatives, Washington, DC.
+Hon. Nancy Pelosi,
+Minority Leader, House of Representatives, Washington, DC.
+Hon. Steny Hoyer,
+Minority Whip, House of Representatives, Washington, DC.
+Dear Speaker Ryan, Leader McCarthy, Leader Pelosi, and Whip
+Hoyer: We, the undersigned Veterans Service Organizations,
+oppose H.R. 1927, the ``Fairness in Class Action Litigation
+and Furthering Asbestos Claims Transparency Act of 2015.'' We
+have continuously expressed our united opposition to this
+legislation via written testimony to the House Judiciary
+Committee, House Leadership, in-person meetings and phone
+calls with members of Congress, and most recently, an op-ed
+many of our legislative teams submitted to ``The Hill'',
+entitled ``Farenthold has his facts wrong: The FACT Act hurts
+Veterans''. It is extremely disappointing that even with our
+combined opposition H.R. 1927 stands poised to be voted on
+the House floor later this week.
+Veterans across the country disproportionately make up
+those who are dying and afflicted with mesothelioma and other
+asbestos related illnesses and injuries. Although veterans
+represent only 8% of the nation's population, they comprise
+30% of all known mesothelioma deaths.
+When our veterans and their family members file claims with
+the asbestos bankruptcy trusts to receive compensation for
+harm caused by asbestos companies, they submit personal,
+highly sensitive information such as how and when they were
+exposed to the deadly product, sensitive health information,
+and more. H.R. 1927 would require asbestos trusts to publish
+their sensitive information on a public database, and also
+include how much money they received for their claim as well
+as other private information. Forcing our veterans to
+publicize their work histories, medical conditions, social
+security numbers, and information about their children and
+families is an offensive invasion of privacy to the men and
+women who have honorably served, and it does nothing to
+assure their adequate compensation or to prevent future
+asbestos exposures and deaths.
+Additionally, H.R. 1927 helps asbestos companies add
+significant time and delay paying trust claims to our
+veterans and their families by putting burdensome and costly
+reporting requirements on trusts, including those that
+already exist. One must ask what is the real motivation for
+this legislation brought forward by Representative
+Farenthold? Rather than pursuing legislation to make it
+easier and less burdensome for our veterans and their
+families to get the compensation they so desperately need for
+medical bills and end of life care, trusts will have to spend
+time and resources complying with these additional and
+unnecessary requirements at the expense of our veterans.
+H.R. 1927 is a bill that its supporters claim will help
+asbestos victims, but the reality is that this bill only
+helps companies and manufacturers who knowingly poisoned our
+honorable men and women who have made sacrifices for our
+country.
+We urgently ask on behalf of our members across the nation
+that you oppose H.R. 1927.
+Please contact Hershel Gober, National Legislative
+Director, Military Order of the Purple Heart with any
+questions.
+Signed:
+Air Force Sergeants Association, Air Force Women's Officers
+Associated (AFWOA), American Veterans (AMVETS), Association
+of the United States Navy (AUSN), Commissioned Officers
+Association of the US Public Health Services, Fleet Reserve
+Association (FRA), Jewish War Veterans of the USA (JWV),
+Marine Corps Reserve Association (MCRA) Military Officers
+Association of America (MOAA), Military Order of the Purple
+Heart (MOPH), National Association of Uniformed Services
+(NAUS), National Defense Council, Naval Enlisted Reserve
+Association, The Retired Enlisted Association (TREA), United
+States Coast Guard Chief Petty Officers Association, United
+States Army Warrant Officers Association, Vietnam Veterans
+Association (VVA).
+Mr. CONYERS. I yield 2\1/2\ minutes to the distinguished gentlewoman
+from Washington (Ms. DelBene).
+Ms. DelBENE. Mr. Chairman, the FACT Act, which is part of the
+underlying legislation, has been touted as an effort to promote
+transparency and address a supposedly systemic problem of fraud with
+asbestos trusts set up to pay settlements owed to victims of asbestos
+exposure, but this bill is a solution in search of a problem and places
+invasive demands on victims that violate their privacy and open them up
+to identity theft and other abuses while failing to require
+transparency from the companies that created this nationwide problem in
+the first place. The nonpartisan GAO found that 98 percent of trusts
+perform audits, and none of those audits uncovered fraud.
+While the bill's proponents claim that this is a measure to protect
+asbestos trusts for victims, it speaks volumes that not a single
+victims group supports this bill.
+For decades, asbestos companies knowingly put Americans at risk--
+servicemembers, children, teachers, first responders, construction
+workers, and even those who work here in the Capitol--with a toxic
+product that kills close to 15,000 people every year. Today old
+structures across the country still contain asbestos and can pose
+serious health risks. Experts have referred to workers who perform
+repair work as the current third wave of victims.
+Given the nature of the asbestos threat, it is outrageous that the
+laws fail to require asbestos companies to disclose information when it
+comes to public health and safety and disappointing that this has
+become a partisan issue.
+In 1988, President Reagan signed into law the Asbestos Information
+Act, which required manufacturers of asbestos-containing products to
+report information about these products to the Environmental Protection
+Agency, but the Asbestos Information Act was just a one-time reporting
+requirement, and it predated the Internet.
+That is why, along with my colleague, the gentleman from Texas (Mr.
+Gene Green), I have introduced the Reducing Exposure to Asbestos
+Database Act, or the READ Act, which amends the Asbestos Information
+Act to require those who manufacture, import, or handle products
+containing asbestos to annually report information to the EPA about
+their products and any public location where they have been present in
+the past year. This information would be made publicly available
+online, helping Americans avoid exposure to asbestos and incentivizing
+the continued reduction of asbestos use in our Nation until it is
+finally eliminated once and for all. Unfortunately, when the READ Act
+was offered as an amendment to this bill, it was not ruled in order.
+Asbestos poses an ongoing threat to public health, and more
+transparency about this deadly product, not less, should be the norm.
+The CHAIR. The time of the gentlewoman has expired.
+Mr. CONYERS. I yield an additional 15 seconds to the gentlewoman.
+Ms. DelBENE. I urge my colleagues to oppose the FACT Act and join me
+in working to promote transparency that helps, rather than victimizes,
+those who have been facing heartbreaking consequences of asbestos
+exposure.
+Mr. GOODLATTE. Mr. Chairman, may I ask how much time is remaining on
+each side?
+[[Page H185]]
+The CHAIR. The gentleman from Virginia has 14 minutes remaining. The
+gentleman from Michigan has 16\3/4\ minutes remaining.
+Mr. GOODLATTE. Mr. Chairman, I reserve the balance of my time.
+Mr. CONYERS. Mr. Chairman, I yield 2\1/2\ minutes to the gentleman
+from California (Mr. Peters).
+Mr. PETERS. Mr. Chairman, veterans are disproportionately affected by
+diseases caused by asbestos, and although veterans represent only 8
+percent of the Nation's population, they comprise almost one-third of
+all known mesothelioma deaths that have occurred in this country.
+Mesothelioma has an uncommonly long period of latency of 20 to 30
+years, which means that veterans exposed to asbestos who retired from
+Active Duty decades ago are getting sick today.
+Hundreds of Navy ships and military installations dating back to
+World War II were constructed with asbestos flooring, flooring tiles,
+ceiling tiles, and wall insulation. That means that hundreds of
+thousands of workers and sailors were unknowingly exposed to dangerous
+asbestos levels, and as a result many of those men and women contracted
+asbestos-related diseases.
+J. Patrick Little, the national commander of the Military Order of
+the Purple Heart, wrote to House leadership in direct opposition of
+this bill. He said: ``The FACT Act adds insult to injury for veterans
+and their families at a time when they are suffering from the
+devastating effects of asbestos exposure.''
+The FACT Act must be amended to protect veterans who were exposed to
+those dangerous minerals while serving their country. I tried to amend
+this bill twice to exempt asbestos trusts from having to file onerous
+reports to the bankruptcy courts if the claimant is a member of the
+Armed Forces, a civilian employee of the Department of Defense, and
+their families to avoid any potential delay in these individuals
+receiving their desired benefits in a timely manner; but the majority
+did not make this commonsense amendment in order because they are not
+prepared to defend this bill against the serious concerns raised by
+veterans, including the Military Order of the Purple Heart, who say
+that the bill is unnecessary, unfair, and only benefits the asbestos
+industry rather than our veterans who proudly served their country and
+were unknowingly exposed to this deadly substance.
+In the absence of this amendment, Mr. Chairman, I urge a ``no'' vote
+on the bill.
+Mr. GOODLATTE. Mr. Chairman, I reserve the balance of my time.
+Mr. CONYERS. Mr. Chairman, I am pleased to yield 2\1/2\ minutes to
+the gentleman from New York (Mr. Jeffries), a distinguished member of
+our committee.
+Mr. JEFFRIES. Mr. Chair, I thank the distinguished ranking member
+from Michigan for yielding as well as for his steadfast leadership.
+This is a new year with a new Speaker and new promises of bipartisan
+cooperation, yet we are here today on the House floor doing the same
+exact thing.
+The asbestos industrial complex is responsible for unleashing
+mesothelioma, lung cancer, and other exotic diseases of mass
+destruction on thousands of unsuspecting Americans, many of whom have
+served this country in the military, and yet we are being asked today
+to support legislation that would shield the wrongdoers from liability.
+At the end of the day, if you think about the bill that has been
+presented to us, the claim has been made that it is about disclosure,
+but the wrongdoers aren't really being asked to disclose anything
+further.
+The claim has been made about this bill that it is about efficiency,
+yet there is not a scintilla of evidence of waste, fraud, or abuse.
+The claim has been made that this is about fairness, yet at the end
+of the day the practical effect of this legislation would be to prevent
+the victims from being able to achieve just compensation.
+At the end of the day, this is the same old approach: trying to find
+a solution in search of a problem that does not exist. This is a
+messaging bill that is dead on arrival in the Senate and will not be
+signed into law by the President.
+Instead of wasting the time and the treasure of the American taxpayer
+through their elected Representatives here in the House, why don't we
+just get back to doing the business of the American people?
+Vote ``no'' against this invidious legislation so we can do what the
+people have sent us to do here in the United States Congress.
+Mr. GOODLATTE. Mr. Chairman, it is my pleasure to yield 3 minutes to
+the gentleman from Michigan (Mr. Trott), a member of the Committee on
+the Judiciary.
+Mr. TROTT. Mr. Chairman, I support H.R. 1927, as it will bring
+transparency to the asbestos claims process. This is an important goal,
+as the secrecy that currently surrounds the process has led to abuse
+and, in turn, compromised the benefits for future victims.
+Those who oppose the bill have two arguments against passage. First,
+they suggest that there really is not a fraud problem. Well, when you
+leave the fox in charge of the henhouse, you typically end up with a
+problem.
+The facts are pretty clear. A lack of transparency has allowed some
+law firms and individuals to manipulate the claims process. This should
+not surprise anyone. When you allow one of the ultimate beneficiaries
+to structure the trusts, administer the claims, with no accountability
+or oversight, of course there will be abuse.
+Several policy studies, the GAO, and independent judges in at least
+10 different States have found questionable claims, fraud, and abuse.
+So to those who vote against this solution, I say you are choosing to
+enrich unethical lawyers and claimants at the expense of victims who
+have legitimate injuries, injuries for which they deserve compensation.
+The second argument against this bill is that it somehow compromises
+the privacy of claimants. Again, this is not true. The FACT Act has
+much stronger privacy protections than State court. Further, section
+107 and rule 9037 of the Federal Rules of Bankruptcy Procedure offer
+additional safeguards. The reporting requirements do not require the
+disclosure of Social Security numbers or medical records. The act
+requires the disclosure of less information than would be required if
+the claimant were to start a lawsuit in State court.
+A vote against this bill means you are okay with secrecy, you are not
+bothered by fraud or abuse, you don't mind allowing lawyers to use
+their positions as the architects of these trusts to line their own
+pockets, and you don't care about the victims who have legitimate
+claims of asbestos-related diseases.
+It is, in fact, a problem that people have made this a political
+issue. To those who have argued against this bill, I ask: Who will be
+there and what resources will be available to our veterans when
+fraudulent claims and multiple claims have exhausted these trusts?
+The rule contemplated in H.R. 1927 brings much-needed transparency to
+Bankruptcy Code section 524G.
+I urge my colleagues to support the bill.
+Mr. CONYERS. Mr. Chairman, I yield 2\1/2\ minutes to the gentlewoman
+from Texas (Ms. Jackson Lee), a senior member of the House Committee on
+the Judiciary.
+Ms. JACKSON LEE. Chairman Goodlatte and Ranking Member Conyers, thank
+you for managing this legislation; and thank you, Mr. Conyers, for
+yielding the time.
+Many of us in cases dealing with making sure our cities work,
+sometimes we have a one-way street, and we gravitate toward the one-way
+street because we might be able to move faster down that one-way
+street. That is traffic flow.
+But when we talk about justice for people, a one-way street doesn't
+work because that means only one group of people can find justice at
+the courthouse--and that is what this legislation does. It is a one-way
+street. Only one group gets victory and justice because only one group
+is not required to be transparent. The other group has to be
+transparent. They can't get on the one-way street.
+I oppose this legislation because it requires the Federal class
+action to have each class member suffer the same type and same scope of
+injury as the named class. I heard it on the floor by one of our
+distinguished Members
+[[Page H186]]
+saying that it is the broken arm group. If you have got a broken arm,
+you are in the class; if you have a broken leg, you aren't, but it came
+about through the same incident. That is an unfair and impractical way
+of getting justice for the American people.
+The second reason I oppose this legislation is because it would
+invade the privacy of asbestos victims by requiring the posting of
+personal exposure and medical information online and erect new barriers
+to victims receiving compensation for their asbestos illness.
+Thousands of workers and family members have been exposed to,
+suffered, or died of asbestos-related cancers and lung disease. It is
+particularly outrageous that many of the major asbestos producers
+refuse to accept responsibility.
+{time}  1000
+I would make the argument that many of us knew a very dear friend,
+Congressman Bruce Vento. I understand his wife may be in the gallery.
+I think it is important that we think of the asbestos victims and
+their families who suffered from mesothelioma, as Congressman Vento
+did, and died.
+His wife requested an opportunity to testify so that the voices of
+their family members could be heard on this bill, but she was turned
+down. I will include that letter in the Record.
+In the last Congress, she and two other asbestos victims repeatedly
+requested to testify on the FACT Act, but they were turned down.
+January 5, 2016.
+Re Asbestos Patients and Their Families Say ``Listen to
+Us''--Oppose Section 3 of H.R. 1927, the So-Called ``FACT
+Act''
+Dear Representative: We write to express our strong
+opposition to the misnamed ``Furthering Asbestos Claim
+Transparency Act'' (the FACT Act), which has been
+incorporated as Section 3 of H.R. 1927, the ``Fairness in
+Class Action Litigation Act.'' Sponsors of the FACT Act claim
+that the legislation will ``increase relief for victims of
+asbestos.'' We are asbestos patients and family members of
+loved ones who have died or presently suffer from the
+wrongful and deceitful conduct of asbestos companies. We are
+from states and districts across the United States. We are
+Republicans and Democrats. We represent current and former
+workers, veterans, police officers, firefighters, homemakers
+and children. We have come together to express our
+unquestioned opposition to this legislation and our utter
+outrage that the House may pass it without even giving us--
+the ``Real People,'' not of Washington, but the actual
+victims of asbestos exposures a chance to testify on the
+record about the bill--even though supporters claim it is in
+our interest!
+The fact is the so-called FACT Act is not in the interest
+of asbestos victims. The bill, as it is designed to do, will
+make it harder for victims to seek justice for their injuries
+and suffering. It is in the interest of the companies that
+are lobbying for it--the companies that used asbestos,
+knowing that it was a deadly toxin, exposed their workers and
+the public, and are now seeking to use Congress to shield
+them from legal liability for their behavior. We are
+horrified by this reality and we are going to do our best to
+let all Americans know what is going on here.
+Many of us traveled to Washington, DC in February to watch
+the hearing on the FACT Act. Our group's spokesperson, Susan
+Vento, the widow of the late Congressman Bruce Vento who
+passed away from mesothelioma in 2000, had requested an
+opportunity to testify so that the voices of the people who
+are most affected by this bill would be heard. But she was
+turned down. In the last Congress, Sue and two other asbestos
+victims repeatedly requested to testify on the FACT Act, but
+they, too, were turned down each time. Tragically, one of
+those victims passed away from asbestos disease. To date, not
+one person who has been directly affected by the ravages of
+asbestos disease has been permitted to testify about this
+legislation. The bill's supporters claim to care about
+victims, yet we have been treated with disrespect and neglect
+every step of the way.
+There is really no mystery why supporters of the
+legislation don't want to hear from us--it's because they
+know that this legislation was never intended to benefit
+victims. This legislation is being advanced at the request of
+the companies that used asbestos and concealed the dangers
+from their workers, employees and consumers, many of whom are
+paying with their very lives due to these deadly exposures.
+Now these companies are seeking to shield themselves from
+responsibility under the guise of imposing ``transparency''
+on asbestos victims. Congress should not favor asbestos
+wrongdoers over the interests of patients and families.
+The FACT Act would force victims seeking any compensation
+from a private asbestos trust fund to reveal on a public web
+site private information including the last four digits of
+our Social Security numbers, and personal information about
+our families and kids. This is offensive. The information on
+this public registry could be used to deny employment,
+credit, and health, life, and disability insurance. We are
+also extremely concerned that victims would be more
+vulnerable to cybercriminals, such as identity thieves, con
+artists, and other types of predators.
+Glen Kopp, a partner with the law firm of Bracewell &
+Giuliani and a leading authority in the area of privacy law,
+recently reviewed the FACT Act and concluded that it presents
+significant privacy concerns. (See ``Analysis: Identity Theft
+Threatens Asbestos Victims Under Congressional Proposal,''
+Asbestos Nation, EWG Action Fund,
+http://
+www.asbestosnation.org/analysis-identity-theft-for-asbestos-
+victims-looms-under-
+congressional-proposal/
+)
+Mr. Kopp noted that the personal information of asbestos
+patients and families that the FACT Act would make public is
+precisely the type of information that is typically used by
+identity thieves. That is why federal and state law
+enforcement authorities recommend this type of information be
+kept away from any form of public disclosure. And yet, the
+FACT Act would require it to be placed on a public web site!
+While the legislation invades the privacy of asbestos
+patients and families, it contains no requirements for
+transparency from the asbestos industry, which concealed the
+dangers of asbestos exposure for decades, causing one of the
+worst public health crises in U.S. history, affecting not
+just our families, but millions of American families, and
+that still continues to this day.
+The FACT Act is completely one-sided. It requires so-called
+transparency from asbestos victims but it allows asbestos
+companies to continue to demand confidentiality of their
+settlements and hide information about how and when they
+exposed the public and their workers to asbestos. How can
+asbestos companies claim they want transparency, after they
+spent decades covering up the dangers of asbestos while we
+and our family members were unknowingly exposed?
+We have heard that the FACT Act is needed because of an
+epidemic of fraud against the asbestos trusts. But the
+evidence doesn't support this claim. This bill treats us and
+other asbestos victims like criminals rather than innocent
+victims of corporate deceit.
+The signatories on this letter represent thousands of
+people across the country who are suffering because of
+asbestos exposure. We would like to be in Washington in
+person to object to this mean-spirited and dangerous
+legislation. But most of us can't travel because of our
+illnesses. Others don't have the resources or the time to
+come all the way to Washington. But each and every one of us
+opposes any legislation that would make life more difficult
+for asbestos victims. Asbestos victims and our families don't
+have time on our side. Every day counts for us. Mesothelioma
+victims are typically racing against the clock to ensure
+their families aren't burdened with huge medical bills and
+that they are taken care of. It's astonishing to us that, of
+all the issues Congress could be addressing relating to
+asbestos, you have chosen one that does nothing for victims,
+but rather one that gives additional tools to the asbestos
+industry to drag out these cases and escape accountability.
+We are the real people who matter in this debate, and yet
+the supporters of the FACT Act would not allow any of us to
+testify. We may have been shut out of the hearings, but we
+will not be silenced. We are determined to stop any
+legislation that places the interests of the asbestos
+industry above the rights of innocent victims. The U.S.
+Congress should honor all veterans and hard-working
+Americans. Please vote no.
+Sincerely,
+Susan Vento, Widow of Rep. Bruce Vento (D-MN),
+Mesothelioma Victim, Maplewood, Minnesota; Judy Van
+Ness, Widow of Richard Van Ness, Veteran and
+Mesothelioma Victim, Richmond, Virginia; Kim Beattie,
+Niece of Jerry Fisher, beloved Uncle and Mesothelioma
+Victim, West Branch, Iowa; Pam Wilson, Neice of Jerry
+Fisher, beloved Uncle and Mesothelioma Victim,
+Johnston, Iowa; Michael and Sharon Valach, Son and
+Daughter-in-law of George Valach, Mesothelioma Victim,
+Hiwassee, Virginia; Loring and Mary Jane Williams; Mary
+Jane Williams is a Mesothelioma Patient, Springfield,
+Ohio; Ginger and Jaffod Horton; Ginger Horton is a
+Mesothelioma Patient, Fairview, North Carolina; Jill
+Waite, Daughter of Bruce Waite, Deceased Mesothelioma
+Victim, Ontario, Ohio; Latonyta Manuel, Widow of Andrew
+Manuel Jr., Mesothelioma Victim, Canton, Michigan;
+Courtney Davis, Daughter of Larry Davis, deceased,
+because Congress never eliminated asbestos use, Durham,
+North Carolina; Rachel Alice Shaneyfelt, Rachel is a
+Mesothelioma Patient, Trussville, Alabama.
+Ms. JACKSON LEE. I want to listen to the families. I oppose this
+legislation, and I ask my colleagues to vote against it.
+Mr. Chair, I rise in opposition to H.R. 982, the so-called ``Fairness
+in Class Action Litigation and Furthering Asbestos Claim Transparency
+Act of 2015.''
+I oppose this intrusive and burdensome legislation for two reasons.
+First, I oppose H.R. 1927 because it would prohibit a federal court
+from certifying a federal class action unless each class member has
+suffered the same type and same scope of injury as the named class
+representative.
+The practical effect of this requirement, if enacted, would be the
+effective immunization of corporate misconduct and fraud such as the
+[[Page H187]]
+Volkswagen ``cheat device'' scandal on CleanDiesel vehicles.
+For example, if H.R. 1927 were to become law, two families who were
+defrauded by Volkswagen would not be able to join together to bring a
+class action because they bought their cars at slightly different times
+or drove the cars in slightly different ways.
+This makes no sense unless the objective is to discourage ordinary
+Americans from obtaining relief for the injuries caused by the
+misconduct of large national corporations.
+The second reason I oppose this legislation is because it would
+invade the privacy of asbestos victims by requiring the posting of
+personal exposure and medical information online and erect new barriers
+to victims receiving compensation for their asbestos illnesses they
+contracted through no fault of their own and for which asbestos
+producers were legally responsible.
+We have witnessed decades of uncontrolled use of asbestos, and, even
+after its hazards became widely known, the consequences of this
+dangerous product are visiting death, disease, and heartbreak on
+innocent victims and their families.
+Hundreds of thousands of workers and family members have been exposed
+to, suffered from, or died of asbestos-related cancers and lung
+disease.
+And sadly, the toll continues to the present day.
+It is estimated that each year 10,000 people in the United States are
+expected to die from asbestos related diseases.
+This is an outrage--and to add to their misery--they have to deal
+with the onerous provisions of H.R. 1927.
+Time and time again, asbestos victims have faced huge obstacles,
+inconvenient barriers, and veiled but persistent resistance in
+receiving compensation for their injuries.
+It is important to note that asbestos litigation is the longest-
+running mass tort litigation in the history of the United States.
+It is particularly outrageous that many of the major asbestos
+producers refused to accept responsibility and most declared bankruptcy
+in an attempt to limit their future liability.
+In 1994 Congress passed reasonably balanced legislation that allowed
+the asbestos companies to set up bankruptcy trusts to compensate
+asbestos victims and reorganize under the bankruptcy law.
+But these trusts lack adequate funding to provide just compensation;
+according to a 2010 RAND study, the median payment across the trusts is
+sufficient to compensate only 25% of the damages suffered by the
+claimant.
+With compensation from these trusts so limited, asbestos victims have
+sought redress from the manufacturers of other asbestos products to
+which they were exposed--the original tortfeasors.
+The Occupational Safety and Health Administration, better known as
+OSHA, noted two decades ago that: ``It was aware of no instance in
+which exposure to a toxic substance has more clearly demonstrated
+detrimental health effects on human than has asbestos exposure.''
+We see the harm that asbestos causes when it afflicts its victims--
+ordinary Americans who simply went to work every day to support their
+families.
+And although the proponents of this legislation assert that it is
+intended to protect asbestos victims, it is interesting to note that
+not a single asbestos victim has come forth to express support for this
+legislation.
+As the widow of one of our former colleagues, the beloved Congressman
+Bruce Vento of Minnesota, who passed away from mesothelioma, has
+stated, this legislation ``does not do a single thing'' to help
+asbestos victims and their families.
+H.R. 1927 does not help and actually disturbs a reasonably well-
+functioning asbestos victim compensation process.
+Entities facing overwhelming mass tort liability for causing asbestos
+injuries may, under certain circumstances, shed these liabilities and
+financially regain their stability in exchange for funding trusts
+established under Chapter II of the Bankruptcy Code to pay the claims
+of their victims, under certain circumstances.
+H.R. 1927, however, interferes with this longstanding process in two
+ways.
+First, the legislation would require these trusts to file a publicly
+available quarterly report with the bankruptcy court that includes
+personally identifiable information about claimants, including their
+names, exposure history, and basis for any payment made to them.
+Second, the bill requires the trusts to provide any information
+related to payment and demands for payment to any party to any action
+in law or equity concerning liability for asbestos exposure.
+It is particularly galling that many of the major asbestos producers
+refuse to accept responsibility and that most declared bankruptcy in an
+attempt to limit their future liability.
+How much more can we put on these poor victims?
+If you want information, go to their counsel, go to the courthouse.
+With more than 10,000 Americans suffocating every year from horrific
+asbestos diseases like mesothelioma, this House should be focused on
+ensuring justice for the victims and protecting the public health and
+safety instead of debating legislation designed to delay compensation
+and deny justice for dying asbestos victims.
+I urge my colleagues to vote against this utterly intrusive
+legislation.
+Mr. GOODLATTE. Mr. Chairman, I continue to reserve the balance of my
+time.
+Mr. CONYERS. Mr. Chairman, I yield 1 minute to the gentlewoman from
+California (Ms. Pelosi), the minority leader.
+Ms. PELOSI. I thank the gentleman for yielding, and I thank him for
+his ongoing championing of the pledge we take every day: liberty and
+justice for all.
+Mr. Chairman, last year marked the 800th anniversary of the signing
+of the Magna Carta. Eight hundred years ago, this storied charter first
+laid out a basic right to justice as the foundation of a fair society.
+It was interesting to see in the observance of the 800th anniversary
+of the Magna Carta that they brought out 12 chairs to represent where
+the barons sat to make their case to King John. Those 12 chairs
+represent a trial by jury, 12 peers. Even under the King, the Magna
+Carta declared the lawful judgment by his peers. This much was owed the
+people.
+``To no one will we sell, to no one will we deny, or delay right or
+justice.'' We pledge each day not justice for only the powerful and the
+wealthy, but liberty and justice for all.
+You can read what I said and much more about justice and the Magna
+Carta in the book ``1215: The Year of Magna Carta.'' It is pretty
+thrilling that 800 years ago, people knew that it was fundamental for
+the leverage to be with the people and that they had rights. The right
+to justice is part of the beating heart of America's democracy. It is
+the sword and shield against plutocracy and tyranny.
+Yet, today, with their class action bill, Republicans are trying to
+weaken that right, taking the justice that belongs to every American
+and handing it to the privileged few. It is about who has the leverage.
+Class actions are an indispensable tool for individuals to hold
+powerful interests and big corporations accountable for their misdeeds.
+Without the ability to band together, Americans who have endured grave
+injuries and egregious wrongs face a David and Goliath struggle for
+justice.
+Without class actions, the wealthy and powerful can divide and
+conquer their victims, burying families' pleas for fair remedy with the
+sheer weight of their money and resources. With this bill, Republicans
+are yet again helping the special interests flatten hardworking
+Americans.
+We see the same goal in play in the Republican provisions attacking
+asbestos victims that are folded into this bill. As was mentioned by
+our colleague, Congresswoman Jackson Lee, in her letter, Sue Vento,
+widow of our esteemed colleague, Bruce Vento, made a plea for them not
+to include this in this bill, but they did.
+These provisions claim to serve transparency. Indeed, the
+Republicans' effort to protect asbestos companies, intimidate asbestos
+victims, could not be clearer. They require absolutely no transparency
+on the part of the asbestos companies. Instead, they invade the privacy
+of thousands of Americans, many of them veterans and even children in
+schools.
+This isn't about somebody taking a job that has risks. This is about
+children going to school and being exposed to asbestos and their
+privacy being invaded.
+I am so pleased we will have a motion to recommit to address that
+later.
+It also makes them vulnerable to harm by disclosing personal
+information in the public domain.
+Over and over again, this Republican Congress works to stack the deck
+for the special interests against hardworking Americans. We see it in
+campaign finance, where Republicans will drown the voices of the
+American people in a tidal wave of unlimited special interest spending
+in our elections and completely resisting any opportunity to disclose.
+If you like transparency, you should love disclosure of where this
+money is coming from.
+[[Page H188]]
+We see it in the assault on labor, where Republicans would dismantle
+collective bargaining and undermine workers seeking a bigger paycheck,
+which they have long deserved.
+We see it in this bill on class actions, where Republicans would deny
+justice to millions of Americans. In the courts, in the workplace, in
+our environment, in our elections, the Republican Congress has
+strengthened powerful interests and weakened hardworking Americans.
+Our Founders pledged their lives, their liberty, their sacred honor,
+to establish a government of the many, not a government of the money.
+This is the people's House. Let us stand with the American people in
+opposing this appalling Republican bill.
+With that, I urge a ``no'' vote on the bill.
+Mr. GOODLATTE. Mr. Speaker, I yield 2\1/2\ minutes to the gentleman
+from Texas (Mr. Farenthold).
+Mr. FARENTHOLD. Mr. Chairman, as we have been going through this
+debate, we have entered in the Record and had some discussions about
+the groups that oppose this bill. I did want to point out that there
+are quite a few organizations--veterans organizations included--that
+are in support of this bill.
+In fact, there is a pretty broad base of support: The 60 Plus
+Association; the Air Force Association, Department of Indiana; the
+American Military Society; the Arizona Chamber of Commerce and
+Industry; Arizona Manufacturers Council; the Civil Justice Association
+of California; Coalition for Common Sense; Cost of Freedom, Indiana
+Chapter; Florida Chamber of Commerce; Florida Justice Reform Institute;
+Georgia Chamber of Commerce; Hamilton County Veterans; Illinois Chamber
+of Commerce; Lawsuit Reform Alliance of New York; the Louisiana
+Association of Business and Industry; the Michigan Chamber of Commerce;
+the Military Officers Association, Indianapolis Chapter; Missing in
+America Project of Indiana; National Association of Manufacturers; the
+National Black Chamber of Commerce; the New Jersey Civil Justice
+Institute; the North Carolina Chamber of Commerce; the Pennsylvania
+Chamber of Commerce and Business and Industry; the Reserve Officers
+Association Department of Indiana; Save Our Veterans; the South
+Carolina Civil Justice Coalition; the Taxpayers Protection Alliance;
+the Texas Civil Justice League; the Cost of Freedom, Inc., of Indiana;
+Texans for Lawsuit Reform; the U.S. Chamber Institute for Legal Reform,
+the U.S. Chamber of Commerce; the Veteran Resource List; the West
+Virginia Business and Industry Council; the West Virginia Chamber of
+Commerce; Wisconsin Manufacturers & Commerce; and, importantly, to me,
+as a Texan, the Texas Coalition of Veterans Organization, which is an
+umbrella group that represents more than 600,000 Texas veterans.
+This bill is absolutely pro-veteran. As was pointed out on the other
+side of the aisle, a very large percentage of folks exposed to asbestos
+are veterans compared to the general population. Under sovereign
+immunity, they have no one to turn to but these trusts and the
+manufacturers that created these trusts.
+So it is important that we have the FACT Act to preserve the
+resources in these trusts so that our veterans who are injured by
+asbestos and come down with mesothelioma or other asbestos-related
+diseases have resources to compensate them for their injury.
+Mr. CONYERS. Mr. Speaker, I yield myself 15 seconds to ask my friend
+from Texas: Are there any asbestos victims organizations among that
+list that you recited?
+I yield to the gentleman from Texas (Mr. Farenthold).
+Mr. FARENTHOLD. I don't know if any of them particularly are asbestos
+victims associations. But, again----
+Mr. CONYERS. Reclaiming my time, that is what I wanted to know, and
+the gentleman has told me.
+Mr. Chairman, I yield 1\1/2\ minutes to the gentleman from
+Pennsylvania (Mr. Cartwright).
+Mr. CARTWRIGHT. Mr. Chairman, I rise this morning to add my voice to
+those speaking against this anticonsumer bill and to remind my
+colleagues, if I can, of what it is to be an American.
+One of the signal features of American citizenship is that we have
+rights. We have rights to property, to liberty, to our privacy. We have
+rights to be free of negligently inflicted injury and death. We have
+rights to be free of dangerous and defective products. We have rights
+that are enforced in court. These are rights that are respected.
+To the point Representative Cohen made, people around the world envy
+us for our rights, our Bill of Rights, our full spectrum of rights.
+People envy us all over the world for our individual rights. But these
+individual rights are no good unless you can go to court and enforce
+them.
+And make no mistake, Mr. Chair, the people who are bringing this bill
+and who are behind it are the ones who routinely get hauled into court
+to account for causing injuries and violations of American individual
+rights. They are the ones behind this bill.
+The bill is wrong. Cutting back on American individual rights is
+wrong, too. So I urge my colleagues to vote ``no'' on H.R. 1927.
+Mr. FARENTHOLD. Mr. Chairman, I reserve the balance of my time.
+Mr. CONYERS. Mr. Chairman, I yield 2 minutes to the gentleman from
+Virginia (Mr. Scott), our former leader of the Committee on the
+Judiciary.
+Mr. SCOTT of Virginia. I thank the gentleman for yielding.
+Mr. Chairman, I rise in opposition to H.R. 1927, the so-called
+Fairness in Class Action Litigation Act.
+In 2013, in Butler v. Sears, Judge Posner of the Seventh Circuit
+Court of Appeals spoke critically of the commonality in damages
+requirement found in this bill.
+He said that ``the fact that damages are not identical across all
+class members should not preclude class certification. Otherwise
+defendants would be able to escape liability for tortious harms of
+enormous aggregate magnitude but so widely distributed as not to be
+remediable in individual suits.'' The court found that such a
+requirement ``would drive a stake through the heart of the class action
+device.''
+Furthermore, Mr. Chair, the bill includes the so-called FACT Act,
+which would have a devastating impact on workers exposed to asbestos.
+In the last few decades, thousands of workers in my district have
+developed asbestosis, lung cancer, and mesothelioma because of asbestos
+exposure that occurred between the 1940s and 1970s.
+This exposure was inflicted upon many victims by corporations, such
+as one a New Jersey court found to have ``made a conscious, cold-
+blooded business decision, in utter flagrant disregard of the rights of
+others, to take no protective or remedial action.''
+That is the kind of business that will benefit from the bill. The
+victims don't want it.
+In the letter the ranking member will be introducing, they point out
+that veterans represent 8 percent of the population, but 30 percent of
+the victims.
+That letter points out that the FACT Act would mandate unnecessary
+public disclosure of sensitive personal information and would increase
+the cost of litigation, thereby limiting the available pool of money to
+compensate the victims of those cold-blooded business decisions.
+Mr. Chairman, I would hope that we would recognize that the asbestos
+victims have suffered too much already. Therefore, we should defeat
+this legislation.
+Mr. FARENTHOLD. Mr. Chairman, I continue to reserve the balance of my
+time.
+Mr. CONYERS. Mr. Chairman, I yield 2 minutes to the gentleman from
+Texas (Mr. Gene Green).
+{time}  1015
+Mr. GENE GREEN of Texas. Mr. Chairman, I want to thank our ranking
+member of the Judiciary Committee for yielding to me.
+I rise in strong opposition to this legislation. The so-called
+Fairness in Class Action Litigation Act is an attempt by the House
+majority to take away America's access to the courthouse and punish
+asbestos victims by requiring personal information be made public on
+the Internet.
+I am proud to represent the hardworking people in the 29th District
+of Texas. Our district is home to the Port of Houston and the largest
+petrochemical complex in the country. The people in Eastside Houston
+and Harris County are proud of the work they do in producing the oil
+and gas and chemicals that drive our Nation's economy.
+[[Page H189]]
+We also produce a lot of seafarers because we are the largest
+international port in the country.
+This inherently hazardous work needs to be done as safely as
+possible. Workers in Harris County and throughout our great country
+should not be exposed to known human carcinogens like asbestos. This is
+why I introduced, with my colleague, Representative Suzan DelBene, the
+Reducing Exposure to Asbestos Database, or READ Act, last year.
+This legislation would expand existing protections enacted under the
+Reagan administration that would create a public database with the
+location of asbestos and asbestos-containing products in the country.
+The READ Act would bring much-needed transparency to the known
+location of asbestos in our country, potentially saving thousands of
+Americans from asbestos-related illnesses, like lung cancer and
+mesothelioma, while helping industry reduce workers' exposure to this
+known carcinogen.
+I urge my colleagues to stand with America's working families and
+join me in voting against today's bill that unfairly punishes asbestos
+victims and denies the American people access to the justice they
+deserve.
+Mr. FARENTHOLD. Mr. Chairman, I continue to reserve the balance of my
+time.
+Mr. CONYERS. Mr. Chairman, I yield myself the balance of my time.
+Members of the House, this legislation is just the latest attempt to
+take power away from ordinary citizens and place it in the hands of the
+most powerful corporations and industries in this country.
+Whether it is by making it almost impossible for ordinary people to
+pursue their day in court through the important class action mechanism
+or threatening the privacy of asbestos victims, it is clear that H.R.
+1927 does not have the interest of ordinary people in mind.
+And it raises a broader question of who, rightfully, should hold
+power in a representative democracy like ours, politically
+unaccountable corporations, who seek only to maximize their own profit,
+or the people who are supposed to be sovereign. We say it is the
+people.
+I yield back the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I yield myself such time as I may
+consume to close.
+There have been a lot of arguments we have heard today for and
+against this bill, but I think the biggest argument for it is that it
+preserves precious and limited resources for those who were injured by
+asbestos and shuts down an avenue of waste, fraud, and abuse that is
+being exploited right now in the current system.
+There has also been a lot of talk about veterans. Folks have said the
+FACT Act hurts veterans. I say it helps veterans. As I pointed out
+earlier, veterans cannot pursue litigation against the United States
+Government because of sovereign immunity, so they have to rely solely
+on the bankruptcy claims process to get recovery. That is why a
+significant number of veterans groups, many of whom I list earlier,
+have written to the committee in support of the FACT Act.
+In fact, let me read you the words of John Brieden, a former national
+commander of the American Legion, in a letter he wrote to The Hill.
+The FACT Act, and its sunshine provision, is strongly
+supported by veterans like myself who are dedicated to
+preserving the rapidly diminishing congressionally
+established asbestos trust fund for all servicemembers who
+have been injured by a substance we now know to be dangerous
+and even deadly.
+The best way to protect veterans and other asbestos victims from
+attorneys' double dipping is the FACT Act's requirement to disclose
+information about the trust fund claims. We have got to protect the
+privacy in here. That is why the FACT Act was specifically drafted to
+protect the privacy of those who claim.
+The text of the section of the bill that deals with asbestos trusts
+is only 1\1/2\ pages long, but a big part of that is dedicated to
+privacy. The disclosures are minimal. It is the name of the person, the
+type of their injury. It particularly prohibits the disclosure of the
+claimant's Social Security number. So protection is done.
+The settlement amounts, work history, and information about the
+veteran's children and family is simply not in the bill. Furthermore,
+confidential medical records and Social Security numbers disclosing
+that information is expressly prohibited under the bill.
+So, in summary, this legislation enacts two important reforms that
+will increase fairness in class action lawsuits and will introduce
+transparency into the asbestos trust system.
+Given that class action lawsuits involve more money and touch more
+Americans than any other litigation pending in our legal system, it is
+important we have a Federal class action system that benefits those
+that have been truly injured, and injured in comparable ways, and is
+fair to both plaintiffs and defendants.
+The Fairness in Class Action Litigation Act would require that a
+class be composed of members with comparable injuries. The bill would,
+thereby, achieve a very important reform, clustering actually injured
+individuals or similarly injured class members in their own class.
+People who were injured deserve their own class action in which they
+present their uniquely powerful cases and get the large recoveries that
+they deserve.
+Under this legislation, uninjured or noncomparably injured people can
+still join class actions, but they must do so separately, without
+taking away from the potential recovery of those who are actually
+injured or more significantly injured.
+This legislation also seeks to introduce a modest amount of
+transparency into a very opaque asbestos bankruptcy system.
+The opponents to the FACT Act have offered creative and far-ranging
+allegations against the measure, but we know these allegations are
+unfounded. What we do know is the that there is widespread fraud and
+abuse in the asbestos bankruptcy trust system because it has been
+documented in news reports, State bankruptcy cases, and before the
+Judiciary Committee in numerous hearings on this issue.
+We also know that the FACT Act will introduce transparency to help
+curb this fraud, and it will help asbestos victims by protecting these
+trust funds for those future claimants who have not yet started to show
+symptoms.
+I urge my colleagues to reject the unfounded allegations offered
+against today's bill and vote in support of these simple, meaningful,
+commonsense reforms.
+I yield back the balance of my time.
+The CHAIR. All time for general debate has expired.
+Pursuant to the rule, the bill shall be considered for amendment
+under the 5-minute rule.
+In lieu of the amendment in the nature of a substitute recommended by
+the Committee on the Judiciary printed in the bill, it shall be in
+order to consider as an original bill for the purpose of amendment
+under the 5-minute rule an amendment in the nature of a substitute
+consisting of the text of Rules Committee Print 114-38. That amendment
+in the nature of a substitute shall be considered as read.
+The text of the amendment in the nature of a substitute is as
+follows:
+H.R. 1927
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Fairness in Class Action
+Litigation and Furthering Asbestos Claim Transparency Act of
+2015''
+SEC. 2. FAIRNESS IN CLASS ACTION LITIGATION.
+(a) In General.--No Federal court shall certify any
+proposed class seeking monetary relief for personal injury or
+economic loss unless the party seeking to maintain such a
+class action affirmatively demonstrates that each proposed
+class member suffered the same type and scope of injury as
+the named class representative or representatives.
+(b) Certification Order.--An order issued under Rule
+23(c)(1) of the Federal Rules of Civil Procedure that
+certifies a class seeking monetary relief for personal injury
+or economic loss shall include a determination, based on a
+rigorous analysis of the evidence presented, that the
+requirement in subsection (a) of this section is satisfied.
+SEC. 3. FURTHERING ASBESTOS CLAIM TRANSPARENCY.
+(a) Amendments to Title 11, United States Code.--Section
+524(g) of title 11, United States Code, is amended by adding
+at the end the following:
+``(8) A trust described in paragraph (2) shall, subject to
+section 107--
+``(A) file with the bankruptcy court, not later than 60
+days after the end of every quarter, a report that shall be
+made available on the
+[[Page H190]]
+court's public docket and with respect to such quarter--
+``(i) describes each demand the trust received from,
+including the name and exposure history of, a claimant and
+the basis for any payment from the trust made to such
+claimant; and
+``(ii) does not include any confidential medical record or
+the claimant's full social security number; and
+``(B) upon written request, and subject to payment
+(demanded at the option of the trust) for any reasonable cost
+incurred by the trust to comply with such request, provide in
+a timely manner any information related to payment from, and
+demands for payment from, such trust, subject to appropriate
+protective orders, to any party to any action in law or
+equity if the subject of such action concerns liability for
+asbestos exposure.''.
+(b) Effective Date; Application of Amendments.--
+(1) Effective date.--Except as provided in paragraph (2),
+this section and the amendments made by this section take
+effect on the date of the enactment of this Act.
+(2) Application of amendments.--The amendments made by this
+section shall apply with respect to cases commenced under
+title 11 of the United States Code before, on, or after the
+date of the enactment of this Act.
+The CHAIR. No amendment to that amendment in the nature of a
+substitute shall be in order except those printed in House Report 114-
+389. Each such amendment may be offered only in the order printed in
+the report, by a Member designated in the report, shall be considered
+read, shall be debatable for the time specified in the report equally
+divided and controlled by the proponent and an opponent, shall not be
+subject to amendment, and shall not be subject to a demand for division
+of the question.
+Amendment No. 1 Offered by Mr. Cohen
+The CHAIR. It is now in order to consider amendment No. 1 printed in
+House Report 114-389.
+Mr. COHEN. Mr. Chairman, I have an amendment at the desk.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Line 6 on the first page, strike ``No'' and insert ``Except
+as provided in subsection (c), no''.
+After line 18 on the first page, insert the following:
+(c) Exception.--Subsection (a) does not apply with respect
+to a claim for monetary relief brought against a perpetrator
+of a terrorist attack by a victim of the attack.
+The CHAIR. Pursuant to House Resolution 581, the gentleman from
+Tennessee (Mr. Cohen) and a Member opposed each will control 5 minutes.
+The Chair recognizes the gentleman from Tennessee.
+Mr. COHEN. Mr. Chairman, I rise in support of my amendment, which was
+made in order, and which would make an exception to H.R. 1927's
+required showing for class certification for any claims brought by the
+victims of a terrorist attack against the attack's perpetrators.
+We all agree that victims of terrorist attacks deserve justice, and
+they should have the fullest opportunity to obtain compensation for any
+injuries they have suffered because of such attacks.
+Sadly, our history over the last generation has no shortage of
+examples of the kind of victims this amendment would help. From the
+1983 bombing of the Marine barracks in Beirut and the 1996 Khobar
+Towers bombing in Saudi Arabia, to the downing of Pan Am 103 by
+Qadhafi's Libya, recourse to our courts has been one of the few ways
+that victims of terrorism have been given at least some opportunity to
+seek justice for the acts committed against their family members and
+them.
+I know Chairman Goodlatte shares my concerns for these victims, and I
+applaud him for his successful efforts to create a compensation fund
+for those victims of state sponsors of terrorism who receive final
+court judgements against those state sponsors.
+The program also compensates those held hostage in the U.S. Embassy
+in Iran in 1979.
+In some of these cases, the victims, or their survivors, pursued
+class actions against the state sponsors of the terrorist act. Yet,
+under section 2 of H.R. 1927, these victims may not have had the
+opportunity to pursue a class action in the first place.
+As noted during the general debate, section 2 adds the new
+requirement that a named plaintiff prove, as a condition of class
+certification, that every putative class member suffered the same
+``scope'' of injury; not comparable, but the same scope.
+This requirement can be read to preclude a class action where, for
+instance, one terrorism victim loses his legs, while another loses his
+arms as a result of some terrorist attack. Or maybe somebody isn't a
+direct victim of the terrorist attack, but hurt in the aftermath of the
+attack. In short, they did not suffer the same scope of injury.
+I note that ``scope'' can mean the same thing as ``extent,'' as the
+bill introduced originally stated. Current rules, while requiring
+commonality of facts and law, does not require a showing of commonality
+in damages as a prerequisite for certifying a class action, as this
+``scope of injury'' standard requires.
+It is rare that two class members suffer the exact same scope of
+injury, and almost impossible to prove this at the certification stage.
+Think about Boston. Some people lost a leg, some people lost a life,
+some people lost both legs. They couldn't be part of a class. The
+relevant inquiry is whether they allegedly both suffered injury as a
+result of the same alleged wrongful act by the defendant.
+It is hard enough as it is to pursue class actions because of years
+of efforts by industry to make it more and more difficult. Sometimes,
+in these terrorist situations, it is a different type of defendant.
+It is wrong to place the heightened burdens of H.R. 1927 on terrorism
+victims who seek justice for the acts committed against them. I would
+ask that this amendment be accepted by the other side because all it
+does is make exception for victims of terrorism, and we all share in
+our hope that victims of terror get justice and that we don't put any
+more hurdles in the way of them successfully completing the track of
+seeking justice for them and their heirs, ancestors who might have been
+killed in those attacks.
+My amendment would offer them relief of these burdens, and I would
+hope the other side would accept it.
+I yield back the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I rise in opposition to the amendment.
+The CHAIR. The gentleman from Texas is recognized for 5 minutes.
+Mr. FARENTHOLD. Mr. Chairman, I agree with Mr. Cohen 100 percent that
+the victims of terrorism deserve compensation from those who
+perpetrated the acts of terror.
+However, I oppose this amendment because it denies the victims of
+terrorism the protections that the bill would otherwise afford them. If
+this amendment is adopted, it would result in less compensation for the
+most deserving victims in class action lawsuits.
+Under the base bill, the most severely injured victims of terrorism
+would have their own day in court, and they would be compensated to the
+maximum extent because their entire class would consist of
+significantly injured members.
+Under the base bill, the most significantly injured will not have
+their compensation reduced by the cost of weeding out from the class
+the significantly less injured or uninjured.
+But if this amendment were adopted, huge numbers of uninjured or less
+significantly injured victims of terrorism would be allowed into the
+class and be able to siphon off for themselves the limited resources
+that may be available to compensate those most injured. That is not
+right and it is not fair, but that is what this amendment would allow.
+{time}  1030
+To recap, thed purpose of a class action is to provide a fair means
+of evaluating similar claims, not to provide a means of artificially
+inflating the size of a class to extort a larger settlement value.
+Exempting a subset of money damage cases from the bill, as this
+amendment would do, would only serve to incentivize the creation of
+artificially large classes to extort larger or unfair settlements from
+innocent parties for the purpose of disproportionately awarding
+uninjured parties.
+Any claims seeking monetary relief for personal injuries or economic
+loss should be grouped into classes that are similar with the most
+injured receiving the most compensation. It is a fair principle that
+should be applied equally for the benefit of all, including terrorism
+victims. Why should victims of terrorism be subjected to a particularly
+unfair treatment by being allowed to be forced into a class action
+[[Page H191]]
+with other uninjured or marginally injured members, only to see their
+own compensation reduced? That does a disservice to those claimants,
+yet that is exactly what the amendment attempts to do.
+Mr. Chairman, I oppose this amendment, and I urge my colleagues to
+oppose this amendment.
+Mr. Chairman, I yield back the balance of my time.
+The CHAIR. The question is on the amendment offered by the gentleman
+from Tennessee (Mr. Cohen).
+The question was taken; and the Chair announced that the noes
+appeared to have it.
+Mr. COHEN. Mr. Chairman, I demand a recorded vote.
+The CHAIR. Pursuant to clause 6 of rule XVIII, further proceedings on
+the amendment offered by the gentleman from Tennessee will be
+postponed.
+Amendment No. 2 Offered by Mr. Cohen
+The CHAIR. It is now in order to consider amendment No. 2 printed in
+House Report 114-389.
+Mr. COHEN. Mr. Chairman, I rise to ask that the amendment be
+considered.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Line 6 on the first page, strike ``No'' and insert ``Except
+as provided in subsection (c), no''.
+After line 18 on the first page, insert the following:
+(c) Exception.--Subsection (a) does not apply with respect
+to a claim for monetary relief arising from a foreign-made
+product.
+The CHAIR. Pursuant to House Resolution 581, the gentleman from
+Tennessee (Mr. Cohen) and a Member opposed each will control 5 minutes.
+The Chair recognizes the gentleman from Tennessee.
+Mr. COHEN. Mr. Chairman, having seen the outcome of the last vote
+where there was one Member of the other side and four Members of this
+side, and the vote was given to the other side, I just think that it
+would be best for the process if I withdrew this amendment because I
+can see the writing on the wall. And I am going to withdraw the
+amendment and hope that maybe on the floor we will pass something that
+takes care of the victims of terror and see that they aren't deterred
+by this.
+I would like to just mention my friend, Warren Zevon, again. He had a
+song called ``Lawyers, Guns and Money'' and the other side is certainly
+for two-thirds of that.
+Mr. Chairman, I ask unanimous consent to withdraw the amendment.
+The CHAIR. Is there objection to the request of the gentleman from
+Tennessee.
+There was no objection.
+The CHAIR. The amendment is withdrawn.
+Amendment No. 3 Offered by Mr. Conyers
+The CHAIR. It is now in order to consider amendment No. 3 printed in
+House Report 114-389.
+Mr. CONYERS. I have an amendment at the desk, Mr. Chairman.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Line 6 on the first page, strike ``No'' and insert ``Except
+as provided in subsection (c), no''.
+After line 18 on the first page, insert the following:
+(c) Exception.--Subsection (a) does not apply with respect
+to a claim for monetary relief under title VII of the Civil
+Rights Act of 1964 (42 U.S.C. 2000e et seq.).
+The CHAIR. Pursuant to House Resolution 581, the gentleman from
+Michigan (Mr. Conyers) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentleman from Michigan.
+Mr. CONYERS. Mr. Chairman, I rise in support of the amendment which
+would exempt from section 2(a) of the bill any claim for monetary
+relief under title VII of the Civil Rights Act of 1964. Title VII
+prohibits discrimination in employment on the basis of race, color,
+sex, religion, or national origin.
+During the subcommittee hearing on H.R. 1927 in the Judiciary
+Committee, I expressed concern about the effect the bill's original
+language would have on civil rights claims. In particular, I was
+concerned that the bill applied to all class actions and that it
+restrictively defined ``injury'' to mean the alleged impact of a
+defendant's action on a plaintiff's body or property. Although the bill
+was revised in committee to delete this narrow definition of ``injury''
+from H.R. 1927 and to limit the bill's scope to class actions seeking
+monetary relief for personal injury or economic loss, I remain
+concerned that significant categories of civil rights cases could still
+be effectively precluded by this bill.
+Plaintiffs in employment discrimination cases, cases that seek
+backpay and other monetary relief for economic loss resulting from an
+adverse employment decision, frequently pursue class actions because
+such employment cases tend to be the kind that are well-suited for
+class treatment. These cases often involve multiple victims who were
+subjected to the same discriminatory employment practice or policy.
+While damages awarded pursuant to a single plaintiff may not be large
+enough to deter the employer's alleged wrongdoing, aggregate damages
+awarded to plaintiffs as a result of a class action would have a
+deterrent effect.
+Unfortunately, the bill still requires class action plaintiffs to
+prove at the certification stage that every potential class member
+suffered the same type and same scope of injury, a requirement that is
+virtually impossible and cost prohibitive to meet. This onerous
+requirement would effectively deter employment discrimination
+plaintiffs from proceeding with any class actions.
+Moreover, Federal Rule of Civil Procedure 23 already imposes
+significant constraints on the ability of plaintiffs to pursue class
+actions. Indeed, it was an employment discrimination case in Walmart v.
+Dukes that the Supreme Court gave what, in my view, was a cramped
+interpretation of rule 23's commonality requirement making it harder
+for employees claiming discrimination to proceed as a class.
+Because of my continuing concerns with the legislation's potential
+effects on this important category of civil rights cases, I urge the
+House to adopt my amendment.
+Mr. Chairman, I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I rise in opposition to the amendment.
+The CHAIR. The gentleman from Texas is recognized for 5 minutes.
+Mr. FARENTHOLD. Mr. Chairman, I oppose this amendment.
+First, the base bill only applies to proposed classes ``seeking
+monetary relief for personal injury or economic loss.'' Insofar as
+civil rights cases do not seek money damages, they are completely
+unaffected by the substitute and would proceed just as they do today.
+Indeed, Rule 23(b)(2) expressly provides for civil rights cases in
+which a class action can be certified when the defendant--and I am
+quoting the rule--``has acted or refused to act on grounds that apply
+generally to the class, so that final injunctive relief or
+corresponding declaratory relief is appropriate respecting the class as
+a whole.'' Injunctive relief and declaratory relief, of course, are not
+claims for monetary relief.
+Now, if money damages are sought by a proposed class, then of course
+they should be subject to the procedures in this bill. The purpose of a
+class action is to provide a fair means of evaluating like claims, not
+to provide a means for artificially inflating the size of a class to
+extort a larger settlement value. Exempting a subset of money damage
+cases from the bill, as this amendment would do, would serve only to
+incentivize the creation of artificially large classes to extort larger
+and unfair settlements for the purpose of disproportionately awarding
+uninjured plaintiffs.
+Any claims seeking monetary damages for personal injury or economic
+loss should be grouped in classes in which those who are most injured
+receive the most compensation. Why should certain civil rights
+claimants seeking money damages under one specific statute be subjected
+to a particularly unfair treatment by being allowed to be forced into a
+class action with other uninjured or minimally injured members, only to
+see their own compensation reduced? That does a disservice to those
+claimants. That is exactly what this amendment would do.
+Mr. Chairman, I urge my colleagues to oppose the amendment.
+Mr. Chairman, I yield back the balance of my time.
+Mr. CONYERS. Mr. Chairman, I yield back the balance of my time.
+The CHAIR. The question is on the amendment offered by the gentleman
+from Michigan (Mr. Conyers).
+[[Page H192]]
+The question was taken; and the Chair announced that the noes
+appeared to have it.
+Mr. CONYERS. Mr. Chairman, I demand a recorded vote.
+The CHAIR. Pursuant to clause 6 of rule XVIII, further proceedings on
+the amendment offered by the gentleman from Michigan will be postponed.
+Amendment No. 4 Offered by Mr. Deutch
+The CHAIR. It is now in order to consider amendment No. 4 printed in
+House Report 114-389.
+Mr. DEUTCH. Mr. Chairman, I have an amendment at the desk.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Line 6 on the first page, strike ``No'' and insert ``Except
+as provided in subsection (c), no''.
+After line 18 on the first page, insert the following:
+(c) Exception.--This section does not apply with respect to
+a claim brought by a gun owner seeking monetary relief
+involving the defective design or manufacturing of a firearm.
+The CHAIR. Pursuant to House Resolution 581, the gentleman from
+Florida (Mr. Deutch) and a Member opposed each will control 5 minutes.
+The Chair recognizes the gentleman from Florida.
+Mr. DEUTCH. Mr. Chairman, we know the intentions behind the bill
+before us today, H.R. 1927, the so-called Fairness in Class Action
+Litigation Act. The goal of this bill isn't to protect consumers. The
+goal of this bill is to wipe out class action lawsuits and to deprive
+consumers of their ability to band their resources together to take
+large corporations to court for defective and, many times, dangerous
+products.
+We have heard from many of my colleagues already today about the
+problems this bill creates, and I agree that this is a bad bill. But it
+is a uniquely bad bill for one group in particular: gun owners. That is
+right, gun owners--law-abiding Americans exercising their Second
+Amendment rights who suffer injury or even death when gun manufacturers
+sell defective and ultrahazardous weapons.
+Every year, many gun owners and innocent bystanders are killed when a
+firearm discharges just at being set down on the ground, when a faulty
+safety leaves a child dead, when an experienced and safety-conscious
+gun owner is the victim of a deadly malfunction. Unique to consumer
+products, no Federal safety agency has the authority to issue a recall
+of a defectively manufactured firearm. Indeed, the Consumer Product
+Safety Commission has jurisdiction and oversight to ensure that more
+than 15,000 household and recreation products are safe for consumers.
+Thanks to years of hard work by the gun lobby, the Consumer Product
+Safety Commission is specifically prohibited from protecting consumers
+from defectively manufactured firearms. Moreover, the Bureau of
+Alcohol, Tobacco, Firearms and Explosives has the authority to license
+gun manufacturers but does not have the authority to recall defectively
+manufactured firearms.
+Today, this bill's rigorous requirement for certifying a class would
+render gun owners even more powerless. Currently, gun owners' only
+recourse in these unfortunate events is our court system, and most
+people don't have the resources to go up against the massive titans of
+the gun industry.
+Let me give you an example of the kind of class action suit that
+would not exist under this legislation. In 2013, a class action was
+filed against Taurus in a U.S. District Court in my State of Florida.
+The claim involved a design defect in the semiautomatic pistol's
+trigger safety blade.
+Let me read you a news story from Alabama. You will hear about Judy
+Price, an experienced gun owner. She says she knows them all, how to
+handle them safely, and she speaks to people taking concealed-carry
+classes. Price said that no amount of gun knowledge could have saved
+her from what happened in 2009. Her concealed-carry holster fell to the
+floor as she was undressing. Then her Taurus pistol went off with a
+bullet going through her groin, through her stomach, and into her
+liver.
+``I laid down on the floor. I looked up into his eyes, and I said,
+`Paul, I am going to die tonight. But I love you.' ''
+Incredibly, she didn't die that night, although for about 9 days it
+was ``touch and go,'' she said.
+The lead plaintiff in this country was actually a sheriff from Iowa.
+Chris Carter, a sheriff's deputy in Scott County, was serving on
+narcotics detail and was pursuing a fleeing suspect. As he ran, his
+pistol fell from his holster, hitting the ground and discharging a
+bullet that struck a nearby vehicle. Luckily, it was unoccupied.
+Thanks to the ability to pursue a class action, this case was
+settled, and Taurus voluntarily recalled the pistols. Under this
+legislation, it is unlikely that gun owners wronged by bad actors in
+the gun manufacturing industry would have any recourse at all.
+I will give you one more example. The gun owner who took his 22 Colt
+single-action revolver with him fishing. When his gun fell out of his
+holster, it fired and lodged a bullet in his bladder. He lost the
+ability to have children.
+Under this bill, Federal courts would only be able to hear class
+action suits involving a group of people if they can prove that they
+have all ``suffered the same type and scope of injury'' as the named
+representatives. The family who lost a loved one to a bullet wound in
+the head due to a defective gun living in Florida would not be able to
+join with a gun owner shot in the knee in Oregon, would not be able to
+join together and seek justice even if the injuries were caused by the
+same defect in the same make and model of gun.
+{time}  1045
+This overly specific language would prevent gun owners from
+satisfying the bill's requirement that each member demonstrate the
+``same type'' and ``scope of injury.''
+It would remove the courts as the last remaining venue to ensure that
+gun manufacturers are held liable for selling defectively manufactured
+firearms.
+My amendment can fix this problem at least--at least--with respect to
+gun owners bringing claims for a defective design or manufacturing of a
+firearm.
+This bill's rigorous requirements for certifying a class would have
+prevented the lawsuits I mentioned and would keep any future class
+actions brought by gun owners against manufacturers for defectively
+manufactured items from moving forward. The manufacturers, in many
+cases, were well aware of the defects for many years, but it took a
+class action for them to finally do something about it.
+Today, you have the opportunity to choose to stand with sportsmen,
+with law-abiding citizens purchasing guns to protect their homes and
+families, and with law enforcement who are protecting our communities,
+or you can stand with the gun manufacturers when they put out defective
+products that put responsible gun owners at risk.
+I strongly urge support for my amendment, and I reserve the balance
+of my time.
+Mr. FARENTHOLD. Mr. Chairman, I rise in opposition to the amendment.
+The CHAIR. The gentleman from Texas is recognized for 5 minutes.
+Mr. FARENTHOLD. Mr. Chairman, I feel like I am caught in Groundhog
+Day. I am making the same argument again and again.
+The purpose of this bill is to make sure the most injured are the
+most compensated and not result in a dilution of those by bringing in
+massive amounts of people not similarly injured.
+I disagree with the gentleman's argument that it isn't a similar
+injury if you are shot in the leg or you are shot in the arm by a
+defective gun.
+Why should guns be treated differently than toasters? If your
+defective product injures somebody, you are responsible for it; but if
+your defective product doesn't injure somebody, you shouldn't be.
+Mr. DEUTCH. Will the gentleman yield?
+Mr. FARENTHOLD. I yield to the gentleman from Florida.
+Mr. DEUTCH. I would agree with the gentleman that guns should be
+treated exactly the same way as toasters. I hope that the gentleman
+would consider working with me to ensure that the Consumer Product
+Safety Commission could recall defective guns just like they can recall
+defective toasters.
+[[Page H193]]
+Mr. FARENTHOLD. Reclaiming my time, we are dealing with the tort
+system right now and class action. I would be happy to have a
+conversation sometime in the future about consumer protection
+legislation.
+At this point, under the bill we are discussing, if you exempt guns,
+people injured by guns--truly injured by guns--will actually receive
+less compensation because they will be exempted, and the plaintiffs'
+attorneys will be able to build a big class where even if, in a worst-
+case scenario, you could exhaust all of the resources of the gun
+company, you end up maybe with people getting a coupon for 20 percent
+off their next firearm as opposed to actual monetary damages, with the
+plaintiffs' attorney taking home millions.
+This bill is designed to make sure the most injured get the most
+money and those not injured do not. That is what we are trying to do
+here. Regardless of whatever exception you want to put for whatever
+industry, the bill generally works for all industries. That is the way
+it was designed.
+I urge everyone to oppose this amendment
+I yield back the balance of my time.
+Mr. DEUTCH. Mr. Chairman, I yield back the balance of my time.
+The CHAIR. The question is on the amendment offered by the gentleman
+from Florida (Mr. Deutch).
+The question was taken; and the Chair announced that the noes
+appeared to have it.
+Mr. DEUTCH. Mr. Chairman, I demand a recorded vote.
+The CHAIR. Pursuant to clause 6 of rule XVIII, further proceedings on
+the amendment offered by the gentleman from Florida will be postponed.
+Amendment No. 5 Offered by Ms. Moore
+The CHAIR. It is now in order to consider amendment No. 5 printed in
+House Report 114-389.
+Ms. MOORE. Mr. Chairman, I have an amendment at the desk.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Line 6 on the first page, strike ``No'' and insert ``Except
+as provided in subsection (c), no''.
+After line 18 on the first page, insert the following:
+(c) Exception.--Subsection (a) does not apply with respect
+to causes of action arising under the Fair Housing Act (42
+U.S.C. 3601 et seq.) or the Equal Credit Opportunity Act (15
+U.S.C. 1691 et seq.).
+The CHAIR. Pursuant to House Resolution 581, the gentlewoman from
+Wisconsin (Ms. Moore) and a Member opposed each will control 5 minutes.
+The Chair recognizes the gentlewoman from Wisconsin.
+Ms. MOORE. Mr. Chairman, my amendment would exempt suits arising out
+of the Fair Housing Act or the Equal Credit Opportunity Act.
+I offer my amendment today, Mr. Chairman, out of a real concern about
+the consequences the bill will have on social justice issues. One of
+these issues that is very dear to me is the disparate access to
+financial products for African Americans. That is the reason that I,
+before I became a Member of Congress, created a credit union for my
+area in Milwaukee, Wisconsin.
+We are still seeing discrimination in housing and auto financing and
+insurance products in my home district of Milwaukee. This is not
+something, Mr. Chairman, that happened in the good old days. We have
+witnessed discrimination in mortgage loans as recently as 2012.
+As a member of the Financial Services Committee, we have learned
+about the CFPB's role in cracking down on auto lenders who discriminate
+against minorities. Folks who have the same credit score, if your name
+is Rodriguez or Barack Obama Jones, suddenly your auto loan would be at
+a higher rate.
+Class actions are an important tool to fight back. For example, in
+Adkins v. Stanley, a class action suit was filed against Morgan Stanley
+for practices through a mortgage lender that had a significant impact
+against an entire African American community. In Detroit, Michigan,
+from where our distinguished ranking member hails, the practices led to
+filling these communities with high-risk subprime loans, leading up to
+the 2008 housing crisis. I would commend any of you to go to Detroit
+and see the result of that discrimination where entire communities have
+been eviscerated.
+Actions helped to uncover and fight back against auto finance lender
+practices that used these subjective criteria, whether your name was
+Rodriguez or Barack Obama Jones, to determine creditworthiness. This
+practice was found to have a disproportionate impact, charging these
+higher interest rates for minorities compared to White borrowers with
+the exact, similar credit ratings.
+I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I rise in opposition to the amendment.
+The CHAIR. The gentleman from Texas is recognized for 5 minutes.
+Mr. FARENTHOLD. Mr. Chairman, I once again make the same argument.
+Once we take out one specific claim or the other, we do away with the
+benefits to that group that this bill confers.
+This bill is pro-consumer by making sure the most injured receive the
+most compensation and that you don't artificially build up a class and
+dilute the award. It is the exact same argument I made on almost all of
+the previous amendments.
+I urge my colleagues to oppose the amendment.
+I yield back the balance of my time.
+Ms. MOORE. Mr. Chairman, that argument is not a good argument because
+when you think of the example of just, say, Morgan Stanley, if there
+was someone who, in Detroit, Michigan, lost their house through the
+subprime lending, that has as much impact on that person as the person
+next door who was underwater and couldn't sell their home and couldn't
+repair it because of the impact on their next-door neighbor.
+This notion that they have to be injured in exactly the same way
+really flies in the face of logic and, of course, flies in the face of
+justice.
+I would ask Members to adopt my amendment. It is common sense. It is
+just. There are so many cases against minorities, in particular, that
+would be adversely impacted through this legislation.
+I yield back the balance of my time.
+The CHAIR. The question is on the amendment offered by the
+gentlewoman from Wisconsin (Ms. Moore).
+The question was taken; and the Chair announced that the noes
+appeared to have it.
+Ms. MOORE. Mr. Chairman, I demand a recorded vote.
+The CHAIR. Pursuant to clause 6 of rule XVIII, further proceedings on
+the amendment offered by the gentlewoman from Wisconsin will be
+postponed.
+Amendment No. 6 Offered by Ms. Moore
+The CHAIR. It is now in order to consider amendment No. 6 printed in
+House Report 114-389.
+Ms. MOORE. Mr. Chairman, I have an amendment at the desk.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Line 6 on the first page, strike ``No'' and insert ``Except
+as provided in subsection (c), no''.
+After line 18 on the first page, insert the following:
+(c) Exception.--Subsection (a) does not apply with respect
+to any cause of action arising from a pay equity claim under
+Title VII of the Civil Rights Act of 1964 (42 U.S.C 2000e et
+seq.) or that portion of the Fair Labor Standards Act (29
+U.S.C. 206(d)) known as the Equal Pay Act of 1963.
+The CHAIR. Pursuant to House Resolution 581, the gentlewoman from
+Wisconsin (Ms. Moore) and a Member opposed each will control 5 minutes.
+The Chair recognizes the gentlewoman from Wisconsin.
+Ms. MOORE. Mr. Chairman, my amendment would exempt pay equity
+lawsuits arising from title VII of the Civil Rights Act or the Equal
+Pay Act.
+Today, the wage gap for women is a very real experience, not only for
+those women, but for families in the United States workforce. According
+to the National Women's Law Center, the gender wage gap amounts to over
+$10,000 a year in median income.
+But this bill, H.R. 1927, takes away one of the only effective tools
+that women in the workplace have to narrow the wage gap. That is
+through class action suits filed under title VII of the Civil Rights
+Act or the Equal Pay Act. This bill would, to borrow Judge Posner's
+term, really drive a stake through the heart of the Equal Pay Act or
+the Civil Rights Act.
+This bill will make it harder to certify members of a class in pay
+equity
+[[Page H194]]
+cases because each detail relating to the type and scope of the damage
+is often unique to the woman who was injured. For example, a woman
+involved in a class could have a different type of job, different
+number of years working for a company, different wages, different
+benefits, and if the company is discriminating against all women,
+across all the job categories, they would not be certified as a class
+unless they made exactly the same pay, worked there exactly the same
+number of years, which, Mr. Chairman, is ludicrous.
+This bill would also make it harder for women in pay equity cases
+because, at the certification stage, women wouldn't have the same
+information about each other to know whether or not they could be in
+the same class.
+Mr. Chairman, I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I rise in opposition to the amendment.
+The CHAIR. The gentleman from Texas is recognized for 5 minutes.
+Mr. FARENTHOLD. Mr. Chairman, again, we get back to the argument, as
+you start to exempt certain groups or certain types of lawsuits, it
+creates the same situation we have now that we are trying to fix in
+that class where those mostly injured get the most compensation and
+those only marginally injured are compensated accordingly.
+I think part of where the other side has a little misunderstanding of
+the bill is I keep hearing the word ``exact.'' It is not the exact same
+injury. The bill requires that class members share the same scope of
+injury, which is intended to prevent certification of grossly overbroad
+class action lawsuits that include members with wildly varying injury.
+The dictionary and ordinary meaning of ``scope'' is the range of a
+relevant subject. Judges are certainly capable of determining relevant
+range of injuries that would make class members suitably typical of one
+another. I think this could happen in all cases and actually probably
+more so in these equal pay type of cases if the scope of the injury is
+being paid less.
+Again, I think common sense is going to dictate. As we have seen
+historically, the vast majority of the times our Federal Court systems
+get it right. There are few notable exceptions, but that is beyond the
+scope of this argument.
+I would urge my colleagues to oppose this amendment, this exception,
+to a great piece of legislation that is designed to make our class
+action system fair and make sure those who are the most injured are the
+most compensated.
+I reserve the balance of my time.
+Ms. MOORE. Mr. Chairman, I appreciate my colleague for that
+exhaustive explanation and definition of scope.
+Common sense just ain't common, so we cannot rely on common sense.
+I just want to say that the courts already require a plaintiff
+seeking class action certification to make substantial showings that
+they have, in fact, been injured. That is our argument, that they have
+to have the same scope and that we need to reserve the benefits for
+those at the top so that women who are discriminated against in a
+firm--we are only concerned with those women who are going to lose the
+most money because they didn't get a management position. We are not
+going to be concerned with the women who worked in the janitorial
+services and were discriminated against.
+I think that there is a smoking gun here when you hear our opponents
+make these furious arguments and regale us with definitions of scope,
+where the courts have already done that. If it ain't broke, don't fix
+it.
+I yield back the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I stand by the plain language of the
+statute, and the intent is to help victims and make the class action
+system fair. Exceptions will only weaken that.
+I urge my colleagues to oppose this amendment.
+I yield back the balance of my time.
+The CHAIR. The question is on the amendment offered by the
+gentlewoman from Wisconsin (Ms. Moore).
+The question was taken; and the Chair announced that the noes
+appeared to have it.
+Ms. MOORE. Mr. Chairman, I demand a recorded vote.
+The CHAIR. Pursuant to clause 6 of rule XVIII, further proceedings on
+the amendment offered by the gentlewoman from Wisconsin will be
+postponed.
+{time}  1100
+Amendment No. 7 Offered by Ms. Maxine Waters of California
+The CHAIR. It is now in order to consider amendment No. 7 printed in
+House Report 114-389.
+Ms. MAXINE WATERS of California. Mr. Chairman, I have an amendment at
+the desk.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+On the first page, line 6, strike ``No'' and insert
+``Except as provided in subsection (c), no''.
+On the first page, after line 18 insert the following:
+(c) Exception.--The requirements for a demonstration under
+subsection (a) and the inclusion of a determination relating
+to that requirement under subsection (b) do not apply with
+respect to a claim against--
+(1) any institution or third party servicer that receives
+or services funds under title IV of the Higher Education Act
+of 1965 (20 U.S.C. 1070 et seq.);
+(2) any institution that originates, services, or otherwise
+administers qualified education loans (as defined in section
+221 of the Internal Revenue Code of 1986); or
+(3) any institution providing a course of education
+approved for purposes of chapter 33 of title 38, United
+States Code.
+The CHAIR. Pursuant to House Resolution 581, the gentlewoman from
+California (Ms. Maxine Waters) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentlewoman.
+Ms. MAXINE WATERS of California. Mr. Chairman, I rise in support of
+my amendment to H.R. 1927, the Fairness in Class Action Litigation Act.
+My amendment would protect students, servicemembers, and veterans who
+are seeking monetary relief from fraudulent institutions of higher
+education by exempting them from the onerous requirements for class
+certification outlined in the bill.
+H.R. 1927 requires Federal courts to certify a class only when all
+class members demonstrate they have suffered the same type and scope of
+injury. This additional requirement would be unduly burdensome to
+students, servicemembers, and veterans who have been fraudulently
+misled by the for-profit college industry.
+For example, recently the Department of Education conducted a joint
+investigation with California Attorney General Kamala Harris. They
+concluded that for-profit college Corinthian Colleges misrepresented
+its job placement rates to prospective and enrolled students.
+Specifically, the investigation found that, among other abuses, a
+Corinthian accounting program reported a job placement rate of 92
+percent of its graduates in accounting-related fields, but that, in
+reality, only 12 percent of the graduates of this program had secured
+jobs in accounting.
+For a separate business associate program, Corinthian reported a 95
+percent job placement rate, but the Department of Education determined
+that, in reality, only 14 percent of the program's graduates had jobs
+in the relevant field.
+It is clear that, with job placement rate errors of 80 and 81 percent
+respectively, students enrolled in both programs were intentionally and
+fraudulently misled by Corinthian Colleges.
+Yet, under H.R. 1927, these defrauded students arguably would not be
+able to form a class to seek relief because they have been injured by a
+mere 1 percent degree of difference or because they were lied to about
+job placement rates in different careers. This is totally illogical and
+unfair, and it defeats the purpose of the class action.
+As the example demonstrates, particularly in the context of higher
+education, H.R. 1927 essentially makes class certification impossible
+to achieve and, thus, impractical to pursue. The inability to bring
+forth class actions will selectively shield for-profit colleges from
+accountability and will significantly reduce access to our court system
+for deserving students and veterans.
+We only need to look further at Corinthian Colleges to understand the
+harm that ensues when these schools are left unaccountable. For
+decades, Corinthian Colleges defrauded its students by inflating job
+placement rates,
+[[Page H195]]
+by engaging in unfair marketing practices and illegal debt collection
+tactics, and by requiring students to take out private loans at high
+interest rates.
+According to the California attorney general, it likewise unlawfully
+used military seals in its advertising materials to lure an increasing
+number of our active servicemen and veterans. Worse yet, by including
+bans on class actions as a prerequisite to enrollment, Corinthian
+Colleges protected itself from liability while engaging in these awful
+predatory tactics.
+As a result of its decades of predatory conduct, Corinthian Colleges
+was finally forced to close its doors in April 2015, leaving thousands
+of students with tens of thousands of dollars in debt, with worthless
+degrees, and with no job opportunities to show for their time and hard
+work.
+Hundreds of veterans forfeited their GI benefits, which were earned
+on the battlefield in service to our country. One veteran of the wars
+in Iraq and Afghanistan told Politico that the months he had spent
+studying auto mechanics at a Corinthian school was wasted time because
+of the poor equipment and the training he received.
+In October, a Federal judge ruled that Corinthian Colleges was
+operating a predatory lending scheme and ordered the school to pay back
+$531 million in damages to all students who attended the network of
+colleges before it closed its doors.
+Yet, in reality, because the school has filed for bankruptcy,
+executives will walk away with millions while students and veterans
+will never see any of the money owed to them. Meanwhile, taxpayers will
+be expected to pick up the tab for this and any other future Corinthian
+judgments.
+The law already favors schools like Corinthian and other big
+corporations over classes of harmed consumers--as evidenced by the fact
+that students were unable to join together and prevail in a class
+action during Corinthian's prior decades of misconduct, and prior to
+its bankruptcy and collapse. Corinthian should have been forced to
+repay these students out of their own profits, and our service members
+and veterans should have had their G.I. benefits returned so those
+funds could be used at a competitive, high-achieving institution.
+Yet, today, we are considering advancing H.R. 1927, which will serve
+as an additional barrier to ensuring justice for these students,
+service members and veterans. My amendment would eliminate the hurdle
+that H.R. 1927 imposes on defrauded students, which would help ensure
+that the institutions of higher education would be on the hook for
+their fraud and unfair practices, and ensure that other for-profit
+institutions would be held accountable in the future.
+I would ask for support for my amendment. I am sure that my
+colleagues on the opposite side of the aisle would not want to go down
+in history as preventing these kinds of acts from being dealt with.
+I yield back the balance of my time.
+Mr. FARENTHOLD. Madam Chair, I claim the time in opposition to the
+amendment.
+The Acting CHAIR (Ms. Foxx). The gentleman from Texas is recognized
+for 5 minutes.
+Mr. FARENTHOLD. Madam Chair, I oppose this amendment for the same
+reason that I have opposed almost every amendment so far in that it
+exempts a certain class from the bill that is designed to help those
+who are most injured.
+First, the base bill only applies to classes that are seeking
+monetary relief for personal injury or economic loss. Insofar as
+education-related cases do not seek monetary damages, they are
+completely unaffected by the bill and would proceed just as they do
+today. If money damages are being sought, then, of course, they should
+be subject to the procedures in this bill.
+The purpose of a class action is to provide a fair means of
+evaluating like claims, not to provide a means of artificially
+inflating the size of a class to extort a larger settlement. The other
+side is continually saying that these groups or classes must be exactly
+the same. The language is of the same scope. The bill is designed to
+keep from grossly inflating the size of a class.
+The students of the college that the gentlewoman is citing were all
+in the same class and would appear to be similarly injured. I cannot
+predict what a court would do. I believe, under this bill, even without
+the gentlewoman's amendment, they would continue to be certified as a
+class because the scope of their injuries would be the same.
+It is not designed to make it exact. It is the same scope. And that
+is where we are trying to go. Claimants who are seeking monetary relief
+need to be grouped in classes in which the most injured receive the
+most compensation, but it doesn't have to be the exact same injury.
+I don't see any need for this amendment. I think it actually would
+unfairly hurt those folks from the college because they would not be
+subject to the protections of this bill in that an attorney could
+inflate the class to include folks, let's say, who didn't have as many
+damages and who were from other colleges. I can think of a wide variety
+of hypotheticals here.
+The idea behind this bill is, regardless of the class, if you are the
+most injured, you should be the most compensated, and there is a lot of
+area in which the judges can determine what the scope of those injuries
+is.
+I urge my colleagues to oppose the amendment.
+Madam Chair, I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentlewoman from California (Ms. Maxine Waters).
+The question was taken; and the Acting Chair announced that the noes
+appeared to have it.
+Ms. MAXINE WATERS of California. Madam Chair, I demand a recorded
+vote.
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, further
+proceedings on the amendment offered by the gentlewoman from California
+will be postponed.
+Amendment No. 8 Offered by Mr. Johnson of Georgia
+The Acting CHAIR. It is now in order to consider amendment No. 8
+printed in House Report 114-389.
+Mr. JOHNSON of Georgia. Madam Chair, I have an amendment at the desk.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Line 10 on the first page, strike ``and scope''.
+Line 8 on the first page, strike ``or economic loss''.
+The Acting CHAIR. Pursuant to House Resolution 581, the gentleman
+from Georgia (Mr. Johnson) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentleman.
+Mr. JOHNSON of Georgia. Madam Chair, my amendment would remove the
+scope and economic loss language from the bill.
+Think of yourself as driving down a two-lane road, doing 55 miles an
+hour. It is nighttime or it could be daytime. Suddenly, you lose
+control of your car because your ignition switch cuts off the car and
+you lose control of your power steering and your brakes. There is an
+18-wheeler coming at you and you have no time to react. There is a
+crash and you, as the driver, are killed in the unfortunate accident.
+Let's assume that that has happened in numerous other cases. Perhaps
+the injuries were not as bad as a death. Perhaps someone just suffered
+a closed-head injury, a concussion, or perhaps a broken arm in the
+accident. Let's assume that both of those cars were made by the same
+manufacturer, had the same ignition switch, and a defect in that
+ignition switch caused the crashes.
+Now there are numbers of claimants who are wanting to get together
+and file a class action lawsuit because they know that the large
+company has an army of lawyers, all of whom will go to court against a
+single plaintiff to defeat the claim. These briefcase-toting, loafer-
+wearing, silk-stocking lawyers, who are getting paid $900 an hour go to
+court, have helped the corporation hide the existence of the defect for
+many years, and there have been so many accidents that have occurred
+that singular plaintiffs who aggregate their claims and come together
+against that corporation have a better shot at winning the case than
+has just a single plaintiff who is going against an army of corporate
+lawyers.
+This legislation changes the rules. It tilts the scales in favor of
+the company by making the plaintiffs prove that
+[[Page H196]]
+they have suffered the same type and scope of injury as has the named
+class representative, and that is despite there being one common
+question of law in fact that permeates all of the cases. Why shouldn't
+they be allowed to bring that case together?
+This amendment would remove the scope and economic loss language of
+the bill so that it would not impede the ability of claimants to bring
+a class action lawsuit against a corporate wrongdoer. I would ask my
+colleagues to support my amendment.
+Madam Chair, I reserve the balance of my time.
+Mr. FARENTHOLD. Madam Chair, I rise in opposition to the amendment.
+The Acting CHAIR. The gentleman from Texas is recognized for 5
+minutes.
+Mr. FARENTHOLD. Madam Chair, this amendment should be defeated
+because it essentially guts the bill.
+The bill requires that class action members share the same scope of
+injury, which is intended to prevent the certification of grossly
+overbroad class action lawsuits that include members with wildly
+varying injuries.
+The ordinary meaning of scope in the dictionary is the range of a
+relevant subject. Judges are certainly capable of determining the
+relevant range of injuries that would make class members suitably
+typical of one another.
+{time}  1115
+The base bill uses the word ``scope'' to make clear that all class
+members do not need to have suffered the same type of injury to the
+exact same extent, but they still must demonstrate they have suffered
+the same range of injuries as determined by the court.
+This amendment also strikes the term ``economic loss'' from the bill.
+The base bill defines the scope of class actions covered by the bill as
+those involving claims for monetary relief for personal injury or
+economic loss. Economic loss is defined by Black's Law Dictionary as
+``a monetary loss, such as lost wages or lost profits.'' In a products
+liability suit, the economic loss includes the cost of repair or
+replacement of defective property as well as commercial loss for the
+property's inadequate value and consequential loss of profits or use.
+These sorts of claims should also be covered under the bill because
+they are claims for monetary relief. Those with significantly greater
+claims for such relief should have their own day in court and the
+chance to obtain the most compensation for their economic loss.
+I am urging my colleagues to reject this gutting amendment.
+I reserve the balance of my time.
+Mr. JOHNSON of Georgia. Madam Chair, that is exactly what I want to
+do, is to gut this legislation, because it guts the ability of asbestos
+victims to press class actions against the wrongdoing Koch brothers and
+other companies that manufacture that product.
+I want it to be known that there are veterans organizations that
+oppose this legislation: the Air Force Sergeants Association; Air Force
+Women Officers Associated; American Veterans, AMVETS; the Association
+of the United States Navy; the Commissioned Officers Association of the
+U.S. Public Health Services; Fleet Reserve Association; the Jewish War
+Veterans of the USA; the Marine Corps Reserve Association; the Military
+Officers Association of America; the Military Order of the Purple
+Heart; the National Association of Uniformed Services; the National
+Defense Council; the Naval Enlisted Reserve Association; the Retired
+Enlisted Association; the United States Coast Guard Chief Petty
+Officers Association; the United States Army Warrant Officers
+Association; the Vietnam Veterans Association; and on and on.
+I don't know what those veteran organizations that my friend named
+actually do. I don't know who they are. They certainly have names that
+appear to misrepresent whether or not they are in favor of the rights
+of servicemen and -women, but these organizations that I just named
+are.
+I yield back the balance of my time.
+Mr. FARENTHOLD. Madam Chair, again, I urge my colleagues to oppose
+this bill. The gentleman on the other side of the aisle, Mr. Johnson of
+Georgia, of course, indicated that it is his intent to gut the bill
+here.
+We need to defeat this amendment. Of course, Mr. Johnson is free to
+vote against the bill, although I belive that would be a mistake.
+I would urge my colleagues to not only oppose this amendment, but to
+support the underlying bill when we get to it.
+I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentleman from Georgia (Mr. Johnson).
+The question was taken; and the Acting Chair announced that the noes
+appeared to have it.
+Mr. JOHNSON of Georgia. Madam Chair, I demand a recorded vote.
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, further
+proceedings on the amendment offered by the gentlewoman from Georgia
+will be postponed.
+Amendment No. 9 Offered by Ms. Jackson Lee
+The Acting CHAIR. It is now in order to consider amendment No. 9
+printed in House Report 114-389.
+Ms. JACKSON LEE. Madam Chair, I have an amendment at the desk.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Beginning on page 2, strike line 5 and all that follows
+through line 2 on page 3, and insert the following:
+``(8)(A) A trust described in paragraph (2) shall, subject
+to subparagraph (B) and section 107, provide upon written
+request and subject to payment (demanded at the option of the
+trust) for any reasonable cost incurred by the trust to
+comply with such request, to any party that is a defendant in
+a pending court action relating to asbestos exposure,
+information that is directly related to the plaintiff's claim
+in that pending action.
+``(B) A defendant requesting information under subparagraph
+(A) shall first disclose to such plaintiff and such trust,
+subject to an appropriate protective order the median
+settlement amount paid by that defendant for claims settled
+or paid within 5 years of the date of the request, by disease
+category, for the State in which the plaintiff's action was
+filed. No personally identifiable information shall be
+included in any exchange of information under this
+paragraph.''.
+The Acting CHAIR. Pursuant to House Resolution 581, the gentlewoman
+from Texas (Ms. Jackson Lee) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentlewoman from Texas.
+Ms. JACKSON LEE. Madam Chair, I think most of all that we have had a
+vigorous discussion on behalf of the American people. I hope they are
+listening.
+I hope my colleagues are listening because, as I listened to the
+debate myself, I heard a continuing theme: Let's bash the plaintiffs
+and those seeking justice and make sure we make our friends who want to
+eliminate costs, eliminate the road to justice, provide them with an
+opportunity to reconfigure the road that has the Lady Justice balanced
+scales as a symbol of this system.
+When I heard my colleague from Texas, a good friend, talk about costs
+and making sure that the individuals in the class are spread out so
+that they are limited in the ability to press their case, I got the
+answer. Again, I say that a one-way street to justice is unacceptable.
+There are too many people who died that I cannot stand on this floor
+and deny those who are sick and ailing or those who had in the 1950s
+thalidomide where babies were born with malformations because women
+took medicine that had not been tested.
+The Jackson Lee amendment would provide a balanced approach to the
+bill's disclosure requirements by applying transparency rules in the
+bill equally to the asbestos industry defendants. Specifically, this
+amendment will require that an asbestos defendant seeking information
+from the trusts about a plaintiff to first make available to the
+plaintiff and trust information about the median settlement amount paid
+by that defendant for claims settled or paid within 5 years of the date
+of the request for the State in which the plaintiff's actions were
+filed.
+The American Bar Association understands my point. Frankly, in their
+comments, they made the following statement that I think is important:
+``We oppose legislation such as H.R. 1927, because it would
+unnecessarily circumvent the Rules Enabling Act, make it more difficult
+for large numbers of injured parties to efficiently seek redress in
+court''--again, a one-way street--``and could place added burdens on
+the already overloaded court system.'' The ABA goes on to relate how
+this bill is a poor bill.
+[[Page H197]]
+I include their letter for the Record.
+American Bar Association,
+Washington, DC, January 6, 2016.
+Hon. Paul Ryan,
+House of Representatives,
+Washington, DC.
+Hon. Nancy Pelosi,
+House of Representatives,
+Washington, DC.
+Dear Speaker Ryan and Minority Leader Pelosi: On behalf of
+the American Bar Association and its over 400,000 members, I
+write to offer our views as the House considers class action
+reform. I understand that you intend to bring up H.R. 1927,
+the ``Fairness in Class Action Litigation Act of 2015,'' as
+early as this week. The ABA has long recognized that we must
+continue to improve our judicial system; however, we oppose
+legislation such as H.R. 1927, because it would unnecessarily
+circumvent the Rules Enabling Act, make it more difficult for
+large numbers of injured parties to efficiently seek redress
+in court, and could place added burdens on an already
+overloaded court system.
+This legislation would circumvent the time-proven process
+for amending the Federal Rules of Civil Procedure established
+by Congress in the Rules Enabling Act. Rule 23 of the Federal
+Rules of Civil Procedure governs determinations whether class
+certification is appropriate. This rule was adopted in 1966
+and has been amended several times utilizing the procedure
+established by Congress. The Judicial Conference, the
+policymaking body for the courts, is currently considering
+changes to Rule 23, and we recommend allowing this process to
+continue. In addition, the Supreme Court is poised to rule on
+cases where there are questions surrounding class
+certification. For example, the Court recently heard
+arguments in Tyson Foods v. Bouaphakeo where it will
+determine whether a class can be certified when it contains
+some members who have not been injured. We respectfully urge
+you to allow these processes for examining and reshaping
+procedural and evidentiary rules to work as Congress
+intended.
+Currently, to proceed with a class action case, plaintiffs
+must meet rigorous threshold standards. A 2008 study by the
+Federal Judicial Center found that only 25 percent of
+diversity actions filed as class actions resulted in class
+certification motions, nine percent settled, and none went to
+trial. These data show that current screening practices are
+working. However, if the proponents of this legislation are
+concerned about frivolous class action cases and believe that
+screening can be even more effective through rule changes,
+those changes should be proposed and considered utilizing the
+current process set forth by Congress in the Rules Enabling
+Act.
+In addition to circumventing the traditional judicial
+rulemaking process, the legislation would severely limit the
+ability of victims who have suffered a legitimate harm to
+seek justice collectively in a class action lawsuit. The
+legislation mandates that no Federal court shall certify any
+proposed class seeking monetary relief for personal injury or
+economic loss unless the party affirmatively demonstrates
+that each proposed class member suffered the same type and
+scope of injury as the named class representative(s). This
+requirement leaves a severe burden for people who have
+suffered personal injury or economic loss at the hands of
+large institutions with vast resources, effectively barring
+them from forming class actions. For example, in a class
+action against the Veterans Administration, several veterans
+sued for a variety of grievances centered on delayed claims.
+The requirement in this legislation that plaintiffs suffer
+the same type of injuries might have barred these litigants
+from forming a class because each plaintiff suffered harms
+that were not the same.
+We were pleased that a manager's amendment offered in
+Committee removed the requirement that the alleged harm to
+the plaintiff involved bodily injury or property damage. This
+improved the bill, but the remaining requirement leaves too
+high a burden. Class actions have been an efficient means of
+resolving disputes. Many of the legitimate complaints about
+lawsuit abuses through class-action litigation have been
+addressed through the evolution of class-action standards by
+the courts themselves; others are currently being considered
+by the Judicial Conference as part of the Rules Enabling Act
+process. Making it harder for victims to utilize class
+actions could add to the burden of our court system by
+forcing aggrieved parties to file suit in smaller groups, or
+individually.
+We appreciate the opportunity to provide our input and urge
+you to keep these concerns in mind as you continue to debate
+class-action reform legislation. If the ABA can provide you
+or your staff with any additional information regarding the
+ABA's views, or if we can be of further assistance, please
+contact me or ABA Governmental Affairs Legislative Counsel,
+David Eppstein.
+Sincerely,
+Thomas M. Susman.
+Ms. JACKSON LEE. Again, my friends, this speaks to the idea that we
+are not focusing on the plaintiff. So the injured party is at a
+disadvantage.
+Let me say to my colleagues that this bill is unnecessary because, in
+a class action, you do not get the same amount of money. It just allows
+you to put together your resources to press forward your case. So if
+you are a poor farmer or if you are a poor waitress or you are someone
+driving a 1989 car and you are in a circumstance that puts you in a
+category where that car, even as old as it is, had some defect and you
+have no ability to press your case, you have the ability to press your
+case along with others. I am outraged to think that they would deny
+that.
+So my amendment says to the defendant: You need to put forward all
+the information that you are demanding of those individuals who are
+singularly unable to provide the kind of legal representation that they
+need.
+If transparency was the true goal of this bill, then, why doesn't the
+bill require settling defendants to reveal information important to
+public safety? The asbestos health crisis is the result of a massive
+corporate coverup. Trust information is already public. So let's make
+it a two-way street.
+Let me also include for the Record a letter and these words: ``Far
+from being even-handed, this bill allows defendants--and only
+defendants--to do an end-run around state rules of discovery that place
+limits on information-gathering. The bill would tip the scales of
+justice in favor of asbestos defendants.''
+January 6, 2016.
+Re Opposition to Section 3 of H.R. 1927, the Fairness in
+Class Action Litigation and Furthering Asbestos Claim
+Transparency Act of 2015
+Hon. Paul Ryan,
+Speaker, House of Representatives,
+Washington, DC.
+Hon. Nancy Pelosi,
+Minority Leader, House of Representatives,
+Washington, DC.
+Dear Speaker Ryan and Leader Pelosi: The undersigned groups
+strongly oppose Section 3 of H.R. 1927, the ``Fairness in
+Class Action Litigation and Furthering Asbestos Claim
+Transparency Act of 2015,'' formerly H.R. 526, the
+``Furthering Asbestos Claim Transparency Act'' (FACT Act).
+This bill will interfere with state legal systems without
+justification, severely invade the privacy of asbestos
+victims and their families, and delay and deny justice to
+people suffering from lethal asbestos-related diseases. While
+it may seem like an opportune time to legislate in the area
+of asbestos litigation, this bill is extremely misguided. It
+will do little more than harm dying victims (including many
+former Navy shipyard workers), while advantaging the big
+corporations responsible for compensating them.
+For decades, secrecy and deceit have been a way of business
+for the asbestos industry, and this bill does absolutely
+nothing to change that. This wholly unnecessary and one-sided
+legislation is an affront to states' rights and unfair to
+victims.
+Section 3 of H.R. 1927 has two primary provisions: 1)
+requires asbestos trusts to disclose on public websites the
+private, confidential information about every asbestos
+claimant and their families, including past, current and
+future claimants. The legislation does nothing to stop
+asbestos defendants from continuing to demand secrecy when
+they settle cases (as they routinely do), or force companies
+to disclose any information to help a claimant with his or
+her case. To this day, these companies refuse to make public
+information about where asbestos is present, where it was
+used, and where it is imported. This bill is an unfair and
+unwarranted imposition on people who are likely to die
+because the asbestos industry covered up the dangers of
+asbestos for over 50 years and still insists on
+confidentiality today. Moreover, the information that will go
+on these public sites includes victims' names, addresses,
+medical information, how much they received in compensation,
+and the last four digits of their social security numbers.
+This extreme invasion of privacy will make victims and their
+families vulnerable to predators, con artists, and
+unscrupulous businesses who will scour these sites for
+information.
+2) It gives any defendant in any asbestos lawsuit the right
+to demand any information about any asbestos victim from any
+asbestos trust at any time for any reason. The trusts
+themselves have already told the House Judiciary Subcommittee
+on Regulatory Reform, Commercial and Antitrust Law that such
+a provision would place substantial burdens on them,
+requiring them to spend tens of thousands of additional hours
+per year trying to comply with this requirement. And because
+the provision is unlimited, the costs of compliance for
+trusts would be very high as well. Trusts are already
+underfunded. A RAND study found that the median payment from
+asbestos trusts to victims is 25 percent of the value of the
+claim, and some payments are as low as 1.1 percent of the
+claim's value.
+In addition to cost burdens, severe delays will result. As
+explained by Caplin & Drysdale attorney Elihu Inselbuch in
+his
+[[Page H198]]
+``Responses to Questions for the Record'' following his 2013
+subcommittee testimony: because trusts will be buried in
+otherwise unnecessary paperwork seeking claimant information,
+``The bill would slow down or stop the process by which the
+trusts review and pay claims, such that many victims would
+die before receiving compensation, since victims of
+mesothelioma typically only live for 4 to 18 months after
+their diagnosis.'' In many cases, ``the delays in trust
+payment will force dying plaintiffs, who are in desperate
+need of funds, to settle for lower amounts with solvent
+defendants . . . Delay is a weapon for asbestos defendants.''
+Finally, Mr. Inselbuch explained that, because this bill
+does not require that the information demanded by defendants
+be relevant to, or admissible in, any lawsuit, it is an
+unwarranted and ``heavy-handed piece of federal interference
+with the states' legal systems.''
+Far from being even-handed, this bill allows defendants--
+and only defendants--to do an end-run around state rules of
+discovery that place limits on information-gathering. The
+bill would tip the scales of justice in favor of asbestos
+defendants by giving defendants access to information about
+victims' settlements with asbestos trusts while allowing
+defendants to continue hiding information about their
+settlements with other victims. To level the playing field,
+victims should be entitled to information from defendants
+regarding previous settlement amounts and true transparency
+about where the defendants' asbestos was used, manufactured,
+and stored.
+As to the claim that this bill will ``prevent fraud,'' this
+bill places new, burdensome requirements on regularly-audited
+trusts. No one can find evidence of significant fraud in the
+trust process. The U.S. Government Accountability Office
+(GAO) studied the problem and did not identify one fraudulent
+claim. As Mr. Inselbuch noted, ``[b]ecause the injured victim
+was typically exposed to multiple asbestos products at
+multiple job sites over a period of many years, he or she
+must file different claims, with different trusts, with
+different forms that request different information. The fact
+that the exposure information submitted to one trust differs
+from the exposure information submitted to another does not
+mean it is `inconsistent'--and certainly not specious or
+fraudulent.'' Similarly, with regard to charges that victims
+``double-dip,'' he explains, ``when an asbestos victim
+recovers from each defendant whose product contributed to
+their disease, that victim is in no way `double-dipping';
+rather they are recovering a portion of their damages from
+each of the corporations who harmed them. In fact, each trust
+is responsible for and pays for only its own share of the
+damages.'' And as noted above, each trust usually can pay
+only pennies on the dollar.
+Since at least the 1930s, asbestos companies and their
+insurers have been denying responsibility for the millions of
+deaths and illnesses caused by this deadly product. The
+Centers for Disease Control and Prevention report that
+roughly 3,000 people continue to die from mesothelioma and
+asbestosis every year. Other experts estimate the death toll
+is as high as 15,000 people per year when other types of
+asbestos-linked diseases and cancers are included. The
+companies hid the dangers posed by asbestos exposure, lied
+about what they knew, fought against liability for the harms
+caused, tried to change the laws that held them responsible
+and, to this day, fight against banning asbestos in the U.S.
+The asbestos industry is not interested in transparency. This
+legislation is nothing but another industry attempt to avoid
+responsibility for the grave harms they have caused. We are
+asking you to stand with veterans and other cancer victims of
+the asbestos industry's wrongdoing and oppose H.R. 1927.
+Thank you for your consideration of our views.
+Sincerely,
+Alliance for Justice, Asbestos Disease Awareness
+Organization, Center for Effective Government, Center
+for Justice & Democracy, Connecticut Center for Patient
+Safety, Constitutional Alliance, Consumer Action,
+Consumer Watchdog, EWG Action Fund, National Employment
+Lawyers Association, National Association of Consumer
+Advocates, National Consumers League,
+OpenTheGovernment.org, Protect All Children's
+Environment, Public Citizen, U.S. PIRG.
+Ms. JACKSON LEE. I ask my colleagues to support my amendment.
+I reserve the balance of my time.
+Mr. FARENTHOLD. Madam Chair, I claim the time in opposition.
+The Acting CHAIR. The gentleman from Texas is recognized for 5
+minutes.
+Mr. FARENTHOLD. Madam Chair, one of the issues the FACT Act addresses
+is State court litigants' inability to obtain information from
+bankruptcy asbestos trusts. The FACT Act eliminates this problem by
+requiring minimal disclosures from asbestos trusts and allowing for
+access to additional information at the cost of the requesting party.
+It doesn't put a burden on the trusts.
+The amendment not only removes the minimal disclosure requirements,
+but it would replace additional disclosure requirements on parties who
+request information from the asbestos trust.
+Over the course of four separate hearings before the Judiciary
+Committee the issue highlighted was the lack of disclosure by the
+asbestos bankruptcy trust, not private party litigants. There has been
+no record of plaintiffs encountering difficulties in obtaining
+information necessary to sue these businesses. In fact, the evidence is
+to the contrary. Go look at a plaintiff's attorney who specializes in
+asbestos litigation Web site and you see how they tout their access to
+information necessary to sue these companies.
+It is the parties, other than the plaintiffs, including other
+asbestos bankruptcy trusts, as well as State court judges, who have
+difficulty obtaining information from the asbestos bankruptcy trust
+system which has created an environment that is conducive to fraud and
+takes money out of those trusts that is needed for future victims. The
+FACT Act merely levels the playing field so all parties have access to
+the same information.
+I urge my colleagues to oppose this amendment.
+I reserve the balance of my time.
+Ms. JACKSON LEE. How much time do I have remaining?
+The Acting CHAIR. The gentlewoman from Texas has 1 minute remaining.
+Ms. JACKSON LEE. Madam Chair, I vigorously disagree with my good
+friend from Texas (Mr. Farenthold) because it is very clear that the
+bill would tip the scales of justice in favor of asbestos defendants by
+giving defendants access to information about victim settlements with
+asbestos trusts while allowing the defendants to continue hiding
+information about their settlements.
+My amendment asks for the defendants to give the same information. No
+matter how much my good friend tries to redirect and suggest that this
+bill does not do that, it does.
+Might I also suggest that the other side offered the suggestion that
+there were groups like Save Our Veterans, The Cost of Freedom, Veterans
+Resource, that were representing the veterans community. Again, I would
+take issue with that representation. I insert into the Record a whole
+list that has been recounted by the gentleman from Georgia (Mr.
+Johnson), my colleague.
+January 7, 2015.
+Re Veterans Service Organization oppose H.R. 1927 the
+``Fairness in Class Action Litigation and Furthering
+Asbestos Claims Transparency Act''
+Hon. Paul Ryan,
+Speaker of the House, House of Representatives,
+Washington DC.
+Hon. Kevin McCarthy,
+Majority Leader, House of Representatives,
+Washington DC.
+Hon. Nancy Pelosi,
+Minority Leader, House of Representatives,
+Washington DC.
+Hon. Steny Hoyer,
+Minority Whip, House of Representatives,
+Washington DC.
+Dear Speaker Ryan, Leader McCarthy, Leader Pelosi, and Whip
+Hoyer: We, the undersigned Veterans Service Organizations
+oppose H.R. 1927 the ``Fairness in Class Action Litigation
+and Furthering Asbestos Claims Transparency Act of 2015.'' We
+have continuously expressed our united opposition to this
+legislation via written testimony to the House Judiciary
+Committee, House Leadership, in-person meetings and phone
+calls with members of Congress, and most recently, an op-ed
+many of our legislative teams submitted to ``The Hill'',
+entitled ``Farenthold has his facts wrong: The FACT Act hurts
+Veterans''. It is extremely disappointing that even with our
+combined opposition H.R. 1927 stands poised to be voted on
+the House floor later this week.
+Veterans across the country disproportionately make up
+those who are dying and afflicted with mesothelioma and other
+asbestos related illnesses and injuries. Although veterans
+represent only 8% of the nation's population, they comprise
+30% of all known mesothelioma deaths.
+When our veterans and their family members file claims with
+the asbestos bankruptcy trusts to receive compensation for
+harm caused by asbestos companies, they submit personal,
+highly sensitive information such as how and when they were
+exposed to the deadly product, sensitive health information,
+and more. H.R.1927 would require asbestos trusts to publish
+their sensitive information on a public database, and also
+include how much money they received for their claim as well
+as other private information. Forcing our veterans to
+publicize their work histories, medical conditions, social
+security numbers, and information about their children and
+families is an offensive invasion of privacy to the men and
+women who have honorably served, and it does nothing to
+assure their adequate compensation or to prevent future
+asbestos exposures and deaths.
+Additionally, H.R. 1927 helps asbestos companies add
+significant time and delay paying
+[[Page H199]]
+trust claims to our veterans and their families by putting
+burdensome and costly reporting requirements on trusts,
+including those that already exist. One must to ask what is
+the real motivation for this legislation brought forward by
+Representative Farenthold? Rather than pursuing legislation
+to make it easier and less burdensome for our veterans and
+their families to get the compensation they so desperately
+need for medical bills and end of life care, trusts will have
+to spend time and resources complying with these additional
+and unnecessary requirements at the expense of our veterans.
+H.R. 1927 is a bill that its supporters claim will help
+asbestos victims, but the reality is that this bill only
+helps companies and manufacturers who knowingly poisoned our
+honorable men and women who have made sacrifices for our
+country.
+We urgently ask on behalf of our members across the nation
+that you oppose H.R. 1927.
+Please contact Hershel Gober, National Legislative
+Director, Military Order of the Purple Heart at
+[email protected]
+with any questions.
+Signed:
+Air Force Sergeants Association, Air Force Women's
+Officers Associated (AFWOA), American Veterans (AM
+VETS), Association of the United States Navy (AUSN),
+Commissioned Officers Association of the US Public
+Health Services, Fleet Reserve Association (FRA),
+Jewish War Veterans of the USA (JWV), Marine Corns
+Reserve Association (MCRA), Military Officers
+Association of America (MOAA), Military Order of the
+Purple Heart (MOPH), National Association of Uniformed
+Services (NAUS), National Defense Council, Naval
+Enlisted Reserve Association, The Retired Enlisted
+Association (TREA), United States Coast Guard Chief
+Petty Officers Association, United States Army Warrant
+Officers Association, Vietnam Veterans Association
+(VVA).
+Ms. JACKSON LEE. The Air Force Sergeants Association, Vietnam
+Veterans Association, Jewish War Veterans of the USA, and others, these
+are the groups that are saying they are against this bill. The reason
+is because they are for the little guy. That is why they go to the
+battlefield and fight.
+I am standing here for the little guy. My amendment says let the big
+guys give you the same information and the little guys shouldn't even
+have to pay, if I might say. Let the big guys do it because they are
+the individuals who come and try to thwart the individuals.
+Madam Chair, let me express my appreciation to Chairman Sessions and
+Ranking Member Slaughter for their leadership and for making the
+Jackson Lee Amendment in order.
+Thank you for this opportunity to explain my amendment to H.R. 1927,
+the ``Fairness in Class Litigation and Furthering Asbestos Claim
+Transparency Act of 2015''.
+The Jackson Lee Amendment #9 would provide a balanced approach to the
+bill's disclosure requirements by applying the transparency rules in
+the bill equally to asbestos industry defendants.
+Specifically, this Amendment would require that an asbestos defendant
+seeking information from the trust about a plaintiff to first make
+available to the plaintiff and trust information about the median
+settlement amount paid by that defendant for claims settled or paid
+within 5 years of the date of the request, for the State in which the
+plaintiffs action was filed.
+Thus, in order for defendants to obtain the privileges of victim
+information disclosure as required in H.R. 1927, asbestos companies
+would also be required to report information about their asbestos-
+containing products.
+Without the Jackson Lee Amendment, H.R. 1927 is one-sided.
+If passed without this balance approach, H.R. 1927 maintains the
+rights of asbestos defendants to demand confidentiality of settlements
+and protects an asbestos defendant's right to continue to hide the
+dangers of their asbestos products from asbestos victims and the
+American public.
+A typical asbestos defendant who settles a case in the tort system
+demands confidentiality as a condition of settlement in order to ensure
+that other victims cannot learn how much they paid or for which
+asbestos products the defendant is paying compensation.
+These same defendants now want the victims to disclose specific
+settlement amounts with the trusts, along with product exposure
+information and work history, that they do not themselves provide nor
+would have provided before the trusts were created.
+If transparency were the true goal of this bill, then why doesn't the
+bill require settling defendants to reveal information important to
+public safety and health?
+The asbestos health crisis is the result of a massive corporate
+cover-up.
+For decades, asbestos companies knew about the dangers of asbestos
+and failed to warn or adequately protect workers and their families.
+Now, the same industry responsible for causing this crisis is asking
+Congress to protect them from liability.
+At the very least, this bill should require asbestos defendants to
+reveal information about their asbestos products, where they are in
+use, and how many Americans continue to be exposed to those products.
+Trust information is already public.
+Trusts already disclose far more information than solvent defendants
+do about their settlement practices and amounts--the settlement
+criteria used by a trust and the offer the trust will make if the
+criteria are met are publicly available in the Trust Distribution
+Procedures (``TDP'') for that trust.
+Trusts also file annual reports with the Bankruptcy courts and
+publish lists of the products for which they have assumed
+responsibility.
+If asbestos victims are going to be forced to reveal private medical
+and work history information in a public forum, to the very industry
+that caused their harm, asbestos defendants should at least be required
+to reveal which of their products contain asbestos and how many people
+are being exposed.
+H.R. 1927 seeks to override state law regarding discovery and
+disclosure of information.
+State discovery rules currently govern disclosure of a trust
+claimant's work and exposure history.
+The bill's proponents offer no explanation as to why the bill's
+potentially costly and burdensome information request provision is
+necessary or why Federal law should subvert state discovery processes.
+If such information is relevant to a state law claim, a defendant can
+seek and get that information according to the rules of a state court.
+What a defendant cannot do, and what this bill would allow, is for a
+defendant to engage in fishing expeditions for irrelevant information
+which has no use other than to delay a claim for as long as possible.
+Thus, H.R. 1927 must be amended to apply to defendants who should be
+required to reveal important information about their asbestos-
+containing products.
+Lastly, let me add that the asbestos defendants would not be required
+to disclose trade secrets under this amendment.
+The asbestos defendants would only be required to disclose
+information about which of their products contain asbestos, where they
+are in use, and how many people are being exposed.
+The Jackson Lee Amendment would not force asbestos defendants to
+reveal industry trade secrets or place them at a competitive
+disadvantage in the marketplace.
+Instead, this amendment ensures transparency from both the asbestos
+victims and asbestos defendants since transparency is the stated goal
+of the bill.
+I urge my colleagues to Support the Jackson Lee Amendment.
+I ask for my amendment to be supported.
+I yield back the balance of my time.
+Mr. FARENTHOLD. Madam Chairman, with all due respect to the
+gentlewoman from Houston, who is my friend, the requirement of the FACT
+Act does not require that the settlement amount be disclosed. What it
+does require to be disclosed is the minimal amount of information that
+we believe is necessary to help prevent fraud, that is, the name of the
+claimant and the basis of exposure and the nature of the claim. It
+specifically protects all sorts of private information, in addition to
+the protections already built into the Bankruptcy Clause.
+I guess the veterans groups are divided on that. Ms. Jackson Lee
+listed out a group, and we have entered into the Record a list of
+veterans groups and other groups that support it.
+Of most interest to the gentlewoman from Texas should be the Texas
+Coalition of Veterans Organization, which represents more than 600,000
+Texas veterans, supports this because they know that our young
+servicemen and -women that were exposed to asbestos and have not yet
+manifested the symptoms of mesothelioma or other asbestos-related
+diseases need to have these trusts in place so that there will be money
+to compensate them because they can't sue the Federal Government over
+sovereign immunity. This protects the veterans and makes sure there is
+money for future claimants.
+I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentlewoman from Texas (Ms. Jackson Lee).
+The question was taken; and the Acting Chair announced that the noes
+appeared to have it.
+Ms. JACKSON LEE. Madam Chair, I demand a recorded vote.
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, further
+proceedings on the amendment offered by
+[[Page H200]]
+the gentlewoman from Texas will be postponed.
+{time}  1130
+The Acting CHAIR. The Committee will rise informally.
+The Speaker pro tempore (Mr. Kline) assumed the chair.
+____________________

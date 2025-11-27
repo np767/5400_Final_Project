@@ -7,6 +7,14 @@ Length 02:36
 Premiere: 08/27/20
 Visit the Official Website
 Recent Episodes
+November 26, 2025 - PBS News Hour full episode
+S2025 E330
+Length 57:46
+Premiere Date 11/26/25
+November 25, 2025 - PBS News Hour full episode
+S2025 E329
+Length 57:46
+Premiere Date 11/25/25
 November 24, 2025 - PBS News Hour full episode
 S2025 E328
 Length 57:46
@@ -23,14 +31,6 @@ November 21, 2025 - PBS News Hour full episode
 S2025 E325
 Length 57:46
 Premiere Date 11/21/25
-November 20, 2025 - PBS News Hour full episode
-S2025 E324
-Length 57:46
-Premiere Date 11/20/25
-November 19, 2025 - PBS News Hour full episode
-S2025 E323
-Length 57:46
-Premiere Date 11/19/25
 Sponsored by:
 Clips & Previews
 Preview: President Donald Trump's 2025 address to Congress
@@ -527,6 +527,14 @@ Season 2012
 Season 2011
 Show Episodes
 Show Clips & Previews
+November 26, 2025 - PBS News Hour full episode
+S2025 E330
+Length 57:46
+Premiere Date 11/26/25
+November 25, 2025 - PBS News Hour full episode
+S2025 E329
+Length 57:46
+Premiere Date 11/25/25
 November 24, 2025 - PBS News Hour full episode
 S2025 E328
 Length 57:46
@@ -639,10 +647,6 @@ October 28, 2025 - PBS News Hour full episode
 S2025 E301
 Length 57:46
 Premiere Date 10/28/25
-October 27, 2025 - PBS News Hour full episode
-S2025 E300
-Length 57:46
-Premiere Date 10/27/25
 August 31, 2025 - PBS News Weekend full episode
 S2025 E243
 Length 26:45
@@ -697,18 +701,6 @@ caret up
 TV Schedules
 Jump to Recent Airdates
 Upcoming
-PBS News Hour
-- S142 E6
-Tuesday November 25, 2025 7:00 pm ET on
-KET
-Tuesday November 25, 2025 6:00 pm CT on
-KET
-PBS News Hour
-- S142 E7
-Wednesday November 26, 2025 7:00 pm ET on
-KET
-Wednesday November 26, 2025 6:00 pm CT on
-KET
 PBS News Hour
 - S142 E8
 Thursday November 27, 2025 7:00 pm ET on
@@ -844,6 +836,18 @@ KET
 Jump to Upcoming Airdates
 Recent
 PBS News Hour
+- S142 E7
+Wednesday November 26, 2025 7:00 pm ET on
+KET
+Wednesday November 26, 2025 6:00 pm CT on
+KET
+PBS News Hour
+- S142 E6
+Tuesday November 25, 2025 7:00 pm ET on
+KET
+Tuesday November 25, 2025 6:00 pm CT on
+KET
+PBS News Hour
 - S142 E5
 Monday November 24, 2025 7:00 pm ET on
 KET
@@ -967,11 +971,5 @@ PBS News Hour
 Monday October 27, 2025 7:00 pm ET on
 KET
 Monday October 27, 2025 6:00 pm CT on
-KET
-PBS News Hour
-- S142 E84
-Friday October 24, 2025 7:00 pm ET on
-KET
-Friday October 24, 2025 6:00 pm CT on
 KET
 Top
