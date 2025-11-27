@@ -1,0 +1,266 @@
+[Congressional Record Volume 162, Number 18 (Monday, February 1, 2016)]
+[House]
+[Pages H378-H379]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+FAIR INVESTMENT OPPORTUNITIES FOR PROFESSIONAL EXPERTS ACT
+Mr. GARRETT. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 2187) to direct the Securities and Exchange Commission to
+revise its regulations regarding the qualifications of natural persons
+as accredited investors, as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 2187
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Fair Investment
+Opportunities for Professional Experts Act''.
+SEC. 2. DEFINITION OF ACCREDITED INVESTOR.
+Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C.
+77b(a)(15) is amended--
+(1) by redesignating clauses (i) and (ii) as subparagraphs
+(A) and (F), respectively;
+(2) in subparagraph (A) (as so redesignated), by striking
+``; or'' and inserting a semicolon, and inserting after such
+subparagraph the following:
+``(B) any natural person whose individual net worth, or
+joint net worth with that person's spouse, exceeds $1,000,000
+(which amount, along with the amounts set forth in
+subparagraph (C), shall be adjusted for inflation by the
+Commission every five years to the nearest $10,000 to reflect
+the change in the Consumer Price Index for All Urban
+Consumers published by the Bureau of Labor Statistics) where,
+for purposes of calculating net worth under this
+subparagraph--
+``(i) the person's primary residence shall not be included
+as an asset;
+``(ii) indebtedness that is secured by the person's primary
+residence, up to the estimated fair market value of the
+primary residence at the time of the sale of securities,
+shall not be included as a liability (except that if the
+amount of such indebtedness outstanding at the time of sale
+of securities exceeds the amount outstanding 60 days before
+such time, other than as a result of the acquisition of the
+primary residence, the amount of such excess shall be
+included as a liability); and
+``(iii) indebtedness that is secured by the person's
+primary residence in excess of the estimated fair market
+value of the primary residence at the time of the sale of
+securities shall be included as a liability;
+``(C) any natural person who had an individual income in
+excess of $200,000 in each of the two most recent years or
+joint income with that person's spouse in excess of $300,000
+in each of those years and has a reasonable expectation of
+reaching the same income level in the current year;
+``(D) any natural person who is currently licensed or
+registered as a broker or investment adviser by the
+Commission, the Financial Industry Regulatory Authority, or
+an equivalent self-regulatory organization (as defined in
+section 3(a)(26) of the Securities Exchange Act of 1934), or
+the securities division of a State or the equivalent State
+division responsible for licensing or registration of
+individuals in connection with securities activities;
+``(E) any natural person the Commission determines, by
+regulation, to have demonstrable education or job experience
+to qualify such person as having professional knowledge of a
+subject related to a particular investment, and whose
+education or job experience is verified by the Financial
+Industry Regulatory Authority or an equivalent self-
+regulatory organization (as defined in section 3(a)(26) of
+the Securities Exchange Act of 1934); or''.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from New
+Jersey (Mr. Garrett) and the gentleman from Delaware (Mr. Carney) each
+will control 20 minutes.
+The Chair recognizes the gentleman from New Jersey.
+General Leave
+Mr. GARRETT. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days to revise and extend their remarks and to
+include any extraneous materials on this bill.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from New Jersey?
+There was no objection.
+Mr. GARRETT. Mr. Speaker, I yield myself 3 minutes.
+Mr. Speaker, I rise in support of H.R. 2187, the Fair Investment
+Opportunities for Professional Experts Act.
+I would like to thank Mr. Schweikert from Arizona for his diligent
+work on this bill and members on both sides of the aisle who approved
+this bill in the Financial Services Committee by an overwhelming vote
+of 54-2.
+Mr. Speaker, small and emerging companies play a significant role as
+drivers of the U.S. economic activity, innovation, and job creation. In
+fact, the majority of net jobs created in the U.S. are from companies
+less than 5 years old. Most of these companies are privately held
+companies, and their ability to raise capital in the private market is
+critical to the economic well-being of the U.S. and millions of
+American families.
+But in order for small companies to raise capital in the private
+market, under SEC regulations they must sell securities only to what
+are known as ``accredited investors.'' And what exactly determines
+whether an investor is accredited? Well, the SEC has for years
+determined that an individual investor's financial status should be the
+sole proxy for determining whether or not they are able to understand
+the risks and rewards.
+In other words, the SEC has taken the position that only very wealthy
+individuals should be allowed to invest in such offerings. That really
+makes very little sense.
+Under the SEC's logic, a random winner of the Powerball lottery would
+be automatically deemed a sophisticated investor. But an individual who
+holds advanced degrees and works in finance or a related field, but who
+happens to make slightly below what the SEC's threshold is, that person
+would be barred from investing in private offerings.
+You see, despite the paternalistic view taken by Washington
+regulators, there are plenty--plenty--of hardworking and smart
+Americans who are plenty capable of understanding investments in
+private businesses.
+Congress must, therefore, amend the definition of ``accredited
+investor'' in order to expand the pool of potential investors in a
+private placement market.
+H.R. 2187 will do just that by codifying the current accredited
+investor income and net worth thresholds, adjusted for inflation going
+forward. Additionally, it will extend accredited investor status to
+persons who the SEC determines have a demonstrable education or job
+experience to qualify as having professional subject matter knowledge
+related to that investment.
+In other words, the expansion of the accredited definition will
+enhance small companies' ability to raise capital and to grow by
+increasing the pool of potential investors, while at the same time
+increase investment opportunities for more Americans. In fact, allowing
+more individuals to invest in both public and private companies could
+ultimately have the effect of decreasing the risk in these portfolios
+themselves.
+Finally, as SEC Commissioner Mike Piwowar pointed out in a speech
+last year:
+``By holding a diversified portfolio of assets, investors reap the
+benefits of diversification, that is, the risk of the portfolio as a
+whole is lower than the risk of any individual asset . . . if the
+correlations are low enough, the overall portfolio risk could actually
+decrease.''
+Mr. Speaker, what that means is H.R. 2187 has a double benefit of
+affording American businesses more opportunities to raise capital,
+while actually providing hardworking Americans a greater opportunity to
+create wealth for themselves and their families. I ask my colleagues on
+both sides of the aisle to join me in supporting H.R. 2187.
+I reserve the balance of my time.
+Mr. CARNEY. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, let me first thank the gentleman from Arizona (Mr.
+[[Page H379]]
+Schweikert) and the gentlewoman from Arizona (Ms. Sinema) for their
+hard work on this bill. As was pointed out by Chairman Garrett, all the
+votes in the committee were in support of the bill, except for two.
+This legislation expands the definition of a ``accredited investor,''
+a status reserved for investors who possess the sophistication and
+financial means necessary to invest in private, unregistered securities
+offerings.
+Many of these thresholds have not been updated, Mr. Speaker, since
+1982, and the committee determined it was past time to do so.
+It is important to note that the SEC Investor Advisory Committee as
+well issued bipartisan recommendations, which acknowledge that the
+current income and net worth tests ``don't begin to measure the type or
+level of financial sophistication needed to evaluate the potential
+risks and benefits of private offerings.''
+We can all agree, and a vast majority of the members of the Financial
+Services Committee did agree, that an updated definition is long
+overdue. The authors of this legislation and the sponsors, Mr.
+Schweikert and Ms. Sinema, have worked to consider the risks of private
+offerings to ensure that investors in those offerings can understand
+and bear those risks.
+With those comments, Mr. Speaker, I reserve the balance of my time.
+Mr. GARRETT. Mr. Speaker, I yield such time as he may consume to the
+gentleman from Arizona (Mr. Schweikert), the sponsor of the underlying
+legislation, and the gentleman who has put all the time and hard work
+on this great bipartisan piece of legislation.
+Mr. SCHWEIKERT. Mr. Speaker, I thank the chairman, and I also thank
+my friend, Mr. Carney.
+This is one of those occasions where we actually get to show up here
+and have something that is bipartisan that we agree upon. But partially
+because being my piece of legislation, and something we have been
+working on for a while, I would like to tell a quick story of where
+this sort of came from conceptually.
+About 4 years ago, we were doing a little townhall at that time
+before redistricting in Tempe, Arizona, and most of the discussion in
+this townhall was a discussion about the haves and have nots, and why
+do some people seem to be making wealth and others are not. We sort of
+tried to actually address it intellectually with some analysis of what
+are the barriers out there. You are a middle income, hardworking
+family, and you have some talents; what is your optionality to be able
+to grow into that next tier of assets, of wealth? This actually became
+part of that discussion, that we actually have had this barrier now for
+decades that say we are going to judge you on your income and your
+wealth and that income and wealth is your threshold that says you get
+to invest in something over here, not your knowledge.
+There was a gentleman in the audience who stood up and said: I have
+got a story for you. I have a Ph.D. in electrical engineering. I work
+at the Intel plant in Chandler. I have some friends that started a
+business a year or two ago. I am an expert. I have a Ph.D. in
+electrical engineering and I worked with these guys for years. They
+started a business, and I am not allowed to invest in it because I
+don't meet the income and assets threshold.
+That is partially what we have accomplished here. The neat thing that
+has gone back and forth in discussion with my Democrat friends and many
+of my friends on our side working the bill--it is not everything I
+wanted--but conceptually it is a terrific idea that income, your wealth
+is not the only prerequisite for your right to invest in something,
+that it also can be your knowledge and your talent. If we really care
+about everyone getting a fair chance at that American Dream, we need to
+do more like this where you get judged by what you know, your
+expertise, and not just the fact that you already have made it.
+Mr. CARNEY. Mr. Speaker, I have no further requests for time.
+I yield back the balance of my time.
+Mr. GARRETT. Mr. Speaker, how much time do I have remaining?
+The SPEAKER pro tempore. The gentleman from New Jersey has 14\1/2\
+minutes remaining.
+Mr. GARRETT. Mr. Speaker, I yield such time as he may consume to the
+gentleman from Arkansas (Mr. Hill).
+Mr. HILL. Mr. Speaker, I thank the chairman, and Mr. Carney, my
+colleague on the distinguished minority, for this bill. I also want to
+thank Mr. Schweikert for his work on developing H.R. 2187, Fair
+Investment Opportunities for Professional Experts Act, which makes reg
+D offerings and private placements more effective by broadening the
+definition of an accredited investor to account for educational or
+professional expertise.
+Because of significant costs and barriers to raising capital in the
+U.S. public markets, many of our small companies raise start-up funds
+or expansion funds in the private market, and many of those private
+market transactions are through accredited investors.
+The current definition focuses only on financial status of the
+investor, and as a result, only wealthy individuals typically can
+participate in reg D offerings.
+H.R. 2187 expands the accredited investor definition, recognizing
+that the ability to participate is not based on an asset test, but on
+their sophistication and knowledge.
+I have been in this business before I was in Congress on and off for
+three decades, and I know that many of our Nation's accountants, stock
+brokers, venture capitalists, and engineers have money management
+experience or have a series 7 FINRA license, they work in money
+management, they work in specific kinds of industries, but they are not
+able to invest in private placements due to the fact that they don't
+meet this income or asset test.
+Mr. Schweikert's bill revises these rules so that investment and
+finance professionals who have this kind of level of professional
+sophistication are now treated as accredited investors, irrespective of
+whether they meet an arbitrary test.
+It is a matter, Mr. Speaker, of basic fairness. The government should
+not limit investing options to only investors they deem worthy.
+Expanding the accredited investor definition will not only increase
+investment opportunities for more Americans, but will help us grow
+thousands of small and emerging markets that struggle to raise capital.
+I thank the gentleman from Arizona for all of his work on this
+commonsense legislation. I enjoyed working with him on it.
+I am proud to support this bill, and I urge my colleagues to do so.
+Mr. GARRETT. Mr. Speaker, I yield myself 10 seconds to again thank
+Mr. Carney, and especially the gentleman from Arizona (Mr. Schweikert)
+for his work on this.
+I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from New Jersey (Mr. Garrett) that the House suspend the
+rules and pass the bill, H.R. 2187, as amended.
+The question was taken.
+The SPEAKER pro tempore. In the opinion of the Chair, two-thirds
+being in the affirmative, the ayes have it.
+Mr. SCHWEIKERT. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further
+proceedings on this motion will be postponed.
+____________________

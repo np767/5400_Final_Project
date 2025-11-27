@@ -1,0 +1,1620 @@
+[Congressional Record Volume 168, Number 125 (Wednesday, July 27, 2022)]
+[House]
+[Pages H7211-H7220]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+SUSAN MUFFLEY ACT OF 2022
+Mr. KILDEE. Madam Speaker, pursuant to House Resolution 1254, I call
+up the bill (H.R. 6929) to increase the benefits guaranteed in
+connection with certain pension plans, and for other purposes, and ask
+for its immediate consideration in the House.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore. Pursuant to House Resolution 1254, the
+amendment printed in part D of House Report 117-432 is adopted, and the
+bill, as amended, is considered read.
+The text of the bill, as amended, is as follows:
+H.R. 6929
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Susan Muffley Act of 2022''.
+SEC. 2. GUARANTEED BENEFIT CALCULATION FOR CERTAIN PLANS.
+(a) In General.--
+(1) Increase to full vested plan benefit.--
+(A) In general.--For purposes of determining what benefits
+are guaranteed under section 4022 of the Employee Retirement
+Income Security Act of 1974 (in this section referred to as
+``ERISA'') with respect to an eligible participant or
+beneficiary under a covered plan specified in paragraph (4)
+in connection with the termination of such plan, the amount
+of monthly benefits shall be equal to the full vested plan
+benefit with respect to the participant.
+(B) No effect on previous determinations.--Nothing in this
+Act shall be construed to change the allocation of assets and
+recoveries under sections 4044(a) and 4022(c) of ERISA as
+previously determined by the Pension Benefit Guaranty
+Corporation (in the section referred to as the
+``corporation'')
+[[Page H7212]]
+for the covered plans specified in paragraph (4), and the
+corporation's applicable rules, practices, and policies on
+benefits payable in terminated single-employer plans shall,
+except as otherwise provided in this section, continue to
+apply with respect to such covered plans.
+(2) Recalculation of certain benefits.--
+(A) In general.--In any case in which the amount of monthly
+benefits with respect to an eligible participant or
+beneficiary described in paragraph (1) was calculated prior
+to the date of enactment of this Act, the corporation shall
+recalculate such amount pursuant to paragraph (1), and shall
+adjust any subsequent payments of such monthly benefits
+accordingly, as soon as practicable after such date.
+(B) Lump-sum payments of past-due benefits.--Not later than
+180 days after the date of enactment of this Act, the
+corporation, in consultation with the Secretary of the
+Treasury and the Secretary of Labor, shall make a lump-sum
+payment to each eligible participant or beneficiary whose
+guaranteed benefits are recalculated under subparagraph (A)
+in an amount equal to--
+(i) in the case of an eligible participant, the excess of--
+(I) the total of the full vested plan benefits of the
+participant for all months for which such guaranteed benefits
+were paid prior to such recalculation, over
+(II) the sum of any applicable payments made to the
+eligible participant; and
+(ii) in the case of an eligible beneficiary, the sum of--
+(I) the amount that would be determined under clause (i)
+with respect to the participant of which the eligible
+beneficiary is a beneficiary if such participant were still
+in pay status; plus
+(II) the excess of--
+(aa) the total of the full vested plan benefits of the
+eligible beneficiary for all months for which such guaranteed
+benefits were paid prior to such recalculation, over
+(bb) the sum of any applicable payments made to the
+eligible beneficiary.
+Notwithstanding the previous sentence, the corporation shall
+increase each lump-sum payment made under this subparagraph
+to account for foregone interest in an amount determined by
+the corporation designed to reflect a 6 percent annual
+interest rate on each past-due amount attributable to the
+underpayment of guaranteed benefits for each month prior to
+such recalculation.
+(C) Eligible participants and beneficiaries.--
+(i) In general.--For purposes of this section, an eligible
+participant or beneficiary is a participant or beneficiary
+who--
+(I) as of the date of the enactment of this Act, is in pay
+status under a covered plan or is eligible for future
+payments under such plan;
+(II) has received or will receive applicable payments in
+connection with such plan (within the meaning of clause (ii))
+that does not exceed the full vested plan benefits of such
+participant or beneficiary; and
+(III) is not covered by the 1999 agreements between General
+Motors and various unions providing a top-up benefit to
+certain hourly employees who were transferred from the
+General Motors Hourly-Rate Employees Pension Plan to the
+Delphi Hourly-Rate Employees Pension Plan.
+(ii) Applicable payments.--For purposes of this paragraph,
+applicable payments to a participant or beneficiary in
+connection with a plan consist of the following:
+(I) Payments under the plan equal to the normal benefit
+guarantee of the participant or beneficiary.
+(II) Payments to the participant or beneficiary made
+pursuant to section 4022(c) or otherwise received from the
+corporation in connection with the termination of the plan.
+(3) Definitions.--For purposes of this subsection--
+(A) Full vested plan benefit.--The term ``full vested plan
+benefit'' means the amount of monthly benefits that would be
+guaranteed under section 4022 of ERISA as of the date of plan
+termination with respect to an eligible participant or
+beneficiary if such section were applied without regard to
+the phase-in limit in subsection (b)(1) of such Act and the
+maximum guaranteed benefit limitation in subsection (b)(3) of
+such Act (including the accrued-at-normal limitation).
+(B) Normal benefit guarantee.--The term ``normal benefit
+guarantee'' means the amount of monthly benefits guaranteed
+under such section with respect to an eligible participant or
+beneficiary without regard to this Act.
+(4) Covered plans.--The covered plans specified in this
+paragraph are the following:
+(A) The Delphi Hourly-Rate Employees Pension Plan.
+(B) The Delphi Retirement Program for Salaried Employees.
+(C) The PHI Non-Bargaining Retirement Plan.
+(D) The ASEC Manufacturing Retirement Program.
+(E) The PHI Bargaining Retirement Plan.
+(F) The Delphi Mechatronic Systems Retirement Program.
+(5) Treatment of pbgc determinations.--Any determination
+made by the corporation under this section concerning a
+recalculation of benefits or lump-sum payment of past-due
+benefits shall be subject to administrative review by the
+corporation. Any new determination made by the corporation
+under this section shall be governed by the same
+administrative review process as any other benefit
+determination by the corporation.
+(b) Trust Fund for Payment of Increased Benefits.--
+(1) Establishment.--There is established in the Treasury of
+the United States a trust fund to be known as the ``Delphi
+Full Vested Plan Benefit Trust Fund'' (hereafter in this
+subsection referred to as the ``Fund''), consisting of such
+amounts as may be appropriated or credited to the Fund as
+provided in this section.
+(2) Funding.--There is appropriated from the general fund
+such amounts as are necessary for the costs of the payment of
+the portion of monthly benefits guaranteed to a participant
+or beneficiary pursuant to subsection (a) and for necessary
+administrative and operating expenses of the corporation
+relating to such payment. The Fund shall be credited with
+amounts from time to time as the Secretary of the Treasury,
+in conjunction with the Director of the corporation,
+determines appropriate, from the general fund of the
+Treasury.
+(3) Expenditures from fund.--Amounts in the Fund shall be
+available for the payment of the portion of monthly benefits
+guaranteed to a participant or beneficiary pursuant to
+subsection (a) and for necessary administrative and operating
+expenses of the corporation relating to such payment.
+(c) Regulations.--The corporation, in consultation with the
+Secretary of the Treasury and the Secretary of Labor, may
+issue such regulations as necessary to carry out this
+section.
+(d) Tax Treatment of Lump-Sum Payments.--
+(1) In general.--Unless the taxpayer elects (at such time
+and in such manner as the Secretary may provide) to have this
+paragraph not apply with respect to any lump-sum payment
+under subsection (a)(2)(B), the amount of such payment shall
+be included in the taxpayer's gross income ratably over the
+3-taxable-year period beginning with the taxable year in
+which such payment is received.
+(2) Special rules related to death.--
+(A) In general.--If the taxpayer dies before the end of the
+3-taxable-year period described in paragraph (1), any amount
+to which paragraph (1) applies which has not been included in
+gross income for a taxable year ending before the taxable
+year in which such death occurs shall be included in gross
+income for such taxable year.
+(B) Special election for surviving spouses of eligible
+participants.--If--
+(i) a taxpayer with respect to whom paragraph (1) applies
+dies,
+(ii) such taxpayer is an eligible participant,
+(iii) the surviving spouse of such eligible participant is
+entitled to a survivor benefit from the corporation with
+respect to such eligible participant, and
+(iv) such surviving spouse elects (at such time and in such
+manner as the Secretary may provide) the application of this
+subparagraph,
+subparagraph (A) shall not apply and any amount which would
+have (but for such taxpayer's death) been included in the
+gross income of such taxpayer under paragraph (1) for any
+taxable year beginning after the date of such death shall be
+included in the gross income of such surviving spouse for the
+taxable year of such surviving spouse ending with or within
+such taxable year of the taxpayer.
+SEC. 3. PENSION VARIABLE RATE PREMIUM PAYMENT ACCELERATION.
+Notwithstanding section 4007(a) of the Employee Retirement
+Income Security Act of 1974 (29 U.S.C. 1307(a)) and section
+4007.11 of title 29, Code of Federal Regulations, any
+additional premium determined under subparagraph (E) of
+section 4006(a)(3) of such Act (29 U.S.C. 1306(a)(3)) the due
+date for which is (but for this section) after September 15,
+2032, and before November 1, 2032, shall be due not later
+than September 15, 2032.
+The SPEAKER pro tempore. The bill, as amended, shall be debatable for
+1 hour equally divided and controlled by the chair and ranking minority
+member of the Committee on Ways and Means or their respective
+designees.
+After 1 hour of debate, it shall be in order to consider the further
+amendment printed in part E of House Report 117-432, if offered by the
+Member designated in the report, which shall be considered read, shall
+be separately debatable for the time specified in the report equally
+divided and controlled by the proponent and an opponent, and shall not
+be subject to a demand for a division of the question.
+The gentleman from Michigan (Mr. Kildee) and the gentlewoman from
+North Carolina (Ms. Foxx) each will control 30 minutes.
+The Chair recognizes the gentleman from Michigan (Mr. Kildee).
+{time}  1545
+General Leave
+Mr. KILDEE. Madam Speaker, I ask unanimous consent that all Members
+may have 5 legislative days in which to revise and extend their remarks
+and to insert extraneous material on the bill.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Michigan?
+[[Page H7213]]
+There was no objection.
+Mr. KILDEE. Madam Speaker, I yield myself such time as I may consume.
+Madam Speaker, H.R. 6929, the Susan Muffley Act of 2022, will restore
+the hard-earned pensions of more than 20,000 Delphi salaried retirees,
+including 5,000 in my home State of Michigan.
+The Susan Muffley Act is a bipartisan bill supported by Republicans
+and Democrats in both the House and the Senate. I worked most
+particularly with Mr. Ryan of Ohio and Mr. Turner of Ohio on this
+legislation along with the other cosponsors. It is endorsed by the
+AARP, the AFL-CIO, and the UAW. I am glad we can come together finally
+to do what is right for these workers. These are workers who lost their
+pensions through no fault of their own.
+In this country, Madam Speaker, if you work hard and play by the
+rules, you should be able to retire with dignity and with peace of
+mind. Instead, these workers had the rug ripped out from underneath
+them and lost their hard-earned benefits. When General Motors filed for
+bankruptcy during the Great Recession the Federal Government--I repeat,
+the Federal Government--made the unprecedented step to move in and save
+the auto industry. At the direction of the Federal Government, however,
+the U.S. Pension Benefit Guaranty Corporation, the PBGC, assumed
+responsibility for the Delphi salaried retiree pensions. After
+negotiations with the Federal Government, the PBGC cut those hard-
+earned benefits by as much as 70 percent for 20,000 Delphi salaried
+retirees.
+These retirees were treated differently than other retirees impacted
+by the GM bankruptcy. They suffered significant cuts to their benefits,
+upending the lives of thousands and thousands of families.
+In September of 2019, the Delphi Salaried Retirees Association filed
+suit against the PBGC to have their pension benefits restored. It went
+all the way to the Supreme Court until the Court declined to hear the
+case, making it clear that only congressional action could restore
+these earned pension benefits.
+Our legislation would make this unique group of retirees who had
+their pensions unfairly and disproportionately cut will make them whole
+again. This means that beneficiaries will receive a payment of the
+difference of what was actually paid to them by the PBGC and what they
+would have earned had they been able to keep their pensions like
+everyone else did. Moving forward, beneficiaries will receive their
+full earned pension.
+This bill is fully paid for and will not add to the deficit.
+Delphi salaried retirees deserve to have their pensions made whole
+because it was the Federal Government that singled these workers out.
+It was the Federal Government who stepped in to rescue General Motors
+but decided to treat these workers differently and cut their earned
+pensions. It was the Federal Government, not General Motors, who
+directly negotiated with the PBGC.
+What happened to these hardworking retirees was wrong, and now it is
+the Federal Government who has the responsibility to fix the mess that
+itself created.
+We need to get this legislation done for people like Susan Muffley
+for whom this bill is named. David Muffley, Susan's husband, worked at
+Delphi as an electronics technician for 31 years but lost the full
+value of his pension in 2009. His wife, Susan Muffley, was a core part
+of the Delphi Salaried Retirees Association's leadership team fighting
+to restore these pensions.
+Because of the financial difficulties of losing their pension, Susan
+avoided seeing her doctor because they couldn't afford it. Sadly, she
+was ultimately diagnosed with pancreatic cancer and passed away.
+After working hard for 30 years to earn a pension to support your
+family through retirement, no worker and no family member should be
+forced to forgo medical treatment to make ends meet. These workers need
+the Susan Muffley Act. The last 13 years have been an absolute
+nightmare for these families. These are people I know.
+During the Obama Administration, the problem was created but never
+addressed. During the Trump administration, the former President talked
+about fixing the issue but never acted. He ran out of time before that
+moment could occur. But now, today, after lots of talk and not so much
+action, Congress can finally act to provide relief and justice for
+these workers, these Delphi salaried retirees.
+Madam Speaker, I urge my colleagues to support this important
+legislation, and I reserve the balance of my time.
+Ms. FOXX. Madam Speaker, I yield myself such time as I may consume.
+Madam Speaker, when it comes to bailouts, Congress just can't seem to
+help itself. Under President Biden, taxpayers have been forced to
+bankroll the so-called American Rescue Plan which included an uncapped
+bailout for failing and insolvent multi-employer pensions.
+From footing the bill for this excessive government spending to
+record-high gas prices, taxpayers can't catch a break in Biden's
+America, and today we are considering another bailout that will force
+taxpayers to cover the tab for failed, privately run pensions.
+What message does this send to the men and women who have their own
+retirement accounts to worry about or have no retirement accounts at
+all?
+More pension bailouts set a damning precedent. In case anyone has
+forgotten, we work for hardworking taxpayers in this country. As
+Members of Congress we have an obligation to ensure that taxpayer
+dollars are being spent as efficiently and effectively as possible.
+Unfortunately, too many ignore this important duty and are happy to
+mortgage the future of the next generation with reckless spending.
+On top of the price tag, there have been no hearings and no markups
+on H.R. 6929.
+Is this the standard the House wants to operate under--one where any
+piece of legislation can be fast-tracked to the floor without due
+consideration and scrutiny?
+Under Democrat control, good governance has long been abandoned in
+the people's House.
+In 2009, when Delphi Corporation completed its 4-year bankruptcy, its
+defined benefit pension plans were terminated and taken over by the
+Pension Benefit Guaranty Corporation, PBGC, a process that has been
+well-established. At that time, the Delphi pension plans were
+collectively underfunded by $7.2 billion. Delphi did not make required
+contributions to its pension plans in the 4 years it was moving through
+bankruptcy. The salaried employee plan, in particular, was only 48
+percent funded with $2.4 billion in assets and liabilities of $5
+billion.
+Fast forward to today, and we are considering a bill that would dole
+out money like candy. Under this bill, participants would receive a
+retroactive lump-sum payment, or ``top-up,'' of the difference between
+what was paid by PBGC and what the plans would have paid had they not
+been terminated.
+But here is the kicker, Madam Speaker: this top-up would come with an
+additional 6 percent interest, and all participants would receive their
+original monthly benefits moving forward.
+Let's turn our attention to the precedent that this bill sets for the
+entire single-employer pension system. Currently, PBGC's single-
+employer insurance program is funded exclusively by premiums paid by
+employer plan sponsors and does not--does not--receive taxpayer
+dollars. PBGC is the trustee of over 5,000 terminated single-employer
+plans.
+Madam Speaker, please pay attention to this next part. By topping up
+one plan, Congress will be pressured and expected to top up the
+remaining 5,000 terminated plans and every future terminated plan.
+How many plans does PBGC currently insure?
+More than 23,000 active, single-employer plans are currently insured.
+So, Madam Speaker, what is next on the docket?
+Should Congress roll up its sleeves and make whole every American's
+401(k) plan that took a few hits?
+Again, how about Americans who do not have a pension plan?
+There are many of those. Imagine the harebrained schemes that
+Congress could start pulling out of its hat if given this
+encouragement. We should be protecting taxpayers, not feeding them to
+the wolves.
+This bill is a slap in the face to fiscal responsibility. H.R. 6929's
+cash giveaway will force taxpayers to shoulder a
+[[Page H7214]]
+cost of $800 million over the next decade and $1.3 billion in all to
+bail out underfunded, privately run pension plans.
+Another bailout of failing pension plans does nothing but stick it to
+hardworking taxpayers. This bill simply underscores the fact that
+Congress is too misguided to focus on real issues.
+Madam Speaker, hardworking taxpayers cannot afford more senseless
+bailouts. Enough is enough.
+Madam Speaker, I reserve the balance of my time.
+Mr. KILDEE. Madam Speaker, I yield myself such time as I may consume.
+Madam Speaker, I appreciate the comments of my colleague. I disagree
+with the conclusions that she makes, and I would only challenge a
+couple of things.
+One is on the issue of precedent. There is no precedent, unless the
+precedent is when the Federal Government intervenes and takes control
+of a company, takes ownership of a company, it buys the problem. It
+then owns the solution. It owns responsibility for the solution.
+So the only precedent that I think this sets is one that I learned a
+long time ago: if you broke it, you bought it. The Federal Government
+intervened and made these decisions disproportionately affecting these
+particular employees.
+The rest of the employees got their pensions topped up, why wouldn't
+this particular set?
+Secondly, I disagree with the reference that this is candy. For these
+taxpayers, these families, this is rent, this is food on the table, it
+is their mortgage payment, it is a car payment, and it is medicine--
+medicines that, sadly, Susan Muffley didn't have the ability to get to
+because her pension was cut. This is about justice.
+Madam Speaker, I yield 2 minutes to the gentlewoman from Michigan
+(Mrs. Lawrence), who unfortunately is spending her last months in
+Congress. I wish that weren't the case.
+Mrs. LAWRENCE. Madam Speaker, I rise today in support of the Susan
+Muffley Act. This bill would restore pension benefits to over 20,000
+Delphi salaried retirees, including over 5,000 Michiganders.
+When GM filed for bankruptcy during the Great Recession, these
+families lost up to 70 percent of their earned benefits. They need and
+deserve the attention and action of this body.
+This bill is named after Susan Muffley, whose husband worked at
+Delphi for 31 years and could not seek medical treatment when their
+family lost the pension.
+Mrs. Muffley spent years fighting to have all these pensions
+restored.
+Let me be absolutely clear: Michiganders and all Americans who have
+worked hard their entire lives to support their families deserve the
+right to retire with dignity and financial security. This is simply the
+right thing to do.
+Madam Speaker, I thank my colleague, Congressman Kildee, for
+introducing this bipartisan bill, and I urge my colleagues to vote
+``yes.'' In America we are better than this, and we need to pass this
+bill.
+Ms. FOXX. Madam Speaker, I yield 3 minutes to the distinguished
+gentleman from Pennsylvania (Mr. Keller).
+Mr. KELLER. Madam Speaker, I thank the ranking member, Dr. Foxx, of
+North Carolina for yielding.
+Unlike the multi-employer pension program, which was recently
+injected with billions of taxpayer dollars, the single-employer
+insurance program is self-sufficient. It is funded by premiums paid by
+employer sponsors to the Pension Benefit Guaranty Corporation. By most
+accounts, PBGC's single-employer insurance system is healthy and not in
+need of bailouts. Yet a bailout is exactly what H.R. 6929 is. You
+cannot give public money out to one person without first taking it from
+another.
+This bill does not help Pennsylvanians without a pension plan or with
+losses in their personal retirement accounts. On the contrary, this
+bill is an irresponsible giveaway that sets a dangerous precedent for
+the Federal Government's involvement in pension plans going forward.
+{time}  1600
+The Congressional Budget Office estimates that this bailout will cost
+taxpayers nearly $800 million over 10 years; not including the lifetime
+cost of the bill, which could reach $1.3 billion. I wonder how the
+people that have to pay that in the next generation are going to pay
+their rent, afford their college, and afford their groceries.
+Congressional Democrats and the Biden administration have already
+spent tens of billions on insolvent and failing multi-employer plans,
+without holding trustees accountable for failing workers or retirees,
+or meaningfully reforming the pension system to prevent future
+insolvency.
+Once again, the Federal Government is offering a pension bailout.
+Hardworking taxpayers who have their own retirements to worry about
+cannot continue to shoulder this burden. We cannot set this kind of
+precedent for a single-employer system. If Congress gives special
+treatment to this plan covered by today's bill, the other 5,000 single-
+employer plans also managed by PBGC will pressure Congress to do the
+same for all.
+Is Congress then expected to top up or provide a lump sum to every
+future terminated plan? These are serious implications that cannot be
+ignored.
+The vast majority of participants in terminated plans receive their
+full benefits. The Delphi plans are no exception. Nearly three-fourths
+of participants were not subject to the PBGC's statutory guarantee
+limits.
+This body must remember it works for the taxpayers, not political
+interest groups. Americans don't work hard each and every day to fund
+irresponsible pet projects. We need more fiscal sanity, not more
+pension bailouts.
+On top of all these issues, the manager's amendment is simply a
+budget gimmick to make the bill appear to cost nothing.
+In reality, it accelerates the time period in which single-employer
+plans are required to pay their variable rate premiums to the PBGC to
+fit within the budget window, and it adds nothing to the PBGC's bottom
+line.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Ms. FOXX. Madam Speaker, I yield an additional 30 seconds to the
+gentleman from Pennsylvania.
+Mr. KELLER. PBGC is going to receive the same amount of money with or
+without the manager's amendment.
+I encourage my colleagues to oppose this legislation and the
+dangerous, fiscally irresponsible precedent it sets.
+Mr. KILDEE. Madam Speaker, I yield 2 minutes to the gentleman from
+New York (Mr. Higgins), my colleague on the Ways and Means Committee.
+Mr. HIGGINS of New York. I rise today in support of H.R. 6929, the
+Susan Muffley Act.
+Madam Speaker, this House has been one of the strongest advocates for
+workers and worker families in recent history.
+We passed legislation to increase the minimum wage; to support the
+right to organize; to decrease the cost of drugs and health insurance.
+And we protected and restored pensions. But as this bill shows, our
+work is not complete.
+My community in Buffalo and Western New York has a long history of
+auto-making. When the recession hit in 2009, families across my
+district saw their pensions evaporate.
+And while we stabilized the auto sector, and the loans have been
+repaid, thousands of former auto company employees have been left
+behind, including hundreds of Delphi workers in Lockport who, due to no
+fault of their own, had their pensions arbitrarily cut.
+This legislation will fix that longstanding error and will provide
+certainty so that these families can retire with the benefits they
+earned.
+I thank Mr. Kildee from Michigan, Mr. Ryan and Mr. Turner from Ohio,
+for being champions of this bill, and I urge my colleagues to support
+its passage.
+Ms. FOXX. Madam Speaker, I yield 4 minutes to the gentleman from
+Virginia (Mr. Good).
+Mr. GOOD of Virginia. Madam Speaker, I rise today in strong
+opposition to H.R. 6929, another Democrat bailout bill by the sponsors
+of the nanny state.
+It is clear that ``Bidenflation'' is crushing the American people
+with the Biden price hike that is causing sky-high gas prices, and
+Americans are struggling to stay afloat as the economy limps toward
+recession.
+Not surprisingly though, Democrats are trying to redefine the term
+``recession'' to avoid recognizing the failures of their damaging
+policies.
+[[Page H7215]]
+Let me help them out by quoting, paraphrasing from the former
+President Ronald Reagan: A recession is when your neighbor loses his
+job. A depression is when you lose your job. But a recovery is when
+Democrat Members of Congress lose their jobs.
+This legislation would make hardworking middle-class taxpayers
+reimburse pension plan participants who were employed by the now-
+defunct Delphi Corporation and add 6 percent interest. The Democrats
+insist that this is just an attempt to rightfully recover losses
+suffered by these former employees.
+But early in my own career, I actually experienced this kind of
+unfortunate situation firsthand. In fact, my first employer after
+college ended their cash balance pension plan just a couple of years
+after I started with the company. But it never occurred to me that
+other hardworking taxpayers should have to pay me for the benefits and
+earnings that I missed out on.
+My next employer sold my division to a competitor, and then the
+former parent company went under, and the value of their stock that
+made up a significant portion of my retirement account went to zero.
+But, again, it never occurred to me that other, hardworking taxpayers
+should have to pay me to restore my lost investment value.
+In both cases, recognizing the risks and rewards associated with our
+nonsocialist, free enterprise economic system, I just kept working
+hard, saving money for retirement, with no help from Congress or
+confiscation of resources from other hardworking taxpayers.
+To my benevolent colleagues on the other side, I have one question
+for you: Where does this end? And we know where it ends, with these
+policies carried to its logical conclusion, with the physical ruin of
+America.
+But I should say benevolent with other people's money and with our
+children's financial and economic future.
+Should Congress reimburse every American's investment retirement plan
+when it suffers a loss?
+What if all Americans seek repayment for their losses in this failed
+Biden economy, because it does affect everyone.
+But hardworking Americans have had enough. Why should the
+constituents of my Virginia Fifth District pay for someone else's
+retirement plan?
+Enough with the stimulus checks; enough with the bailouts; enough
+with paying people not to work; enough with growing the welfare state;
+enough with incentivizing and rewarding the wrong behavior, while
+punishing those who do the right thing.
+Let's get back to the Trump policies, 1 percent inflation, $2 gas
+prices, and put Americans back to work. I urge all of my colleagues to
+vote against this Democrat bailout bill.
+Mr. KILDEE. Madam Speaker, I yield myself such time as I may consume.
+I appreciated the gentleman's comments. I will point out, since the
+gentleman did refer to the former President, Mr. Trump, that Mr. Trump
+saw this as an injustice and directed his administration to address it
+as well.
+And I also think there is enough partisanship in Washington, more
+than enough, so let's not make something that is bipartisan just for
+the point of rhetorical value into something that is claimed to be
+partisan.
+This is not a partisan piece of legislation. I see Mr. Turner on the
+other side of the aisle. We have worked together on this for years; 17
+of the 37 cosponsors of this legislation are Republicans, including
+Members with whom I don't think I have ever shared sponsorship. I don't
+recall, for example, being a cosponsor of any piece of legislation with
+Mr. Mo Brooks. We are on this one.
+This is not a partisan bill, so let's not call it that. You can
+disagree with it. You can vote against people getting their hard-earned
+pensions, but let's not make it into something that it isn't.
+Madam Speaker, I yield 2 minutes to the gentlewoman from Michigan
+(Mrs. Dingell), a friend that I have known for a very long time, a
+member of the Energy and Commerce Committee.
+Mrs. DINGELL. Madam Speaker, I rise today in strong support of H.R.
+6929, the Susan Muffley Act of 2022.
+Every worker deserves a secure and dignified retirement. That
+shouldn't be negotiable, especially when they were promised a pension
+as part of their income and put into it.
+This legislation restores the pension benefits of Delphi salaried
+retirees that were impacted by the Great Recession, some of whom saw
+their pensions cut by as much as 70 percent as a result of the Pension
+Benefit Guaranty Corporation's termination of their benefits unfairly.
+My State of Michigan was particularly impacted, as I know the State
+of Ohio was--it was a good midwest company--by the termination of these
+plans, with thousands of retirees losing pension benefits they earned,
+they were promised. They deserve the full value of what they earned and
+were promised.
+These retirees have been fighting for over a decade to receive these
+benefits, and it is time to make them whole.
+I strongly urge all of my colleagues to support this important
+bipartisan bill.
+I thank my colleague for his leadership. When we are home, we listen
+to these people who are just in total tears. They don't know what to
+do. And my colleague has never stopped leading the charge for them.
+Ms. FOXX. Madam Speaker, I yield 3 minutes to the gentleman from Ohio
+(Mr. Turner).
+Mr. TURNER. Madam Speaker, I thank Ranking Member Foxx for yielding
+me time.
+I am an original cosponsor of this bill, H.R. 6929. This legislation
+restores the pensions of the Delphi Salaried Retirees.
+I am very proud to speak on behalf of this bipartisan bill. During
+the Obama administration's 2009 taxpayer-funded General Motors
+bankruptcy bailout, President Obama's Auto Task Force directed the
+Pension Benefit Guaranty Corporation to terminate the fully funded
+pensions of more than 20,000 Delphi Automotive salaried retirees.
+Even worse is that the pensions of the salaried retirees were
+terminated while the Obama Auto Task Force used the taxpayer-funded
+bankruptcy to top up the pensions of the Delphi union employees. The
+Obama administration choose winners and losers, with taxpayers'
+dollars.
+A 2013 report published by the Special Inspector General for TARP
+said: ``Treasury did not view the non-UAW Delphi hourly employees or
+the Delphi salaried employees as having leverage because they could not
+hold up GM's bankruptcy.''
+These pensions did not fail. These pensioners were robbed of their
+pensions by the people who were supposed to protect them.
+For over 13 years now, I have worked with my colleagues to try to
+restore these pensions. President Trump issued a Presidential
+directive, a memorandum directing the PBGC to provide options for
+restoring through the agency calling ``the plight of Delphi's salaried
+and non-unionized workforce a great concern to my administration.''
+President Biden also supports this legislation. Now, Congress must
+restore these pensions. There is no precedent for this bill. No one
+else has had the White House pick winners and losers and take away
+their pensions.
+It is our responsibility, as Members of Congress, to address this
+injustice. We finally have the chance to rectify this wrong. Stand up
+for the 20,000 hardworking Americans who want what is rightfully
+theirs. I ask my colleagues to support this legislation.
+Mr. KILDEE. Madam Speaker, I yield 2 minutes to the gentleman from
+Ohio (Mr. Ryan), a gentleman that I have been working with on this
+issue for as long as I have been in Congress.
+Mr. RYAN. Madam Speaker, 13 years; 13 years. I have been in Congress
+now for a little while, and I cannot begin to tell you what an example
+that the Delphi salaried retirees have set. It is the absolute gold
+standard for activism and lobbying their government.
+And I, you know, normally get up here and get pretty upset; but I
+have got to kind of laugh because when I hear our friends on the other
+side talk about irresponsibility and gimmicks and nanny states and
+socialists, I think of all my friends in the Delphi salaried
+retirement.
+These are the most hardworking citizens that I have in my district.
+And they show up for work. They coach the baseball teams. They work at
+the church. They are veterans. They give back. They are great parents.
+They are
+[[Page H7216]]
+great-grandparents. They are involved in the community.
+{time}  1615
+Our job here is pretty simple. We look at the field, see what is
+happening in the country, and if some person or group of people are
+being wronged unfairly, it is our job to fix it. It is not a Democrat
+thing. It is not a Republican thing. It is not a left-right thing, not
+a free market thing, or a socialist thing.
+It is about people. It is about American citizens who did everything
+right. They showed up one day in the middle of a bankruptcy that, as
+Mr. Kildee has articulated here, the government was organizing, and
+reorganizing, the American auto industry. This isn't some private-
+sector bankruptcy. The government was in there manipulating everything,
+and they screwed up.
+There was no one screaming louder than I was at the Obama
+administration, Sherrod Brown and I, in meetings with Tim Geithner and
+all the rest over the last 13 years.
+The SPEAKER pro tempore (Mrs. Dingell). The time of the gentleman has
+expired.
+Mr. KILDEE. Madam Speaker, I yield an additional 2 minutes to the
+gentleman from Ohio.
+Mr. RYAN. I thank Congressman Kildee from the Ways and Means
+Committee, Chairman of the Ways and Means Committee Richie Neal,
+Sherrod Brown, Rob Portman,  Mike Turner. The Members of Congress and
+Senators who are on the ground with these families came together and
+have been fighting.
+Here we are, 13 years later, where we are going to vote this out of
+the House, and we are going to send it to the Senate. We are going to
+try to help people because that is our job.
+What I really appreciate about this is that during the rescue
+package, we were able to save hundreds and hundreds of thousands of
+pensions for people, about 100,000 in Ohio, because there was a
+problem, and we tried to fix it. That happened to be unions.
+This group happens to not be union, but they deserve help all the
+same. That is what we are doing here. I was proud that the Auto Workers
+and the AFL-CIO are helping to support this.
+We need more of this. I think this is an example of how to try to
+influence your government, try to get help, try to right a wrong, and
+not talk about Democrat and Republican and red and blue and all that
+nonsense that we are all sick of.
+We are ready to move forward. If you need help, if you have been
+wronged, we are going to stand up and fight for you.
+Again, I thank Mr. Kildee for his leadership here. We are going to
+send this over to the Senate.
+I know there are a lot of people, again, living and working and
+talking to these families over the last 13 years. How many people have
+passed away? How many families have been harmed? How many other people
+have not gotten the healthcare that they needed because they couldn't
+afford it, or they had situations in their family, and they didn't have
+enough money, maybe, to help their kids or help their grandkids?
+This is the right thing to do. This is the absolute right thing to
+do. I am glad it is bipartisan, and I am glad we finally got it done
+after 13 years.
+Ms. FOXX. Madam Speaker, my colleagues say we are here to help
+people. Our first job is like the doctor's oath: First, do no harm.
+This bill does harm.
+Madam Speaker, I yield 3 minutes to the gentleman from Ohio (Mr.
+Davidson).
+Mr. DAVIDSON. Madam Speaker, I appreciate my colleague, Congresswoman
+Foxx, for yielding. We disagree from time to time, and this is one of
+those.
+I do agree that it shouldn't be seen as a partisan issue. The
+Democrats may see this as precedent-setting in a way that Republicans
+who support it don't. The precedent here isn't that every victim of
+fraud, and there are many when it comes to pensions, is going to
+somehow be made whole. Otherwise, you would create an incentive for
+people to commit fraud. One person takes the fall, and everyone else
+gets bailed out. That is not what this is.
+When I listen to my colleague, Congressman  Bob Good from Virginia, I
+might feel the same way if I didn't understand the facts of this
+situation. What this really amounts to is pension holders who were
+effectively the victims of civil asset forfeiture, which is an unjust
+and, in my opinion, unconstitutional practice that, sadly, is still
+tolerated.
+This wasn't an underfunded pension. They weren't victims of fraud.
+Their pension was funded, and the government seized the assets. They
+seized what they said was the property of Delphi, a company in
+bankruptcy, but the reality is this is property of the pension holders.
+This is their retirement savings that was seized 13 years ago.
+Thankfully, when Vice President Joe Biden said there is nothing we
+can do, in the intervening years, we found a way. I want to say thanks
+to Congressman Kildee from Michigan. I want to say thanks to my
+colleague,  Mike Turner.
+I was on Air Force One with him as we were flying from Andrews Air
+Force base to Dayton, Ohio. Congressman Turner took the lead, shared
+the message. We continued to work with President Trump at the time. He
+got it. He took action, and I think that this is one of the things
+where we have seen continuity.
+I wish it would become a trend and that President Biden would carry
+many more policies with continuation. I think we would see great
+results because we are going to see great results out of this.
+It sets the right precedent. I hope the precedent it sets is this
+government stops civil asset forfeiture altogether. It was unjust to do
+that to these pension holders, and I am glad that justice is finally
+going to come as a result of this bill.
+Madam Speaker, I encourage all of my colleagues, even those who
+thought they were opposed to it, once you understand what is really
+going on here, to get on board and support this just bill.
+Mr. KILDEE. Madam Speaker, I yield 2 minutes to the gentlewoman from
+Ohio (Ms. Kaptur), the longest-serving woman in the history of the
+United States Congress.
+Ms. KAPTUR. Madam Speaker, I thank Chairman Kildee for yielding time.
+Madam Speaker, a miracle is happening here. Michigan Wolverines and
+Ohio Buckeyes, on a bipartisan basis, are agreeing. Wow. Everybody
+should vote for this act, for America's sake.
+I am so proud to help celebrate the passage day of the Susan Muffley
+Act that will restore retirement benefits for thousands of Delphi
+retirees. Hard work should be rewarded.
+The men and women who built up Delphi were made a promise in return
+for their years of hard work, and they were promised a stable and
+secure retirement during their golden years.
+Over the years, the American worker has time and again seen promises
+broken, and they have seen the financial security they earned and is
+rightfully theirs thrown away. Now, the Susan Muffley Act makes good on
+Delphi's original promise.
+Workers in Defiance, Ohio, and Sandusky, Ohio, and throughout
+Michigan and the Midwest will see, by restoring their benefits, the
+retirees who worked hard and built America will have the future they
+paid for and earned.
+We know that the Susan Muffley Act is a giant step forward in
+justice, justice for Americans who worked hard and were cast aside
+until now.
+I thank Congressman Kildee for his absolutely tireless and relentless
+efforts to bring this to the floor. To get anything out of the Ways and
+Means Committee is a miracle anyway.
+For Ohio, this means 5,000 families--believe me, many who can't
+afford their medicine, many who worry about tomorrow--will be
+celebrating. There will be a sense of being made whole again because of
+what they gave to this country, what they gave to their employers, and
+that bargain should be kept.
+Madam Speaker, I congratulate Congressman Kildee. The Wolverine State
+has sent a highly capable American to Congress. I thank Congressman
+Turner of the great Buckeye State of Ohio, from the Dayton region, for
+this great partnership to help thousands and thousands of America's
+retirees.
+Ms. FOXX. Madam Speaker, may I inquire as to how much time is
+remaining.
+The SPEAKER pro tempore. The gentlewoman from North Carolina has 13
+[[Page H7217]]
+minutes remaining. The gentleman from Michigan has 12\1/2\ minutes
+remaining.
+Ms. FOXX. Madam Speaker, proponents of H.R. 6929 continue to cite the
+statistics that the salaried employee pension plan was 86 percent
+funded in 2009 and, therefore, should not have been terminated. This is
+misleading and simply not the case.
+When the salaried employee plan was terminated in 2009, it was
+roughly 50 percent funded with $2.4 billion in assets and $5 billion in
+liabilities. Delphi had not made required contributions to the plan in
+the previous 4 years.
+Further, Delphi was moving through bankruptcy proceedings, and the
+company stated publicly it was unable to fund its pension plans before
+reaching an agreement with PBGC to terminate the plans.
+Delphi had not made required contributions to the pension plans in
+the 4 years it was in bankruptcy proceedings. Delphi was liquidating
+assets in bankruptcy, and the plan had only enough assets to pay for
+half of its benefit obligations.
+Finally, if the Delphi salaried employee plan was truly as well
+funded as proponents suggest, then why did it not have enough assets to
+cover the benefits owed to workers and retirees?
+Madam Speaker, this is a big problem for the taxpayers of this
+country when we start bailing out pension plans in this way. We have a
+process through the PBGC, and that process should be followed.
+Madam Speaker, it is important, really important, to make sure the
+Record is accurate. Most Delphi salaried pension plan participants who
+are being discussed today either received no cuts in their pensions or
+saw cuts of less than 10 percent.
+PBGC typically becomes a trustee of a single-employer plan when the
+employer that sponsors the plan declares bankruptcy and the plan has
+insufficient assets from which to pay all promised benefits. When PBGC
+becomes a trustee of a single-employer pension plan, plan participants
+receive their full benefits up to a statutory maximum benefit, a
+benefit set by Congress.
+The maximum guarantee in 2009, the year of Delphi's bankruptcy, was
+$4,500 per month or $54,000 per year for retirees who began receiving
+benefits at age 65. That is a very high amount of money that many
+Americans will never earn per year, let alone have for retirement.
+PBGC reported in 2019 that 84 percent of retirees who receive
+benefits from PBGC are paid the full benefit amounts they earned under
+their retirement plans, meaning they do not have their benefits
+reduced.
+In the case of the Delphi salaried employee plan, 72 percent of
+participants were not affected by PBGC's statutory benefit limit. Of
+the remaining 28 percent, 36 percent saw less than a 10 percent
+reduction.
+Madam Speaker, again, I am speaking for the Americans who will never
+get a pension benefit because they have worked so hard but never made
+enough money to have a pension or don't have employers that pay pension
+benefits. We are bailing out people who are making a lot of money.
+Madam Speaker, wages aren't keeping up with inflation. A Washington
+Post economic columnist recently pointed out that workers are
+experiencing the biggest decline in years in inflation-adjusted pay.
+According to a new report, 75 percent of middle-income families say
+their ``income is falling behind the cost of living.''
+Given persistent and rising inflation, H.R. 6929 is the last thing we
+should be considering. It will cost taxpayers nearly $800 million over
+10 years and $1.3 billion in all to bail out Delphi's underfunded,
+privately run pension plan.
+Americans across the country do not want to fork over their hard-
+earned dollars to fund a costly project that was cooked up in Congress,
+especially when many have their own retirement accounts to consider or
+have none at all.
+By doubling down on an already failed strategy, taxpayers will be
+forced to cover the cost of this cash giveaway. This sets a terrible
+and troubling precedent that will embolden the Federal Government to
+bail out thousands of other privately run pensions.
+Madam Speaker, I encourage my colleagues to oppose this fiscally
+irresponsible catastrophe of a bill, and I yield back the balance of my
+time.
+{time}  1630
+Mr. KILDEE. Madam Speaker, I yield myself such time as I may consume
+to close.
+I do believe, and I agree with my colleague, that the facts ought to
+be correct and that the Record ought to be clear. That is why I want to
+clarify a couple of things.
+Number one, I continue to hear opponents of this legislation depict
+it as a Democratic bill, a partisan bill. That is just not true. It is
+amazing to me in this body that we can still have people say things
+that just are patently untrue. That is not true.
+Just look at the list of Republican cosponsors of this legislation.
+If you don't want to look at that list, don't look at that list. Just
+look back a couple of years when then-Republican President Donald Trump
+saw this as an injustice and directed his administration to solve this
+problem.
+This is not a partisan piece of legislation. I understand the game; I
+get it. Everything around here somehow has to be turned into Democrats
+versus Republicans.
+I am going to tell you something about the Delphi salaried retirees.
+Some are Democrats. Some are Republicans. Some are Independents. They
+live in every part of this country. They are people who worked really
+hard and did nothing wrong and lost everything that they had worked for
+in some cases.
+Two, the other fact that I want to correct, it is true that only the
+losses that these pension recipients received, the losses that they
+experienced would be made up for. So when my colleague points out the
+fact that some did not receive a 70 percent cut, that is true. People
+will only receive what was promised to them. That is kind of an
+American ideal, isn't it? We keep our promises.
+As to the point that this is a private pension that was mismanaged
+and failed and the government shouldn't become involved, that ship
+sailed a long time ago when the government got involved. The government
+took control of the company, took control of its assets, made these
+decisions.
+So if there is a precedent to be set, the precedent is this: The
+Federal Government makes a mistake, the Federal Government has the
+obligation to fix it. I don't know what is wrong with that. I don't
+know what is wrong with that. I mean, that is the way I was raised.
+I don't know who is watching today. I don't know how many Americans
+are watching, but I hope they are paying attention. I know a lot of
+those Delphi salaried retirees are watching. Despite some of what you
+heard today--because this place becomes very political, unfortunately--
+despite some of what you heard, what you saw and what you are about to
+see in a little while, we are Democrats and Republicans who disagree on
+a lot of things and we are coming together to fix a problem that has
+lasted for 13 years, a problem that occurred on the watch of a
+Democratic President, a problem that a Republican President was
+attempting to address, but who didn't get it done, and now in this
+moment Members of Congress--with whom I have very little in common--
+share one thing for sure, we represent many of the same people, people
+who have suffered an injustice and are looking to the Congress of the
+United States as the last chance they have to have that mistake made
+right.
+That is a precedent I don't mind seeing us set. If the Federal
+Government makes a mistake, we fix it. That is what we are about to do
+here today.
+Madam Speaker, I yield back the balance of my time.
+Ms. JACKSON LEE. Madam Speaker, I rise in strong support of H.R.
+6929, the ``Susan Muffley Act of 2022.''
+H.R. 6929 is a bipartisan, bicameral effort to restore the retirement
+benefits for over 20,000 Delphi salaried retirees.
+This legislation will lay out a formal procedure to pay the
+difference between the pension benefits earned by Delphi salaried
+retirees and what they received following the General Motors (GM)
+bankruptcy in 2009.
+Moreover, it will ensure that beneficiaries who have already begun
+receiving benefits will receive a separate payment of the difference
+between what was actually paid by the U.S. Pension Benefit Guarantee
+Corporation
+[[Page H7218]]
+(PBGC) and what would have been paid without the limitations plus
+interest.
+Under H.R. 6929, retirees from this auto parts manufacturing company
+will be eligible for increased benefits in connection with the
+following pension plans:
+The Delphi Hourly-Rate Employees Pension Plan.
+The Delphi Retirement Program for Salaried Employees.
+The PHI Non-Bargaining Retirement Plan.
+The ASEC Manufacturing Retirement Program.
+The PHI Bargaining Retirement Plan.
+The Delphi Mechatronic Systems Retirement Program.
+During the Great Recession of 2009, several major auto manufactuers
+including GM filed for bankruptcy.
+As a result, the PBGC recklessly cut retirement benefits by as much
+as 70 percent for more than 20,000 Delphi salaried retirees, including
+over 500 retirees in Texas.
+This is unacceptable. Social Security, pensions, and personal savings
+have long ensured that workers could retire with dignity.
+Now, majority of these retirees are struggling to stay afloat
+especially those with climbing medical bills.
+Therefore, I applaud the efforts of my colleagues in both the House
+and Senate for bringing this issue into greater focus.
+Those who have worked hard their entire lives and played by the rules
+deserve the benefits they earned.
+That is why I am proud to support this legislation that will restore
+the benefits that hundreds of Texans were promised.
+This legislation will relieve the suffering of thousands of salaried
+and hourly workers who were left behind after GM's filing for
+bankruptcy.
+Madam Speaker, I urge my colleagues to join me in supporting H.R.
+6929 to finally correct the mistreatment of these union members and
+allow them to live out the rest of days with dignity.
+The SPEAKER pro tempore. All time for debate on the bill has expired.
+Amendment No. 1 Offered by Mr. Scott of Virginia
+The SPEAKER pro tempore. It is now in order to consider amendment No.
+1 printed in part E of House Report 117-432.
+Mr. SCOTT of Virginia. Madam Speaker, I have an amendment at the desk
+made in order under the rule.
+The SPEAKER pro tempore. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Add at the end of the bill the following:
+SEC. 3. PENSION BENEFIT GUARANTY CORPORATION REPORT.
+(a) Request for Information.--Not later than 1 year after
+the date of enactment of this Act, the Director of the
+Pension Benefit Guaranty Corporation shall issue a request
+for information to the public regarding ways to ensure the
+long-term solvency of the Pension Benefit Guaranty
+Corporation's insurance programs.
+(b) Report to Congress.--Not later than 2 years after the
+date of enactment of this Act, the Director of the Pension
+Benefit Guaranty Corporation shall, taking into consideration
+the information received in the request for information
+described in subsection (a), submit a report, which shall
+include recommendations on how to ensure the long-term
+solvency of the Pension Benefit Guaranty Corporation's
+insurance programs, to the Committee on Education and Labor
+and the Committee on Ways and Means of the House of
+Representatives and the Committee on Health, Education,
+Labor, and Pensions and the Committee on Finance of the
+Senate.
+The SPEAKER pro tempore. Pursuant to House Resolution 1254, the
+gentleman from Virginia (Mr. Scott) and a Member opposed each will
+control 5 minutes.
+The Chair recognizes the gentleman from Virginia.
+Mr. SCOTT of Virginia. Madam Speaker, I yield myself such time as I
+may consume.
+Madam Speaker, this amendment is simple and straightforward. It
+requires the Director of the Pension Benefit Guaranty Corporation
+within 1 year after the date of enactment to issue a public request for
+information regarding ways to ensure the long-term solvency of the
+PBGC's insurance programs, and then within 2 years after the date of
+enactment, the Director shall issue a report to congressional
+committees with recommendations on how to ensure the long-term solvency
+of the insurance programs.
+As my colleagues know, the PBGC administers two insurance programs,
+one for multiemployer pensions and the other for single-employer
+pensions. PBGC's multiemployer program has been on the brink of
+insolvency. It was projected to run out of money in just a few years,
+but thanks to the Biden administration and congressional Democrats
+stepping up and passing the American Rescue Plan last year, millions of
+Americans' pensions have been saved.
+Because the law requires participating businesses to pay into those
+failing plans until the businesses go broke, tens of thousands of
+businesses have been saved, and the solvency of the PBGC's
+multiemployer program has been extended for at least 30 more years.
+For the single-employer program, the PBGC's most recent annual report
+indicates that it is financially healthy, with a positive net position
+of over $30 billion at the end of fiscal year 2021 compared to just
+over $15 billion at the end of fiscal year 2020. So, fortunately, it is
+not at the near-term risk of becoming insolvent.
+A few years ago, I had the honor of being one of the four House
+Democrats selected for a special committee charged with addressing the
+multiemployer pension crisis. We tried to address the immediate crisis
+facing multiemployer pension plans with their participants and
+employers while also considering other long-term reforms to pension
+programs, but unfortunately we could not reach any agreement before the
+clock ran out.
+Now that congressional Democrats and the Biden administration have
+solved the immediate crisis, and it looks like we can solve this
+crisis, we should take action to ensure that this doesn't happen again.
+We will do this by getting policy recommendations from the PBGC on how
+we can ensure long-term solvency of both insurance programs and avoid
+the possibility that 20 years from now pension plans would again be on
+the brink of insolvency.
+I urge my colleagues to support the amendment, and I reserve the
+balance of my time.
+Ms. FOXX. Madam Speaker, I rise in opposition to the amendment.
+The SPEAKER pro tempore. The gentlewoman is recognized for 5 minutes.
+Ms. FOXX. Madam Speaker, I yield myself such time as I may consume.
+The first thing I will say, I never said that the bill was a partisan
+bill, and I would like to clarify the record on that point.
+This amendment directs the Pension Benefit Guaranty Corporation to
+issue a public request for information regarding the long-term solvency
+of the agency's single- and multiemployer insurance programs, and to
+submit legislative recommendations to Congress within 2 years.
+I don't question the sincerity with which my colleague from Virginia
+offers this amendment. However, if H.R. 6929 is signed into law, this
+report will be a day late and a dollar short.
+Last year, under the guise of COVID relief, congressional Democrats
+and President Biden enacted an uncapped taxpayer-funded bailout of
+failing and insolvent multiemployer pension plans. While the most
+recent estimate of the bailout indicates taxpayers are on the hook for
+$90 billion, without a cap on the total amount of spending, the bailout
+could cost much more.
+Worse yet, Democrats refused to address the structural failures of
+the system, refused to hold plan trustees accountable, and encouraged
+further plan underfunding.
+The Education and Labor Committee has been wrestling with the
+problems facing the multiemployer pension system and the looming
+insolvency of PBGC's insurance program for decades. The committee has
+held countless hearings on the topic. Congress even established a Joint
+Select Committee on Solvency of Multiemployer Pension Plans, of which
+Chairman Scott and I were members.
+We already know the problems with the system, and we don't need to
+wait another 2 years for PBGC to issue a report with recommendations.
+Plans do not adequately fund their promises. A comment was made about
+keeping promises. Well, we need to fund the plans. They overpromise,
+undercontribute, and refuse to make responsible adjustments,
+ultimately, digging themselves into deeper holes.
+Further, PBGC has submitted legislative recommendations regarding
+multiemployer pensions that Democrats have routinely ignored. For
+years, under both the Obama and Trump administrations, PBGC recommended
+[[Page H7219]]
+Congress establish a variable rate premium for multiemployer plans to
+align premiums better with the risk these plans pose to PBGC.
+Single-employer plans pay a much higher flat rate premium as well as
+a variable-rate premium. Multiemployer plans should do the same.
+Single-employer plans are also subject to much stricter funding
+requirements that better protect the benefits of workers and retirees.
+Meanwhile, poorly managed multiemployer plans fail to collect
+adequate contributions for the benefits they promise and bet on risky
+investments in hopes of making up the difference.
+While I appreciate the amendment's implicit admission that throwing
+billions of dollars at multiemployer plans has not solved the problem,
+this fig leaf amendment does nothing to address the fundamental flaws
+of the underlying bill.
+Madam Speaker, I urge my colleagues to oppose the amendment, and I
+reserve the balance of my time.
+Mr. SCOTT of Virginia. Madam Speaker, I yield myself such time as I
+may consume to close.
+Madam Speaker, the distinguished ranking member pointed out that the
+saving of the multiemployer pension fund would cost about $90 billion.
+That is right.
+What she omitted was that estimates of doing nothing with the people
+losing their pension, they would pay less in income taxes, they would
+use more social services, and the Federal Government was on the hook
+for $170 billion if we had done nothing. In other words, we would have
+to spend $80 billion more to help the people who lost their pensions
+and the businesses that went broke trying to save those pension plans.
+But in any case, Madam Speaker, the time to fix the roof is when the
+Sun is shining. We have gotten past the crisis. Let's find out what we
+need to do to avoid the possibility that these pension funds might be
+back here 20 years from now in a state of failure.
+We need to make sure we fix it. Let's get these recommendations. That
+is why this amendment is so important that it will guarantee getting
+the information so we can fix these plans once and for all.
+Madam Speaker, I yield back the balance of my time.
+Ms. FOXX. Madam Speaker, I yield myself such time as I may consume to
+close.
+Madam Speaker, again, I don't think we need another study. We don't
+need to delay action on this 2 years. What we need to do is increase
+premiums and impose stronger funding requirements.
+The plans are underfunded. It doesn't take an accountant or a rocket
+scientist to figure that out. Pogo said, ``We have met the enemy, and
+he is us.'' We, in Congress, are the problem. We need to do this.
+Madam Speaker, I yield back the balance of my time.
+{time}  1645
+The SPEAKER pro tempore. Pursuant to the rule, the previous question
+is ordered on the bill and the amendment offered by the gentleman from
+Virginia (Mr. Scott).
+The question is on the amendment by the gentleman from Virginia (Mr.
+Scott).
+The amendment was agreed to.
+The SPEAKER pro tempore. The question is on the engrossment and third
+reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+The SPEAKER pro tempore. The question is on passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Ms. FOXX. Madam Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+Pursuant to clause 9 of Rule XX, this 15-minute vote on passage of
+the bill will be followed by 5-minute votes on:
+A motion to recommit H.R. 3771;
+Passage of H.R. 3771, if ordered;
+Motion to recommit H.R. 4040;
+Passage of H.R. 4040, if ordered; and,
+The motion to suspend the rules with respect to the following
+measures:
+H.R. 623;
+H.R. 3952;
+H.R. 3962;
+H.R. 4551;
+H.R. 5313;
+H.R. 6933;
+H.R. 7132;
+H.R. 7361;
+H.R. 7569;
+H.R. 7624;
+H.R. 7733; and
+H.R. 7981.
+The vote was taken by electronic device, and there were--yeas 254,
+nays 175, not voting 1, as follows:
+[Roll No. 396]
+YEAS--254
+Adams
+Aderholt
+Aguilar
+Allred
+Auchincloss
+Axne
+Baird
+Balderson
+Barragan
+Bass
+Beatty
+Bera
+Bergman
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bourdeaux
+Bowman
+Boyle, Brendan F.
+Brooks
+Brown (MD)
+Brown (OH)
+Brownley
+Bush
+Bustos
+Butterfield
+Carbajal
+Cardenas
+Carey
+Carson
+Carter (LA)
+Cartwright
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Chabot
+Cherfilus-McCormick
+Chu
+Cicilline
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Cole
+Connolly
+Cooper
+Correa
+Costa
+Courtney
+Craig
+Crist
+Crow
+Cuellar
+Davids (KS)
+Davidson
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Escobar
+Eshoo
+Espaillat
+Evans
+Fitzpatrick
+Fletcher
+Foster
+Frankel, Lois
+Gallego
+Garamendi
+Garbarino
+Garcia (IL)
+Garcia (TX)
+Gibbs
+Gohmert
+Golden
+Gomez
+Gonzalez (OH)
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyer
+Huffman
+Huizenga
+Jackson Lee
+Jacobs (CA)
+Jacobs (NY)
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (OH)
+Johnson (TX)
+Jones
+Joyce (OH)
+Kahele
+Kaptur
+Katko
+Keating
+Kelly (IL)
+Kelly (PA)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Kind
+Kirkpatrick
+Krishnamoorthi
+Kuster
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Latta
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Leger Fernandez
+Levin (CA)
+Levin (MI)
+Lieu
+Lofgren
+Lowenthal
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Manning
+Matsui
+McBath
+McClain
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meijer
+Meng
+Mfume
+Moolenaar
+Moore (WI)
+Morelle
+Moulton
+Mrvan
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Neguse
+Newman
+Norcross
+O'Halleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Pence
+Perlmutter
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Rose
+Ross
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrier
+Scott (VA)
+Scott, Austin
+Scott, David
+Sewell
+Sherman
+Sherrill
+Sires
+Slotkin
+Smith (WA)
+Soto
+Spanberger
+Spartz
+Speier
+Stansbury
+Stanton
+Stauber
+Steil
+Stevens
+Strickland
+Suozzi
+Swalwell
+Takano
+Tenney
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres (NY)
+Trahan
+Trone
+Turner
+Underwood
+Upton
+Vargas
+Veasey
+Velazquez
+Walberg
+Wasserman Schultz
+Waters
+Watson Coleman
+Webster (FL)
+Welch
+Wenstrup
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+Yarmuth
+NAYS--175
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Banks
+Barr
+Bentz
+Bice (OK)
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brady
+Buchanan
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Calvert
+Cammack
+Carl
+Carter (GA)
+Carter (TX)
+Cawthorn
+Cheney
+Cline
+Cloud
+Clyde
+Comer
+Conway
+Crawford
+Crenshaw
+Curtis
+Davis, Rodney
+DesJarlais
+Diaz-Balart
+Donalds
+Duncan
+Dunn
+Ellzey
+Emmer
+Estes
+Fallon
+Feenstra
+Ferguson
+Fischbach
+Fitzgerald
+Fleischmann
+Flood
+Flores
+Foxx
+Franklin, C. Scott
+Fulcher
+Gaetz
+Gallagher
+Garcia (CA)
+Gimenez
+Gonzales, Tony
+Good (VA)
+Gooden (TX)
+Gosar
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Harris
+Harshbarger
+Hern
+Herrell
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill
+Hinson
+Hollingsworth
+Hudson
+Issa
+Jackson
+Johnson (LA)
+Johnson (SD)
+Jordan
+Joyce (PA)
+Keller
+Kelly (MS)
+Kim (CA)
+Kinzinger
+Kustoff
+LaHood
+LaMalfa
+Lamborn
+LaTurner
+Lesko
+Letlow
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Mace
+Malliotakis
+Mann
+Massie
+Mast
+McCarthy
+McCaul
+McClintock
+McHenry
+McKinley
+Meuser
+Miller (IL)
+Miller (WV)
+Miller-Meeks
+Mooney
+Moore (AL)
+Moore (UT)
+Mullin
+Murphy (NC)
+Nehls
+Newhouse
+Norman
+Obernolte
+Owens
+Palazzo
+[[Page H7220]]
+Palmer
+Perry
+Pfluger
+Posey
+Reschenthaler
+Rice (SC)
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Scalise
+Schrader
+Schweikert
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Steel
+Stefanik
+Steube
+Stewart
+Taylor
+Thompson (PA)
+Tiffany
+Timmons
+Valadao
+Van Drew
+Van Duyne
+Wagner
+Walorski
+Waltz
+Weber (TX)
+Westerman
+Williams (TX)
+Wilson (SC)
+Wittman
+Womack
+Zeldin
+NOT VOTING--1
+Hartzler
+{time}  1730
+Mr. ROUZER and Mrs. KIM of California changed their vote from ``yea''
+to ``nay.''
+Mrs. HAYES, Messrs. CHABOT, PENCE, and MEIJER changed their vote from
+``nay'' to ``yea.''
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+MEMBERS RECORDED PURSUANT TO HOUSE RESOLUTION 8, 117TH CONGRESS
+Babin (Jackson)
+Bass (Neguse)
+Blumenauer (Beyer)
+Bourdeaux (Correa)
+Brown (MD) (Trone)
+Bush (Jeffries)
+Carter (TX) (Weber (TX))
+Casten (Neguse)
+Cherfilus-McCormick (Neguse)
+Crist (Wasserman Schultz)
+DeSaulnier (Beyer)
+Evans (Beyer)
+Guthrie (Barr)
+Jones (Beyer)
+Kahele (Correa)
+Kinzinger (Meijer)
+Kirkpatrick (Pallone)
+Meeks (Jeffries)
+Moore (WI) (Beyer)
+Payne (Pallone)
+Ruppersberger (Trone)
+Rush (Bishop (GA))
+Sires (Pallone)
+Stevens (Kuster)
+Stewart (Wenstrup)
+Taylor (Fallon)
+Thompson (CA) Beyer)
+Thompson (MS) (Bishop (GA))
+Thompson (PA) (Keller)
+Vargas (Correa)
+Walorski (Banks)
+Williams (GA) (Neguse)
+Wilson (SC) (Norman)
+____________________

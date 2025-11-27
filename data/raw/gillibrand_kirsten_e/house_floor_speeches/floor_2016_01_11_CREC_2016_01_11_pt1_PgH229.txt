@@ -1,0 +1,2085 @@
+[Congressional Record Volume 162, Number 6 (Monday, January 11, 2016)]
+[House]
+[Pages H229-H241]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+{time}  1600
+NORTH KOREA SANCTIONS ENFORCEMENT ACT OF 2016
+Mr. ROYCE. Mr. Speaker, I move to suspend the rules and pass the bill
+(H.R. 757) to improve the enforcement of sanctions against the
+Government of North Korea, and for other purposes, as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 757
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.--This Act may be cited as the ``North
+Korea Sanctions Enforcement Act of 2016''.
+(b) Table of Contents.--The table of contents for this Act
+is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings.
+Sec. 3. Definitions.
+TITLE I--INVESTIGATIONS, PROHIBITED CONDUCT, AND PENALTIES
+Sec. 101. Statement of policy.
+Sec. 102. Investigations.
+Sec. 103. Briefing to Congress.
+Sec. 104. Designation of persons for prohibited conduct and mandatory
+and discretionary designation and sanctions authorities.
+Sec. 105. Forfeiture of property.
+TITLE II--SANCTIONS AGAINST NORTH KOREAN PROLIFERATION, HUMAN RIGHTS
+ABUSES, ILLICIT ACTIVITIES, AND SIGNIFICANT ACTIVITIES UNDERMINING
+CYBER SECURITY
+Sec. 201. Determinations with respect to North Korea as a jurisdiction
+of primary money laundering concern.
+Sec. 202. Ensuring the consistent enforcement of United Nations
+Security Council resolutions and financial restrictions
+on North Korea.
+Sec. 203. Proliferation prevention sanctions.
+Sec. 204. Procurement sanctions.
+Sec. 205. Enhanced inspections authorities.
+Sec. 206. Travel sanctions.
+Sec. 207. Exemptions, waivers, and removals of designation.
+Sec. 208. Report on those responsible for knowingly engaging in
+significant activities undermining cyber security.
+Sec. 209. Sense of Congress that trilateral cooperation among the
+United States, Japan, and the Republic of Korea is
+crucial to the stability of the Asia-Pacific region.
+Sec. 210. Report on nuclear program cooperation between North Korea and
+Iran.
+TITLE III--PROMOTION OF HUMAN RIGHTS
+Sec. 301. Information technology.
+Sec. 302. Report on North Korean prison camps.
+Sec. 303. Report on persons who are responsible for serious human
+rights abuses or censorship in North Korea.
+TITLE IV--GENERAL AUTHORITIES
+Sec. 401. Suspension of sanctions and other measures.
+Sec. 402. Termination of sanctions and other measures.
+Sec. 403. Authority to consolidate reports.
+Sec. 404. Regulations.
+Sec. 405. No additional funds authorized.
+Sec. 406. Effective date.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) The Government of North Korea has repeatedly violated
+its commitments to the complete, verifiable, irreversible
+dismantlement of its nuclear weapons programs, and has
+willfully violated multiple United Nations Security Council
+resolutions calling for it to cease its development, testing,
+and production of weapons of mass destruction.
+(2) North Korea poses a grave risk for the proliferation of
+nuclear weapons and other weapons of mass destruction.
+(3) The Government of North Korea has been implicated
+repeatedly in money laundering and illicit activities,
+including prohibited arms sales, narcotics trafficking, the
+counterfeiting of United States currency, and the
+counterfeiting of intellectual property of United States
+persons.
+(4) The Government of North Korea has, both historically
+and recently, repeatedly sponsored acts of international
+terrorism, including attempts to assassinate defectors and
+human rights activists, repeated threats of violence against
+foreign persons, leaders, newspapers, and cities, and the
+shipment of weapons to terrorists and state sponsors of
+terrorism.
+(5) North Korea has unilaterally withdrawn from the 1953
+Armistice Agreement that ended the Korean War, and committed
+provocations against South Korea in 2010 by sinking the
+warship Cheonan and killing 46 of her crew, and by shelling
+Yeonpyeong Island, killing four South Koreans.
+(6) North Korea maintains a system of brutal political
+prison camps that contain as many as 120,000 men, women, and
+children, who live in atrocious living conditions with
+insufficient food, clothing, and medical care, and under
+constant fear of torture or arbitrary execution.
+(7) The Congress reaffirms the purposes of the North Korean
+Human Rights Act of 2004 contained in section 4 of such Act
+(22 U.S.C. 7802).
+(8) North Korea has prioritized weapons programs and the
+procurement of luxury goods, in defiance of United Nations
+Security Council resolutions, and in gross disregard of the
+needs of its people.
+(9) The President has determined that the Government of
+North Korea is responsible for knowingly engaging in
+significant activities undermining cyber security with
+respect to United States persons and interests, and for
+threats of violence against the civilian population of the
+United States.
+(10) Persons, including financial institutions, who engage
+in transactions with, or provide financial services to, the
+Government of North Korea and its financial institutions
+without establishing sufficient financial safeguards against
+North Korea's use of these transactions to promote
+proliferation, weapons trafficking, human rights violations,
+illicit activity, and the purchase of luxury goods, aid and
+abet North Korea's misuse of the international financial
+system, and also violate the intent of relevant United
+Nations Security Council resolutions.
+[[Page H230]]
+(11) The Government of North Korea's conduct poses an
+imminent threat to the security of the United States and its
+allies, to the global economy, to the safety of members of
+the United States Armed Forces, to the integrity of the
+global financial system, to the integrity of global
+nonproliferation programs, and to the people of North Korea.
+(12) The Congress seeks, through this legislation, to use
+nonmilitary means to address this crisis, to provide
+diplomatic leverage to negotiate necessary changes in North
+Korea's conduct, and to ease the suffering of the people of
+North Korea.
+SEC. 3. DEFINITIONS.
+In this Act:
+(1) Applicable executive order.--The term ``applicable
+Executive order'' means--
+(A) Executive Order No. 13382 (2005), 13466 (2008), 13551
+(2010), 13570 (2011), or 13687 (2015) to the extent that such
+Executive order authorizes the imposition of sanctions on
+persons for conduct, or prohibits transactions or activities,
+involving the Government of North Korea; or
+(B) any Executive order adopted on or after the date of the
+enactment of this Act, to the extent that such Executive
+order authorizes the imposition of sanctions on persons for
+conduct, or prohibits transactions or activities, involving
+the Government of North Korea.
+(2) Applicable united nations security council
+resolution.--The term ``applicable United Nations Security
+Council resolution'' means--
+(A) United Nations Security Council Resolution 1695 (2006),
+1718 (2006), 1874 (2009), 2087 (2013), or 2094 (2013); or
+(B) any United Nations Security Council resolution adopted
+on or after the date of the enactment of this Act, to the
+extent that such resolution authorizes the imposition of
+sanctions on persons for conduct, or prohibits transactions
+or activities, involving the Government of North Korea.
+(3) Appropriate congressional committees.--The term
+``appropriate congressional committees'' means--
+(A) the Committee on Foreign Affairs, the Committee on Ways
+and Means, and the Committee on Financial Services of the
+House of Representatives; and
+(B) the Committee on Foreign Relations and the Committee on
+Banking, Housing, and Urban Affairs of the Senate.
+(4) Designated person.--The term ``designated person''
+means a person designated under subsection (a) or (b) of
+section 104 for purposes of applying one or more of the
+sanctions described in title I or II of this Act with respect
+to the person.
+(5) Government of north korea.--The term ``Government of
+North Korea'' means--
+(A) the Government of the Democratic People's Republic of
+Korea or any political subdivision, agency, or
+instrumentality thereof; and
+(B) any person owned or controlled by, or acting for or on
+behalf of, the Government of the Democratic People's Republic
+of Korea.
+(6) International terrorism.--The term ``international
+terrorism'' has the meaning given such term in section 140(d)
+of the Foreign Relations Authorization Act, Fiscal Years 1988
+and 1989 (22 U.S.C. 2656f(d)), and includes the conduct
+described in section 212(a)(3)(B)(iii) of the Immigration and
+Nationality Act (8 U.S.C. 1182(a)(3)(B)(iii)), to the extent
+such conduct involves the citizens of more than one country.
+(7) Luxury goods.--The term ``luxury goods'' has the
+meaning given such term in subpart 746.4 of title 15, Code of
+Federal Regulations, and includes the items listed in
+Supplement No. 1 to such regulation, and any similar items.
+(8) Monetary instrument.--The term ``monetary instrument''
+has the meaning given such term under section 5312 of title
+31, United States Code.
+(9) North korean financial institution.--The term ``North
+Korean financial institution'' means--
+(A) a financial institution organized under the laws of
+North Korea or any jurisdiction within North Korea (including
+a foreign branch of such institution);
+(B) any financial institution located in North Korea,
+except as may be excluded from such definition by the
+President in accordance with section 207(d);
+(C) any financial institution, wherever located, owned or
+controlled by the Government of North Korea; and
+(D) any financial institution, wherever located, owned or
+controlled by a financial institution described in
+subparagraph (A), (B), or (C).
+(10) Other stores of value.--The term ``other stores of
+value'' means--
+(A) prepaid access devices, tangible or intangible prepaid
+access devices, or other instruments or devices for the
+storage or transmission of value, as defined in part 1010 of
+title 31, Code of Federal Regulations; and
+(B) any covered goods, as defined in section 1027.100 of
+title 31, Code of Federal Regulations, and any instrument or
+tangible or intangible access device used for the storage and
+transmission of a representation of covered goods, or other
+device, as defined in section 1027.100 of title 31, Code of
+Federal Regulations.
+(11) Person.--The term ``person'' has the meaning given
+such term in section 510.306 of title 31, Code of Federal
+Regulations.
+(12) Significant activities undermining cyber security.--
+The term ``significant activities undermining cyber
+security'' means--
+(A) significant efforts to--
+(i) deny access to or degrade, disrupt, or destroy an
+information and communications technology system or network;
+or
+(ii) exfiltrate information from such a system or network
+without authorization;
+(B) significant destructive malware attacks;
+(C) significant denial of service activities; or
+(D) such other significant activities as may be described
+in regulations promulgated to implement section 104.
+(13) United states person.--The term ``United States
+person'' has the meaning given such term in section 510.311
+of title 31, Code of Federal Regulations.
+TITLE I--INVESTIGATIONS, PROHIBITED CONDUCT, AND PENALTIES
+SEC. 101. STATEMENT OF POLICY.
+In order to achieve the peaceful disarmament of North
+Korea, Congress finds that it is necessary--
+(1) to encourage all states to fully and promptly implement
+United Nations Security Council Resolution 2094 (2013);
+(2) to sanction--
+(A) persons that facilitate proliferation of weapons of
+mass destruction, illicit activities, arms trafficking,
+imports of luxury goods, cash smuggling, censorship, and
+knowingly engage in significant activities undermining cyber
+security by the Government of North Korea; and
+(B) persons that fail to exercise due diligence to ensure
+that financial institutions do not facilitate any of the
+activities described in subparagraph (A) by the Government of
+North Korea;
+(3) to deny the Government of North Korea access to the
+funds it uses to obtain nuclear weapons, ballistic missiles,
+offensive cyber capabilities, and luxury goods instead of
+providing for the needs of its people; and
+(4) to enforce sanctions in a manner that avoids any
+adverse humanitarian impact on the people of North Korea to
+the extent possible and in a manner that does not unduly
+constrain the enforcement of such sanctions.
+SEC. 102. INVESTIGATIONS.
+The President shall initiate an investigation into the
+possible designation of a person under section 104(a) upon
+receipt by the President of credible information indicating
+that such person has engaged in conduct described in section
+104(a).
+SEC. 103. BRIEFING TO CONGRESS.
+Not later than 180 days after the date of the enactment of
+this Act, and periodically thereafter, the President shall
+provide to the appropriate congressional committees a
+briefing on efforts to implement this Act, to include the
+following, to the extent the information is available:
+(1) The principal foreign assets and sources of foreign
+income of the Government of North Korea.
+(2) A list of the persons designated under subsections (a)
+and (b) of section 104.
+(3) A list of the persons with respect to which sanctions
+were waived or removed under section 207.
+(4) A summary of any diplomatic efforts made in accordance
+with section 202(b) and of the progress realized from such
+efforts, including efforts to encourage the European Union
+and other states and jurisdictions to sanction and block the
+assets of the Foreign Trade Bank of North Korea and Daedong
+Credit Bank.
+SEC. 104. DESIGNATION OF PERSONS FOR PROHIBITED CONDUCT AND
+MANDATORY AND DISCRETIONARY DESIGNATION AND
+SANCTIONS AUTHORITIES.
+(a) Prohibited Conduct and Mandatory Designation and
+Sanctions Authority.--
+(1) Conduct described.--Except as provided in section 207,
+the President shall designate under this subsection any
+person the President determines to--
+(A) have knowingly engaged in significant activities or
+transactions with the Government of North Korea that have
+materially contributed to the proliferation of weapons of
+mass destruction or their means of delivery (including
+missiles capable of delivering such weapons), including any
+efforts to manufacture, acquire, possess, develop, transport,
+transfer, or use such items;
+(B) have knowingly imported, exported, or reexported to,
+into, or from North Korea any significant arms or related
+materiel, whether directly or indirectly;
+(C) have knowingly provided significant training, advice,
+or other services or assistance, or engaged in significant
+transactions, related to the manufacture, maintenance, or use
+of any arms or related materiel to be imported, exported, or
+reexported to, into, or from North Korea, or following their
+importation, exportation, or reexportation to, into, or from
+North Korea, whether directly or indirectly;
+(D) have knowingly, directly or indirectly, imported,
+exported, or reexported significant luxury goods to or into
+North Korea;
+(E) have knowingly engaged in or been responsible for
+censorship by the Government of North Korea, including
+prohibiting, limiting, or penalizing the exercise of freedom
+of expression or assembly, limiting access to print, radio or
+other broadcast media, Internet or other electronic
+communications, or the facilitation or support of intentional
+frequency manipulation that would jam or restrict an
+international signal;
+(F) have knowingly engaged in or been responsible for
+serious human rights abuses by the Government of North Korea,
+including torture or cruel, inhuman, or degrading
+[[Page H231]]
+treatment or punishment, prolonged detention without charges
+and trial, forced labor or trafficking in persons, causing
+the disappearance of persons by the abduction and clandestine
+detention of those persons, and other denial of the right to
+life, liberty, or the security of a person;
+(G) have knowingly, directly or indirectly, engaged in acts
+of money laundering, the counterfeiting of goods or currency,
+bulk cash smuggling, narcotics trafficking, or other illicit
+activity that involves or supports the Government of North
+Korea or any senior official thereof, whether directly or
+indirectly; or
+(H) have knowingly attempted to engage in any of the
+conduct described in subparagraphs (A) through (G) of this
+paragraph.
+(2) Effect of designation.--With respect to any person
+designated under this subsection, the President--
+(A) shall exercise the authorities of the International
+Emergency Economic Powers Act (50 U.S.C. 1705 et seq.) to
+block all property and interests in property of any person
+designated under this subsection that are in the United
+States, that hereafter come within the United States, or that
+are or hereafter come within the possession or control of any
+United States person, including any foreign branch; and
+(B) may apply any of the sanctions described in sections
+204, 205(c), and 206.
+(3) Penalties.--The penalties provided for in section 206
+of the International Emergency Economic Powers Act (50 U.S.C.
+1705) shall apply to a person who violates, attempts to
+violate, conspires to violate, or causes a violation of any
+prohibition provided for in this subsection, or of an order
+or regulation prescribed under this Act, to the same extent
+that such penalties apply to a person that commits an
+unlawful act described in section 206(a) of that Act (50
+U.S.C. 1705(a)).
+(4) Definition.--In paragraph (1)(F), the term
+``trafficking in persons'' has the meaning given the term in
+section 103(9) of the Trafficking Victims Protection Act of
+2000 (22 U.S.C. 7102(9)).
+(b) Discretionary Designation and Sanctions Authority.--
+(1) Conduct described.--Except as provided in section 207
+and paragraph (3) of this subsection, the President may
+designate under this subsection any person that the President
+determines to--
+(A) have knowingly engaged in, contributed to, assisted,
+sponsored, or provided financial, material or technological
+support for, or goods and services in support of, any
+violation of, or evasion of, an applicable United Nations
+Security Council resolution;
+(B) have knowingly facilitated the transfer of any funds,
+financial assets, or economic resources of, or property or
+interests in property of a person designated under an
+applicable Executive order, or by the United Nations Security
+Council pursuant to an applicable United Nations Security
+Council resolution;
+(C) have knowingly facilitated the transfer of any funds,
+financial assets, or economic resources, or any property or
+interests in property derived from, involved in, or that has
+materially contributed to conduct prohibited by subsection
+(a) or an applicable United Nations Security Council
+resolution;
+(D) have knowingly facilitated any transaction, including
+any transaction in bulk cash or other stores of value,
+without applying enhanced monitoring to ensure that such
+transaction does not contribute materially to conduct
+described in subsection (a) an applicable Executive order, or
+an applicable United Nations Security Council resolution;
+(E) have knowingly facilitated any transactions in cash or
+monetary instruments or other stores of value, including
+through cash couriers transiting to or from North Korea, used
+to facilitate any conduct prohibited by an applicable United
+Nations Security Council resolution;
+(F) have knowingly, directly or indirectly, engaged in
+significant activities undermining cyber security for, in
+support of on behalf of, the Government of North Korea or any
+senior official thereof, or have knowingly contributed to the
+bribery of an official of the Government of North Korea, the
+misappropriation, theft, or embezzlement of public funds by,
+or for the benefit of, an official of the Government of North
+Korea, or the use of any proceeds of any such conduct; or
+(G) have knowingly and materially assisted, sponsored, or
+provided significant financial, material, or technological
+support for, or goods or services to or in support of, the
+conduct described in subparagraphs (A) through (F) of this
+paragraph or the conduct described in subparagraphs (A)
+through (G) of subsection (a)(1).
+(2) Effect of designation.--With respect to any person
+designated under this subsection, the President--
+(A) may apply the sanctions described in section 204;
+(B) may apply any of the special measures described in
+section 5318A of title 31, United States Code;
+(C) may prohibit any transactions in foreign exchange that
+are subject to the jurisdiction of the United States and in
+which such person has any interest;
+(D) may prohibit any transfers of credit or payments
+between financial institutions or by, through, or to any
+financial institution, to the extent that such transfers or
+payments are subject to the jurisdiction of the United States
+and involve any interest of the person; and
+(E) may exercise the authorities of the International
+Emergency Economic Powers Act (50 U.S.C. 1705 et seq.)
+without regard to section 202 of such Act to block any
+property and interests in property of any person designated
+under this subsection that are in the United States, that
+hereafter come within the United States, or that are or
+hereafter come within the possession or control of any United
+States person, including any foreign branch.
+(3) Limitation.--If the President determines that a person
+has engaged in any conduct described in subparagraphs (A)
+through (F) of paragraph (1) that may also be construed to
+constitute conduct described in subparagraphs (A) through (H)
+of subsection (a)(1), the President may not designate the
+person under this subsection but rather shall designate the
+person under subsection (a).
+(c) Blocking of All Property and Interests in Property of
+the Government of North Korea and the Worker's Party of
+Korea.--Except as provided in section 207, the President
+shall exercise the authorities of the International Emergency
+Economic Powers Act (50 U.S.C. 1705 et seq.) to block all
+property and interests in property of the Government of North
+Korea or the Worker's Party of Korea that on or after the
+date of the enactment of this Act come within the United
+States, or that come within the possession or control of any
+United States person, including any foreign branch.
+(d) Application.--The designation of a person under
+subsection (a) or (b) and the blocking of property and
+interests in property under subsection (c) shall also apply
+with respect to a person who is determined to be owned or
+controlled by, or to have acted or purported to act for or on
+behalf of, directly or indirectly, any person whose property
+and interests in property are blocked pursuant to this
+section.
+(e) Licensing.--
+(1) License required.--Not later than 180 days after the
+date of enactment of this Act, the President shall promulgate
+regulations prohibiting United States persons from engaging
+in any transaction involving any property or services--
+(A) in which the Government of North Korea has an interest;
+(B) located in North Korea;
+(C) of North Korean origin; or
+(D) knowingly transferred, directly or indirectly, to the
+Government of North Korea.
+(2) Transaction licensing.--The President shall deny or
+revoke any license for any transaction that, in the
+determination of the President, lacks sufficient financial
+controls to ensure that such transaction will not facilitate
+any of the conduct described in subsection (a) or subsection
+(b).
+(3) Licensing authorization.--The President may issue
+regulations to authorize--
+(A) transactions for the purposes described in section 207;
+and
+(B) transactions and activities authorized under North
+Korean Human Rights Act of 2004 (22 U.S.C. 7801 et seq.).
+SEC. 105. FORFEITURE OF PROPERTY.
+(a) Amendment to Property Subject to Forfeiture.--Section
+981(a)(1) of title 18, United States Code, is amended by
+adding at the end the following new subparagraph:
+``(I) Any property, real or personal, that is involved in a
+violation or attempted violation, or which constitutes or is
+derived from proceeds traceable to a violation, of section
+104(a) of the North Korea Sanctions Enforcement Act of
+2016.''.
+(b) Amendment to Definition of Civil Forfeiture Statute.--
+Section 983(i)(2)(D) of title 18, United States Code, is
+amended--
+(1) by striking ``or the International Emergency Economic
+Powers Act'' and inserting ``, the International Emergency
+Economic Powers Act''; and
+(2) by adding at the end before the semicolon the
+following: ``, or the North Korea Sanctions Enforcement Act
+of 2016''.
+(c) Amendment to Definition of Specified Unlawful
+Activity.--Section 1956(c)(7)(D) of title 18, United States
+Code, is amended--
+(1) by striking ``or section 92 of the Atomic Energy Act of
+1954'' and inserting ``section 92 of the Atomic Energy Act of
+1954''; and
+(2) by adding at the end the following: ``, or section
+104(a) of the North Korea Sanctions Enforcement Act of
+2016;''.
+TITLE II--SANCTIONS AGAINST NORTH KOREAN PROLIFERATION, HUMAN RIGHTS
+ABUSES, ILLICIT ACTIVITIES, AND SIGNIFICANT ACTIVITIES UNDERMINING
+CYBER SECURITY
+SEC. 201. DETERMINATIONS WITH RESPECT TO NORTH KOREA AS A
+JURISDICTION OF PRIMARY MONEY LAUNDERING
+CONCERN.
+(a) Findings.--Congress makes the following findings:
+(1) The Undersecretary of the Treasury for Terrorism and
+Financial Intelligence, who is responsible for safeguarding
+the financial system against illicit use, money laundering,
+terrorist financing, and the proliferation of weapons of mass
+destruction, has repeatedly expressed concern about North
+Korea's misuse of the international financial system as
+follows:
+(A) In 2006, the Undersecretary stated that, given North
+Korea's ``counterfeiting of U.S. currency, narcotics
+trafficking and use of accounts worldwide to conduct
+proliferation-related transactions, the line between illicit
+and licit North Korean money is nearly invisible'' and urged
+financial institutions worldwide to ``think carefully about
+the risks of doing any North Korea-related business.''.
+[[Page H232]]
+(B) In 2011, the Undersecretary stated that ``North Korea
+remains intent on engaging in proliferation, selling arms as
+well as bringing in material,'' and was ``aggressively
+pursuing the effort to establish front companies.''.
+(C) In 2013, the Undersecretary stated, in reference to
+North Korea's distribution of high-quality counterfeit United
+States currency, that ``North Korea is continuing to try to
+pass a supernote into the international financial system,''
+and that the Department of the Treasury would soon introduce
+new currency with improved security features to protect
+against counterfeiting by the Government of North Korea.
+(2) The Financial Action Task Force, an intergovernmental
+body whose purpose is to develop and promote national and
+international policies to combat money laundering and
+terrorist financing, has repeatedly--
+(A) expressed concern at deficiencies in North Korea's
+regimes to combat money laundering and terrorist financing;
+(B) urged North Korea to adopt a plan of action to address
+significant deficiencies in these regimes and the serious
+threat they pose to the integrity of the international
+financial system;
+(C) urged all jurisdictions to apply countermeasures to
+protect the international financial system from ongoing and
+substantial money laundering and terrorist financing risks
+emanating from North Korea;
+(D) urged all jurisdictions to advise their financial
+institutions to give special attention to business
+relationships and transactions with North Korea, including
+North Korean companies and financial institutions; and
+(E) called on all jurisdictions to protect against
+correspondent relationships being used to bypass or evade
+countermeasures and risk mitigation practices, and take into
+account money laundering and terrorist financing risks when
+considering requests by North Korean financial institutions
+to open branches and subsidiaries in their jurisdiction.
+(3) On March 7, 2013, the United Nations Security Council
+unanimously adopted Resolution 2094, which--
+(A) welcomed the Financial Action Task Force's
+recommendation on financial sanctions related to
+proliferation, and its guidance on the implementation of
+sanctions;
+(B) decided that Member States should apply enhanced
+monitoring and other legal measures to prevent the provision
+of financial services or the transfer of property that could
+contribute to activities prohibited by applicable United
+Nations Security Council resolutions; and
+(C) called on Member States to prohibit North Korean banks
+from establishing or maintaining correspondent relationships
+with banks in their jurisdictions, to prevent the provision
+of financial services, if they have information that provides
+reasonable grounds to believe that these activities could
+contribute to activities prohibited by an applicable United
+Nations Security Council resolution, or to the evasion of
+such prohibitions.
+(b) Sense of Congress Regarding the Designation of North
+Korea as a Jurisdiction of Primary Money Laundering
+Concern.--Congress--
+(1) acknowledges the efforts of the United Nations Security
+Council to impose limitations on, and require enhanced
+monitoring of, transactions involving North Korean financial
+institutions that could contribute to sanctioned activities;
+(2) urges the President, in the strongest terms, to
+immediately designate North Korea as a jurisdiction of
+primary money laundering concern, and to adopt stringent
+special measures to safeguard the financial system against
+the risks posed by North Korea's willful evasion of sanctions
+and its illicit activities; and
+(3) urges the President to seek the prompt implementation
+by other states of enhanced monitoring and due diligence to
+prevent North Korea's misuse of the international financial
+system, including by sharing information about activities,
+transactions, and property that could contribute to
+activities sanctioned by applicable United Nations Security
+Council resolutions, or to the evasion of sanctions.
+(c) Determinations Regarding North Korea.--
+(1) In general.--The Secretary of the Treasury shall, not
+later than 180 days after the date of the enactment of this
+Act, determine, in consultation with the Secretary of State
+and Attorney General, and in accordance with section 5318A of
+title 31, United States Code, whether reasonable grounds
+exist for concluding that North Korea is a jurisdiction of
+primary money laundering concern.
+(2) Special measures.--If the Secretary of the Treasury
+determines under this subsection that reasonable grounds
+exist for finding that North Korea is a jurisdiction of
+primary money laundering concern, the Secretary of the
+Treasury, in consultation with the Federal functional
+regulators, shall impose one or more of the special measures
+described in paragraphs (1) through (5) of section 5318A(b)
+of title 31, United States Code, with respect to the
+jurisdiction of North Korea.
+(3) Report required.--
+(A) In general.--If the Secretary of the Treasury
+determines that North Korea is a jurisdiction of primary
+money laundering concern, the Secretary of the Treasury
+shall, not later than 90 days after the date on which the
+Secretary makes such determination, submit to the appropriate
+congressional committees a report on the determination made
+under paragraph (1) together with the reasons for that
+determination.
+(B) Form.--A report or copy of any report submitted under
+this paragraph shall be submitted in unclassified form but
+may contain a classified annex.
+SEC. 202. ENSURING THE CONSISTENT ENFORCEMENT OF UNITED
+NATIONS SECURITY COUNCIL RESOLUTIONS AND
+FINANCIAL RESTRICTIONS ON NORTH KOREA.
+(a) Findings.--Congress finds that--
+(1) all states and jurisdictions are obligated to implement
+and enforce applicable United Nations Security Council
+resolutions fully and promptly, including by--
+(A) blocking the property of, and ensuring that any
+property is prevented from being made available to, persons
+designated by the Security Council under applicable United
+Nations Security Council resolutions;
+(B) blocking any property associated with an activity
+prohibited by applicable United Nations Security Council
+resolutions; and
+(C) preventing any transfer of property and any provision
+of financial services that could contribute to an activity
+prohibited by applicable United Nations Security Council
+resolutions, or to the evasion of sanctions under such
+resolutions;
+(2) all states and jurisdictions share a common interest in
+protecting the international financial system from the risks
+of money laundering and illicit transactions emanating from
+North Korea;
+(3) the United States Dollar and the Euro are the world's
+principal reserve currencies, and the United States and the
+European Union are primarily responsible for the protection
+of the international financial system from these risks;
+(4) the cooperation of the People's Republic of China, as
+North Korea's principal trading partner, is essential to the
+enforcement of applicable United Nations Security Council
+resolutions and to the protection of the international
+financial system;
+(5) the report of the Panel of Experts established pursuant
+to United Nations Security Council Resolution 1874, dated
+June 11, 2013, expressed concern about the ability of banks
+in states with less effective regulators and those unable to
+afford effective compliance to detect and prevent illicit
+transfers involving North Korea;
+(6) North Korea has historically exploited inconsistencies
+between jurisdictions in the interpretation and enforcement
+of financial regulations and applicable United Nations
+Security Council resolutions to circumvent sanctions and
+launder the proceeds of illicit activities;
+(7) Amroggang Development Bank, Bank of East Land, and
+Tanchon Commercial Bank have been designated by the Secretary
+of the Treasury, the United Nations Security Council, and the
+European Union;
+(8) Korea Daesong Bank and Korea Kwangson Banking
+Corporation have been designated by the Secretary of the
+Treasury and the European Union;
+(9) the Foreign Trade Bank of North Korea has been
+designated by the Secretary of the Treasury for facilitating
+transactions on behalf of persons linked to its proliferation
+network, and for serving as ``a key financial node''; and
+(10) Daedong Credit Bank has been designated by the
+Secretary of the Treasury for activities prohibited by
+applicable United Nations Security Council resolutions,
+including the use of deceptive financial practices to
+facilitate transactions on behalf of persons linked to North
+Korea's proliferation network.
+(b) Sense of Congress.--It is the sense of Congress that
+the President should intensify diplomatic efforts, both in
+appropriate international fora such as the United Nations and
+bilaterally, to develop and implement a coordinated,
+consistent, multilateral strategy for protecting the global
+financial system against risks emanating from North Korea,
+including--
+(1) the cessation of any financial services whose
+continuation is inconsistent with applicable United Nations
+Security Council resolutions;
+(2) the cessation of any financial services to persons,
+including financial institutions, that present unacceptable
+risks of facilitating money laundering and illicit activity
+by the Government of North Korea;
+(3) the blocking by all states and jurisdictions, in
+accordance with the legal process of the state or
+jurisdiction in which the property is held, of any property
+required to be blocked under applicable United Nations
+Security Council resolutions;
+(4) the blocking of any property derived from illicit
+activity, from significant activities undermining cyber
+security, from the misappropriation, theft, or embezzlement
+of public funds by, or for the benefit of, officials of the
+Government of North Korea;
+(5) the blocking of any property involved in significant
+activities undermining cyber security by the Government of
+North Korea, directly or indirectly, against United States
+persons, or the theft of intellectual property by the
+Government of North Korea, directly or indirectly from United
+States persons; and
+(6) the blocking of any property of persons directly or
+indirectly involved in censorship or human rights abuses by
+the Government of North Korea.
+[[Page H233]]
+SEC. 203. PROLIFERATION PREVENTION SANCTIONS.
+(a) Export of Certain Goods or Technology.--
+(1) In general.--Subject to section 207(a)(2)(C) of this
+Act, a license shall be required for the export to North
+Korea of any goods or technology subject to the Export
+Administration Regulations (part 730 of title 15, Code of
+Federal Regulations) without regard to whether the Secretary
+of State has designated North Korea as a country the
+government of which has provided support for acts of
+international terrorism, as determined by the Secretary of
+State under section 6(j) of the Export Administration Act of
+1979 (50 U.S.C. App. 2045), as continued in effect under the
+International Emergency Economic Powers Act.
+(2) Presumption of denial.--A license for the export to
+North Korea of any goods or technology as described in
+paragraph (1) shall be subject to a presumption of denial.
+(b) Transactions With Countries Supporting Acts of
+International Terrorism.--
+(1) Arms export control act prohibitions.--The prohibitions
+and restrictions described in section 40 of the Arms Export
+Control Act (22 U.S.C. 2780), and other provisions provided
+for in that Act, shall also apply to exporting or otherwise
+providing (by sale, lease or loan, grant, or other means),
+directly or indirectly, any munitions item to the Government
+of North Korea without regard to whether or not North Korea
+is a country with respect to which subsection (d) of such
+section (relating to designation of state sponsors of
+terrorism) applies.
+(2) Financial transactions.--Except as provided in section
+207 of this Act and the North Korean Human Rights Act of 2004
+(22 U.S.C. 7801 et seq.), the penalties provided for in
+section 2332d of title 18, United States Code, shall apply to
+a United States person that engages in a financial
+transaction with the Government of North Korea on or after
+the date of the enactment of this Act to the same extent that
+such penalties apply to a United States citizen that commits
+an unlawful act described in section 2332d of title 18,
+United States Code.
+(c) Transactions in Lethal Military Equipment.--
+(1) In general.--The President shall withhold assistance
+under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et
+seq.) to any country that provides lethal military equipment
+to, or receives lethal military equipment from, the
+Government of North Korea.
+(2) Applicability.--The prohibition under this subsection
+with respect to a country shall terminate on the date that is
+1 year after the date on which such country ceases to provide
+lethal military equipment to the Government of North Korea.
+(3) Waiver.--The President may, on a case-by-case basis,
+waive the prohibition under this subsection with respect to a
+country for a period of not more than 180 days, and may renew
+the waiver for additional periods of not more than 180 days,
+if the President determines and so reports to the appropriate
+congressional committees that it is vital to the national
+security interests of the United States to exercise such
+waiver authority.
+SEC. 204. PROCUREMENT SANCTIONS.
+(a) In General.--Except as provided in this section, the
+United States Government may not procure, or enter into any
+contract for the procurement of, any goods or services from
+any designated person.
+(b) FAR.--The Federal Acquisition Regulation issued
+pursuant to section 1303 of title 41, United States Code,
+shall be revised to require a certification from each person
+that is a prospective contractor that such person does not
+engage in any of the conduct described in subsection (a) or
+(b) of section 104. Such revision shall apply with respect to
+contracts in an amount greater than the simplified
+acquisition threshold (as defined in section 134 of title 41,
+United States Code) for which solicitations are issued on or
+after the date that is 90 days after the date of the
+enactment of this Act.
+(c) Termination of Contracts and Initiation of Suspension
+and Debarment Proceeding.--
+(1) Termination of contracts.--Except as provided in
+paragraph (2), the head of an executive agency shall
+terminate a contract with a person who has provided a false
+certification under subsection (b).
+(2) Waiver.--The head of an executive agency may waive the
+requirement under paragraph (1) with respect to a person
+based upon a written finding of urgent and compelling
+circumstances significantly affecting the interests of the
+United States. If the head of an executive agency waives the
+requirement under paragraph (1) for a person, the head of the
+agency shall submit to the appropriate congressional
+committees, within 30 days after the waiver is made, a report
+containing the rationale for the waiver and relevant
+information supporting the waiver decision.
+(3) Initiation of suspension and debarment proceeding.--The
+head of an executive agency shall initiate a suspension and
+debarment proceeding against a person who has provided a
+false certification under subsection (b). Upon determination
+of suspension, debarment, or proposed debarment, the agency
+shall ensure that such person is entered into the
+Governmentwide database containing the list of all excluded
+parties ineligible for Federal programs pursuant to Executive
+Order No. 12549 (31 U.S.C. 6101 note; relating to debarment
+and suspension) and Executive Order No. 12689 (31 U.S.C. 6101
+note; relating to debarment and suspension).
+(d) Clarification Regarding Certain Products.--The remedies
+specified in subsections (a) through (c) shall not apply with
+respect to the procurement of eligible products, as defined
+in section 308(4) of the Trade Agreements Act of 1979 (19
+U.S.C. 2518(4)), of any foreign country or instrumentality
+designated under section 301(b) of such Act (19 U.S.C.
+2511(b)).
+(e) Rule of Construction.--Nothing in this subsection may
+be construed to limit the use of other remedies available to
+the head of an executive agency or any other official of the
+Federal Government on the basis of a determination of a false
+certification under subsection (b).
+(f) Executive Agency Defined.--In this section, the term
+``executive agency'' has the meaning given such term in
+section 133 of title 41, United States Code.
+SEC. 205. ENHANCED INSPECTIONS AUTHORITIES.
+(a) Report Required.--Not later than 180 days after the
+date of the enactment of this Act, and every 180 days
+thereafter, the President, acting through the Secretary of
+Homeland Security, shall submit to the appropriate
+congressional committees, the Committee on Homeland Security
+of the House of Representatives, and the Committee on
+Homeland Security and Governmental Affairs of the Senate, a
+report identifying foreign sea ports and airports whose
+inspections of ships, aircraft, and conveyances originating
+in North Korea, carrying North Korean property, or operated
+by the Government of North Korea are deficient to effectively
+prevent the facilitation of any of the activities described
+in section 104(a).
+(b) Enhanced Security Targeting Requirements.--Not later
+than 180 days after the identification of any sea port or
+airport pursuant to subsection (a), the Secretary of Homeland
+Security shall, utilizing the Automated Targeting System
+operated by the National Targeting Center in U.S. Customs and
+Border Protection, require enhanced screening procedures to
+determine if physical inspections are warranted of any cargo
+bound for or landed in the United States that has been
+transported through such sea port or airport if there are
+reasonable grounds to believe that such cargo contains goods
+prohibited under this Act.
+(c) Seizure and Forfeiture.--A vessel, aircraft, or
+conveyance used to facilitate any of the activities described
+in section 104(a) that comes within the jurisdiction of the
+United States may be seized and forfeited under chapter 46 of
+title 18, United States Code, or under the Tariff Act of
+1930.
+SEC. 206. TRAVEL SANCTIONS.
+(a) Aliens Ineligible for Visas, Admission, or Parole.--
+(1) Visas, admission, or parole.--An alien (or an alien who
+is a corporate officer of a person) who the Secretary of
+State or the Secretary of Homeland Security (or a designee of
+one of such Secretaries) knows, or has reasonable grounds to
+believe, is described in subsection (a)(1) or (b)(1) of
+section 104 is--
+(A) inadmissible to the United States;
+(B) ineligible to receive a visa or other documentation to
+enter the United States; and
+(C) otherwise ineligible to be admitted or paroled into the
+United States or to receive any other benefit under the
+Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+(2) Current visas revoked.--
+(A) In general.--The issuing consular officer, the
+Secretary of State, or the Secretary of Homeland Security (or
+a designee of one of such Secretaries) shall revoke any visa
+or other entry documentation issued to an alien who is
+described in subsection (a)(1) or (b)(1) of section 104
+regardless of when issued.
+(B) Effect of revocation.--A revocation under subparagraph
+(A)--
+(i) shall take effect immediately; and
+(ii) shall automatically cancel any other valid visa or
+entry documentation that is in the alien's possession.
+(b) Exception To Comply With United Nations Headquarters
+Agreement.--Sanctions under subsection (a)(1)(B) shall not
+apply to an alien if admitting the alien into the United
+States is necessary to permit the United States to comply
+with the Agreement regarding the Headquarters of the United
+Nations, signed at Lake Success June 26, 1947, and entered
+into force November 21, 1947, between the United Nations and
+the United States, or other applicable international
+obligations.
+SEC. 207. EXEMPTIONS, WAIVERS, AND REMOVALS OF DESIGNATION.
+(a) Exemptions.--
+(1) Mandatory exemptions.--The following activities shall
+be exempt from sanctions under section 104:
+(A) Activities subject to the reporting requirements of
+title V of the National Security Act of 1947 (50 U.S.C. 413
+et seq.), or to any authorized intelligence activities of the
+United States.
+(B) Any transaction necessary to comply with United States
+obligations under the Agreement between the United Nations
+and the United States of America regarding the Headquarters
+of the United Nations, signed June 26, 1947, and entered into
+force on November 21, 1947, or under the Vienna Convention on
+Consular Relations, signed April 24, 1963, and entered into
+force on March 19, 1967, or under other international
+agreements.
+(2) Discretionary exemptions.--The following activities may
+be exempt from sanctions under section 104 as determined by
+the President:
+[[Page H234]]
+(A) Any financial transaction the exclusive purpose for
+which is to provide humanitarian assistance to the people of
+North Korea.
+(B) Any financial transaction the exclusive purpose for
+which is to import food products into North Korea, if such
+food items are not defined as luxury goods.
+(C) Any transaction the exclusive purpose for which is to
+import agricultural products, medicine, or medical devices
+into North Korea, provided that such supplies or equipment
+are classified as designated ``EAR 99'' under the Export
+Administration Regulations (part 730 of title 15, Code of
+Federal Regulations) and not controlled under--
+(i) the Export Administration Act of 1979 (50 U.S.C. App.
+2401 et seq.), as continued in effect under the International
+Emergency Economic Powers Act (50 U.S.C. 1701 et seq.);
+(ii) the Arms Export Control Act (22 U.S.C. 2751 et seq.);
+(iii) part B of title VIII of the Nuclear Proliferation
+Prevention Act of 1994 (22 U.S.C. 6301 et seq.); or
+(iv) the Chemical and Biological Weapons Control and
+Warfare Elimination Act of 1991 (22 U.S.C. 5601 et seq.).
+(b) Waiver.--The President may waive, on a case-by-case
+basis, the imposition of sanctions for a period of not more
+than one year, and may renew that waiver for additional
+periods of not more than one year, any sanction or other
+measure under section 104, 204, 205, 206, or 303 if the
+President submits to the appropriate congressional committees
+a written determination that the waiver meets one or more of
+the following requirements:
+(1) The waiver is important to the economic or national
+security interests of the United States.
+(2) The waiver will further the enforcement of this Act or
+is for an important law enforcement purpose.
+(3) The waiver is for an important humanitarian purpose,
+including any of the purposes described in section 4 of the
+North Korean Human Rights Act of 2004 (22 U.S.C. 7802).
+(c) Removals of Sanctions.--The President may prescribe
+rules and regulations for the removal of sanctions on a
+person that is designated under subsection (a) or (b) of
+section 104 and the removal of designations of a person with
+respect to such sanctions if the President determines that
+the designated person has verifiably ceased its participation
+in any of the conduct described in subsection (a) or (b) of
+section 104, as the case may be, and has given assurances
+that it will abide by the requirements of this Act.
+(d) Financial Services for Certain Activities.--The
+President may promulgate regulations, rules, and policies as
+may be necessary to facilitate the provision of financial
+services by a foreign financial institution that is not
+controlled by the Government of North Korea in support of the
+activities subject to exemption under this section.
+SEC. 208. REPORT ON THOSE RESPONSIBLE FOR KNOWINGLY ENGAGING
+IN SIGNIFICANT ACTIVITIES UNDERMINING CYBER
+SECURITY.
+(a) In General.--The President shall submit to the
+appropriate congressional committees a report on significant
+activities undermining cyber security conducted, or otherwise
+ordered or controlled, directly or indirectly, by the
+Government of North Korea, including--
+(1) the identity and nationality of persons that have
+knowingly engaged in, directed, or provided material support
+to significant activities undermining cyber security by the
+Government of North Korea;
+(2) the conduct engaged in by each person identified;
+(3) the extent to which a foreign government has provided
+material support to significant activities undermining cyber
+security conducted, or otherwise ordered or controlled by,
+the Government of North Korea; and
+(4) the efforts made by the United States to engage foreign
+governments to halt the capability of North Korea to conduct
+significant activities undermining cyber security.
+(b) Submission and Form.--
+(1) Submission.--The report required under subsection (a)
+shall be submitted not later than 90 days after the date of
+enactment of this Act, and every 180 days thereafter for a
+period not to exceed 3 years.
+(2) Form.--The report required under subsection (a) shall
+be submitted in an unclassified form, but may contain a
+classified annex.
+SEC. 209. SENSE OF CONGRESS THAT TRILATERAL COOPERATION AMONG
+THE UNITED STATES, JAPAN, AND THE REPUBLIC OF
+KOREA IS CRUCIAL TO THE STABILITY OF THE ASIA-
+PACIFIC REGION.
+(a) Findings.--Congress finds the following:
+(1) The United States, Japan, and the Republic of Korea
+(South Korea) share the values of democracy, free and open
+markets, the rule of law, and respect for human rights.
+(2) The alliance relationship between the United States,
+Japan, and South Korea are critical to peace and security in
+the Asia-Pacific region.
+(3) The United States, Japan, and South Korea are committed
+to continuing diplomatic efforts to ensure continued peace
+and stability in the Asia-Pacific region.
+(4) On December 28, 2014, the United States, Japan, and
+South Korea finalized a trilateral military intelligence-
+sharing arrangement concerning the nuclear and missile
+threats posed by North Korea.
+(5) The trilateral military intelligence-sharing
+arrangement reinforces and strengthens the commitment between
+the United States, Japan, and South Korea toward a Korean
+Peninsula free of nuclear weapons.
+(b) Sense of Congress.--It is the sense of Congress that
+North Korea's nuclear and ballistic missile programs are of
+mutual concern to the United States, Japan, and South Korea
+and a trilateral military intelligence-sharing arrangement is
+essential to the security of each nation and the Asia-Pacific
+region.
+SEC. 210. REPORT ON NUCLEAR PROGRAM COOPERATION BETWEEN NORTH
+KOREA AND IRAN.
+(a) In General.--The President shall submit to the
+Committee on Foreign Affairs of the House of Representatives
+and the Committee on Foreign Relations of the Senate a report
+on cooperation between North Korea and Iran on their nuclear
+programs, including the identity of Iranian and North Korean
+persons that have knowingly engaged in or directed the
+provision of material support or the exchange of information
+between North Korea and Iran on their respective nuclear
+programs.
+(b) Submission and Form.--
+(1) Submission.--The report required under subsection (a)
+shall be submitted not later than 90 days after the date of
+enactment of this Act.
+(2) Form.--The report required under subsection (a) shall
+be submitted in an unclassified form, but may contain a
+classified annex.
+TITLE III--PROMOTION OF HUMAN RIGHTS
+SEC. 301. INFORMATION TECHNOLOGY.
+Section 104 of the North Korean Human Rights Act of 2004
+(22 U.S.C. 7814) is amended--
+(1) in subsection (a), by striking ``radios capable of
+receiving broadcasting'' and inserting ``radio, Internet, and
+electronic mass communications capable of receiving
+content''; and
+(2) by adding after subsection (c) the following new
+subsection:
+``(d) Information Technology Study.--
+``(1) In general.--Not later than 180 days after the date
+of the enactment of this subsection, the President shall
+submit to the appropriate congressional committees a report
+setting forth a detailed plan for making unrestricted,
+unmonitored, and inexpensive, radio, Internet, and electronic
+mass communications available to the people of North Korea.
+``(2) Form.--The report required by paragraph (1) shall be
+submitted in unclassified form, but may contain a classified
+annex.''.
+SEC. 302. REPORT ON NORTH KOREAN PRISON CAMPS.
+(a) In General.--The Secretary of State shall submit to the
+appropriate congressional committees a report describing,
+with respect to each political prison camp in North Korea to
+the extent information is available--
+(1) the camp's estimated prisoner population;
+(2) the camp's geographical coordinates;
+(3) the reasons for confinement of the prisoners;
+(4) the camp's primary industries and products, and the end
+users of any goods produced in such camp;
+(5) the natural persons and agencies responsible for
+conditions in the camp;
+(6) the conditions under which prisoners are confined, with
+respect to the adequacy of food, shelter, medical care,
+working conditions, and reports of ill-treatment of
+prisoners; and
+(7) imagery, to include satellite imagery of each such
+camp, in a format that, if published, would not compromise
+the sources and methods used by the intelligence agencies of
+the United States to capture geospatial imagery.
+(b) Form.--The report required under subsection (a) may be
+included in the first report required to be submitted to
+Congress after the date of the enactment of this Act under
+sections 116(d) and 502B(b) of the Foreign Assistance Act of
+1961 (22 U.S.C. 2151n(d) and 2304(b)) (relating to the annual
+human rights report).
+SEC. 303. REPORT ON PERSONS WHO ARE RESPONSIBLE FOR SERIOUS
+HUMAN RIGHTS ABUSES OR CENSORSHIP IN NORTH
+KOREA.
+(a) In General.--The Secretary of State shall submit to the
+appropriate congressional committees a report that contains
+an identification of each person the Secretary determines to
+be responsible for serious human rights abuses or censorship
+in North Korea and a description of such abuses or censorship
+engaged in by such person. The report shall include a
+description of actions taken by the Department of State to
+implement or support the recommendations of the Commission of
+Inquiry's Report on Human Rights in the Democratic People's
+Republic of North Korea, including efforts to press China and
+other countries to implement Commission recommendations.
+(b) Consideration.--In preparing the report required under
+subsection (a), the Secretary of State shall give due
+consideration to the findings of the United Nations
+Commission of Inquiry on Human Rights in North Korea, and
+shall make specific findings with respect to the
+responsibility of Kim Jong Un, and of each natural person who
+is a member of the National Defense Commission of North
+Korea, or the Organization and Guidance Department of the
+Workers' Party of Korea, for serious human rights abuses and
+censorship.
+[[Page H235]]
+(c) Designation of Persons.--The President shall designate
+under section 104(a) any person listed in the report required
+under subsection (a) as responsible for serious human rights
+abuses or censorship in North Korea.
+(d) Submission and Form.--
+(1) Submission.--The report required under subsection (a)
+shall be submitted not later than 90 days after the date of
+the enactment of this Act, and every 180 days thereafter for
+a period not to exceed 3 years, shall be included in each
+report required under sections 116(d) and 502B(b) of the
+Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and
+2304(b)) (relating to the annual human rights report).
+(2) Form.--The report required under subsection (a) shall
+be submitted in unclassified form, but may include a
+classified annex. The Secretary of State shall also publish
+the unclassified part of the report on the Department of
+State's Web site.
+TITLE IV--GENERAL AUTHORITIES
+SEC. 401. SUSPENSION OF SANCTIONS AND OTHER MEASURES.
+(a) In General.--Any sanction or other measure provided for
+in title I (or any amendment made by title I) or title II may
+be suspended for up to 365 days upon certification by the
+President to the appropriate congressional committees that
+the Government of North Korea has--
+(1) verifiably ceased its counterfeiting of United States
+currency, including the surrender or destruction of
+specialized materials and equipment used for or particularly
+suitable for counterfeiting;
+(2) taken significant steps toward financial transparency
+to comply with generally accepted protocols to cease and
+prevent the laundering of monetary instruments;
+(3) taken significant steps toward verification of its
+compliance with United Nations Security Council Resolutions
+1695, 1718, 1874, 2087, and 2094;
+(4) taken significant steps toward accounting for and
+repatriating the citizens of other countries abducted or
+unlawfully held captive by the Government of North Korea or
+detained in violation of the 1953 Armistice Agreement;
+(5) accepted and begun to abide by internationally
+recognized standards for the distribution and monitoring of
+humanitarian aid;
+(6) provided credible assurances that it will not support
+further acts of international terrorism;
+(7) taken significant and verified steps to improve living
+conditions in its political prison camps; and
+(8) made significant progress in planning for unrestricted
+family reunification meetings, including for those
+individuals among the two million strong Korean-American
+community who maintain family ties with relatives in North
+Korea.
+(b) Renewal of Suspension.--The suspension described in
+subsection (a) may be renewed for additional consecutive
+periods of 180 days upon certification by the President to
+the appropriate congressional committees that the Government
+of North Korea has continued to comply with the conditions
+described in subsection (a) during the previous year.
+SEC. 402. TERMINATION OF SANCTIONS AND OTHER MEASURES.
+Any sanction or other measure provided for in title I (or
+any amendment made by title I) or title II shall terminate on
+the date on which the President determines and certifies to
+the appropriate congressional committees that the Government
+of North Korea has met the requirements of section 401, and
+has also--
+(1) completely, verifiably, and irreversibly dismantled all
+of its nuclear, chemical, biological, and radiological
+weapons programs, including all programs for the development
+of systems designed in whole or in part for the delivery of
+such weapons;
+(2) released all political prisoners, including the
+citizens of North Korea detained in North Korea's political
+prison camps;
+(3) ceased its censorship of peaceful political activity;
+(4) taken significant steps toward the establishment of an
+open, transparent, and representative society;
+(5) fully accounted for and repatriated all citizens of all
+nations abducted or unlawfully held captive by the Government
+of North Korea or detained in violation of the 1953 Armistice
+Agreement; and
+(6) agreed with the Financial Action Task Force on a plan
+of action to address deficiencies in its anti-money
+laundering regime and begun to implement this plan of action.
+SEC. 403. AUTHORITY TO CONSOLIDATE REPORTS.
+Any or all reports required to be submitted to appropriate
+congressional committees under this Act or any amendment made
+by this Act that are subject to a deadline for submission
+consisting of the same unit of time may be consolidated into
+a single report that is submitted to appropriate
+congressional committees pursuant to such deadline.
+SEC. 404. REGULATIONS.
+(a) In General.--The President is authorized to promulgate
+such rules and regulations as may be necessary to carry out
+the provisions of this Act (which may include regulatory
+exceptions), including under sections 203 and 205 of the
+International Emergency Economic Powers Act (50 U.S.C. 1702
+and 1704).
+(b) Rule of Construction.--Nothing in this Act or any
+amendment made by this Act shall be construed to limit the
+authority of the President pursuant to an applicable
+Executive order or otherwise pursuant to the International
+Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+SEC. 405. NO ADDITIONAL FUNDS AUTHORIZED.
+No additional funds are authorized to carry out the
+requirements of this Act and the amendments made by this Act.
+SEC. 406. EFFECTIVE DATE.
+Except as otherwise provided in this Act, this Act and the
+amendments made by this Act shall take effect on the date of
+the enactment of this Act.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+California (Mr. Royce) and the gentleman from New York (Mr. Engel) each
+will control 20 minutes.
+The Chair recognizes the gentleman from California.
+General Leave
+Mr. ROYCE. Mr. Speaker, I ask unanimous consent that all Members may
+have 5 legislative days to revise and extend their remarks and to
+include extraneous materials on this resolution.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from California?
+There was no objection.
+Mr. ROYCE. I yield myself such time as I may consume.
+Mr. Speaker, I appreciate Leader McCarthy working with myself,
+working with Ranking Member Eliot Engel of New York to schedule this
+legislation for floor consideration.
+Last week, North Korea conducted its fourth known nuclear test. The
+Kim regime has developed increasingly destructive weapons.
+What we are concerned about here is the miniaturization of nuclear
+warheads that fit onto its most reliable missiles. We are also
+concerned about the submarine tests for firing from a sub these
+missiles that would be capable of launching those devices. We are
+concerned about the ongoing efforts to make certain that they have got
+the range now on a three-stage rocket, ICBM, to hit the United States.
+This threat is unacceptable, and it has to be aggressively challenged.
+The legislation that we are considering here is the most
+comprehensive North Korea sanctions legislation to come before this
+body. Importantly, what this bill does is use targeted financial and
+economic pressure to isolate Kim Jong-un and his top officials from the
+assets that they maintain in foreign banks and from the hard currency
+that sustains their rule.
+These assets are derived primarily from illicit activities, such as
+counterfeiting U.S. currency, something that North Korea has been
+caught doing with hundred-dollar bank notes, such as selling their
+missile systems around the world, contraband in cigarettes, drugs, and
+other illicit activities. And all of that is used to advance North
+Korea's nuclear program.
+They also pay for the luxurious lifestyle of the ruling elites, as we
+have seen in some of the exposes that come out of North Korea, and it
+is used to repress the people. In other words, the money from that hard
+currency pays for the generals, pays for the secret police, pays for
+the missile program and the nuclear weapons program.
+A strategy of financial pressure is the approach we took a decade ago
+when the previous administration targeted Banco Delta Asia. That was a
+Macao-based bank. This was in 2005. They were targeted for their role
+in laundering money for North Korea, and this cut it off from the
+financial system, really. This led other banks in the region to shun
+North Korean business, because when the option is out there between
+whether or not you are going to bank with North Korea or bank with the
+U.S. and the rest of the world, it is a fairly easy choice for these
+banks to make. At that point, they freeze the accounts, and that,
+obviously, isolates the regime.
+At that time, according to one former top U.S. official who was
+speaking to the issue of what the North Koreans would say when they
+would come into the meetings with the State Department, at every
+conversation we had with the North Koreans, he said, every one of them
+began and ended with the same question: ``When do we get our money
+back?''
+Now, the part that got my interest at the time was not only the
+report that, because he couldn't pay his generals, there were problems
+for the regime--it is not a good position for a dictator to be in--but
+also that missile production
+[[Page H236]]
+lines had come to a halt because they couldn't buy on the black market;
+they didn't have the hard currency anymore to do it, the parts that
+they needed for their programs.
+Unfortunately, the pressure at the time was lifted. I think it was
+lifted prematurely for certain because the representation was made that
+Kim Jong Il was going to make concessions on his nuclear program,
+concessions that ultimately were never made. From my standpoint, what a
+mistake. From the standpoint of the people I talk to over at Treasury,
+what a mistake. They had a different vision on how those sanctions
+should be maintained.
+Today, the Obama administration has let its North Korea policy drift.
+A year ago, it promised a proportional response to the massive cyber
+terrorist attack against the United States. But to date, the
+administration's response has been dangerously weak. A mere 18 low-
+level arms dealers have been sanctioned. That has been it. Failing to
+respond to North Korea's belligerence, I think, only emboldens their
+leader.
+Disrupting North Korea's illicit activities will place tremendous
+strain on that country's ruling elite who have so brutalized the people
+of North Korea. I spoke to the defector who used to run their
+propaganda machinery about this. He defected through China. And he
+discussed this issue. He said: Look, that hard currency goes, not to
+the people; it goes for the military apparatus and the political
+apparatus of the regime. So we have got to go after those illicit
+activities like we went after organized crime in the United States:
+identify the network, interdict shipments, disrupt the flow of money.
+North Korea, after all, has been called a ``gangster regime.'' You
+have seen that term in the press. Well, it is pretty apt. This regime
+is a critical threat, frankly, to our national security. Under this
+bill's framework, anyone laundering money, counterfeiting goods,
+smuggling, or trafficking narcotics will be subject to significant
+sanctions.
+It is also important to remember the deplorable state of human rights
+in North Korea. Two years ago, a U.N. Commission of Inquiry released
+the most comprehensive report on North Korea to date, finding that the
+Kim regime ``has for decades,'' in their words, ``pursued policies
+involving crimes that shock the conscience of humanity.'' So this bill
+requires the State Department to use this report's findings to identify
+the individuals responsible for these abuses and to press for more ways
+in which to get information into North Korea so as to move the
+attitudes of the population inside the country.
+Mr. Speaker, a return to the strategy of effective financial pressure
+on North Korea is our best bet to end North Korea's threat to its own
+people, to our South Korean allies, and ultimately to us.
+I reserve the balance of my time.
+House of Representatives,
+Committee on Oversight and Government Reform,
+Washington, DC, February 26, 2015.
+Hon. Ed Royce,
+Chairman, Committee on Foreign Affairs,
+Washington, DC.
+Dear Mr. Chairman: I write concerning H.R. 757, the North
+Korea Sanctions Enforcement Act of 2015. As you know, the
+Committee on Foreign Affairs received an original referral
+and the Committee on Oversight and Government Reform a
+secondary referral when the bill was introduced on February
+5, 2015. I recognize and appreciate your desire to bring this
+legislation before the House of Representatives in an
+expeditious manner, and accordingly, the Committee on
+Oversight and Government Reform will forego action on the
+bill.
+The Committee takes this action with our mutual
+understanding that by foregoing consideration of H.R. 757 at
+this time, we do not waive any jurisdiction over the subject
+matter contained in this or similar legislation. Further, I
+request your support for the appointment of conferees from
+the Committee on Oversight and Government Reform during any
+House-Senate conference convened on this or related
+legislation.
+Finally, I would ask that a copy of our exchange of letters
+on this matter be included in the bill report filed by the
+Committee on Foreign Affairs, as well as in the Congressional
+Record during floor consideration, to memorialize our
+understanding.
+Sincerely,
+Jason Chaffetz,
+Chairman.
+____
+House of Representatives,
+Committee on Foreign Affairs,
+Washington, DC, January 8, 2016.
+Hon. Jason Chaffetz,
+Chairman, House Committee on Oversight and Government Reform,
+Washington, DC.
+Dear Mr. Chairman: Thank you for consulting with the
+Committee on Foreign Affairs on H.R. 757, the North Korea
+Sanctions Enforcement Act, and for agreeing to be discharged
+from further consideration of that bill.
+I agree that your forgoing further action on this measure
+does not in any way diminish or alter the jurisdiction of the
+Committee on Oversight and Government Reform, or prejudice
+its jurisdictional prerogatives on this bill or similar
+legislation in the future. I would support your effort to
+seek appointment of an appropriate number of conferees to any
+House-Senate conference involving this legislation.
+I will seek to place our letters on H.R. 757 into the
+Congressional Record during floor consideration of the bill.
+I appreciate your cooperation regarding this legislation and
+look forward to continuing to work with your Committee as
+this measure moves through the legislative process.
+Sincerely,
+Edward R. Royce,
+Chairman.
+____
+House of Representatives,
+Committee on Ways and Means,
+Washington, DC, May 29, 2015.
+Hon. Edward R. Royce,
+Chairman, Committee on Foreign Affairs, Washington, DC.
+Dear Chairman Royce: I am writing with respect to H.R. 757,
+the ``North Korea Sanctions Enforcement Act of 2015.'' As a
+result of your having consulted with us on provisions in H.R.
+757 that fall within the Rule X jurisdiction of the Committee
+on Ways and Means, I agree to waive consideration of this
+bill so that it may proceed expeditiously to the House floor.
+The Committee on Ways and Means takes this action with the
+mutual understanding that by forgoing consideration of H.R.
+757 at this time, we do not waive any jurisdiction over the
+subject matter contained in this or similar legislation, and
+the Committee will be appropriately consulted and involved as
+the bill or similar legislation moves forward so that we may
+address any remaining issues that fall within our Rule X
+jurisdiction. The Committee also reserves the right to seek
+appointment of an appropriate number of conferees to any
+House-Senate conference involving this or similar
+legislation, and requests your support for such request.
+Finally, I would appreciate your response to this letter
+confirming this understanding, and would ask that a copy of
+our exchange of letters on this matter be included in the
+Congressional Record during floor consideration thereof.
+Sincerely,
+Paul Ryan,
+Chairman.
+____
+House of Representatives,
+Committee on Foreign Affairs,
+Washington, DC, June 4, 2015.
+Hon. Paul Ryan,
+Chairman, Committee on Ways and Means, Washington, DC.
+Dear Mr. Chairman: Thank you for consulting with the
+Committee on Foreign Affairs on H.R. 757, the North Korea
+Sanctions Enforcement Act of 2015, and for agreeing to be
+discharged from further consideration of that bill.
+I agree that your forgoing further action on this measure
+does not in any way diminish or alter the jurisdiction of the
+Committee on Ways and Means, or prejudice its jurisdictional
+prerogatives on this bill or similar legislation in the
+future. I would support your effort to seek appointment of an
+appropriate number of conferees to any House-Senate
+conference involving this legislation.
+I will seek to place our letters on H.R. 757 into the
+Congressional Record during floor consideration of the bill.
+I appreciate your cooperation regarding this legislation and
+look forward to continuing to work with your Committee as
+this measure moves through the legislative process.
+Sincerely,
+Edward R. Royce,
+Chairman.
+____
+House of Representatives,
+Committee on the Judiciary,
+Washington, DC, January 7, 2016.
+Hon. Ed Royce,
+Chairman, Committee on Foreign Affairs,
+Washington, D.C.
+Dear Chairman Royce: I am writing with respect to H.R. 757,
+the ``North Korea Sanctions Enforcement Act of 2015,'' which
+was referred to the Committee on Foreign Affairs and in
+addition to the Committee on the Judiciary. As a result of
+your having consulted with us on provisions in H.R. 757 that
+fall within the rule X jurisdiction of the Committee on the
+Judiciary, I agree to discharge our Committee from further
+consideration of this bill so that it may proceed
+expeditiously to the House floor for consideration.
+The Judiciary Committee takes this action with our mutual
+understanding that by foregoing consideration of H.R. 757 at
+this time, we do not waive any jurisdiction over subject
+matter contained in this or similar legislation, and that our
+Committee will be appropriately consulted and involved as
+this bill or similar legislation moves forward so that we may
+address any remaining issues in our jurisdiction. Our
+Committee also reserves the right to seek appointment of an
+appropriate number of conferees to any House-Senate
+conference involving this or similar legislation, and asks
+that you support any such request.
+[[Page H237]]
+I would appreciate a response to this letter confirming
+this understanding with respect to H.R. 757, and would ask
+that a copy of our exchange of letters on this matter be
+included in the Congressional Record during Floor
+consideration of H.R. 757.
+Sincerely,
+Bob Goodlatte,
+Chairman.
+____
+House of Representatives,
+Committee on Foreign Affairs,
+Washington, DC, June 4, 2015.
+Hon. Bob Goodlatte,
+Chairman, House Committee on the Judiciary,
+Washington, DC.
+Dear Mr. Chairman: Thank you for consulting with the
+Committee on Foreign Affairs on H.R. 757, the North Korea
+Sanctions Enforcement Act of 2015, and for agreeing to be
+discharged from further consideration of that bill.
+I agree that your forgoing further action on this measure
+does not in any way diminish or alter the jurisdiction of the
+Committee on the Judiciary, or prejudice its jurisdictional
+prerogatives on this bill or similar legislation in the
+future. I would support your effort to seek appointment of an
+appropriate number of conferees to any House-Senate
+conference involving this legislation.
+I will seek to place our letters on H.R. 757 into the
+Congressional Record during floor consideration of the bill.
+I appreciate your cooperation regarding this legislation and
+look forward to continuing to work with your Committee as
+this measure moves through the legislative process.
+Sincerely,
+Edward R. Royce,
+Chairman.
+____
+House of Representatives,
+Committee on Financial Services,
+Washington, DC, January 8, 2016.
+Hon. Ed Royce,
+Chairman, Committee on Foreign Affairs,
+Washington, DC.
+Dear Chairman Royce: I am writing concerning H.R. 757, the
+North Korea Sanctions Enforcement Act of 2015, and H.R. 3662,
+the Iran Terror Finance Transparency Act, both of which were
+referred to the Committee on Financial Services in addition
+to your Committee.
+As a result of your having consulted with the Committee on
+Financial Services concerning provisions of the bills that
+fall within our Rule X jurisdiction, I agree to discharge our
+Committee from further consideration of the bills so that
+they may proceed expeditiously to the House Floor. The
+Committee on Financial Services takes this action with our
+mutual understanding that, by foregoing consideration of H.R.
+757 and H.R. 3662 at this time, we do not waive any
+jurisdiction over the subject matter contained in this or
+similar legislation, and that our Committee will be
+appropriately consulted and involved as this or similar
+legislation moves forward so that we may address any
+remaining issues that fall within our Rule X jurisdiction.
+Our Committee also reserves the right to seek appointment of
+an appropriate number of conferees to any House-Senate
+conference involving this or similar legislation, and
+requests your support for any such request.
+Finally, I would appreciate your response to this letter
+confirming this understanding with respect to H.R. 757 and
+H.R. 3662 and would ask that a copy of our exchange of
+letters on this matter be included in your Committee's report
+to accompany the legislation and in the Congressional Record
+during floor consideration thereof.
+Sincerely,
+Jeb Hensarling,
+Chairman.
+____
+House of Representatives,
+Committee on Foreign Affairs,
+Washington, DC, January 8, 2016.
+Hon. Jeb Hensarling,
+Chairman, House Committee on Financial Services, Washington,
+DC.
+Dear Mr. Chairman: Thank you for consulting with the
+Committee on Foreign Affairs on H.R. 757, the North Korea
+Sanctions Enforcement Act, and for agreeing to be discharged
+from further consideration of that bill.
+I agree that your forgoing further action on this measure
+does not in any way diminish or alter the jurisdiction of the
+Committee on Financial Services, or prejudice its
+jurisdictional prerogatives on this bill or similar
+legislation in the future. I would support your effort to
+seek appointment of an appropriate number of conferees to any
+House-Senate conference involving this legislation.
+I will seek to place our letters on H.R. 757 into the
+Congressional Record during floor consideration of the bill.
+I appreciate your cooperation regarding this legislation and
+look forward to continuing to work with your Committee as
+this measure moves through the legislative process.
+Sincerely,
+Edward R. Royce,
+Chairman.
+Mr. ENGEL. Mr. Speaker, I yield myself such time as I may consume.
+I rise in support of this measure.
+I want to first thank our chairman of the Foreign Affairs Committee,
+Ed Royce, for authoring this very good, bipartisan bill. I am very
+pleased to be the lead Democratic cosponsor. I think this is an
+important bill, and it ties in with what we have tried to do for these
+past years on the Foreign Affairs Committee, being bipartisan and
+letting politics stop at the water's edge when we are talking about
+international affairs.
+Mr. Speaker, last week's nuclear test in North Korea was a stark
+reminder of just how dangerous the Kim regime is. A nuclear weapon in
+the hands of a rogue power is a threat to peace and stability around
+the world. North Korea continues to have a destabilizing influence on
+the peninsula and across the region, and the potential for nuclear fuel
+from North Korea to end up on the black market in the hands of violent
+extremists only compounds the threat.
+Yet, despite the burden of some of the toughest sanctions imaginable,
+despite constant pressure from the global community, despite the
+increasing isolation of North Korea from the rest of the world, leaders
+in Pyongyang persist on this dangerous and destabilizing course.
+The latest test demands a response. We need to work with our allies,
+particularly South Korea and Japan. We need to make sure this issue is
+at the top of the agenda in our engagement with China. China can have a
+lot of influence and does have a lot of influence over North Korea. We
+need to act unilaterally to make clear to the North Koreans that their
+actions have consequences.
+This bill would broaden our sanctions and strengthen enforcement. Let
+me say I am very proud, again, in a bipartisan way, this bill passed
+unanimously out of the Foreign Affairs Committee.
+North Korea has become more and more savvy at evading sanctions, and
+that is why this bill broadens our sanctions. The country's elites do
+business with shell companies and cover up the money trail. This allows
+hard currency to flow into North Korea. This bill would crack down on
+this practice and go after anyone helping prop up the Kim regime
+through these illegal activities.
+I must say that I have been to North Korea twice, to Pyongyang twice.
+We watched in the morning when people were going to work. The elites do
+very well there. It is just the rest of the country that is starving.
+This bill would include the important exceptions for the humanitarian
+aid that benefits the North Korean people. We help them with food aid.
+We are the most generous country with feeding North Korea. It is
+important to point this out because our quarrel is not with the North
+Korean people. It is with the despot and his aides that run North
+Korea.
+We know that the people of North Korea endure deplorable treatment at
+the hands of a corrupt regime. I can tell you the country's citizens
+deserve much, much better. That is why we will keep up the pressure on
+North Korea's leaders and that is why we need to pass this legislation.
+I urge a ``yes'' vote.
+I reserve the balance of my time.
+Mr. ROYCE. Mr. Speaker, I yield 3 minutes to the gentleman from New
+Jersey (Mr. Smith), chairman of the Foreign Affairs Subcommittee on
+Africa, Global Health, Global Human Rights, and International
+Organizations.
+Mr. SMITH of New Jersey. Mr. Speaker, I thank the distinguished
+chairman for yielding.
+I rise in strong support of H.R. 757, the North Korea Sanctions
+Enforcement Act of 2016.
+Mr. Speaker, there is a compelling need to pass tough and effective
+legislation to freeze the assets of the Kim Jong-un regime.
+I want to commend Chairman Royce for his long and hard work on North
+Korea and his determination to bring this bill to the floor. I again
+thank Ranking Member Eliot Engel for his good, strong sense of
+bipartisanship. This is a one-two punch against a cruel dictatorship,
+and this legislation has to get to the President as soon as possible.
+Mr. Speaker, whether it be North Korea or Iran, when will we learn
+the hard lesson that totalitarian states do not negotiate in good
+faith, cannot be trusted to hold up their end of the bargain, and use
+our goodwill and our foreign capital to keep on proliferating? They
+will not allow intrusive inspections because they cheat and because it
+weakens their status at home. They use nuclear weapons negotiations to
+[[Page H238]]
+enhance their own diplomatic status and to gain concessions.
+In the end, nuclear negotiations earn rogue nations like Iran and
+North Korea foreign capital and other investments from the West. They
+use that to fund additional missile technology, to fund criminal and
+terrorist activities, and to continue with clandestine nuclear
+programs.
+During the Bush administration, the most effective tools in bringing
+the North Korea dictatorship to heel were the freezing of its assets in
+the Banco Delta Asia in Macao and the building of an international
+coalition to interdict suspect North Korea shipping. These should be
+our priorities now, especially in the shadow of North Korea's nuclear
+tests, by imposing mandatory sanctions on the perpetrators of human
+rights abuses, censorship, arms and human trafficking, money
+laundering, as well proliferation.
+Nearly 2 years ago, the U.N. Commission of Inquiry reported that the
+ongoing crimes against humanity in North Korea have no ``parallel in
+the contemporary world.'' These crimes include ``extermination, murder,
+enslavement, torture, imprisonment, rape, forced abortions and other
+sexual violence, persecution on political, religious, and racial, and
+grounds, the forcible transfer of populations, the enforced
+disappearance of persons, and the inhumane act of knowingly causing
+prolonged starvation.''
+{time}  1615
+Kim Jong-un cares not at all about the welfare of his own people. We
+should expect that he cares even less about the welfare of the people
+of Japan, South Korea, or even U.S. citizens who face the threat of
+North Korean nuclear weapons.
+The U.N. Commission recommended that the U.N. impose targeted
+sanctions on the North Korean leaders responsible for its human rights
+crimes. However, China blocks U.N. action.
+Without U.N. action, the U.S. must act, using our position as the
+steward of the global financial system. The U.N. Special Rapporteur on
+North Korea welcomes such action, supporting targeted sanctions of
+those most responsible for these heinous crimes against humanity.
+Mr. ENGEL. Mr. Speaker, I yield 2 minutes to the gentleman from
+Virginia (Mr. Connolly), my friend and colleague and a valued member of
+the Committee on Foreign Affairs.
+Mr. CONNOLLY. Mr. Speaker, I thank my dear friend from New York, the
+distinguished ranking member of the House Committee on Foreign Affairs.
+I rise today in support of the North Korea Sanctions Enforcement Act
+of 2016. I want to thank the chairman and ranking member for their
+leadership in bringing this legislation before us.
+I especially appreciate the inclusion of two of my amendments, one to
+provide for the reunification of Korean families separated by the 38th
+parallel, and another to ensure that U.S. policy toward North Korea is
+informed by the recommendations made in the landmark Commission of
+Inquiry on Human Rights in North Korea conducted by the United Nations.
+Amidst the tense geopolitical standoffs and irresponsible actions of
+the North Korean regime, we must always remember the human cost of this
+enduring conflict. I believe this bill, through these amendments and
+important exceptions to sanctions for humanitarian relief
+organizations, does just that. This is timely, if not overdue,
+legislation.
+North Korea is a reckless, paranoid state devoid of virtually all
+aspects of human autonomy, now armed with a nuclear umbrella. That
+makes the Korean peninsula one of the most dangerous flash points on
+the globe.
+There have been recent developments in North Korea that are
+profoundly troubling and deserve an immediate response from this
+Congress. Reports that North Korea has conducted its fourth nuclear
+weapons test confirm that the regime in Pyongyang is committed to
+defying international norms and risks destabilizing the entire Asia-
+Pacific region.
+As co-chairman of the Congressional Caucus on Korea, I remain deeply
+concerned with the volatility and the ever-present potential of
+conflict on the Korean Peninsula.
+It is a specter that looms over 75 million Koreans and, for their
+sake and that of the region, the U.S., the Republic of Korea, China,
+and other regional stakeholders must demonstrate commitment to
+addressing this threat.
+By targeting the individuals and entities that support the Kim regime
+through illicit activities, this bill will hopefully weaken the resolve
+and capability of Pyongyang to endanger regional stability.
+Mr. Speaker, I urge passage of the bill.
+Mr. ROYCE. Mr. Speaker, I yield 3 minutes to the gentleman from Texas
+(Mr. Poe), chairman of the Subcommittee on Terrorism, Nonproliferation,
+and Trade of the Committee on Foreign Affairs. He is also an original
+cosponsor with me on this legislation.
+Mr. POE of Texas. Mr. Speaker, I thank the chairman and the ranking
+member for bringing this piece of legislation up to the House floor.
+Mr. Speaker, North Korea is a world threat, a nuclear world threat.
+Its leaders are outlaws with no redeeming social character in their
+souls, and we need to operate with them knowing this.
+Last week, North Korea tested another nuclear weapon. As chairman of
+the Subcommittee on Terrorism, Nonproliferation, and Trade, I held a
+hearing in October and predicted that this test would happen again.
+With Iran about to receive hundreds of billions of dollars for its
+illegal nuclear program, we shouldn't be surprised that North Korea
+wants a piece of the pie, too. Illegal nuclear programs and material
+can bring a lot of money to a regime.
+In the hearing that we had in October, we learned of deep connections
+between Iran and North Korea. Both nations, among other things, sponsor
+worldwide terror. They have a history of working together on missile
+development. There is mounting evidence that they have worked together
+on their nuclear weapons programs as well. We should expect Iran to
+keep working with North Korea to advance its own nuclear weapons
+program.
+We have sanctions on North Korea, but all those sanctions have not
+been fully implemented. The administration's policy of strategic
+patience is not working because this barbaric regime continues to
+develop nuclear weapons and ICBMs. I say our patience has run out in
+dealing with them.
+This bill is Congress showing North Korea that there are consequences
+for their testing of nuclear weapons. We cannot let North Korea develop
+its nuclear program even more.
+North Korea already has submarines with missiles on them that can
+reach the United States, over 10 nuclear bombs, and for some reason has
+Austin on its hit list. I take that personally, Mr. Speaker, that
+Austin is their number one target in the United States.
+North Korea is a state that imprisons Christians for their faith,
+starves its citizens, controls the Internet and the media, tortures
+anyone in its domain who dares to disagree with the regime, and is
+engaged in cyberterrorism.
+Dangerous actions by a ruthless dictator must be met by forceful
+responses. I am glad to be an original cosponsor of this bill. I urge
+its passage. It is time for them to pay the price for going rogue.
+And that is just the way it is.
+Mr. ENGEL. Mr. Speaker, I yield 4 minutes to the gentlewoman from
+Hawaii (Ms. Gabbard), our colleague on the Committee on Foreign
+Affairs, a rising star in our committee.
+Ms. GABBARD. Mr. Speaker, I am rising today in strong support of H.R.
+757, the North Korea Sanctions Enforcement Act, which I am proud to be
+a cosponsor of.
+North Korea continues to pose a serious and dangerous threat to my
+constituents in Hawaii, the Pacific, and the West Coast of the United
+States. Our communities and our families lie within range of North
+Korea's intercontinental ballistic missiles.
+North Korea's nuclear tests just a week ago and their continued
+pursuit of developing more nuclear weapons and miniaturizing those
+weapons serve as a reminder of the threat that North Korea poses to our
+country, which my constituents in Hawaii know all too well.
+There are some necessary steps that the United States must take to
+deal with this threat: We need to increase the strength and
+capabilities of our Pacific fleet and forces. We need to stop
+[[Page H239]]
+the downward trend in investment of ballistic missile defense
+development and capabilities, and strengthen our ballistic missile
+defense capabilities, specifically in Hawaii and the Pacific, to
+counter this threat. We need to completely reexamine our strategy of
+so-called strategic patience with North Korea, recognizing that North
+Korea has continued to grow in their nuclear and missile capabilities,
+telling us that the status quo is not working.
+This bill, however, deals with another important area where we need
+to act, and that is sanctions. It gives us the tools to respond to
+North Korea's provocations. One provision would apply sanctions that
+prohibit the export of munitions to North Korea and severely restrict
+export licenses for controlled goods and technologies. It would
+prohibit financial transactions between U.S. persons and the Government
+of North Korea and sanction those who send or receive lethal military
+equipment to or from North Korea.
+The bill will also give us the tools to reapply some of the most
+effective sanctions that we have ever had against hard currency for
+those who do business with North Korea. We saw how these sanctions were
+effective before.
+Following U.S. action against the Banco Delta Asia based in Macao in
+2005, the assets of North Korean banks and leaders were frozen and
+completely blocked from the international financial system. This
+directly affected the money being used to develop these nuclear and
+ballistic missile capabilities, and the money also supported the
+regime's leadership and its elites and their lifestyle.
+This severely increased the pressure in North Korea, causing them to
+engage with the international community, coming to an agreement to lift
+the sanctions in 2007--prematurely, in my view--made in exchange for
+shutting down and sealing the Yongbyon nuclear facilities and
+discussing a list of its nuclear-related activities with the U.S. and
+other parties in the region.
+The agreement was violated by North Korea in 2009 when they tested a
+missile, and the sanctions on Banco Delta showed us earlier a way to
+impact North Korean leadership and business directly. Those sanctions
+should have been immediately reinstated upon North Korea breaking that
+agreement, but that is why we are here today--to act.
+While sanctions alone are not enough, this bill could provide some
+very important tools to countering North Korea's aggression and
+ultimately achieving our objective of a denuclearized North Korea.
+Lastly, this bill recognizes the terrible human rights abuses
+inflicted on the people of North Korea. For many years, State
+Department human rights reports, as well as private organizations'
+reports, have depicted a pattern of extreme human rights abuses by the
+tyrannical North Korean regime, including the denial of basic human
+freedoms: withheld access to food and deplorable prison camps where
+extrajudicial killings, enslavement, torture, and sexual abuse are
+widespread.
+I would like to thank our Chairman Royce and our Ranking Member Engel
+for their steadfast, bipartisan dedication and leadership to taking
+action on this global and domestic security issue. This bill provides a
+critical step forward.
+Mr. ROYCE. Mr. Speaker, I yield 3 minutes to the gentlewoman from
+Florida (Ms. Ros-Lehtinen), chairman emeritus of the Committee on
+Foreign Affairs and author of multiple North Korea human rights and
+sanctions laws. She is also a cosponsor of this bill.
+Ms. ROS-LEHTINEN. Mr. Speaker, I am so proud and pleased to be here
+speaking on behalf of this bill, H.R. 757, the North Korea Sanctions
+Enforcement Act. I thank Chairman Royce and Ranking Member Engel for
+introducing this important bill which, once again, is presented in
+their usual bipartisan manner.
+While initial reports, Mr. Speaker, cast doubt on North Korea's
+claims that it carried out a hydrogen bomb test, any enhancement of the
+regime's nuclear capability should be--must be--a cause for concern.
+Both U.S. and South Korean intelligence assessments indicate that North
+Korea already possesses the capability to install a nuclear warhead on
+a missile that can reach United States territory or that of our allies.
+Despite some doubt about that capability's effectiveness, it is just
+a matter of time before North Korea finishes developing this dangerous
+technology that it is seeking or, worse, shares this technology with
+Iran, as these two rogue regimes are bosom buddies and have long been
+known to collaborate on their ballistic missile programs.
+What is clear is that our current policy toward North Korea is not
+working. Administrations from both parties, Mr. Speaker, have made
+mistakes with North Korea over the years. They have failed to respond
+to North Korea's violation of its nuclear deal and have failed to hold
+the regime accountable for its illicit activity. Administration after
+administration have removed North Korea off the State Sponsors of
+Terrorism list and continue to keep the regime off that list despite
+mounting evidence that would support its inclusion back on the
+terrorism list. Various administrations have utterly failed to enforce
+the North Korea sanctions that we already have on the books.
+The Obama administration's so-called strategic patience policy with
+North Korea has proven to be a disaster, and it is time that we fully
+and vigorously enforce the existing sanctions and expand upon those to
+implement new sanctions on Pyongyang until its nuclear program is
+dismantled.
+By some estimates, North Korea might already have 10 to 15 nuclear
+weapons, and Kim Jong-un has shown that he will stop at nothing to get
+the weapons and the technology that he desires. This bill would help
+ensure that our sanctions on North Korea are finally being enforced the
+way they always should have been, but we can't forget that North Korea
+cannot make progress on its nuclear program alone.
+North Korea has a long history of collaborating with other rogue
+regimes, and we must ensure that we are enforcing sanctions on all of
+its collaborators. Any government entity or individual that has sold or
+transferred weapons or technology to North Korea in violation of U.S.
+law or U.N. Security Council resolution should also be targeted for
+sanctions.
+Mr. Speaker, I will end with this note: North Korea has been writing
+the playbook for rogue regimes to follow, and unless this
+administration gets serious about confronting Pyongyang's aggressions,
+I worry that it will continue to allow Iran to take advantage of us,
+that we won't enforce sanctions on Tehran, just like we are not
+enforcing them on North Korea.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. ROYCE. Mr. Speaker, I yield an additional 1 minute to the
+gentlewoman.
+Ms. ROS-LEHTINEN. In a few years' time, we will be back here debating
+what to do after another nuclear device test by North Korea, by Iran,
+or by other rogue actors.
+North Korea poses an imminent threat now to our security as well as
+that of our allies. We cannot afford to ignore it nor look the other
+way.
+I urge all of my colleagues to vote for this important bill and urge
+its passage.
+I thank the chairman and the ranking member for this bill.
+{time}  1630
+Mr. ENGEL. Mr. Speaker, I yield myself such time as I may consume.
+Colleagues, a nuclear weapon in the hands of North Korea, a rogue,
+destabilizing country on the peninsula and across the region, is simply
+a nonstarter. It is unthinkable. Despite our tough sanctions and
+increasing isolation from the global community, Pyongyang continues
+down a dangerous and destabilizing course.
+Last week's nuclear test in North Korea is a jarring reminder of just
+how dangerous the Kim regime is and demands a response from the United
+States and our allies as well. We must work with South Korea and Japan
+to make sure this issue is at the top of our agenda in our engagement
+with China. We must act unilaterally to make sure to North Koreans that
+their leadership's actions have consequences.
+H.R. 757 would broaden our sanctions and strengthen enforcement. The
+bill
+[[Page H240]]
+would crack down on North Korean elite who do business through shell
+companies to evade detection and go after anyone helping to prop up the
+Kim regime through illegal activities. This bill would include
+important exceptions for the humanitarian aid that benefits the North
+Korean people.
+North Koreans deserve much more than what its leaders are providing,
+which is why we need to pass this legislation. We cannot allow North
+Korea to continue to be dangerous and frivolous. We have to stand up
+and say no. They have to understand that we mean business. They have to
+understand that what they have done is unacceptable and will not stand.
+I urge my colleagues to support this measure.
+Mr. Speaker, I yield back the balance of my time.
+Mr. ROYCE. Mr. Speaker, I yield myself such time as I may consume.
+We have the opportunity today to show Americans and the world that
+Congress is willing to lead on this vital national security issue. This
+is an issue that Congress has been focused on, obviously, for some
+time.
+I have spent much of my time on the Foreign Affairs Committee focused
+on the North Korean threat. Ranking Member Eliot Engel and I, in one of
+our first trips together as chairman and ranking member of the
+committee, traveled to visit our South Korean ally and toured the
+wreckage of the Cheonan.
+This was a corvette ship that was hit and split right in half by a
+torpedo fired by a North Korean submarine, costing the lives of 46
+sailors. It is a reminder of the attitude that North Korea has in terms
+of its provocative action.
+Both Eliot Engel and I have been to North Korea on separate trips,
+and we can tell you it is a totalitarian state with an ever-present
+cult of personalities. If you have ever read Orwell's book, ``Nineteen
+Eighty-Four,'' the society in that book seemed almost more rational
+than this police state.
+I was talking to the former Minister of Propaganda. In the no-go
+areas, 1.9 million were starved to death in North Korea. You ask why.
+Well, with the paranoia of the police state, they are not considered
+particularly loyal out there.
+Besides, the food can be sold on the food exchange in the capital for
+hard currency. Donated food often is used in this way to support what
+he calls ``juche,'' to support this philosophy which leads them forward
+with this desire to have a nuclear weapon and the capability to deliver
+it.
+This bipartisan bill, which I authored with Eliot Engel as our
+principal coauthor, is based on legislation that unanimously passed the
+House last Congress. Its implementation will help sever a key subsidy
+for North Korea's weapons of mass destruction program, for only when
+the North Korean leadership realizes that its criminal activities are
+untenable do prospects for peace and security in Northeast Asia
+improve.
+This bill will return us to the one strategy that has worked to
+pressure North Korea at a time when Kim Jong-un is trying to blackmail
+his way to consolidating power.
+Congress must send the message to the Kim regime that they can either
+reform and disarm or the system can implode. Without hard currency,
+without being able to pay the generals, that system would implode. By
+cutting off Kim Jong-un's access to the hard currency he needs for his
+army and his weapons, this bill, H.R. 757, will squarely present the
+North Korean regime with that choice.
+Mr. Speaker, I yield back the balance of my time.
+Ms. JACKSON LEE. Mr. Speaker, recent news of North Korea's claim that
+it successfully conducted an H-bomb test for the first time, in
+defiance of United Nations' resolutions ups the ante on why we must
+remain steadfast in expediently addressing insecurity in our nation and
+across the globe, as anticipated in this bill by Representative Royce
+of California, entitled the North Korean Sanctions Enforcement Act of
+2,315 which has enjoyed bi-partisan support.
+Our world today is faced with resurgent and evolving threats from
+weapons of mass destruction to destructive nuclear ambitions.
+Indeed, news events inform us of the far-ranging spectrum we must
+contend with, ranging from persistent nation state-based dangerous
+nuclear ambitions in North Korea, to continued chemical weapons used in
+Syria, to terrorist organizations such as Daesh ramping up their
+destructive capabilities through vitriolic recruitment strategies, that
+pose an existential threat beyond the borders from which ISIS is
+operating.
+I am confident that these are issues that President Obama will be
+addressing and proposing durable solutions to during his last state of
+the Union Address as our nation's Commander In Chief.
+Under his leadership, our nation has achieved foreign policy feats
+that have worked to maintain our security, promote our geopolitical
+objectives and advance our diplomatic relationships with key allies.
+Let's just take a quick look back at some of the President's foreign
+policy achievements:
+The capture and neutralization of Osama Bin Laden which brought an
+end to a nearly decade long manhunt.
+The withdrawal of U.S. forces from Iraq which helped to bring an end
+to a costly war, helping our country save billions of dollars in U.S.
+taxpayer funds.
+The current Joint Comprehensive Plan of Action, which has been
+instrumental in deterring and stemming Iran's nuclear ambitions and
+enabling security in the global society.
+The repealing of Don't Ask, Don't Tell, an aspersion on the personal
+private matters of those who have dedicated their lives to protect our
+nation.
+Signing into law the New Strategic Arms Reduction Treaty (START), an
+important treaty that showcases how the U.S. leads by example by
+signing a treaty that requires both the United States and Russia to
+reduce their nuclear warhead arsenals to 1,550 each, a 30 percent
+reduction from the 2002 Treaty of Moscow and a 74 percent reduction
+from the 1991 START treaty.
+Neutralization of al Qaeda propagandist and foreign fighter recruiter
+Anwar Al Awlaki, one of the main leaders in the Al Qaeda in the Arabian
+Peninsula (AQAP).
+Indeed, under President Obama's leadership, our country's military
+aid to Israel has increased remarkably with the eye towards deepening
+and expanding U.S./Israeli relations-an important aspect of our
+nation's foreign policy and geopolitical efforts to promote peace in
+the region.
+This president's foreign policy achievements in promoting the
+security of our nation are irrefutable and this is why I support the
+North Korea Sanctions Enforcement Act of 2015 because it will empower
+him to continue his impressive work in this arena.
+Much like the Joint Comprehensive Plan of Action (JCPOA) championed
+by this Administration, this bill encourages our President to
+investigate any credible information of sanctionable activities
+involving North Korea.
+Furthermore, this bill will designate and implement sanctions against
+persons and entities who knowingly engage in or contribute to
+activities in North Korea whether it is through their exporting or
+importing of weapons of mass destruction, significant arms, significant
+luxury goods, money laundering, censorship, or engage in human rights
+abuses.
+Pursuant to the bill, the President is empowered to exercise
+authorities under the International Emergency Economic Powers Act
+(IEEPA) as it relates to persons, entities and the government of North
+Korea.
+This bill empowers our President with discretionary authority to
+designate and apply sanctions to persons involved in certain other
+kinds of conduct.
+This bill will facilitate civil forfeiture of assets, real or
+personal, if said properties inure from any attempted or actual
+violation of this Act, or which constitutes or is derived from proceeds
+traceable to such a violation.
+Other core provisions of the bill is the empowerment of our Treasury
+Secretary to:
+determine whether reasonable grounds exist for concluding that North
+Korea is a jurisdiction of primary money laundering concern; and
+In the event our Treasury Secretary makes this determination, he is
+empowered to impose one or more special measures with respect to the
+jurisdiction of North Korea.
+Finally, our sense of Congress in this bill is in comity with and
+ensures the consistent enforcement of United Nations Security Council
+resolutions and financial restrictions on North Korea.
+Through this bill, our president will be empowered to withhold
+assistance under the Foreign Assistance Act of 1961 to any country that
+provides lethal military equipment to, or receives it from the
+government of North Korea.
+This bill is also important because it will put into place an
+enhanced screening procedure whereby our Secretary of Homeland Security
+(DHS) will be able to determine if physical inspections are warranted
+of any cargo bound for or landed in the United States that has been
+transported through a foreign seaport or airport whose inspections are
+deficient if there are reasonable grounds to believe that such cargo
+contains goods prohibited under this Act.
+[[Page H241]]
+This will facilitate expedient seizure of vessels or aircraft used to
+facilitate sanctionable activities.
+The President will also be supported in his efforts to produce
+progress reports on significant activities undermining cyber security
+conflicted, or otherwise ordered or controlled, directly or indirectly,
+by the government of North Korea.
+Our Secretary of State will be supported in his human rights efforts
+of reporting on each political prison camp in North Korea, which will
+include a detailed description of those abuses or censorship.
+Again, I thank Chairman Royce for championing this bill and look
+forward to working with him and other members of this House in
+promoting our national security and supporting our President's
+objective of establishing us as a credible and trusted leader in the
+global landscape.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from California (Mr. Royce) that the House suspend the rules
+and pass the bill, H.R. 757, as amended.
+The question was taken.
+The SPEAKER pro tempore. In the opinion of the Chair, two-thirds
+being in the affirmative, the ayes have it.
+Mr. ROYCE. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further
+proceedings on this motion will be postponed.
+____________________

@@ -1,0 +1,4536 @@
+[Congressional Record Volume 167, Number 83 (Thursday, May 13, 2021)]
+[House]
+[Pages H2276-H2295]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+COMPREHENSIVE DEBT COLLECTION IMPROVEMENT ACT
+Ms. WATERS. Mr. Speaker, pursuant to House Resolution 380, I call up
+the bill (H.R. 2547) to expand and enhance consumer, student,
+servicemember, and small business protections with respect to debt
+collection practices, and for other purposes, and ask for its immediate
+consideration in the House.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore (Mr. Stanton). Pursuant to House Resolution
+380, the amendment in the nature of a substitute recommended by the
+Committee on Financial Services, printed in the bill, modified by the
+amendment printed in part A of House Report 117-29, is adopted and the
+bill, as amended, is considered read.
+The text of the bill, as amended, is as follows:
+H.R. 2547
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.--This Act may be cited as the
+``Comprehensive Debt Collection Improvement Act''.
+(b) Table of Contents.--The table of contents for this Act
+is as follows:
+Sec. 1. Short title; table of contents.
+TITLE I--SMALL BUSINESS LENDING FAIRNESS ACT
+Sec. 101. Short title.
+Sec. 102. Obligor transactions.
+Sec. 103. Enforcement of security interests.
+TITLE II --FAIR DEBT COLLECTION PRACTICES FOR SERVICEMEMBERS ACT
+Sec. 201. Short title.
+Sec. 202. Enhanced protection against debt collector harassment of
+servicemembers.
+Sec. 203. GAO study and report.
+TITLE III--PRIVATE LOAN DISABILITY DISCHARGE ACT
+Sec. 301. Short title.
+Sec. 302. Protections for obligors and cosigners in case of death or
+total and permanent disability.
+TITLE IV--CONSUMER PROTECTION FOR MEDICAL DEBT COLLECTIONS ACT
+Sec. 401. Short title.
+Sec. 402. Amendments to the Fair Debt Collection Practices Act.
+Sec. 403. Prohibition on consumer reporting agencies reporting certain
+medical debt.
+Sec. 404. Requirements for furnishers of medical debt information.
+TITLE V--ENDING DEBT COLLECTION HARASSMENT ACT
+Sec. 501. Short title.
+Sec. 502. Consumer protections relating to debt collection practices.
+TITLE VI--STOP DEBT COLLECTION ABUSE ACT
+Sec. 601. Short title.
+Sec. 602. Definitions.
+Sec. 603. Debt collection practices for debt collectors hired by
+Federal agencies.
+Sec. 604. Unfair practices.
+Sec. 605. GAO study and report.
+TITLE VII--DEBT COLLECTION PRACTICES HARMONIZATION ACT
+Sec. 701. Short title.
+Sec. 702. Award of damages.
+Sec. 703. Prohibition on the referral of emergency individual
+assistance debt.
+TITLE VIII--NON-JUDICIAL FORECLOSURE DEBT COLLECTION CLARIFICATION ACT
+Sec. 801. Short title.
+Sec. 802. Enforcement of security interests.
+TITLE IX--MISCELLANEOUS PROVISIONS
+Sec. 901. Discretionary surplus funds.
+Sec. 902. Effective date.
+TITLE I--SMALL BUSINESS LENDING FAIRNESS ACT
+SEC. 101. SHORT TITLE.
+This title may be cited as the ``Small Business Lending
+Fairness Act''.
+SEC. 102. OBLIGOR TRANSACTIONS.
+(a) In General.--Chapter 2 of the Truth in Lending Act (15
+U.S.C. 1631 et seq.) is amended by adding at the end the
+following:
+``Sec. 140B. Unfair credit practices
+``(a) In General.--In connection with the extension of
+credit or creation of debt in or affecting commerce, as
+defined in section 4 of the Federal Trade Commission Act (15
+U.S.C. 44), including any advance of funds or sale or
+assignment of future income or receivables that may or
+[[Page H2277]]
+may not be credit, no person may directly or indirectly take
+or receive from another person or seek to enforce an
+obligation that constitutes or contains a cognovit or
+confession of judgment (for purposes other than executory
+process in the State of Louisiana), warrant of attorney, or
+other waiver of the right to notice and the opportunity to be
+heard in the event of suit or process thereon.
+``(b) Exemption.--The exemptions described in section 104
+shall not apply to this section.''.
+(b) Technical and Conforming Amendments.--
+(1) Section 130 of the Truth in Lending Act (15 U.S.C.
+1640) is amended by adding at the end the following:
+``(m) Creditor.--In this section, the term `creditor'
+refers to any person charged with compliance that is not the
+obligor.''.
+(2) The table of sections in chapter 2 of the Truth in
+Lending Act (15 U.S.C. 1631 et seq.) is amended by adding at
+the end the following:
+``140B. Unfair credit practices.''.
+SEC. 103. ENFORCEMENT OF SECURITY INTERESTS.
+Section 103 of the Truth in Lending Act (15 U.S.C. 1602) is
+amended by adding at the end the following:
+``(ff) The term `debt' means any obligation of a person to
+pay to another person money--
+``(1) that includes the right of the person providing the
+money to a legal or an equitable remedy for breach of
+performance if the breach gives rise to a right to payment;
+and
+``(2) regardless of whether the obligation or right to a
+remedy described in paragraph (1) is absolute or contingent,
+has been reduced to judgment, is fixed, matured, unmatured,
+disputed, undisputed, recourse, nonrecourse, secured, or
+unsecured''.
+TITLE II --FAIR DEBT COLLECTION PRACTICES FOR SERVICEMEMBERS ACT
+SEC. 201. SHORT TITLE.
+This title may be cited as the ``Fair Debt Collection
+Practices for Servicemembers Act''.
+SEC. 202. ENHANCED PROTECTION AGAINST DEBT COLLECTOR
+HARASSMENT OF SERVICEMEMBERS.
+(a) Communication in Connection With Debt Collection.--
+Section 805 of the Fair Debt Collection Practices Act (15
+U.S.C. 1692c) is amended by adding at the end the following:
+``(e) Communications Concerning Servicemember Debts.--
+``(1) Definition.--In this subsection, the term `covered
+member' means--
+``(A) a covered member or a dependent as defined in section
+987(i) of title 10, United States Code; and
+``(B)(i) an individual who was separated, discharged, or
+released from duty described in such section 987(i)(1), but
+only during the 365-day period beginning on the date of
+separation, discharge, or release; or
+``(ii) a person, with respect to an individual described in
+clause (i), described in subparagraph (A), (D), (E), or (I)
+of section 1072(2) of title 10, United States Code.
+``(2) Prohibitions.--A debt collector may not, in
+connection with the collection of any debt of a covered
+member--
+``(A) threaten to have the covered member reduced in rank;
+``(B) threaten to have the covered member's security
+clearance revoked; or
+``(C) threaten to have the covered member prosecuted under
+chapter 47 of title 10, United States Code (the Uniform Code
+of Military Justice).''.
+(b) Unfair Practices.--Section 808 of the Fair Debt
+Collection Practices Act (15 U.S.C. 1692f) is amended by
+adding at the end the following:
+``(9) The representation to any covered member (as defined
+under section 805(e)(1)) that failure to cooperate with a
+debt collector will result in--
+``(A) a reduction in rank of the covered member;
+``(B) a revocation of the covered member's security
+clearance; or
+``(C) prosecution under chapter 47 of title 10, United
+States Code (the Uniform Code of Military Justice).''.
+SEC. 203. GAO STUDY AND REPORT.
+(a) Study.--The Comptroller General of the United States
+shall conduct a study on the impact of debt collection on
+covered members (as defined under section 805(e)(1) of the
+Fair Debt Collection Practices Act, as added by section 202),
+which shall--
+(1) identify types of false, deceptive, misleading, unfair,
+abusive, and harassing debt collection practices experienced
+by covered members and make recommendations to eliminate
+these practices;
+(2) identify collection practices of creditors and debt
+collectors experienced by covered members;
+(3) discuss the effect of these practices on military
+readiness; and
+(4) discuss any national security implications, including
+the extent to which covered members with security clearances
+would be impacted by uncollected debt.
+(b) Report.--Not later than one year after the date of
+enactment of this Act, the Comptroller General of the United
+States shall submit to Congress a report on the completed
+study required under subsection (a).
+TITLE III--PRIVATE LOAN DISABILITY DISCHARGE ACT
+SEC. 301. SHORT TITLE.
+This title may be cited as the ``Private Loan Disability
+Discharge Act of 2021''.
+SEC. 302. PROTECTIONS FOR OBLIGORS AND COSIGNERS IN CASE OF
+DEATH OR TOTAL AND PERMANENT DISABILITY.
+(a) In General.--Section 140(g) of the Truth in Lending Act
+(15 U.S.C. 1650(g)) is amended--
+(1) in paragraph (2)--
+(A) in the heading, by striking ``in case of death of
+borrower'';
+(B) in subparagraph (A), by inserting after ``of the
+death'', the following: ``or total and permanent
+disability''; and
+(C) in subparagraph (C), by inserting after ``of the
+death'', the following: ``or total and permanent
+disability''; and
+(2) by adding at the end the following:
+``(3) Discharge in case of death or total and permanent
+disability of borrower.--The holder of a private education
+loan shall, when notified of the death or total and permanent
+disability of a student obligor (and any cosigner), discharge
+the liability of the student obligor on the loan and may not,
+after such notification--
+``(A) attempt to collect on the outstanding liability of
+the student obligor; and
+``(B) in the case of total and permanent disability,
+monitor the disability status of the student obligor at any
+point after the date of discharge.
+``(4) Private discharge in cases of certain discharge for
+death or disability.--The holder of a private education loan
+shall, when notified of the discharge of liability of a
+student obligor on a loan described under section
+108(f)(5)(A) of the Internal Revenue Code of 1986, discharge
+any liability of the student obligor (and any cosigner) on
+any private education loan which the private education loan
+holder holds and may not, after such notification--
+``(A) attempt to collect on the outstanding liability of
+the student obligor; and
+``(B) in the case of total and permanent disability,
+monitor the disability status of the student obligor at any
+point after the date of discharge.
+``(5) Total and permanent disability defined.--For the
+purposes of this subsection and with respect to an
+individual, the term `total and permanent disability' means
+the individual is totally and permanently disabled, as such
+term is defined in section 685.102(b) of title 34, Code of
+Federal Regulations.''.
+(b) Rulemaking.--The Director of the Bureau of Consumer
+Financial Protection may issue rules to implement the
+amendments made by subsection (a) as the Director determines
+appropriate.
+TITLE IV--CONSUMER PROTECTION FOR MEDICAL DEBT COLLECTIONS ACT
+SEC. 401. SHORT TITLE.
+This title may be cited as the ``Consumer Protection for
+Medical Debt Collections Act''.
+SEC. 402. AMENDMENTS TO THE FAIR DEBT COLLECTION PRACTICES
+ACT.
+(a) Definition.--Section 803 of the Fair Debt Collection
+Practices Act (15 U.S.C. 1692a) is amended by adding at the
+end the following:
+``(9) The term `medical debt' means a debt arising from the
+receipt of medical services, products, or devices.''.
+(b) Unfair Practices.--Section 808 of the Fair Debt
+Collection Practices Act (15 U.S.C. 1692f), as amended by
+section 202(b), is amended by adding at the end the
+following:
+``(10) Engaging in activities to collect or attempting to
+collect a medical debt before the end of the 2-year period
+beginning on the date that the first payment with respect to
+such medical debt is due.''.
+SEC. 403. PROHIBITION ON CONSUMER REPORTING AGENCIES
+REPORTING CERTAIN MEDICAL DEBT.
+(a) Definition.--Section 603 of the Fair Credit Reporting
+Act (15 U.S.C. 1681a) is amended by adding at the end the
+following:
+``(bb) Medical Debt.--The term `medical debt' means a debt
+arising from the receipt of medical services, products, or
+devices.
+``(cc) Medically Necessary Procedure.--The term `medically
+necessary procedure' means--
+``(1) health care services or supplies needed to diagnose
+or treat an illness, injury, condition, disease, or its
+symptoms and that meet accepted standards of medicine; and
+``(2) health care to prevent illness or detect illness at
+an early stage, when treatment is likely to work best
+(including preventive services such as pap tests, flu shots,
+and screening mammograms).''.
+(b) In General.--Section 605(a) of the Fair Credit
+Reporting Act (15 U.S.C. 1681c(a)) is amended by adding at
+the end the following new paragraphs:
+``(9) Any information related to a debt arising from a
+medically necessary procedure.
+``(10) Any information related to a medical debt, if the
+date on which such debt was placed for collection, charged to
+profit or loss, or subjected to any similar action antedates
+the report by less than 365 calendar days.''.
+SEC. 404. REQUIREMENTS FOR FURNISHERS OF MEDICAL DEBT
+INFORMATION.
+(a) Additional Notice Requirements for Medical Debt.--
+Section 623 of the Fair Credit Reporting Act (15 U.S.C.
+1681s-2) is amended by adding at the end the following:
+``(f) Additional Notice Requirements for Medical Debt.--
+Before furnishing information regarding a medical debt of a
+consumer to a consumer reporting agency, the person
+furnishing the information shall send a statement to the
+consumer that includes the following:
+``(1) A notification that the medical debt--
+``(A) may not be included on a consumer report made by a
+consumer reporting agency until the later of the date that is
+365 days after--
+``(i) the date on which the person sends the statement;
+``(ii) with respect to the medical debt of a borrower
+demonstrating hardship, a date determined by the Director of
+the Bureau; or
+``(iii) the date described under section 605(a)(10); and
+``(B) may not ever be included on a consumer report made by
+a consumer reporting agency, if
+[[Page H2278]]
+the medical debt arises from a medically necessary procedure.
+``(2) A notification that, if the debt is settled or paid
+by the consumer or an insurance company before the end of the
+period described under paragraph (1)(A), the debt may not be
+reported to a consumer reporting agency.
+``(3) A notification that the consumer may--
+``(A) communicate with an insurance company to determine
+coverage for the debt; or
+``(B) apply for financial assistance.''.
+(b) Furnishing of Medical Debt Information.--Section 623 of
+the Fair Credit Reporting Act (15 U.S.C. 1681s-2), as amended
+by subsection (a), is further amended by adding at the end
+the following:
+``(g) Furnishing of Medical Debt Information.--
+``(1) Prohibition on reporting debt related to medically
+necessary procedures.--No person shall furnish any
+information to a consumer reporting agency regarding a debt
+arising from a medically necessary procedure.
+``(2) Treatment of other medical debt information.--With
+respect to a medical debt not described under paragraph (1),
+no person shall furnish any information to a consumer
+reporting agency regarding such debt before the end of the
+365-day period beginning on the later of--
+``(A) the date on which the person sends the statement
+described under subsection (f) to the consumer;
+``(B) with respect to the medical debt of a borrower
+demonstrating hardship, a date determined by the Director of
+the Bureau; or
+``(C) the date described in section 605(a)(10).
+``(3) Treatment of settled or paid medical debt.--With
+respect to a medical debt not described under paragraph (1),
+no person shall furnish any information to a consumer
+reporting agency regarding such debt if the debt is settled
+or paid by the consumer or an insurance company before the
+end of the 365-day period described under paragraph (2).
+``(4) Borrower demonstrating hardship defined.--In this
+subsection, and with respect to a medical debt, the term
+`borrower demonstrating hardship' means a borrower or a class
+of borrowers who, as determined by the Director of the
+Bureau, is facing or has experienced extenuating life
+circumstances or events that result in severe financial or
+personal barriers such that the borrower or class of
+borrowers does not have the capacity to repay the medical
+debt.''.
+TITLE V--ENDING DEBT COLLECTION HARASSMENT ACT
+SEC. 501. SHORT TITLE.
+This title may be cited as the ``Ending Debt Collection
+Harassment Act of 2021''.
+SEC. 502. CONSUMER PROTECTIONS RELATING TO DEBT COLLECTION
+PRACTICES.
+(a) Reports on Debt Collection Complaints and Enforcement
+Actions.--
+(1) Semi-annual report.--Section 1016(c) of the Consumer
+Financial Protection Act of 2010 (12 U.S.C. 5496(c)) is
+amended--
+(A) in paragraph (8), by striking ``and'' at the end;
+(B) in paragraph (9), by striking the period at the end and
+inserting a semicolon; and
+(C) by adding at the end the following:
+``(10) an analysis of the consumer complaints received by
+the Bureau with respect to debt collection, including a
+State-by-State breakdown of such complaints; and
+``(11) a list of enforcement actions taken against debt
+collectors during the preceding year.''.
+(2) Annual report.--Section 815(a) of the Fair Debt
+Collection Practices Act (15 U.S.C. 1692m(a)) is amended by
+adding at the end the following new sentence: ``Each such
+report shall also include an analysis of the impact of
+electronic communications by debt collectors on consumer
+experiences with debt collection, including a consideration
+of consumer complaints about the use of electronic
+communications in debt collection.''.
+(b) Limitation on Debt Collection Rules.--Section 1022 of
+the Consumer Financial Protection Act of 2010 (12 U.S.C.
+5512) is amended by adding at the end the following:
+``(e) Limitation on Debt Collection Rules.--The Director
+may not issue any rule with respect to debt collection that
+does not prohibit a debt collector to send unlimited email
+and text messages to a consumer.''.
+(c) Protection of Consumers From Unlimited Texts and Emails
+Used in Debt Collection.--Section 806 of the Fair Debt
+Collection Practices Act (15 U.S.C. 1692d) is amended by
+adding at the end the following new paragraph:
+``(7) Contacting the consumer electronically (including by
+email or text message) without consent of the consumer to
+communicate via that method, after such consent has been
+withdrawn, or more frequently than the consumer consents to
+be contacted.''.
+(d) Ensuring Consumers Receive Notice of Debt Collection
+Protections.--Section 809(a) of the Fair Debt Collection
+Practices Act (15 U.S.C. 1692g(a)) is amended in the matter
+preceding paragraph (1)--
+(1) by striking ``Within five days'' and all that follows
+through ``any debt,'' and inserting the following: ``Notice
+of Debt; Contents.--Within five days after the initial
+communication with a consumer in connection with the
+collection of any debt,''; and
+(2) by striking ``, unless the following information is
+contained in the initial communication or the consumer has
+paid the debt,''.
+(e) Improved Limitations on Debt Collection Rules.--Section
+814(d) of the Fair Debt Collection Practices Act (15 U.S.C.
+1692l(d)) is amended by adding at the end the following:
+``Such rules--
+``(1) may not allow a debt collector to send unlimited
+electronic communications to a consumer;
+``(2) shall require debt collectors to obtain consent
+directly from consumers before contacting them using a method
+other than by postal mail or by telephone;
+``(3) may not waive the requirements of the Electronic
+Signatures in Global and National Commerce Act (15 U.S.C.
+7001 et seq.); and
+``(4) shall allow consumers to opt out of any method of
+communication that the debt collector uses to communicate
+with consumers, including a method for which such consumer
+had given prior consent.''.
+TITLE VI--STOP DEBT COLLECTION ABUSE ACT
+SEC. 601. SHORT TITLE.
+This title may be cited as the ``Stop Debt Collection Abuse
+Act of 2021''.
+SEC. 602. DEFINITIONS.
+Section 803 of the Fair Debt Collection Practices Act (15
+U.S.C. 1692a) is amended--
+(1) in paragraph (4), by striking ``facilitating collection
+of such debt for another'' and inserting ``collection of such
+debt'';
+(2) by amending paragraph (5) to read as follows:
+``(5) The term `debt' means any obligation or alleged
+obligation of a consumer--
+``(A) to pay money arising out of a transaction in which
+the money, property, insurance or services which are the
+subject of the transaction are primarily for personal,
+family, or household purposes, whether or not such obligation
+has been reduced to judgment;
+``(B) to pay a loan, overpayment, fine, penalty,
+restitution, fee, or other money currently or originally owed
+to or guaranteed by a Federal or State government, including
+any courts or agencies; or
+``(C) which is secured by real or personal property that is
+used or was obtained primarily for personal, family, or
+household purposes, where such property is subject to
+forfeiture or repossession upon nonpayment of the obligation
+or alleged obligation.
+``The enforcement of a debt described in subparagraph (C) is
+deemed to be a collection of a debt.''; and
+(3) in paragraph (6)--
+(A) by redesignating subparagraphs (A) through (F) as
+clauses (i) through (vi), respectively;
+(B) in clause (iii), as so redesignated, by inserting
+``(not including an independent contractor)'' after ``any
+State'';
+(C) by amending clause (vi), as so redesignated, to read as
+follows:
+``(vi) any person collecting or attempting to collect any
+debt owed or due or asserted to be owed or due another to the
+extent such activity--
+``(I) is incidental to a bona fide fiduciary obligation or
+a bona fide escrow arrangement;
+``(II) concerns a debt which was originated by such person;
+``(III) concerns a debt which was not in default at the
+time it was obtained by such person; or
+``(IV) concerns a debt obtained by such person as a secured
+party in a commercial credit transaction involving the
+creditor.'';
+(D) by striking the paragraph designation and the first and
+second sentences and inserting the following:
+``(6)(A) The term `debt collector' means--
+``(i) any person who uses any instrumentality of interstate
+commerce or the mails in any business the principal purpose
+of which is the collection of any debts;
+``(ii) any person who regularly collects or attempts to
+collect, directly or indirectly, by the person's own means or
+by hiring another debt collector, debts owed or due or
+asserted to be owed or due another or that have been obtained
+by assignment or transfer from another;
+``(iii) any person who regularly collects debts currently
+or originally owed or allegedly owed to a Federal or State
+agency or court; or
+``(iv) notwithstanding subparagraph (B)(vi), any creditor
+who in the process of collecting debts of such creditor, uses
+another name that would indicate that a third person is
+collecting or attempting to collect such debts.''; and
+(E) in the fourth sentence, by striking ``The term does not
+include'' and inserting the following:
+``(B) The term does not include''.
+SEC. 603. DEBT COLLECTION PRACTICES FOR DEBT COLLECTORS HIRED
+BY FEDERAL AGENCIES.
+(a) In General.--The Fair Debt Collection Practices Act (15
+U.S.C. 1692 et seq.) is amended by inserting after section
+812 (15 U.S.C. 1692j) the following:
+``Sec. 812A. Debt collection practices for debt collectors
+hired by Federal agencies
+``(a) Limitation on Time To Turn Debt Over to Debt
+Collector.--A Federal agency that is a creditor may not sell
+or transfer a debt described in section 803(5)(B) to a debt
+collector earlier than 90 days after the date on which the
+obligation or alleged obligation becomes delinquent or
+defaults.
+``(b) Required Notice.--
+``(1) In general.--Before transferring or selling a debt
+described in section 803(5)(B) to a debt collector or
+contracting with a debt collector to collect such a debt, a
+Federal agency shall notify the consumer not fewer than 3
+times that the Federal agency will take such action.
+``(2) Frequency of notifications.--The second and third
+notifications described in paragraph (1) shall be made not
+less than 30 days after the date on which the previous
+notification is made.''.
+(b) Clerical Amendment.--The table of contents for the Fair
+Debt Collection Practices Act is amended by inserting after
+the item relating to section 812 the following:
+``812A. Debt collection practices for debt collectors hired by Federal
+agencies.''.
+SEC. 604. UNFAIR PRACTICES.
+Section 808 of the Fair Debt Collection Practices Act (15
+U.S.C. 1692f) is amended by striking paragraph (1) and
+inserting the following:
+[[Page H2279]]
+``(1) The collection of any amount (including any interest,
+fee, charge, or expense incidental to the principal
+obligation) unless--
+``(A) such amount is expressly authorized by the agreement
+creating the debt or permitted by law; and
+``(B) in the case of any amount charged by a debt collector
+collecting a debt described in section 803(5)(B), such amount
+is--
+``(i) reasonable in relation to the actual costs of the
+collection;
+``(ii) authorized by a contract between the debt collector
+and the Federal or State government; and
+``(iii) not greater than 10 percent of the amount collected
+by the debt collector.''.
+SEC. 605. GAO STUDY AND REPORT.
+(a) Study.--The Comptroller General of the United States
+shall commence a study on the use of debt collectors by
+Federal and State government agencies, including--
+(1) the powers given to the debt collectors by Federal and
+State government agencies;
+(2) the contracting process that allows a Federal and State
+government agency to award debt collection to a certain
+company, including the selection process;
+(3) any fees charged to debtors in addition to principal
+and interest on the outstanding debt;
+(4) how the fees described in paragraph (3) vary from State
+to State;
+(5) consumer protection at the Federal and State level that
+offer recourse to those whom debts have been wrongfully
+attributed;
+(6) the revenues received by debt collectors from Federal
+and State government agencies;
+(7) the amount of any revenue sharing agreements between
+debt collectors and Federal and State government agencies;
+(8) the difference in debt collection procedures across
+geographic regions, including the extent to which debt
+collectors pursue court judgments to collect debts;
+(9) information regarding the amount collected by Federal
+and State government agencies through debt collectors,
+including the total amount and the percentage of the amount
+referred to the debt collectors;
+(10) the full cost of outsourcing collection to debt
+collectors;
+(11) government agency oversight of debt collectors to
+ensure that the rights of a consumer (as defined in section
+803(3) of the Fair Debt Collection Practices Act (15 U.S.C.
+1692a(3))) are protected and that any debt relief and payment
+options legally available to consumers is effectively
+communicated and made available;
+(12) the extent to which Federal and State contracts with
+debt collectors reflect or omit effective measures to
+encourage debt collectors to align their practices with
+public policy concerns (including relief for consumers
+experiencing financial hardship) beyond maximizing debt
+collection;
+(13) the extent to which debt collectors induce payment
+through use or threat of adverse government actions, such as
+arrest warrants or suspension of licenses or vehicle
+registration; and
+(14) demographic data, including race and income
+information, regarding the individuals subject to private
+collection of debts owed to government entities.
+(b) Report.--Not later than one year after the date of
+enactment of this Act, the Comptroller General of the United
+States shall submit to Congress a report on the completed
+study required under subsection (a).
+(c) State Defined.--For the purposes of this section, the
+term ``State'' has the meaning given the term section 803 of
+the Fair Debt Collection Practices Act.
+TITLE VII--DEBT COLLECTION PRACTICES HARMONIZATION ACT
+SEC. 701. SHORT TITLE.
+This title may be cited as the ``Debt Collection Practices
+Harmonization Act''.
+SEC. 702. AWARD OF DAMAGES.
+(a) Additional Damages Indexed for Inflation.--
+(1) In general.--Section 813 of the Fair Debt Collection
+Practices Act (15 U.S.C. 1692k) is amended--
+(A) in subsection (a)(2)--
+(i) in subparagraph (A), by striking ``; or'' and inserting
+the following: ``with respect to any one action taken by a
+debt collector in violation of this subchapter; or'';
+(ii) in subparagraph (B)(ii), by striking ``or 1 per centum
+of the net worth of the debt collector; and'' and inserting
+the following: ``or 5 percent of the gross annual revenue of
+the debt collector; and'';
+(B) in subsection (b), by inserting ``the maximum amount of
+statutory damages at the time of noncompliance,'' before
+``the frequency'' each place it appears; and
+(C) by adding at the end the following:
+``(f) Adjustment for Inflation.--
+``(1) Initial adjustment.--Not later than 90 days after the
+date of the enactment of this subsection, the Bureau shall
+provide a percentage increase (rounded to the nearest
+multiple of $100 or $1,000, as applicable) in the amounts set
+forth in this section equal to the percentage by which--
+``(A) the Consumer Price Index for All Urban Consumers (all
+items, United States city average) for the 12-month period
+ending on the June 30 preceding the date on which the
+percentage increase is provided, exceeds
+``(B) the Consumer Price Index for the 12-month period
+preceding January 1, 1978.
+``(2) Annual adjustments.--With respect to any fiscal year
+beginning after the date of the increase provided under
+paragraph (1), the Bureau shall provide a percentage increase
+(rounded to the nearest multiple of $100 or $1,000, as
+applicable) in the amounts set forth in this section equal to
+the percentage by which--
+``(A) the Consumer Price Index for All Urban Consumers (all
+items, United States city average) for the 12-month period
+ending on the June 30 preceding the beginning of the fiscal
+year for which the increase is made, exceeds
+``(B) the Consumer Price Index for the 12-month period
+preceding the 12-month period described in subparagraph
+(A).''.
+(2) Applicability.--The increases made under section 813(f)
+of the Fair Debt Collection Practices Act, as added by
+paragraph (1)(C) of this subsection, shall apply with respect
+to failures to comply with a provision of such Act (15 U.S.C.
+1601 et seq.) occurring on or after the date of enactment of
+this section.
+(b) Injunctive Relief.--Section 813(d) of the Fair Debt
+Collection Practices Act (15 U.S.C. 1692k(d)) is amended by
+adding at the end the following: ``In a civil action alleging
+a violation of this title, the court may award appropriate
+relief, including injunctive relief.''.
+SEC. 703. PROHIBITION ON THE REFERRAL OF EMERGENCY INDIVIDUAL
+ASSISTANCE DEBT.
+Chapter 3 of title 31, United States Code, is amended--
+(1) in subchapter II, by adding at the end the following:
+``Sec. 334. Prohibition on the referral of emergency
+individual assistance debt
+``With respect to any assistance provided by the Federal
+Emergency Management Agency to an individual or household
+pursuant to the Robert T. Stafford Disaster Relief and
+Emergency Assistance Act (42 U.S.C. 5122 et seq.), if the
+Secretary of the Treasury seeks to recoup any amount of such
+assistance because of an overpayment, the Secretary may not
+contract with any debt collector as defined in section 803(6)
+of the Fair Debt Collection Practices Act (15 U.S.C.
+1692a(6)) or other private party to collect such amounts,
+unless the overpayment occurred because of fraud or deceit
+and the recipient of such assistance knew or should have
+known about such fraud or deceit.''; and
+(2) in the table of contents for such chapter, by inserting
+after the item relating to section 333 the following:
+``334. Prohibition on the referral of emergency individual assistance
+debt.''.
+TITLE VIII--NON-JUDICIAL FORECLOSURE DEBT COLLECTION CLARIFICATION ACT
+SEC. 801. SHORT TITLE.
+This title may be cited as the ``Non-Judicial Foreclosure
+Debt Collection Clarification Act''.
+SEC. 802. ENFORCEMENT OF SECURITY INTERESTS.
+Section 803(6) of the Fair Debt Collection Practices Act
+(15 U.S.C. 1692a(6)) is further amended by striking ``For the
+purpose of section 808(6), such term also includes any person
+who uses any instrumentality of interstate commerce or the
+mails in any business the principal purpose of which is the
+enforcement of security interests.''.
+TITLE IX--MISCELLANEOUS PROVISIONS
+SEC. 901. DISCRETIONARY SURPLUS FUNDS.
+(a) In General.--The dollar amount specified under section
+7(a)(3)(A) of the Federal Reserve Act (12 U.S.C.
+289(a)(3)(A)) is reduced by $2,900,000,000.
+(b) Effective Date.--The amendment made by subsection (a)
+shall take effect on September 30, 2031.
+SEC. 902. EFFECTIVE DATE.
+This Act and the amendments made by this Act shall take
+effect on the date that is 180 days after the date of
+enactment of this Act.
+The SPEAKER pro tempore. The bill, as amended, shall be debatable for
+1 hour equally divided and controlled by the chair and ranking minority
+member of the Committee on Financial Services.
+The gentlewoman from California (Ms. Waters) and the gentleman from
+North Carolina (Mr. McHenry) each will control 30 minutes.
+The Chair recognizes the gentlewoman from California.
+{time}  1230
+General Leave
+Ms. WATERS. Mr. Speaker, I ask unanimous consent that a1l Members may
+have 5 legislative days within which to revise and extend their remarks
+on H.R. 2547 and to include extraneous material thereon.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from California?
+There was no objection.
+Ms. WATERS. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I rise in strong support of my legislation, H.R. 2547,
+the Comprehensive Debt Collection Improvement Act.
+H.R. 2547 is a package of bills designed to bring new protections,
+fairness, accuracy, and transparency to the debt collection industry.
+Individuals and families across this country have long struggled with
+debt, including medical debt, student loan debt, and other debts. They
+often face difficult decisions regarding how to pay off their debts.
+During the pandemic crisis, which has harmed all of our communities,
+debt collectors have earned record profits. Their tactics are often
+divisive and predatory. Many debt collectors harass consumers with
+frequent phone calls, make threats, and provide misleading information
+to consumers. The debt collection industry is also plagued
+[[Page H2280]]
+by poor recordkeeping, resulting in many consumers being harassed for
+debts they do not owe.
+Debt collection is among the top issues that the Consumer Financial
+Protection Bureau receives the most complaints about from consumers,
+and those complaints have risen since 2019.
+This bill, H.R. 2547, brings new accountability to the debt
+collection industry and stronger protections for consumers from
+harassment and abuse, including by banning abusive confessions of
+judgment that have hurt small businesses, prohibiting debt collectors
+from harassing and threatening servicemembers, barring collection of
+medical debts from 2 years after the debt is incurred, prohibiting debt
+collectors from contacting consumers by email or text message without a
+consumer's affirmative consent, limiting egregious debt collection fees
+that have disproportionately hurt low-income and minority borrowers,
+and protecting consumers during a nonjudicial foreclosure proceeding.
+Taken together, these protections will help the most vulnerable
+consumers, including servicemembers, student borrowers, people of
+color, and those struggling under the weight of medical debt during
+this unprecedented pandemic.
+None of this is to say that people who owe lawful debts shouldn't pay
+them, but all Americans deserve to be free from harassment, undue
+pressure tactics, bullying, false information, threats, coercion, and
+other bad practices that debt collectors have used with relative
+impunity.
+The last time Congress made major updates to Federal laws on debt
+collection was 1978, over 40 years ago. It is long overdue for Congress
+to act to provide stronger protections from abusive debt collection for
+consumers.
+This comprehensive package includes a number of bills authored by
+several hardworking members of the Financial Services Committee,
+specifically bills sponsored by Representative Velazquez,
+Representative Dean, Representative Tlaib, Representative Pressley,
+Representative Cleaver, Representative Meeks, and Representative
+Auchincloss.
+I would like to thank all of them for their work on these bills,
+their contributions to this legislative package, and their leadership
+on these important reforms that will provide desperately needed relief
+and protection to consumers.
+I would urge all of my colleagues to support this legislation.
+Mr. Speaker, I reserve the balance of my time.
+Mr. McHENRY. Madam Speaker, I yield myself such time as I may
+consume.
+Madam Speaker, I rise in opposition to H.R. 2547.
+Let's just start off and call the bill what it is. It is another
+attempt by Democrats to socialize our financial system.
+Once again, under the guise of consumer support, Democrats are trying
+to implement their long-held partisan priorities. That is what we have
+seen a lot of in this Congress.
+Democrats are trying to sell H.R. 2547 to the American people as a
+necessary action to help families and small businesses hardest hit by
+the economic impacts of COVID-19. It is not.
+The truth is, this bill is just a redo of several partisan bills that
+we had from last Congress, pre-COVID. If there was any question as to
+whether or not Democrats viewed the pandemic as a ``tremendous
+opportunity to restructure things to fit their vision,'' this bill
+proves it.
+This bill is more about catering to progressive lobbyists and
+stakeholders who have long sought to tear down the pillars of our
+credit markets and financial system.
+First, it is clear that progressives want to eliminate a fundamental
+part of our free market system, the belief that you should be paid for
+services provided in a timely manner. The fact is, limiting the ability
+of businesses and individuals to be repaid for their services already
+provided will not benefit anyone. This is especially true for small
+businesses that have been hardest hit, frankly, from the pandemic
+shutdowns.
+If enacted, this bill will also drive up the cost of credit for all
+borrowers, especially low-income borrowers, as well as limit their
+credit options.
+There are commonsense ways to update and improve the process for
+collecting payments and to modernize the credit reporting regimes. This
+includes identifying ways to protect consumers and encourage them and
+their service providers or lenders to work out repayment plans.
+In fact, just last month, the entire House voted to support the
+gentlewoman from Pennsylvania, Representative Dean's bill to ensure
+that members of our military are not threatened with service-related
+consequences as they work to repay debts owed. That makes sense. It was
+a bipartisan bill with a great result.
+But the further you dig into this bill, the more problematic it gets.
+For example, this bill will actually make healthcare in this country
+more expensive and will limit the medical services provided to those
+who need it most. I don't think that is the intention, but that is, in
+fact, the impact.
+Making it more difficult for medical providers to seek payment for
+their services does not make them free, does not make the system less
+expensive. And excluding medical debt from an individual's credit
+report is not a way to support consumers or our healthcare providers,
+who have been, frankly, on the front lines of the COVID pandemic.
+I have a bill that allows medical debt that results from nonelective
+services to be protected, and ensures that if it is repaid, it is
+eliminated from a consumer credit report's adverse actions.
+I think that bill makes sense, right?
+If people repay their medical debt, I think we should acknowledge
+that on credit reports.
+But if it's elective surgery or if it is perhaps something medically
+of their own choosing, I think they should have to pay for that. And if
+they don't pay for those services, it should be on their credit report.
+I think these things make sense. I think there are ways we can ensure
+we have accurate reporting.
+Accurate reporting and full repayment allows the credit markets to
+work smoothly and to accurately account for risk. This, in turn, allows
+the financial system to continue to provide low-cost credit to those
+who need it most.
+Democrats also want to undermine the CFPB's work to finalize its debt
+collection rule last fall. This rule was the result of more than 7
+years of research, analysis, data collection; and it clarifies the
+allowable uses of modern communication technology. I think it is a
+proper update to these long-held consumer protection laws that we have
+on the books.
+This bill eliminates this positive step forward. This bill prohibits
+debt collectors from using 21st century methods of communication to
+reach consumers. That is insane. That is bad. That goes all against the
+whole movement post-COVID or in the midst of COVID, that we digitize
+our communication tools and enable people to do things more cheaply via
+technology.
+This bill includes stopping consumers from being contacted via email
+or text message without explicit prior consent. Consumers should be
+able to communicate about their payment options privately in the way
+they prefer. This bill eliminates that choice. Restricting options like
+that makes it more difficult to contact consumers. It doesn't help
+anyone.
+Perhaps the consumer doesn't know that they missed the payment, and
+this bill would say you can't text them to let them know they missed
+their payment. That is absurd. I don't think that is the bill author's
+intent, but that is the impact in the real market.
+Just to reiterate, limiting the ability of individuals and businesses
+to seek repayment for services provided will undermine the ability to
+underwrite and thereby increase the risk to the financial system.
+If you can't price for risk, you are going to have more risk. If we
+have more risk that is not appropriately priced, we will get bad
+outcomes in the financial system. This ultimately makes extending
+credit more expensive for all borrowers and may push the lowest income
+borrowers out of the system entirely.
+That is a bad result. That is not what we want. Either side of the
+aisle, we don't want that. This bill has that harmful impact.
+We all agree that consumers who owe a debt should be treated with
+respect and dignity and not be subject to abusive or harassing
+behavior. The law already upholds this. This bill is a Big
+[[Page H2281]]
+Government, anti-consumer, anti-small business solution in search of a
+problem.
+I urge my colleagues to oppose this bill and the harmful impacts
+herein.
+Madam Speaker, I reserve the balance of my time.
+Ms. WATERS. Madam Speaker, I yield 3 minutes to the gentleman from
+Missouri (Mr. Cleaver).
+Mr. CLEAVER. Madam Speaker, let me, first of all, thank Chairwoman
+Waters for including my legislation, my Debt Collection Improvement
+Act, into the Stop Debt Collection Abuse Act, which would, among other
+things, extend the protections in the Fair Debt Collection Practices
+Act to debt owed to a Federal, State, territory, District of Columbia,
+and local government agency, and limit the excessive fees that debt
+collectors may charge.
+The Fair Debt Collection Practices Act was enacted in 1978 to
+eliminate abusive debt collection practices by debt collectors and to
+ensure that those debt collectors who refrain from using abusive debt
+collection practices were not competitively disadvantaged.
+Congress has found abundant evidence of the use of abusive,
+deceptive, and unfair debt collection practices by many debt
+collectors, and Congress expressly found that abusive debt collection
+practices contribute to social ills. Those findings are still true
+today.
+Unfortunately, when Congress enacted the Fair Debt Collection
+Practices Act in 1978, it did not apply the law to debt collectors
+hired by Federal Government entities. As one witness before the
+Financial Services Committee pointed out, extending the Fair Debt
+Collection Practices Act to debt collectors hired by government
+entities is important because collection by or on behalf of the
+government is already unusually coercive as a result of the
+government's immense and unrivaled police power and other means of
+seizing citizens' assets.
+This title within the bill also ensures that fees from debt
+collectors working on behalf of the Federal Government cannot be
+unreasonable, and requires the GAO to conduct a study into the use of
+third-party debt collectors by State and local governments. This title
+within the bill is supported by more than 20 civil rights organizations
+and consumer rights groups across the Nation.
+The Comprehensive Debt Collection Improvement Act before us is a
+timely piece of legislation. America's hardworking families, small
+businesses, and students deserve to be treated with respect, integrity,
+and fairness, including those who owe debt to the Federal Government.
+Americans currently find themselves in greater debt than at any other
+time in history, including prior to the great financial crisis of 2008.
+The debt burden stands at approximately $14.56 trillion and includes
+all types of consumer secured and unsecured loans.
+No American should have to deal with abusive, predatory practices
+from debt collectors, especially when those debt collectors have been
+hired by the United States Federal Government.
+This bill strengthens consumer protections by rectifying loopholes in
+existing Federal law that enables private companies hired by the
+Federal Government to unnecessarily harass individuals.
+If Congress is going to set up fair debt collection practices to hold
+the private sector accountable, the Federal agency collecting a debt
+from consumers should be held to the same standard.
+{time}  1245
+Mr. McHENRY. Madam Speaker, I yield 3 minutes to the gentleman from
+Ohio (Mr. Davidson), my friend and colleague.
+Mr. DAVIDSON. Madam Speaker, I appreciate the surface-level
+intentions of those who support this bill, things like checking the
+abuse of the Federal Government's power. But this comprehensive package
+would leave both consumers and creditors worse off than they are today.
+Certainly, there are elements that I do support, notably, language
+from the Fair Debt Collection Practices for Servicemembers Act. I was
+proud to cosponsor that particular bill when introduced by Ms. Dean
+from Pennsylvania, which passed the House last month. The Fair Debt
+Collection Practices for Servicemembers Act would ensure that debt
+collectors won't be able to threaten military servicemembers with a
+reduction in rank or have their security clearances revoked. Frankly,
+that keeps our military focused on fighting and winning our wars,
+instead of being co-opted into debt collection.
+But this is a truly partisan bill as packaged together, and it
+exemplifies what good work we can do when we work together in a
+bipartisan fashion, to see some of the components of it, and what can
+be done to undermine that work when it is all put together in the final
+package that we have before us here today.
+Once I took a look and saw the rest of this bill, the excitement I
+had for the components that I do support quickly dissipated. Taken as a
+whole, this overwhelmingly partisan bill amounts to a direct attack on
+creditors and an indirect attack on consumers.
+This bill would distort credit histories by removing predictive
+information from credit reports, including medical debt. While I
+recognize the implications that such information has on credit history,
+we must understand that removing predictive information only increases
+the cost of credit. When uncertainty is higher, it is priced into the
+cost, for individuals as well as all consumers with low or moderate
+income.
+Furthermore, this bill restricts the ability of debt collectors to
+collect on unpaid debt. It does this by forbidding debt collectors from
+contacting consumers via simple communications, as my colleague, Mr.
+McHenry, was highlighting. While I think we can all agree that debt
+collectors should be forbidden from carrying out abusive practices, we
+should certainly not forbid them from using traditional communication
+tools that are likely to succeed in contacting the person that owes the
+debt.
+Additionally, in October of 2020, the CFPB issued a rule to modernize
+debt collection practices, and this rule reflects the technical
+precision needed to ensure that both consumers and debt collectors are
+protected. Rather than tying the hands of debt collectors, like this
+bill does, we should push for consistency with that CFPB rule from last
+fall.
+In closing, I believe we should be clear on something. Consumers who
+owe a debt and businesses that are unable to collect the debt are both
+at a disadvantage when debt collectors are prohibited from contacting
+consumers.
+Madam Speaker, I urge opposition to this bill.
+Ms. WATERS. Madam Speaker, I yield 2 minutes to the gentlewoman from
+New York (Ms. Velazquez).
+Ms. VELAZQUEZ. Madam Speaker, I am a proud original cosponsor of H.R.
+2547 and rise in its strong support. This important legislation
+contains my bill, the Small Business Lending Fairness Act, that
+prohibits the use of a confession of judgment in commercial loans at
+the Federal level.
+As chair of the House Small Business Committee, I understand better
+than most how the COVID-19 pandemic has restricted access to capital
+and forced the closure of many of America's small businesses.
+Unfortunately, some lenders and debt collectors are seeking to cash
+in on the pandemic. Whether it is a taxi driver in New York City
+pursuing the American Dream or a small business owner trying to make
+payroll, predatory lenders and collectors have been targeting small
+businesses with loans that have excessively high interest rates and
+unfair and abusive terms, like a confession of judgment.
+Because cash flow is so vital to a business' survival, many owners
+feel they have no choice but to sign away their rights to save their
+businesses and provide for their employees. By signing a confession of
+judgment, borrowers essentially waive the legal rights regarding any
+legal dispute that might arise. And if one does arise, the lender can
+unilaterally declare a default and take actions against the small
+business owner.
+Often, small business borrowers only find out about a judgment
+against them after the lender begins to seize bank accounts or other
+assets.
+While confessions of judgment have been banned at the Federal level
+for consumer loans since 1985, these protections have not been extended
+to commercial loans. Passing this legislation here today will bring us
+one step closer to finally ending this abusive practice.
+[[Page H2282]]
+I want to thank Chairwoman Waters for including this important
+language in her bill, and I urge my colleagues to vote ``yes.''
+Mr. McHENRY. Madam Speaker, I yield myself such time as I may
+consume.
+Madam Speaker, I must say, for the Record, that I believe the bill's
+sponsors are of sincere purpose here, but I am pointing out what I
+think are the deficiencies that we could have worked through in a
+bipartisan way if there was a goal to have a bipartisan outcome for
+this bill.
+So while I oppose the bill, it is not for a lack of ideas on this
+side on how to improve it and actually how to come up with something
+reasonable to help our people and update our technology and laws.
+Madam Speaker, I yield 2\1/2\ minutes to the gentleman from Minnesota
+(Mr. Emmer), the ranking member of the Task Force on Financial
+Technology.
+Mr. EMMER. Madam Speaker, I rise today in opposition to the
+Comprehensive Debt Collection Improvement Act, a partisan package of
+bills which threatens to limit access to credit and other
+financial products that Americans from all walks of life rely on.
+Simply put, this legislation undermines the collections process, the
+very system that ensures that Americans can access credit in the first
+place.
+Without a collections process, consumers' ability to obtain credit
+cards or other forms of credit would be restricted, and, in many cases,
+limited to a cash-only basis. If adopted, this bill will limit
+Americans' options and weaken our standard of living, a standard that
+every American deserves.
+I urge my colleagues to oppose this misguided, partisan legislation
+and instead support policies that expand financial inclusion,
+strengthen our system of credit, and support businesses that fuel our
+economy.
+Ms. WATERS. Madam Speaker, I yield 2 minutes to the gentlewoman from
+Massachusetts (Ms. Pressley).
+Ms. PRESSLEY. Madam Speaker, I rise today in support of the
+Comprehensive Debt Collection Improvement Act, which includes my bill--
+and I thank the chairwoman for that--the Ending Debt Collection
+Harassment Act.
+Like many, my mother took pride in paying her bills and paying them
+on time. But after several life-disruptive events--the death of an
+immediate family member, a layoff, and a mandatory surgery--there came
+a point where she could no longer afford it. No matter how hard she
+worked, we owed everyone--the utility company, the landlord, the bank--
+and we were frequently harassed by debt collectors.
+Our story is the story of millions of families.
+Due to poverty wages, a lack of affordable healthcare, the absence of
+paid leave, and other policy failures which push working people to the
+margins, millions of people in America are forced to take on
+significant debt to survive.
+This is especially true during times of crisis, and debt collectors
+prey on that reality. They are making record profits during a pandemic,
+using aggressive tactics to scare and to exploit people.
+Consumer complaints of shaming tactics, of intimidation, of
+harassment, especially from our elders, continue to rise year after
+year. This bill provides the needed protection from mistreatment and
+harassment.
+I urge my colleagues to vote ``yes.''
+Mr. McHENRY. Madam Speaker, I yield 3 minutes to the gentleman from
+Wisconsin (Mr. Steil).
+Mr. STEIL. Madam Speaker, I rise in opposition to this act.
+American families' access to affordable loans depends on ensuring
+financial institutions have accurate credit history and can collect
+debts.
+The bill undermines both of those core requirements of our financial
+system. By making it harder for lenders to learn about borrowers and
+collect these unpaid loans, the bill will actually end up reducing
+access to credit and increasing prices. Let me repeat that. It is
+actually going to end up reducing access to credit and is going to
+increase prices.
+In other words, the bill before us today will actually hurt the very
+people it is intended to help. I think that is a really critical point
+here. By actually implementing this bill, what we are going to do is
+see higher prices, make it more difficult for individuals to obtain
+loans, and actually hurt those people that this bill is intended to
+help.
+I want more American families to have responsible access to the loans
+they need to be able to achieve their dreams.
+As anyone who has bought a home or a car or started a small business
+knows, access to affordable credit can be a critical lifeline.
+But, unfortunately, my colleagues on the other side of the aisle, and
+in this bill in particular, they think that sometimes they know best.
+This bill, as a result, will actually hurt American families, it will
+hurt small businesses, and it will hurt the financial stability of our
+financial system. I urge my colleagues to oppose this legislation.
+Ms. WATERS. Madam Speaker, I yield 2 minutes to the gentleman from
+Massachusetts (Mr. Auchincloss).
+Mr. AUCHINCLOSS. Madam Speaker, Congress passed the American Rescue
+Plan, a tremendous investment to support millions of workers without a
+paycheck and behind on bills. As we begin work to build back a stronger
+economy post-pandemic, we must ensure that consumers are protected from
+bad faith debt collectors.
+The Fair Debt Collection Practices Act was enacted in 1977, almost 45
+years ago. Since then, much has changed, including the way we
+communicate, how we purchase goods, and the credit products we use.
+Chairman Waters' bill, the Comprehensive Debt Collection Improvement
+Act, provides much-needed updates to the FDCPA to fit the needs of
+consumers today, not in 1977.
+This legislation includes my bill, the Non-Judicial Foreclosure Debt
+Collection Clarification Act, which closes the gap in the FDCPA so that
+homeowners facing non-judicial foreclosure proceedings are protected
+under the law. The FDCPA sets procedures for the way that debt
+collectors interact with consumers to protect their rights and their
+privacy. This includes ensuring that debtors aren't paying more than
+they owe, that their debt information won't be shared with their boss,
+and that they will not be harassed by collectors. These protections
+should not be limited to foreclosure proceedings that take place in a
+courtroom.
+The legislation we are considering today includes other necessary
+consumer protection bills, like Congresswoman Dean's Fair Debt
+Collection Practices for Servicemembers Act, which would prohibit debt
+collectors from threatening a servicemember's rank to collect a debt,
+and Congresswoman's Pressley's bill, the Ending Debt Collection
+Harassment Act, which would prohibit debt collectors from contacting
+consumers electronically without consent.
+We cannot rebuild an economy that works for everyone without
+protecting consumers. Making sure borrowers are treated with dignity
+and protected from unwanted and unnecessary practices is an important
+step to ensuring economic fairness moving forward. I am proud to
+support the bill, and I urge my colleagues to do the same.
+Mrs. WAGNER. Madam Speaker, I reserve the balance of my time.
+Ms. WATERS. Madam Speaker, I yield 3 minutes to the gentlewoman from
+Pennsylvania (Ms. Dean).
+Ms. DEAN. Madam Speaker, I rise in support of H.R. 2547.
+First, I would like to thank and lift up Chairwoman Waters for
+bringing up and authoring this important package, H.R. 2547, the
+Comprehensive Debt Collection Improvement Act, and for including two of
+my bills in this legislation. We must work to ensure that debt
+collection is fair, transparent, and free from harassment.
+One of my two bills is in this package. It is the Fair Debt
+Collection Practices for Servicemembers Act. It will protect our heroes
+from unfair and aggressive debt harassment. These debt collection
+practices are manipulative and can interfere with soldiers' careers,
+like contacting their superior officers or threatening a rank
+reduction.
+Unfortunately, these practices do not stop with the servicemember.
+Debt collectors also target military spouses, unfairly burdening our
+military families who have sacrificed so much.
+{time}  1300
+The language in this bill would specifically prohibit debt collectors
+from
+[[Page H2283]]
+conveying any threat to a servicemember, or his or her dependents, to
+have his or her rank reduced, their security clearance revoked, or
+prosecution occur under the Uniform Code of Military Justice.
+These tactics must stop; our servicemembers, men and women, make
+extraordinary sacrifices on our behalf. I thank all the veterans and
+servicemembers who work in my office, Tim, Dave, and Timmy, and my own
+two brothers who have fought to protect our country.
+I recognize and appreciate the bipartisan support for this bill.
+My second bill in this package was written to correct an unfair
+practice a constituent brought to our office's attention. A constituent
+reached out for help getting a private student loan discharged because
+her daughter had become completely and totally permanently disabled.
+The mother was left with the remaining balance of the daughter's
+private student loans as a cosigner.
+The lending company said it was their policy to forgive the debt for
+the borrower but not for the cosigner of the original agreement.
+Further research by my office staff revealed there was no legal
+operating standard for discharging private student loans for cosigners
+after a permanent and total disability.
+This is wrong. No one can anticipate permanent disability, and we
+should work to decrease the burden that these people and their families
+face, which is what the Private Loan Disability Discharge Act will
+accomplish.
+This legislation will require private student loan lenders to
+discharge the loan balance for both the borrower and the cosigner if
+the borrower becomes totally and permanently disabled.
+This bill does not punish private lenders; it ensures all lenders are
+following the same rules.
+Both of these bills are about fairness and respect to the lender and
+consumer, following the spirit of the entire Comprehensive Debt
+Collection Improvement Act.
+This bill would protect servicemembers, small and minority-owned
+businesses, student loan borrowers, and those with disabilities,
+medical debt, and more.
+This package will place consumers and people first.
+Again, I thank Chairwoman Waters for her leadership, and I urge all
+of our colleagues to join me in supporting this important consumer and
+constituent protection legislation.
+Mrs. WAGNER. Mr. Speaker, I reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentlewoman from
+Michigan (Ms. Tlaib).
+Ms. TLAIB. Mr. Speaker, this bill is critically important to our
+families across the country.
+I am proud that this bill includes a provision that I have introduced
+the past two sessions of Congress, the Consumer Protection for Medical
+Debt Collection Act.
+Nearly 20 percent of adults have one or more medical debt collections
+listed on their credit reports. That means one in five of our neighbors
+across the country may be denied housing, transportation, or other
+necessities because of a sudden health crisis or visit to the emergency
+room. That hits particularly hard in communities like mine, where
+residents already face so many challenges with access to credit.
+Treating medical debt the same as other debt is just not right. It
+leads to irreparable harm to residents who simply just needed health
+and medical care.
+Medical debt is the leading cause of personal bankruptcy in our
+country, and the pandemic has only made the medical debt crisis worse;
+2.5 million people saw medical debt enter collections since the
+pandemic began, totaling $2.2 billion in medical debt.
+H.R. 2547 will provide protections and safeguards to our neighbors
+who, through no fault of their own, got sick and could not afford
+medical care due to the broken healthcare system.
+This bill would prevent the collection of medical debt for 2 years
+from the date of medical billing and prohibits credit agencies from
+reporting all medical collections for a year.
+Medical bills and reimbursements are often vague and confusing, so
+this gives our neighbors time to figure out what they actually do owe.
+Finally, this bill would ban medical debt from a medically necessary
+procedure from ever appearing on your credit report.
+No one chooses to get sick. Undergoing a medically necessary
+procedure should never haunt someone financially. It has no place on
+our credit reports.
+I thank Chairwoman Waters for her leadership on this vital
+legislation, and I urge my colleagues to support it.
+Mrs. WAGNER. Mr. Speaker, I reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield 1 minute to the gentleman from Texas
+(Mr. Green).
+Mr. GREEN of Texas. Mr. Speaker, as a practitioner, I rise.
+Having practiced law, I saw firsthand how predatory debt collection
+works. I know of the threats to get persons demoted. I know of the
+threats to cause people to lose their jobs. I know of the many threats
+to cause people to go to jail if they didn't pay a debt.
+This is unlawful. It ought not happen, but it does. We know that
+there is no debtors' prison in this country, but people still threaten
+people with going to jail if they don't pay debts.
+Yes, servicemembers ought to be protected. I stand for them. But I
+also stand with the hardworking Americans who, through no fault of
+their own, will sometimes find themselves owing debts.
+This must pass. I support H.R. 2547.
+Mrs. WAGNER. Mr. Speaker, I reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield 1 minute to the gentlewoman from
+Georgia (Ms. Williams).
+Ms. WILLIAMS of Georgia. Mr. Speaker, I rise today in support of
+Chair Waters' Comprehensive Debt Collection Improvement Act and
+amendments that I have been able to make to the bill.
+Our work in Congress must focus on how to make life better for the
+most marginalized in our communities. This bill centers that goal by
+ensuring fair debt collection and consumer protection. Today, I am
+offering two amendments to further advance that work.
+Currently, a borrower's credit score isn't negatively affected if
+they miss a Federal student loan payment during the pandemic. This
+protection was made possible with bipartisan support. It is time that
+we extend the same protection to private student loan borrowers, and I
+am happy to have partnered with Congresswoman Alma Adams to advance an
+amendment that does just that.
+I also authored an amendment that commissions a report to analyze
+racial disparities in debt collection practices and recommend
+solutions. Additional study in this area will help us ensure greater
+equity going forward.
+I urge my colleagues to support these amendments and the overall bill
+before us today.
+Mrs. WAGNER. Mr. Speaker, I yield myself the balance of my time.
+I urge my colleagues to oppose H.R. 2547.
+This bill is misguided. It will not improve debt collection or credit
+reporting but will instead harm consumers and small businesses.
+This bill would make extending credit more expensive for everyone,
+especially lower-income borrowers with thin or no credit files and who
+need it the most.
+This bill is yet another giveaway to progressives who want to
+eliminate the core foundation of our credit market and financial
+system.
+I urge my colleagues to vote ``no'' on H.R. 2547, and I yield back
+the balance of my time.
+Ms. WATERS. Mr. Speaker, may I inquire as to how much time I have
+remaining.
+The SPEAKER pro tempore (Mr. Suozzi). The gentlewoman has 10\1/2\
+minutes remaining.
+Ms. WATERS. Mr. Speaker, this bill provides urgently needed
+protections to individuals and families from unfair and abusive debt
+collection practices.
+Consumers should not have to face harassment or threats from abusive
+debt collectors, especially in the midst of this unprecedented
+pandemic. It is long overdue for Congress to bring new accountability
+to the debt collection industry.
+Because of the strong protections the bill creates for consumers, the
+Comprehensive Debt Collection Improvement Act is supported by more than
+85 consumer, civil rights, and small business organizations, including
+Americans for Financial Reform, Center for
+[[Page H2284]]
+Responsible Lending, Color of Change, Leadership Conference on Civil
+and Human Rights, National Consumer Law Center, New York Taxi Workers
+Alliance, Public Citizen, Small Business Majority, and Student Borrower
+Protection Center.
+Mr. Speaker, you have heard the debate and the discussion on this
+bill today. My colleagues on the opposite side of the aisle have tried
+in their presentation to have the people listening to this debate
+believe that the bill would hurt consumers. That is absolutely not
+true. My friends on the opposite side of the aisle seem more interested
+in protecting the debt collectors.
+As I mentioned, we are still in the midst of a pandemic. Many of our
+consumers have been laid off from their jobs. Some businesses have
+closed down.
+Americans like to pay their bills. They want to pay their bills. If
+they cannot pay their bills, we should not have debt collectors who are
+harassing them, calling the commanders of servicemembers and
+threatening to have them penalized in some way, using all the different
+platforms to harass.
+One of the Members on the opposite side of the aisle tried to make us
+believe that somehow we are saying you can't use any of the platforms
+on the internet. We are not saying that. We are saying don't misuse
+them, don't abuse them. We are saying that this is about the Members of
+Congress who are sent here to represent their constituents being able
+to represent them at one of the most important times in this economy.
+I would ask all Members, despite what you have heard from the
+opposite side of the aisle, to rise to this occasion and show our
+consumers we care about them and do not want them to be harassed and
+abused.
+These predatory debt collectors must stop the way that they are
+harassing our consumers and work with them. They should be doing
+workouts. If you can't pay $50 a month, you can have a workout that
+says you can pay $10 a month or $15 a month on your debt. Of course,
+the predatory debt collectors can do this if they wish.
+One of the things you must understand is they have earned more in
+profits during this pandemic than any other time in recent years, so
+they are gouging, and they are harassing needlessly so.
+I would ask the Members of Congress to please join us and vote
+``aye'' on this very important legislation. I yield back the balance of
+my time.
+The SPEAKER pro tempore. All time for debate has expired.
+Each further amendment printed in part B of House Report 117-29 not
+earlier considered as part of amendments en bloc pursuant to section 3
+of House Resolution 380, shall be considered only in the order printed
+in the report, may be offered only by a Member designated in the
+report, shall be considered as read, shall be debatable for the time
+specified in the report equally divided and controlled by the proponent
+and an opponent, may be withdrawn by the proponent at any time before
+the question is put thereon, shall not be subject to amendment, and
+shall not be subject to a demand for division of the question.
+It shall be in order at any time for the chair of the Committee on
+Financial Services or her designee to offer amendments en bloc
+consisting of further amendments printed in part B of House Report 117-
+29, not earlier disposed of. Amendments en bloc shall be considered as
+read, shall be debatable for 20 minutes equally divided and controlled
+by the chair and ranking minority member of the Committee on Financial
+Services or their respective designees, shall not be subject to
+amendment, and shall not be subject to a demand for division of the
+question.
+Amendments En Bloc No. 1 Offered by Ms. Waters of California
+Ms. WATERS. Mr. Speaker, pursuant to section 3 of House Resolution
+380, I offer amendments en bloc No. 1.
+The SPEAKER pro tempore. The Clerk will designate the amendments en
+bloc.
+Amendments en bloc No. 1 consisting of amendment Nos. 1, 2, 3, 5, 6,
+7, 10, 11, 12, 13, and 14, printed in part B of House Report 117-29,
+offered by Ms. Waters of California:
+amendment No. 1 Offered by Ms. Bonamici of oregon
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+After title VIII insert the following:
+TITLE IX--SECURING CONSUMERS AGAINST MISREPRESENTED DEBT ACT
+SEC. 901. SHORT TITLE.
+This Act may be cited as the ``Securing Consumers Against
+Misrepresented Debt Act of 2021'' or the ``SCAM Debt Act''.
+SEC. 902. LEGAL ACTIONS BY DEBT COLLECTORS.
+Section 811 of the Fair Debt Collections Practices Act (15
+U.S.C. 1692i) is amended--
+(1) by redesignating subsection (b) as subsection (c); and
+(2) by inserting after subsection (a) the following new
+subsection:
+``(b) Requirements for Debt Collectors.--A debt collector
+that takes legal action to collect or attempt to collect a
+debt shall comply with the following requirements:
+``(1) Provide the consumer written notice of the intent to
+take legal action, sent to the consumer's last known address
+at least 30 days and not later than 60 days in advance of
+commencing the legal action, that shall include--
+``(A) all methods that the consumer can use to contact the
+debt collector; and
+``(B) all information contained in the notice required
+under section 809(a) (excluding the information described in
+paragraphs (3), (4), and (5) of such section), updated to
+ensure correctness.
+``(2) In the initial pleading filed by a debt collector to
+commence a legal action to collect a debt, include--
+``(A) all information contained in the notice required
+under section 809(a) (excluding the information described in
+paragraphs (3), (4), and (5) of such section), except any
+account numbers and any personally identifiable information,
+updated to ensure correctness;
+``(B) the last four digits of the account number of the
+original debt;
+``(C) admissible documentary evidence of--
+``(i) the written agreement, contract, or instrument
+creating the debt, if any, or other documents showing that
+the consumer agreed to the agreement, contract, or instrument
+creating the debt;
+``(ii) any terms and conditions relevant to the debt;
+``(iii) that the consumer incurred the debt and the amount
+owed; and
+``(iv) that there is a chain of title of the ownership of
+debt and the right to collect the debt, including documents
+showing the date of each transfer of ownership of the debt
+and the identity of each owner of the debt; and
+``(D) a sworn affidavit stating--
+``(i) that the applicable statute of limitations for
+collecting the debt has not expired and the date on which
+such statute of limitations expires; and
+``(ii) that the debt collector personally reviewed all
+applicable records and documents relating to the debt to be
+collected.''.
+amendment no. 2 Offerred by Ms. Adams of North Carolina
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+In section 1001, as redesignated, strike ``This Act'' and
+insert ``Except as otherwise provided in this Act, this
+Act''.
+After title VIII insert the following:
+TITLE IX--TEMPORARY RELIEF FOR PRIVATE STUDENT LOAN BORROWERS
+SEC. 901. TEMPORARY RELIEF FOR PRIVATE STUDENT LOAN
+BORROWERS.
+(a) In General.--A servicer of a private education loan
+shall not report an adverse item of information relating to
+the nonpayment of a private education loan that occurred
+during the covered period.
+(b) Consumer Reporting Agencies.--During the covered
+period, a consumer reporting agency--
+(1) may not make a consumer report containing adverse
+information relating to the nonpayment of a private education
+loan by a covered borrower; and
+(2) shall promptly remove, in a period of time as
+determined by the Director of the Consumer Financial
+Protection Bureau, from a consumer report any such adverse
+information reported during the covered period.
+(c) Implementation.--The Director of the Consumer Financial
+Protection Bureau may issue guidance or rules to implement
+this section, including--
+(1) requiring any notifications and other requirements that
+may be necessary to carry out this section; and
+(2) ensuring a covered borrower is aware of their rights
+under this section relating to the exclusion or removal of
+any relevant adverse information the consumer report of the
+consumer.
+(d) Effective Date.--This section shall take effect 30 days
+after the date of the enactment of this Act.
+(e) Definitions.--In this section:
+(1) Covered borrower.--The term ``covered borrower'' means
+a borrower of a private education loan.
+(2) Covered period.--The term ``covered period'' means the
+period beginning on March 13, 2020 (the date the President
+declared the emergency under section 501 of the Robert T.
+Stafford Disaster Relief and Emergency Assistance Act (42
+U.S.C. 4121 et seq.) relating to the Coronavirus Disease 2019
+(COVID-19) pandemic) and ending on the date that is 30 days
+after the end of the incident period for such emergency.
+(3) Fair credit reporting act definitions.--The terms
+``consumer report'' and
+[[Page H2285]]
+``consumer reporting agency'' have the meanings given,
+respectively, in section 603 of the Fair Credit Reporting Act
+(15 U.S.C. 1681a).
+(4) Private education loan.--The term ``private education
+loan'' has the meaning given the term in section 140 of the
+Truth in Lending Act (15 U.S.C. 1650).
+amendment no. 3 Offered by Mr. Bowman of New York
+On page 18, line 19, strike ``email and text messages'' and
+insert ``email, text messages, and direct messages through
+social media''.
+On page 18, line 21, strike ``TEXTS AND EMAILS'' and insert
+``TEXTS, EMAILS, AND SOCIAL MEDIA MESSAGES''.
+On page 19, strike lines 1 through 5 and insert the
+following:
+``(7) Contacting the person electronically, including by
+email, text message, and direct message through social media,
+if--
+``(A) the communication is required to be in writing and
+the person has not consented to receive the communication
+electronically in accordance with the requirements of the
+Electronic Signatures in Global and National Commerce Act;
+``(B) the communication is governed by the Telephone
+Consumer Protection Act and the person has not consented to
+receive such communication in accordance with the
+requirements of such Act;
+``(C) consent by the person to receive the communication
+was not provided directly to the debt collector;
+``(D) consent by the person to receive the communication
+electronically has been withdrawn; or
+``(E) the frequency of contact by the debt collector is
+greater than consented to by the person.''.
+On page 19, after line 5 insert the following:
+(d) Protection Of Consumers From Social Media
+Communications In Debt Collection.--Section 808(7) of the
+Fair Debt Collection Practices Act (15 U.S.C. 1692f) is
+amended by inserting the following before the period: ``or
+through a social media platform if the communication is
+viewable by the general public or the person's social media
+contacts''.
+On page 19, line 6, strike ``(d)'' and insert ``(e)''.
+On page 19, line 19, strike ``(e)'' and insert ``(f)''.
+amendment no. 5 offered by Ms. Bush of Missouri
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+After title VIII insert the following:
+TITLE IX--REPORTS
+SEC. 901 REPORT ON COVID-19 PANDEMIC DEBT COLLECTION
+PRACTICES.
+(a) In General.--Not later than 6 months after the date of
+the enactment of this section, the Director of the Bureau of
+Consumer Financial Protection shall submit a report to
+Financial Services Committee of the House of Representatives
+and Banking Committee of the Senate that--
+(1) analyzes available data relating to consumer complaints
+about debt collection practices during the COVID-19 pandemic,
+including the collection of medical debt and the collection
+of debt from servicemembers;
+(2) lists all enforcement actions taken by the Bureau
+during the COVID-19 pandemic that related to debt collection;
+and
+(3) describes how the Bureau will use regulatory,
+supervisory and enforcement tools to combat predatory debt
+collection practices identified during the COVID-19 pandemic.
+(b) Additional Required Information.--
+(1) In general.--The Director shall require each larger
+participant in the consumer debt collection market (as such
+term is defined in section 1090 of title 12 of the Code of
+Federal Regulations to provide to the Director information
+about any default judgements pursued by such larger
+participant through litigation during the COVID-19 pandemic.
+(2) Inclusion in report.--The Director shall compile all
+information received from larger participants under paragraph
+(1) and shall include such information in the report required
+under subsection (a)
+(c) Definitions.--In this section:
+(1) The term ``Director'' means the Director of the Bureau
+of Consumer Financial Protection.
+(2) The term ``Bureau'' means the Bureau of Consumer
+Financial Protection.
+amendment no. 6 offered by mr. cohen of tennessee
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+After title VIII insert the following:
+TITLE IX--FAIR DEBT COLLECTION IMPROVEMENT ACT
+SEC. 901. SHORT TITLE.
+This title may be cited as the ``Fair Debt Collection
+Improvement Act''.
+SEC. 902. PROHIBITION ON COLLECTING TIME-BARRED DEBT.
+(a) In General.--The Fair Debt Collection Practices Act (15
+U.S.C. 1692 et seq.) is amended by inserting after section
+811 the following:
+``Sec. 811A. Prohibition on collecting time-barred debt
+``A debt collector may not collect, or attempt to collect,
+any debt of a consumer with respect to which the statute of
+limitations has expired.''.
+(b) Clerical Amendment.--The table of contents for the Fair
+Debt Collection Practices Act is amended by inserting after
+the item relating to section 811 the following:
+``811A. Prohibition on collecting time-barred debt.''.
+amendment no. 7 offered by ms. craig of minnesota
+Add at the end the following:
+TITLE X--RELEASE OF COSIGNERS ON PRIVATE STUDENT LOANS ON DEATH OF
+BORROWER
+SEC. 1001. SHORT TITLE.
+This title may be cited as the ``Ryan Frascone Memorial
+Student Loan Relief Act of 2021''.
+SEC. 1002. APPLICABILITY OF CERTAIN AMENDMENTS TO THE TRUTH
+IN LENDING ACT.
+(a) In General.--Effective on the date of enactment of the
+Economic Growth, Regulatory Relief, and Consumer Protection
+Act (Public Law 115-174), section 601(b) of such Act is
+amended to read as follows:
+``(b) Applicability.--The amendments made by subsection (a)
+shall apply to private education loan agreements entered into
+before, on, or after the date of enactment of this Act.''.
+(b) Treasury Loan Purchase Program.--
+(1) In general.--The Secretary of the Treasury shall
+establish a program under which the Secretary shall purchase
+and retire outstanding private education loans--
+(A) where the borrower on such loan is deceased;
+(B) where there remains a cosigner on the loan;
+(C) that were entered into before the date that is 180 days
+after the date of enactment of the Economic Growth,
+Regulatory Relief, and Consumer Protection Act; and
+(D) only upon an application from a holder of such loan
+pursuant to paragraph (2) that demonstrates the holder has
+suffered financial injury as a result of the amendment made
+by subsection (a).
+(2) Application.--The holder of a loan described under
+paragraph (1) may apply to the Secretary of the Treasury to
+have the Secretary purchase and retire such loan by
+submitting an application in such form and manner as the
+Secretary may require.
+(3) Authorization of appropriation.--There is authorized to
+be appropriated to the Secretary of the Treasury $5,000,000
+to carry out this subsection.
+(4) Truth in lending act terms.--In this subsection, the
+terms ``cosigner'' and ``private education loan'' have the
+meaning given those terms, respectively, under section 140 of
+the Truth in Lending Act (15 U.S.C. 1650)
+(c) Severability.--The provisions of this Act are
+severable. If any part of this Act is declared invalid or
+unconstitutional, that declaration shall not affect the part
+which remains.
+AMENDMENT NO. 10 OFFERED BY MS. NEWMAN OF ILLINOIS
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+After title VIII insert the following:
+TITLE IX--CONSUMER BILL OF RIGHTS
+SEC. 901 CONSUMER BILL OF RIGHTS AGAINST ABUSIVE DEBT
+COLLECTION PRACTICES.
+(a) In General.--The Director shall, in consultation with
+relevant stakeholders and experts that specialize in consumer
+financial protection with respect to debt collection
+practices, maintain a webpage on the website of the Bureau
+that outlines consumer rights, protections, and remedies with
+respect to debt collection practices.
+(b) Accessibility.--
+(1) In general.--The Director shall ensure that the webpage
+established pursuant to subsection (a) is easily accessible
+and understandable.
+(2) Languages.--The Director may, as determined appropriate
+by the Director, make the website available in languages
+other than English.
+(c) Contents.--The website established pursuant to
+subsection (a) may include--
+(1) a description of acceptable and unacceptable practices
+that debt collectors may engage in while attempting to
+collect debt; and
+(2) know your rights information that--
+(A) outlines actions a consumer may take if they are
+experiencing abusive or inappropriate debt collection
+practices;
+(B) provides resources to take action to prevent or stop
+abusive or inappropriate debt collection practices;
+(C) contact information and other available resources for a
+consumer to learn more to prevent or stop such abusive
+practices; and
+(D) any other information the Bureau deems appropriate to
+better inform consumers of their rights with respect to debt
+collection practices.
+(d) Definitions.--In this section:
+(1) The term ``Director'' means the Director of the Bureau
+of Consumer Financial Protection.
+(2) The term ``Bureau'' means the Bureau of Consumer
+Financial Protection.
+AMENDMENT NO. 11 OFFERED BY MS. OMAR OF MINNESOTA
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+In section 1001, as redesignated, strike ``This Act'' and
+insert ``Except as otherwise provided in this Act, this
+Act''.
+After title VIII insert the following:
+[[Page H2286]]
+TITLE IX--REPORT ON EXPERIENCES OF DELINQUENT BORROWERS OF PRIVATE
+EDUCATION LOANS
+SEC. 901. REPORT ON EXPERIENCES OF DELINQUENT STUDENT LOAN
+BORROWERS.
+Not later than 18 months after the date of the enactment of
+this Act, the Director of the Bureau of Consumer Financial
+Protection Bureau shall carry out a study and submit to
+Congress a report on the consumer experiences and financial
+impacts of debt collection practices on delinquent borrowers
+of private education loans (as defined in section 140(a) of
+the Truth in Lending Act (15 U.S.C. 1650(a)) and such report
+shall include an analysis of--
+(1) the frequency and nature of private student lenders
+challenging undue hardship bankruptcy petitions made by
+borrowers of private education loans; and
+(2) whether private student lenders disproportionately
+challenge undue hardship petitions made by low-income or
+otherwise vulnerable borrowers of private education loans.
+AMENDMENT NO. 12 OFFERED BY MR. PAYNE OF NEW JERSEY
+Page 17, line 24 strike ``and''.
+Page 17, after line 24 add the following:
+``(11) an analysis of the number of people unable to pay a
+debt because a debt collector is unable to accept a cash
+payment; and''.
+Page 18, line 1, strike ``(11)'' and insert ``(12)''.
+AMENDMENT NO. 13 OFFERED BY MS. ROSS OF NORTH CAROLINA
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+After title VIII insert the following:
+TITLE IX--REPORTS
+SEC. 901. REPORT ON USE OF ELECTRONIC AND TELEPHONE
+COMMUNICATIONS IN THE DEBT COLLECTION INDUSTRY.
+Not later than 12 months after the date of the enactment of
+this section, the Comptroller General of the United States
+shall submit a report to the Committee on Financial Services
+of the House of Representatives and the Committee on Banking,
+Housing, and Urban Affairs of the Senate that--
+(1) analyzes trends and impacts associated with the use of
+electronic and telephone communications in the debt
+collection industry, including a study of the annoyance,
+abuse, and harassment of consumers by debt collectors, and
+methods for reducing the frequency of electronic and
+telephone communications by debt collectors to consumers; and
+(2) contains specific regulatory and legislative proposals
+to accomplish those goals.
+AMENDMENT NO. 14 OFFERED BY MS. WILLIAMS OF GEORGIA
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+After title VIII insert the following:
+TITLE IX--REPORTS
+SEC. 901 REPORT ON DEBT COLLECTION PRACTICES AND RACIAL
+DISPARITIES.
+Not later than 18 months after the date of the enactment of
+this section, the Director of the Bureau of Consumer
+Financial Protection shall submit a report to the Financial
+Services Committee of the House of Representatives and
+Banking Committee of the Senate that--
+(1) identifies and analyzes racial disparities relating to
+debt collection practices; and
+(2) provides administrative and legislative recommendations
+to address such disparities.
+The SPEAKER pro tempore. Pursuant to House Resolution 380, the
+gentlewoman from California (Ms. Waters) and the gentlewoman from
+Missouri (Mrs. Wagner) each will control 10 minutes.
+The Chair recognizes the gentlewoman from California.
+{time}  1315
+Ms. WATERS. Mr. Speaker, I yield myself as much time as I may
+consume.
+Mr. Speaker, I rise in support of this set of amendments that will
+strengthen the protections in my bill, H.R. 2547, the Comprehensive
+Debt Collection Improvement Act.
+I thank Representatives Adams, Bonamici, Bowman, Bush, Cohen, Craig,
+Newman, Ocasio-Cortez, Omar, Payne, Ross, and Williams for their work
+on their amendments to improve the bill and provide additional
+protections for consumers.
+These amendments would create a Consumer Bill of Rights Against
+Abusive Debt Collection Practices, putting in plain language what debt
+collection protections and remedies a consumer has; require CFPB
+strategy to use their enforcement and other tools to combat abusive
+debt collection during the pandemic; study racial disparities in debt
+collection and develop solutions to address these disparities.
+Several amendments would also help students by providing private
+student loan borrowers with the same credit reporting protections that
+Federal student loan borrowers have during the pandemic; releasing
+cosigners in the event of the death of a private student loan borrower,
+regardless of when that debt occurred; studying practices and
+additional reforms to better protect private student loan borrowers.
+Finally, these amendments address new forms of communication
+specifically prohibiting debt collectors from harassing a consumer on
+social media, and studying electronic communications and developing
+recommendations to further protect consumers from harassment.
+Together, these amendments will protect our constituents from abusive
+debt collectors. So I urge Members to vote ``yes.''
+Mr. Speaker, I reserve the balance of my time.
+Mrs. WAGNER. Mr. Speaker, I yield myself such time as I may consume.
+I claim the time in opposition, and I am opposed to this en bloc.
+Mr. Speaker, there is no doubt that people are hurting. There is no
+doubt that many Americans continue to feel the weight of the pandemic
+in their daily lives. Yet Republicans know that preventing individuals
+and businesses from being paid for services rendered will not help
+those individuals and families who need it the most.
+This bill will not benefit consumers or businesses, particularly
+those small businesses that are the backbone of our economy. In fact,
+if enacted, this bill and the amendments will drive up the cost for all
+borrowers and will make credit less accessible to the borrowers who
+need it the most. Many of these amendments were not even considered
+during markup, and could result in unintended consequences and conflict
+with existing law and regulations.
+For example, this en bloc makes it harder to collect on payment for
+services. It creates more confusion. This en bloc requires duplicative
+actions and is in conflict with current CFPB rules. This results in
+consumers receiving varying and inconsistent information. It also
+imposes specific requirements on the process and content of legal
+actions--some in direct conflict with existing laws and court
+procedures.
+All of these have potential consequences and deserve to be debated
+through regular order, not in the 11th hour on the floor.
+Mr. Speaker, this en bloc continues the Democrats' goal of bringing
+all student loan borrowers under the Federal student loan portfolio,
+this time under the guise of COVID relief. In expanding the Federal
+student loan profile, this en bloc fails to address the underlying
+issues related to the Federal student loan debt crisis, which was
+already exacerbated by the Democrats' goal of nationalizing student
+lending in 2010.
+This en bloc fails to recognize the success of the private student
+loan market. Approximately 98 percent of student loans are repaid in
+the private market.
+This en bloc continues to ignore the work that the CFPB did when it
+finalized its debt collection rule last fall. This final rule reflects
+more than 7 years of research and analysis, and clarifies the allowable
+uses of modern communication technology.
+This en bloc prohibits debt collectors from contacting consumers by
+email or text message without explicit prior consent from the consumer.
+Under this amendment, social media messages are also prohibited. This
+approach ignores the fact that the final rule allows consumers to opt
+out of specific means of communications used by debt collectors.
+Republicans believe that consumers should be able to communicate
+about their payment options privately and using the methods that they
+want to communicate.
+This is yet another example of Democrats attempting to hamstring the
+ability to modernize the regulatory framework to account for modern
+technology and consumer preference.
+Finally, this en bloc requires the CFPB to produce a prescriptive
+report on the debt collection process. The CFPB, in consultation with
+the FTC, already issues an annual oversight report on debt collection,
+which includes data on consumer complaints and enforcement actions.
+The point is, constraining debt collection will undermine the
+underwriting system and increase risk to the financial system. This
+ultimately makes extending credit more expensive for all borrowers and
+may exclude the lowest income borrowers entirely.
+[[Page H2287]]
+There are commonsense ways to update and improve the process for debt
+collection and credit reporting.
+Republicans believe that consumers who owe a debt should be treated
+with respect and dignity and are not subjected to abusive or harassing
+behaviors. While there are commonsense ways to update and improve the
+debt collection process, the law already upholds this notion.
+Mr. Speaker, this en bloc is another partisan wish list of
+progressive policies in search of a problem. I urge my colleagues to
+oppose this en bloc.
+Mr. Speaker, I reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield 1 minute to the gentlewoman from
+Oregon (Ms. Bonamici).
+Ms. BONAMICI. Mr. Speaker, I rise in support of this en bloc
+amendment.
+I have done financial counseling for low-income clients at Legal Aid
+and I learned firsthand that people don't struggle by choice.
+I was an attorney at the Federal Trade Commission where my work
+involved enforcing the Fair Debt Collection Practices Act. I have seen
+how predatory debt collection tactics hurt our families and our
+communities. Consumers face harassment at home and at work. They
+frequently get misinformation about debts they might not even legally
+owe. The problems around debt collection are pervasive.
+Data from the Urban Institute shows that 68 million Americans had a
+debt in collection before the pandemic, and most consumers sued by
+collection agencies don't have legal representation.
+My amendment will update the law so consumers get advance notice of
+legal action against them and accurate details about what they legally
+owe. Strengthening protections for consumers will help individuals and
+families get through this economic crisis and beyond.
+Mr. Speaker, I encourage all of my colleagues to support the en bloc
+amendment and the underlying bill. I thank Chairwoman Waters and
+Chairman Perlmutter for their leadership.
+Mrs. WAGNER. Mr. Speaker, I continue to reserve the balance of my
+time.
+Ms. WATERS. Mr. Speaker, I yield 1 minute to the gentlewoman from
+Missouri (Ms. Bush).
+Ms. BUSH. Mr. Speaker, I thank Chairwoman Waters for her and the
+committee's leadership on this bill.
+Mr. Speaker, St. Louis and I rise today in support of the
+Comprehensive Debt Collection Improvement Act, critical legislation
+that would enhance debt collection protections for consumers, students,
+servicemembers, and small businesses.
+This pandemic has devastated Black and Brown communities, like mine
+in St. Louis. As someone who was uninsured during this pandemic, got
+sick, and is still struggling with those medical bills, I know the
+hardship faced every day by people across this country.
+My amendment to this bill would require the Consumer Financial
+Protection Bureau to present a report to Congress that analyzes debt
+collection practices using consumer complaint data. Debt collectors
+should not be able to call, email, text you to the point of harassment.
+Your medical debt should not be reported on your credit, especially in
+the wake of a global pandemic.
+The CFPB has an obligation to protect our seniors, protect our
+frontline workers, protect our service workers, and protect our
+families by developing tools to combat predatory debt collection
+practices.
+Mrs. WAGNER. Mr. Speaker, I continue to reserve the balance of my
+time.
+Ms. WATERS. Mr. Speaker, I yield 1 minute to the gentleman from New
+York (Mr. Bowman).
+Mr. BOWMAN. Mr. Speaker, I thank the chairwoman for yielding.
+Mr. Speaker, 80 percent of Americans have debt, and we punish people
+for it. But the shame should actually be on policies that incentivize
+debt and predatory behavior in debt collection. The lack of protections
+in place for borrowers is a reflection of those harmful policies.
+Debt collectors today can use virtually any means available to harass
+borrowers, even in the middle of a global pandemic that has taken
+nearly 600,000 American lives, increased unemployment, and left
+millions unsure of how they will put food on the table.
+Debt collectors can call you, email you, text you, and even contact
+you on social media. My amendment will help rein in this endless
+harassment by prohibiting collectors from contacting borrowers on
+social media without explicit permission.
+Mr. Speaker, while there is still more work to be done on this front,
+this an important place to start, and I encourage my colleagues to
+support the amendment.
+Mrs. WAGNER. Mr. Speaker, I reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield 1 minute to the gentleman from
+Tennessee (Mr. Cohen).
+Mr. COHEN. Mr. Speaker, I thank Chairwoman Waters for her important
+work on this bill and for helping with my amendment to be included
+therein.
+The amendment that I have is cosponsored by Representatives Ocasio-
+Cortez and Bonamici. It adds a section to the law that says, if you
+have got a debt that is beyond the statute of limitations, that debt
+collection companies can't go after you.
+There is a statute of limitations because sometimes over a period of
+time, the facts become kind of vague in people's minds. So the proof
+isn't strong, and they want to make sure that this could be an
+appropriate subject matter for a court case.
+Also, sometimes debts are sold and debt collection agencies buy them,
+and they don't really know the facts, the amounts, and all of that. So
+if a debt is over the statute, this prohibits the debt collectors from
+going after someone.
+I think I found this about 8 years ago in an AARP magazine, which I
+read, and they said how awful this was. And I thought it was, too. It
+took 8 years to get it here because it took a Democratic team to bring
+it to the floor to look out for debtors.
+Mr. Speaker, I appreciate all the support we have got from my
+cosponsors, and I hope we pass the bill.
+Mrs. WAGNER. Mr. Speaker, I continue to reserve the balance of my
+time.
+Ms. WATERS. Mr. Speaker, I yield 2 minutes to the gentlewoman from
+Minnesota (Ms. Craig).
+Ms. CRAIG. Mr. Speaker, I thank Chairwoman Waters for yielding and
+for including my amendment in this en bloc.
+Mr. Speaker, years ago, a bright and talented young man from Eagan
+named Ryan Frascone took out student loans to enroll in classes at
+Metro State University. Ryan studied engineering. He was a kind,
+engaging, and hardworking young man. But, in 2013, Ryan passed away--
+one of thousands who have tragically fallen victim to the opioid
+epidemic plaguing this Nation.
+{time}  1330
+In the midst of that tragedy, I am sure student loans were the last
+thing on his parents, Julie and Mark's minds. But to this day, 8 years
+after losing their son Ryan, his parents must still write a check every
+month to pay for his student loans.
+I think we can all agree that the last thing that any American parent
+should have to undergo is a monthly reminder of such tragedy and loss
+in the form of a student loan payment. Today, we have an opportunity to
+right that wrong with this amendment.
+Please join me in supporting the Ryan Frascone Memorial Student Loan
+Relief Act. And to Mark and Julie, I want to say to you, on the
+anniversary of his death this week, we are going to make this right in
+this country.
+Mrs. WAGNER. Mr. Speaker, I reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, these amendments offered by our colleagues make H.R.
+2547 even stronger for our constituents who deserve to be treated
+fairly. I would like to again thank Representatives Adams, Bonamici,
+Bowman, Bush, Cohen, Craig, Newman, Ocasio-Cortez, Omar, Payne, Ross,
+and Williams for their work on these amendments to H.R. 2547.
+Mr. Speaker, I urge my colleagues to support these amendments, and I
+yield back the balance of my time.
+Mrs. WAGNER. Mr. Speaker, I yield myself the balance of my time, and
+I urge my colleagues to oppose this en bloc.
+[[Page H2288]]
+Mr. Speaker, this en bloc will not improve debt collection or credit
+reporting, but will instead harm consumers and small businesses. It
+will make extending credit more expensive for everyone, especially
+lower income borrowers with thin or no credit files and who need it the
+most.
+The intent is clear, the Democrats want to eliminate the core
+foundation of our credit market and financial system.
+Mr. Speaker, I urge my colleagues to vote ``no'' on this en bloc, and
+I yield back the balance of my time.
+The SPEAKER pro tempore. Pursuant to House Resolution 380, the
+previous question is ordered on the amendments en bloc offered by the
+gentlewoman from California (Ms. Waters).
+The question is on the amendments en bloc.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Mrs. WAGNER. Mr. Speaker, on that I demand the yeas and nays.
+The SPEAKER pro tempore. Pursuant to section 3(s) of House Resolution
+8, the yeas and nays are ordered.
+Pursuant to clause 8 of rule XX, further proceedings on this question
+are postponed.
+Amendments En Bloc No. 2 Offered by Ms. Waters of California
+Ms. WATERS. Mr. Speaker, pursuant to section 3 of House Resolution
+380, I offer amendments en bloc No. 2.
+The SPEAKER pro tempore. The Clerk will designate the amendments en
+bloc.
+Amendments en bloc No. 2 consisting of amendment Nos. 4 and 8,
+printed in part B of House Report 117-29, offered by Ms. Waters of
+California:
+AMENDMENT NO. 4 OFFERED BY MR. BURGESS OF TEXAS
+Strike section 901 and insert the following:
+SEC. 901 EFFECTIVE DATE.
+This Act and the amendments made by this Act shall take
+effect on the date that is the later of--
+(1) the date that is 180 days after the date of the
+enactment of this Act; and
+(2) the date on which the Secretary of the Treasury
+certifies to Congress that the enactment of this Act will
+not--
+(A) limit the availability of debt products for Americans
+who do not have a credit history, who have a poor credit
+history, or who are from lower socio-economic backgrounds''
+part to apply to both parts; or
+(B) increase the cost of debt products for Americans who do
+not have a credit history, who have a poor credit history, or
+who are from lower socio-economic backgrounds.
+AMENDMENT NO. 8 OFFERED BY MR. LUETKEMEYER OF MISSOURI
+Redesignate title IX as title X.
+Redesignate section 901 as section 1001.
+Strike section 1001 and insert the following:
+SEC. 1001. EFFECTIVE DATE.
+This Act and the amendments made by this Act shall take
+effect on the date on which the Comptroller General of the
+United States issues a report pursuant to section 901.
+After title VIII insert the following:
+TITLE IX--REPORTS
+SEC. 901. GAO REPORT.
+The Comptroller General of the United States shall, not
+later than 1 year after the date of the enactment of this Act
+submit to the Financial Services Committee of the House of
+Representatives and the Banking Committee of the Senate a
+study that identifies any impacts that imposing restrictions
+on debt collection will have on low- to moderate-income and
+minority borrowers.
+The SPEAKER pro tempore. Pursuant to House Resolution 380, the
+gentlewoman from California (Ms. Waters) and the gentlewoman from
+Missouri (Mrs. Wagner) each will control 10 minutes.
+The Chair recognizes the gentlewoman from California.
+Ms. WATERS. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I rise in opposition to the amendments offered by
+Representatives Luetkemeyer and Burgess. Representative Burgess'
+amendment does not provide any new protections for low-income consumers
+or consumers with no credit or poor credit history.
+Instead, this is an attempt to prevent my bill, H.R. 2547, from being
+implemented at all. Under the guise of a certification standard, Mr.
+Burgess' amendment would create a legal loophole for unscrupulous debt
+collectors to challenge and potentially block not just some, but all of
+the protections included in this bill for servicemembers, student
+borrowers, borrowers with a medical debt, and so many more.
+This is not a serious attempt to have low-income borrowers, it is an
+attempt to protect debt collectors who are making record profits during
+this pandemic.
+I do not support this poison pill amendment. Representative
+Luetkemeyer's amendment to study and delay misses the mark on what is
+needed to protect consumers from the harm of ongoing, unfair debt
+collection practices.
+Copious research has been shown that debt collection harassment and
+mistreatment have created undue stress and financial burdens on
+consumers, especially for low-income people, and in communities of
+color.
+My bill does not restrict debt collection, but rather ensures
+consumer protection for those who are facing harassment or other
+abusive tactics used by debt collectors.
+Millions of consumers are still struggling to make ends meet during
+this tragic public health pandemic. Instead of considering the amount
+of stress consumers feel when they get sick, need medical care, and
+face harassment from a debt collector, Mr. Luetkemeyer's amendment
+would commission a study and delay implementation of my bill by a full
+year.
+H.R. 2547 would already provide the Consumer Financial Protection
+Bureau with a sensible 6-month implementation period, during which the
+Bureau can give all stakeholders guidance on how to comply.
+Mr. Speaker, I urge my colleagues to oppose both of these amendments,
+and I reserve the balance of my time.
+Mrs. WAGNER. Mr. Speaker, I yield myself such time as I may consume.
+I am not opposed to this en bloc.
+Mr. Speaker, these amendments will ensure that we know the true
+consequences of this bill before it is enacted into law. These
+amendments direct the Treasury Department and the GAO to separately
+study the impacts this bill will have on low-to-moderate income,
+minority, or thin-or no-credit-file consumers.
+Payment for services rendered is a fundamental premise of our free
+market system. Republicans understand this concept and work hard to
+ensure legislation does not cut off access to credit or price large
+swaths of Americans out of the consumer credit market.
+Moreover, we should not be limiting small businesses' ability to
+collect payments at any time, but especially when they are already
+hurting from the pandemic-related shutdowns.
+The point is, constraining debt collection will undermine the
+underwriting system and increase risk to the financial system. This
+ultimately makes extending credit more expensive for all borrowers, and
+may exclude the lowest income borrowers entirely.
+There is bipartisan consensus that a consumer who owes a debt should
+be treated with respect and dignity and not be subjected to abusive or
+harassing behavior. The law already upholds this notion.
+Mr. Speaker, I urge my colleagues to support this en bloc, and I
+reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield 2 minutes to the gentlewoman from
+Texas (Ms. Jackson Lee).
+Ms. JACKSON LEE. Mr. Speaker, let me thank the chairwoman, the
+gentlewoman from California for yielding.
+Mr. Speaker, this is a stupendous effort, and I did not want to miss
+the opportunity to speak on behalf of my constituents, for debt blocks
+you from living your life as a family, as a recent college graduate, as
+a veteran, and as an enlisted person. All of these people are in my
+congressional district. Texas has the highest number of military
+personnel.
+Have you ever had them come into your house, excuse me, into your
+office--sometimes it is like my house because I live there, almost--and
+tell you about the inability to access credit, or the eviction notice,
+or the repossessing of the car, and therefore, impacting on their
+credit, but more importantly, being threatened to lose benefits by
+outside debt collectors.
+So the legislation here, and might I rise to oppose the amendments
+that are en bloc at this time, but I thought it was important to be
+able to discuss the importance of this particular combination of
+legislation that goes to the very needs and hearts of our district by
+prohibiting the use of confession of judgment as an unfair credit
+practice, and providing the opportunity, as I said, to ensure that we
+are protecting those individuals that are military.
+[[Page H2289]]
+According to the CFPB, in the past year, debt collection accounted
+for 27 percent of all complaints received, 49 percent of which were for
+attempts to collect a debt not owed. During COVID-19 people suffered
+economically.
+For example, in April 2020, Kate Boatswain, Texas resident and
+grandmother of three, had been laid off from work due to the pandemic.
+Her savings account had held a $4,900 tax refund. But when she checked
+her account, it showed a negative balance. Ms. Boatswain drove to her
+credit union to find out what happened, only to be told that staff
+members were not allowed to explain. She was given a number to a debt
+collection law firm. They had taken her money.
+So this legislation that protects military persons, grandmothers,
+small business owners, is extremely crucial, and I ask my colleagues to
+support this legislation, H.R. 2547. Let's stop debt and let's make
+sure Americans can thrive.
+Mr. Speaker, I rise today to discuss the rule governing debate of
+H.R. 2547, the ``Comprehensive Debt Collection Improvement Act,'' which
+is an incredibly important comprehensive bill that clarifies and
+expands the rights of Americans facing all forms of debt collection,
+and also extends existing consumer protections to small businesses,
+prohibits debt collectors from threatening service members with a
+reduction in rank or loss of security clearance, restricts contact to
+consumers by email or text messages, and requires discharge of private
+student loans in the case of permanent disability for the borrower.
+H.R. 2547 better protects vulnerable consumers by enacting a wide
+variety of critical reforms, including:
+Prohibiting the use of confessions of judgment as an unfair credit
+practice that eliminate notice and the right to be heard;
+Prohibiting certain abusive collection practices directed at
+servicemembers, including threats to reduce rank or revoke security
+clearance;
+Requiring discharge of private student loans due to total and
+permanent disability;
+Prohibiting collection of medical debt for the first two years and
+credit reporting of debt arising from any medically necessary
+procedures;
+Requiring debt collectors to obtain consent before using electronic
+communications and provide written validation notices;
+Amending the FDCPA to expand and clarify coverage, including
+extending coverage for all federal, state, and local debts collected by
+debt collectors;
+Adjusting statutory damages in the FDCPA for inflation and indexing
+them to index for inflation in the future; and
+Clarifying FDCPA coverage for non-judicial foreclosures.
+An estimated 77 million Americans have a debt that has been turned
+over to a private collection agency, and predatory debt collection
+affects communities and families across the country.
+The debts owed can be as small as a few dollars, and they can involve
+every kind of consumer debt, from car payments to utility bills to
+student loans to medical fees.
+Debt in collection can wreak havoc on individuals, subjecting them to
+harassing debt collection calls and potential lawsuits.
+Annually, hundreds of thousands of individuals face threats,
+harassment at home and the workplace, and abusive litigation from
+unscrupulous debt collectors.
+While all Americans are covered by laws barring debt collectors from
+overly aggressive or deceptive tactics, these laws are insufficient in
+many cases, and protections for Americans must be improved.
+Debt collectors use predatory tactics that undermine citizens' rights
+with misleading and confusing information.
+Each year, millions of lawsuits are filed by ``lawsuit mills,'' and
+in some cases, thousands of affidavits are filed in a single day that
+have inaccurate information about the debt and the debtors.
+Consumers are often not even given the chance to defend themselves
+because collectors hire process servers that falsely certify documents
+have been delivered.
+Most consumers are not represented by an attorney and debt collectors
+overwhelmingly seek default judgments against them in these cases.
+This past year has seen a rise in aggressive debt collections due to
+the impact of COVID-19, according to the Consumer Financial Protection
+Bureau (``CFPB'').
+Despite the enactment of the FDCPA in 1977, debt collection remains a
+frequent source of complaints to the CFPB.
+According to the CFPB, in the past year debt collection accounted for
+27 percent of all complaints received, 49 percent of which were for
+attempts to collect a debt not owed.
+These trends devastate communities across the country as unmanageable
+debt and household financial crises become ubiquitous across the
+country during this pandemic, and they impact Black and LatinX
+communities most harshly due to longstanding racial and ethnic gaps in
+poverty and wealth.
+The COVID-19 pandemic has been among the most disruptive long-term
+events we will see in our lifetimes, and it is not surprising that the
+shockwaves it sent across the planet were felt deeply in the consumer
+financial marketplace.
+Texans have the second-highest rate of debt in collections in the
+country and are uniquely vulnerable because the state's consumer
+protections for bank account garnishments are virtually nonexistent.
+For example, in April 2020 Kate Boatswain, Texas resident and
+grandmother of three, had been laid off work due to the pandemic.
+Her savings account had held a $4,900 tax refund, but when she
+checked her account, it showed a negative balance.
+Ms. Boatswain drove to her credit union to find out what happened,
+only to be told that staff members were not allowed to explain why.
+She was given a number to a debt collection law firm, and a man at
+the firm tersely explained that she had owed money to Wells Fargo since
+2006.
+The debt was now owned by a client of the law firm who was trying to
+collect, and the client was not interested in solutions--telling Ms.
+Boatswain that, ``We already have your money.''
+In a time of national crisis and economic hardship, Ms. Boatswain was
+left without money for her mortgage and for her family.
+As we work to bolster our national economic recovery, Americans must
+have better safeguards against predatory debt collection actions like
+this.
+This bill offers comprehensive reforms against predatory debt
+collection efforts in several ways, and I would like to touch on two
+protections included in these reforms--those reforms offered for our
+small business owners and members of the military.
+Since at least 2018, an arcane legal document called a confession of
+judgment has targeted our hard-working small businesses and forced
+financial ruin on tens of thousands of contractors and small business
+owners.
+Before many small business owners get a loan, they are forced to sign
+a statement called a confession of judgment which gives up their right
+to defend themselves if the lender takes them to court.
+Armed with this confession of judgment, a lender can, without proof,
+accuse borrowers of not paying and legally seize their assets before
+they know what has happened--a practice that has not surprisingly been
+abused by some lenders.
+Then, without contacting the borrower, lenders can immediately
+withdraw the value of the loan, including the full interest payments,
+from their accounts.
+By requiring the borrower to accept any and all liabilities and
+damages pertaining to the loan, it undermines and circumvents the
+entire judicial process.
+The borrower has no legal right to dispute these claims or prove
+their compliance with the terms of the loan contract, making them
+virtually powerless to reclaim--what often ends up being--their life's
+savings.
+Although Congress banned the use of confessions of judgment for
+consumers in 1985, small businesses were left exposed and remain
+particularly susceptible to this unfair debt collection practice.
+H.R. 2547 fixes this oversight by extending the ban on confessions of
+judgment to commercial loans nationally by amending the Truth in
+Lending Act and closing the loophole that has allowed thousands of
+American small businesses to be seized and brought down by dishonest
+lenders.
+Military members and their families face particular financial
+challenges requiring extra protections: in service to their country,
+they relocate frequently, deploy overseas and are a prime target for
+scammers.
+Military members are also more vulnerable to debt collectors in some
+instances, and debt collectors have taken advantage of this
+vulnerability by targeting members of the Armed Services through
+calling their superior officers, threatening reduction in rank and even
+courts-martial.
+Nearly 40 percent of complaints filed by servicemembers with the CFPB
+concern debt collection--as compared to only 26 percent by non-
+servicemembers.
+Our servicemen and servicewomen make extraordinary sacrifices on our
+behalf, and they should not be forced to confront aggressive and
+manipulative debt collectors who capitalize on the strains required of
+them in the course of their duties.
+We must address this fact and protect the women and men who have
+served our country and remove the unethical methods debt collectors use
+to prey upon our servicemembers.
+Mr. Speaker, I encourage all members to support this legislation,
+because it is critical for
+[[Page H2290]]
+the United States' Congress to stand with our small business owners,
+students, the women and men who have served our country, and millions
+of Americans to address unfair and predatory debt collection efforts.
+Mrs. WAGNER. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, this en bloc will ensure that we know the true
+consequences of this bill before it becomes effective. Payment for
+services rendered is a fundamental premise of our credit-based free
+market system.
+Republicans want to ensure legislation passed by this House will not
+limit access to credit, price large swaths of Americans out of the
+consumer credit market, or restrict small businesses' ability to
+collect payments for services provided.
+Mr. Speaker, I urge my colleagues to support this en bloc, and I
+yield back the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, Representatives Burgess and Luetkemeyer' proposed
+amendments would not provide stronger protections for consumers who are
+saddled with debt, while navigating the various challenges they have
+faced, through no fault of their own, by this terrible pandemic.
+Instead, these amendments would needlessly delay or prevent my bill,
+H.R. 2547, the Comprehensive Debt Collection Improvement Act, from
+being implemented.
+Mr. Speaker, I urge my colleagues to reject these amendments, and I
+yield back the balance of my time.
+The SPEAKER pro tempore. Pursuant to House Resolution 380, the
+previous question is ordered on the amendments en bloc offered by the
+gentlewoman from California (Ms. Waters).
+The question is on the amendments en bloc.
+The question was taken; and the Speaker pro tempore announced that
+the noes appeared to have it.
+Mrs. WAGNER. Mr. Speaker, on that I demand the yeas and nays.
+The SPEAKER pro tempore. Pursuant to section 3(s) of House Resolution
+8, the yeas and nays are ordered.
+Pursuant to clause 8 of rule XX, further proceedings on this question
+are postponed.
+{time}  1345
+Amendment No. 9 Offered by Mrs. Wagner
+The SPEAKER pro tempore. It is now in order to consider amendment No.
+9 printed in part B of House Report 117-29.
+Mrs. WAGNER. Mr. Speaker, I rise as the designee of Ranking Member
+McHenry, and I have an amendment at the desk.
+The SPEAKER pro tempore. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Strike all after the enacting clause and insert the
+following:
+SECTION 1. REQUIREMENT FOR CONFESSIONS OF JUDGEMENT.
+(a) In General.--Chapter 2 of the Truth in Lending Act (15
+U.S.C. 1631 et seq.) is amended by adding at the end the
+following:
+``Sec. 140B. Unfair credit practices
+``In connection with the extension of credit or creation of
+debt in or affecting commerce, as defined in section 4 of the
+Federal Trade Commission Act (15 U.S.C. 44), including any
+advance of funds or sale or assignment of future income or
+receivables that may or may not be credit, no person may take
+or receive from another person an obligation that constitutes
+or contains a cognovit or confession of judgment (for
+purposes other than executory process in the State of
+Louisiana), warrant of attorney, or other waiver of the right
+to notice and the opportunity to be heard in the event of
+suit or process thereon unless the other person provides to
+the lender a written affidavit describing the nature of the
+default and the date on which such default occurred.''.
+(b) Technical and Conforming Amendments.--The Truth in
+Lending Act (15 U.S.C. 1601 et seq.) is amended--
+(1) in section 103, by adding at the end the following:
+``(ff) The term `debt' means any obligation of a person to
+pay to another person money--
+``(1) regardless of whether such obligation is absolute or
+contingent if the understanding between the parties is that
+any part of the money shall be or may be returned;
+``(2) that includes the right of the person providing the
+money to an equitable remedy for breach of performance if the
+breach gives rise to a right to payment; and
+``(3) regardless of whether the obligation or right to an
+equitable remedy described in paragraph (2) has been reduced
+to judgment, fixed, contingent, matured, unmatured, disputed,
+undisputed, secured, or unsecured.''; and
+(2) in section 130(a), by striking ``creditor'' each place
+the term appears and inserting ``person''.
+SEC. 2. ENHANCED PROTECTION AGAINST DEBT COLLECTOR HARASSMENT
+OF SERVICEMEMBERS.
+(a) Communication in Connection With Debt Collection.--
+Section 805 of the Fair Debt Collection Practices Act (15
+U.S.C. 1692c) is amended by adding at the end the following:
+``(e) Communications Concerning Servicemember Debts.--
+``(1) Definition.--In this subsection, the term `covered
+member' means--
+``(A) a covered member or a dependent as defined in section
+987(i) of title 10, United States Code; and
+``(B)(i) an individual who was separated, discharged, or
+released from duty described in such section 987(i)(1), but
+only during the 365-day period beginning on the date of
+separation, discharge, or release; or
+``(ii) a person, with respect to an individual described in
+clause (i), described in subparagraph (A), (D), (E), or (I)
+of section 1072(2) of title 10, United States Code.
+``(2) Prohibitions.--A debt collector may not, in
+connection with the collection of any debt of a covered
+member--
+``(A) threaten to have the covered member reduced in rank;
+``(B) threaten to have the covered member's security
+clearance revoked; or
+``(C) threaten to have the covered member prosecuted under
+chapter 47 of title 10, United States Code (the Uniform Code
+of Military Justice).''.
+(b) Unfair Practices.--Section 808 of the Fair Debt
+Collection Practices Act (15 U.S.C. 1692f) is amended by
+adding at the end the following:
+``(9) The representation to any covered member (as defined
+under section 805(e)(1)) that failure to cooperate with a
+debt collector will result in--
+``(A) a reduction in rank of the covered member;
+``(B) a revocation of the covered member's security
+clearance; or
+``(C) prosecution under chapter 47 of title 10, United
+States Code (the Uniform Code of Military Justice).''.
+SEC. 3. GAO STUDY AND REPORT.
+(a) Study.--The Comptroller General of the United States
+shall conduct a study on the impact of debt collection on
+covered members (as defined under section 805(e)(1) of the
+Fair Debt Collection Practices Act, as added by section 201),
+which shall--
+(1) identify types of false, deceptive, misleading, unfair,
+abusive, and harassing debt collection practices experienced
+by covered members and make recommendations to eliminate
+these practices;
+(2) identify collection practices of creditors and debt
+collectors experienced by covered members;
+(3) discuss the effect of these practices on military
+readiness; and
+(4) discuss any national security implications, including
+the extent to which covered members with security clearances
+would be impacted by uncollected debt.
+(b) Report.--Not later than one year after the date of
+enactment of this Act, the Comptroller General of the United
+States shall submit to Congress a report on the completed
+study required under subsection (a).
+SEC. 4. PROTECTIONS FOR OBLIGORS AND COSIGNERS IN CASES OF
+DEATH OR TOTAL AND PERMANENT DISABILITY.
+(a) In General.--Section 140(g) of the Truth in Lending Act
+(15 U.S.C. 1650) is amended--
+(1) in paragraph (2)--
+(A) in the heading, by striking ``in case of death of
+borrower'';
+(B) in subparagraph (A), by inserting after ``of the
+death'', the following: ``or total and permanent
+disability''; and
+(C) in subparagraph (C), by inserting after ``of the
+death'', the following: ``or total and permanent
+disability''; and
+(2) by adding at the end the following:
+``(3) Discharge in case of death or total and permanent
+disability of borrower.--The holder of a private education
+loan may, upon request of the estate of a deceased student
+obligor or, in the case of a student obligor who incurs a
+total and permanent disability, upon certification by a
+medical professional of such total and permanent disability,
+discharge the liability of the student obligor on the loan
+and may not, after such a discharge--
+``(A) attempt to collect on the outstanding liability of
+the student obligor; and
+``(B) in the case of total and permanent disability,
+monitor the disability status of the student obligor at any
+point after the date of discharge.
+``(4) Total and permanent disability defined.--For the
+purposes of this subsection and with respect to an
+individual, the term `total and permanent disability' means
+the individual is totally and permanently disabled, as such
+term is defined in section 685.102(b) of title 34 of the Code
+of Federal Regulations.''.
+(b) Rulemaking.--The Director of the Bureau of Consumer
+Financial Protection may issue rules to implement the
+amendments made by subsection (a) as the Director determines
+appropriate.
+(c) Effective Date.--The amendments made by this section
+shall take effect 1 year after the date of the enactment of
+this Act.
+[[Page H2291]]
+SEC. 5. EXCLUSION OF PAID MEDICAL DEBT.
+Section 605(a) of the Fair Credit Reporting Act (15 U.S.C.
+1681c(a)) is amended by adding at the end the following:
+``(9) Paid debt arising from the receipt of medically
+necessary, non-elective medical services, products, or
+devices which from the date of payment, antedate the report
+by more than 1 year.''.
+SEC. 6. OPT-OUT NOTICE FOR ELECTRONIC COMMUNICATIONS OR
+ATTEMPTS TO COMMUNICATE.
+Section 805 of the Fair Debt Collection Practices Act (15
+U.S.C. 1692c), as amended by this Act, is further amended by
+adding at the end the following new subsection:
+``(f) Opt-out Notice for Electronic Communications or
+Attempts to Communicate.--A debt collector who communicates
+or attempts to communicate with a consumer electronically in
+connection with the collection of a debt using a specific
+email address, telephone number for text messages, or other
+electronic-medium address shall include in such communication
+or attempt to communicate a clear and conspicuous statement
+describing a reasonable and simple method by which the
+consumer can opt out of further electronic communications or
+attempts to communicate by the debt collector to that address
+or telephone number. The debt collector may not require,
+directly or indirectly, that the consumer, in order to opt
+out, pay any fee to the debt collector or provide any
+information other than the consumer's opt-out preferences and
+the email address, telephone number for text messages, or
+other electronic-medium address subject to the opt-out
+request.''.
+SEC. 7. EFFECTIVE DATE.
+Except as otherwise provided, this Act and the amendments
+made by this Act shall take effect on the date that is 180
+days after the date of enactment of this Act.
+The SPEAKER pro tempore. Pursuant to House Resolution 380, the
+gentlewoman from Missouri (Mrs. Wagner) and a Member opposed each will
+control 5 minutes.
+The Chair recognizes the gentlewoman from Missouri.
+Mrs. WAGNER. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, since taking the majority in the House last Congress,
+Democrats have attempted to undermine the financial system through a
+partisan wish list that is focused on one thing: undermining the
+pillars of our financial system. Now with one party dominating, they
+are jamming through a bill that will not only hurt the very borrowers
+they claim they are trying to help, but it will bring down our credit
+markets.
+There is no doubt that individuals and families are hurting. There is
+no doubt that the pandemic brought on additional challenges. But
+undermining our financial system is not the way to help Americans.
+Our financial system needs strong underwriting practices to keep it
+strong and reduce risk when extending credit. This is what makes credit
+more available at a lower cost to more borrowers. This is not to say
+that the system is perfect. Republicans agree there are some
+improvements that can be made to the way the system operates.
+The gentleman's amendment would replace the underlying bill with
+several targeted approaches to improve the debt collection and credit
+reporting framework.
+First, this amendment requires the inclusion of a clear disclosure
+when a confession of judgment, or COJ, is part of a business lending
+contract. It also requires lenders to obtain a written affidavit
+containing the date and nature of a borrower's default in order to
+execute a confession of judgment. This will help to ensure small
+businesses know the full terms and conditions of their agreement and
+help to crack down on reported misuse of COJs while allowing these
+important repayment tools to remain in use.
+This amendment preserves the servicemember protection bill sponsored
+by the gentlewoman from Pennsylvania. In fact, I would remind my
+colleagues that we just passed this bill on suspension 3 weeks ago. We
+should focus on getting this bill enacted into law rather than
+packaging it up in a wish list of partisan policies.
+This amendment would allow the estate of a deceased or permanently
+disabled student loan borrower to request a discharge of the student
+loan debt. This change would codify the current practice used by
+private lenders to ensure that student loan borrowers are indeed
+protected.
+This amendment would also address concerns with medical debt. It
+would eliminate the inclusion of paid, medically necessary, nonelective
+medical debt in credit reports. This provision is a responsible way to
+address the challenges that many face in repaying medical debt. At the
+same time, it does not make healthcare more expensive or services less
+available.
+Finally, this amendment acknowledges the work of the CFPB. What my
+colleagues won't tell you is that the final debt collection rule was
+the culmination of more than 7 years of research and analysis. It
+clarified the allowable uses of modern communication technology.
+This amendment, unlike the underlying bill, is a commonsense approach
+to improve the consumer experience in debt collection and credit
+reporting. It will strengthen our financial system while increasing
+options and choices for consumers when they owe debt.
+I hope my colleagues on the other side of the aisle will recognize
+this effort to make improvements that will benefit consumers and small
+businesses.
+Mr. Speaker, I urge support for the ranking member's amendment, and I
+reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I rise in opposition to the amendment.
+The SPEAKER pro tempore. The gentlewoman from California is
+recognized for 5 minutes.
+Ms. WATERS. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I rise in opposition to the substitute amendment offered
+by our committee's ranking member, Mr. McHenry.
+Mr. McHenry's partisan proposal is a nonstarter and not a serious
+attempt to find common ground with bipartisan support. The Republican
+substitute amendment does not include several important elements of my
+bill, H.R. 2547, and fundamentally weakens many essential protections
+in the few provisions he included.
+For example, Mr. McHenry included a prohibition on confessions of
+judgment based on title I. However, he included a harmful provision
+related to written affidavits, effectively undermining the prohibition
+on confessions of judgment, and severely reducing protections for small
+businesses struggling during this pandemic.
+The Federal Trade Commission banned confessions of judgment more than
+35 years ago in 1985 for consumer loans. Our committee learned that
+small business owners, like taxicab drivers, have unwittingly waived
+their typical due process rights when it comes to debt collection
+because these harmful confessions of judgment terms were tucked into
+their small business loan.
+Representative Velazquez has been leading the effort on this in the
+House, working in a bipartisan fashion with Senators Brown and Rubio.
+However, if we take the approach proposed by Mr. McHenry, small
+businesses will continue to be ripped off.
+Moreover, I would add H.R. 2547 includes several other bipartisan
+provisions, including title II, which is based on a bill by
+Representative Dean to protect servicemembers from harassment and
+threats from debt collectors. The House has unanimously passed title II
+as a standalone bill twice, both last year and this year.
+Additionally, title VI would enhance protections related to Federal
+agency debts based on a bill by Representative Cleaver that has been
+bipartisan for a number of years, but when we tried to move it on the
+suspension calendar last year, Republicans changed their mind.
+Unfortunately, at a time when consumers are suffering while debt
+collectors make record profits during the pandemic, the House
+Republican alternative is not a serious effort to reform and modernize
+our debt collection laws.
+So, Mr. Speaker, I urge my colleagues to reject the McHenry
+substitute amendment, and I reserve the balance of my time.
+Mrs. WAGNER. Mr. Speaker, I continue to reserve the balance of my
+time.
+Ms. WATERS. Mr. Speaker, I yield 2 minutes to the gentleman from
+Massachusetts (Mr. Auchincloss).
+Mr. AUCHINCLOSS. Mr. Speaker, I reject the amendment from the ranking
+member, and I urge my colleagues to do the same. I reject it because it
+undermines the premise of the chairwoman's bill. The premise of the
+chairwoman's bill is not prudential underwriting as a core premise of
+our economy which, of course, we need. It is not about payments for
+goods and services
+[[Page H2292]]
+which is obviously a pillar of the United States system of business.
+It is about fairness. It is about fairness in the allocation of
+credit and fairness in the collection of debt.
+What the chairwoman has put forward and what the amendment from the
+ranking member would undermine is a bill that recognizes that people
+should not be punished for circumstances outside of their control. They
+should not be precluded from accessing credit for something that
+happened to them that they did not wish upon themselves, and that they
+had no volition in doing.
+For example, this bill would ensure that medical debts do not
+prohibit people's access to credit. The senior Senator from my home
+State of Massachusetts famously demonstrated that medical bankruptcies
+were plaguing the middle class and the working class in this country.
+Indeed, the Consumer Financial Protection Bureau has reported that
+medical debt has a significant impact on consumer credit. After
+Americans undergo lifesaving treatment, they should not have to worry
+about the impact of a necessary medical procedure that they will have
+to stay at home to convalesce will have on their ability to then
+restart their life, start a business, or care for their family.
+H.R. 2547 seeks to give consumers time to fully recover until they
+are able to pay their bills. Nobody chooses to get sick, Mr. Speaker,
+and being sick should not show up on your credit report as you seek to
+access credit in the future.
+This bill is also about fairness in how we collect debts. There, of
+course, should be payments for goods and services, but there does not
+need to be and there should not be harassment.
+As a former marine officer, it deeply concerns me that servicemembers
+who need to concentrate on the mission at hand might be distracted,
+and, indeed, might even be demoted for debts outside of their control.
+Mrs. WAGNER. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, this amendment replaces the underlying bill with
+targeted approaches to improve the debt collection and credit reporting
+framework. This amendment preserves options for consumers and ensures
+that small businesses are paid for services that they provide. This
+amendment will ensure our financial system remains safe and sound.
+Mr. Speaker, I urge my colleagues to vote ``yes'' on this amendment,
+and I yield back the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. Pursuant to House Resolution 380, the
+previous question is ordered on the amendment offered by the
+gentlewoman from Missouri (Mrs. Wagner).
+The question is on the amendment.
+The question was taken; and the Speaker pro tempore announced that
+the noes appeared to have it.
+Mrs. WAGNER. Mr. Speaker, on that I demand the yeas and nays.
+The SPEAKER pro tempore. Pursuant to section 3(s) of House Resolution
+8, the yeas and nays are ordered.
+Pursuant to clause 8 of rule XX, further proceedings on this question
+are postponed.
+Amendments En Bloc No. 1 Offered by Ms. Waters of California
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, the
+unfinished business is the question on the adoption of amendments en
+bloc No. 1, printed in part B of House Report 117-29, on which further
+proceedings were postponed and on which the yeas and nays were ordered.
+The Clerk will redesignate the amendments en bloc.
+The Clerk redesignated the amendments en bloc.
+The SPEAKER pro tempore. The question is on the amendments en bloc
+offered by the gentlewoman from California (Ms. Waters).
+The vote was taken by electronic device, and there were--yeas 210,
+nays 202, not voting 18, as follows:
+[Roll No. 138]
+YEAS--210
+Adams
+Aguilar
+Allred
+Auchincloss
+Axne
+Barragan
+Bass
+Beatty
+Bera
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bourdeaux
+Bowman
+Boyle, Brendan F.
+Brown
+Brownley
+Bush
+Bustos
+Butterfield
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Chu
+Cicilline
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Cooper
+Correa
+Costa
+Courtney
+Craig
+Crist
+Crow
+Cuellar
+Davids (KS)
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Delgado
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Escobar
+Eshoo
+Espaillat
+Evans
+Fletcher
+Foster
+Frankel, Lois
+Gallego
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Gomez
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyer
+Huffman
+Jackson Lee
+Jacobs (CA)
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (TX)
+Kahele
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Kind
+Kirkpatrick
+Krishnamoorthi
+Kuster
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Leger Fernandez
+Levin (CA)
+Levin (MI)
+Lofgren
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Manning
+Matsui
+McBath
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Mfume
+Morelle
+Moulton
+Mrvan
+Nadler
+Napolitano
+Neal
+Neguse
+Newman
+Norcross
+O'Halleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Perlmutter
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Ross
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrader
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sherrill
+Sires
+Slotkin
+Smith (WA)
+Soto
+Spanberger
+Speier
+Stanton
+Stevens
+Strickland
+Suozzi
+Swalwell
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres (NY)
+Trahan
+Trone
+Underwood
+Vargas
+Veasey
+Vela
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Welch
+Wexton
+Williams (GA)
+Wilson (FL)
+Yarmuth
+NAYS--202
+Aderholt
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bentz
+Bergman
+Bice (OK)
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brady
+Brooks
+Buchanan
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Calvert
+Cammack
+Carl
+Carter (GA)
+Carter (TX)
+Cawthorn
+Chabot
+Cheney
+Cline
+Cloud
+Clyde
+Cole
+Crawford
+Crenshaw
+Curtis
+Davidson
+DesJarlais
+Diaz-Balart
+Donalds
+Duncan
+Dunn
+Emmer
+Estes
+Fallon
+Feenstra
+Ferguson
+Fischbach
+Fitzgerald
+Fitzpatrick
+Fleischmann
+Fortenberry
+Foxx
+Franklin, C. Scott
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia (CA)
+Gibbs
+Gimenez
+Gohmert
+Gonzales, Tony
+Gonzalez (OH)
+Good (VA)
+Gooden (TX)
+Gosar
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Hagedorn
+Harris
+Harshbarger
+Hartzler
+Hern
+Herrell
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill
+Hinson
+Hollingsworth
+Hudson
+Huizenga
+Issa
+Jackson
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Katko
+Keller
+Kelly (PA)
+Kim (CA)
+Kinzinger
+Kustoff
+LaMalfa
+Lamborn
+Latta
+LaTurner
+Letlow
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Mace
+Malliotakis
+Mann
+Massie
+Mast
+McCarthy
+McCaul
+McClain
+McClintock
+McHenry
+McKinley
+Meijer
+Meuser
+Miller (IL)
+Miller (WV)
+Miller-Meeks
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Mullin
+Murphy (NC)
+Nehls
+Newhouse
+Norman
+Nunes
+Obernolte
+Owens
+Palazzo
+Palmer
+Pence
+Perry
+Pfluger
+Posey
+Reed
+Reschenthaler
+Rice (SC)
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Scalise
+Schweikert
+Scott, Austin
+Sessions
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Taylor
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Turner
+Upton
+Valadao
+Van Drew
+Van Duyne
+Wagner
+Walberg
+Walorski
+Waltz
+Weber (TX)
+Wenstrup
+Westerman
+Williams (TX)
+Wittman
+Womack
+Young
+Zeldin
+NOT VOTING--18
+Beyer
+Comer
+Davis, Rodney
+Golden
+Jacobs (NY)
+Jones
+Kelly (MS)
+LaHood
+Lesko
+Lieu
+Lowenthal
+Moore (WI)
+Murphy (FL)
+Simpson
+Stivers
+Webster (FL)
+Wild
+Wilson (SC)
+{time}  1430
+Mr. MEIJER changed his vote from ``yea'' to ``nay.''
+Ms. DEAN and Mr. HORSFORD changed their vote from ``nay'' to ``yea.''
+[[Page H2293]]
+So the en bloc amendments were agreed to.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+Stated for:
+Ms. WILD. Madam Speaker, I arrived a moment too late to vote. Had I
+been present, I would have voted ``yea'' on rollcall No. 138.
+Mr. JONES. Madam Speaker, due to personal reasons, I was unable to
+record my vote. Had I been present, I would have voted ``yea'' on
+rollcall No. 138.
+MEMBERS RECORDED PURSUANT TO HOUSE RESOLUTION 8, 117TH CONGRESS
+Allred (Stevens)
+Cardenas (Gallego)
+Correa (Vargas)
+Crenshaw (Pfluger)
+Eshoo (Thompson (CA))
+Grijalva (Garcia (IL))
+Johnson (TX) (Jeffries)
+Kirkpatrick (Stanton)
+Lawson (FL) (Evans)
+Lofgren (Jeffries)
+McEachin (Wexton)
+Meng (Clark (MA))
+Napolitano (Chu)
+Payne (Pallone)
+Porter (Wexton)
+Ruiz (Aguilar)
+Ruppersberger (Raskin)
+Rush (Underwood)
+Sewell (DelBene)
+Strickland (DelBene)
+Torres (CA) (Barragan)
+Van Drew (Norman)
+Wilson (FL) (Hayes)
+Amendments En Bloc No. 2 Offered by Ms. Waters of California
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, the
+unfinished business is the question on the adoption of amendments en
+bloc No. 2, printed in part B of House Report 117-29, on which further
+proceedings were postponed and on which the yeas and nays were ordered.
+The Clerk will redesignate the amendments en bloc.
+The Clerk redesignated the amendments en bloc.
+The SPEAKER pro tempore. The question is on the amendments en bloc
+offered by the gentlewoman from California (Ms. Waters).
+The vote was taken by electronic device, and there were--yeas 208,
+nays 214, not voting 8, as follows:
+[Roll No. 139]
+YEAS--208
+Aderholt
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bentz
+Bergman
+Bice (OK)
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brooks
+Buchanan
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Calvert
+Cammack
+Carl
+Carter (GA)
+Carter (TX)
+Cawthorn
+Chabot
+Cheney
+Cline
+Cloud
+Clyde
+Cole
+Comer
+Crenshaw
+Curtis
+Davidson
+Davis, Rodney
+DesJarlais
+Diaz-Balart
+Donalds
+Duncan
+Dunn
+Emmer
+Estes
+Fallon
+Feenstra
+Ferguson
+Fischbach
+Fitzgerald
+Fitzpatrick
+Fleischmann
+Fortenberry
+Foxx
+Franklin, C. Scott
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia (CA)
+Gibbs
+Gimenez
+Gohmert
+Gonzales, Tony
+Gonzalez (OH)
+Good (VA)
+Gooden (TX)
+Gosar
+Gottheimer
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Hagedorn
+Harris
+Harshbarger
+Hartzler
+Hern
+Herrell
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill
+Hinson
+Hollingsworth
+Hudson
+Huizenga
+Issa
+Jackson
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Katko
+Keller
+Kelly (PA)
+Kim (CA)
+Kinzinger
+Kustoff
+LaHood
+LaMalfa
+Lamborn
+Latta
+LaTurner
+Lesko
+Letlow
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Mace
+Malliotakis
+Mann
+Massie
+Mast
+McCarthy
+McCaul
+McClain
+McClintock
+McHenry
+McKinley
+Meijer
+Meuser
+Miller (IL)
+Miller (WV)
+Miller-Meeks
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Mullin
+Murphy (NC)
+Nehls
+Newhouse
+Norman
+Nunes
+Obernolte
+Owens
+Palazzo
+Palmer
+Pence
+Perry
+Pfluger
+Posey
+Reed
+Reschenthaler
+Rice (SC)
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Scalise
+Schweikert
+Scott, Austin
+Sessions
+Sherrill
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spanberger
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Stivers
+Taylor
+Tenney
+Tiffany
+Timmons
+Turner
+Upton
+Valadao
+Van Drew
+Van Duyne
+Wagner
+Walberg
+Walorski
+Waltz
+Weber (TX)
+Wenstrup
+Westerman
+Williams (TX)
+Wilson (SC)
+Wittman
+Womack
+Young
+Zeldin
+NAYS--214
+Adams
+Aguilar
+Allred
+Auchincloss
+Axne
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Biggs
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bourdeaux
+Bowman
+Boyle, Brendan F.
+Brown
+Brownley
+Bush
+Bustos
+Butterfield
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Chu
+Cicilline
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Cooper
+Correa
+Costa
+Courtney
+Craig
+Crist
+Crow
+Cuellar
+Davids (KS)
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Delgado
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Escobar
+Eshoo
+Espaillat
+Evans
+Fletcher
+Foster
+Frankel, Lois
+Gallego
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Gomez
+Gonzalez, Vicente
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyer
+Huffman
+Jackson Lee
+Jacobs (CA)
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (TX)
+Jones
+Kahele
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Kind
+Kirkpatrick
+Krishnamoorthi
+Kuster
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Leger Fernandez
+Levin (CA)
+Levin (MI)
+Lieu
+Lofgren
+Lowenthal
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Manning
+Matsui
+McBath
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Mfume
+Moore (WI)
+Morelle
+Moulton
+Mrvan
+Nadler
+Napolitano
+Neal
+Neguse
+Newman
+Norcross
+O'Halleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Perlmutter
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Ross
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrader
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sires
+Slotkin
+Smith (WA)
+Soto
+Speier
+Stanton
+Stevens
+Strickland
+Suozzi
+Swalwell
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres (NY)
+Trahan
+Trone
+Underwood
+Vargas
+Veasey
+Vela
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Welch
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+Yarmuth
+NOT VOTING--8
+Brady
+Crawford
+Golden
+Jacobs (NY)
+Kelly (MS)
+Murphy (FL)
+Thompson (PA)
+Webster (FL)
+{time}  1502
+Mr. TAKANO, Mses. PRESSLEY, SLOTKIN, CASTOR of Florida, Messrs. NEAL,
+COOPER, RYAN, SUOZZI, Ms. SCHAKOWSKY, Messrs. CASTRO of Texas and SEAN
+PATRICK MALONEY of New York changed their vote from ``yea'' to ``nay.''
+Messrs. GROTHMAN, ARRINGTON, BARR, LOUDERMILK, and ROUZER changed
+their vote from ``nay'' to ``yea.''
+So the en bloc amendments were rejected.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+MEMBERS RECORDED PURSUANT TO HOUSE RESOLUTION 8, 117TH CONGRESS
+Allred (Stevens)
+Cardenas (Gallego)
+Correa (Vargas)
+Crenshaw (Pfluger)
+Eshoo (Thompson (CA))
+Grijalva (Garcia (IL))
+Johnson (TX) (Jeffries)
+Jones (Jacobs (CA))
+Kirkpatrick (Stanton)
+Lawson (FL) (Evans)
+Lieu (Beyer)
+Lofgren (Jeffries)
+Lowenthal (Beyer)
+McEachin (Wexton)
+Meng (Clark (MA))
+Moore (WI) (Beyer)
+Napolitano (Chu)
+Payne (Pallone)
+Porter (Wexton)
+Ruiz (Aguilar)
+Ruppersberger (Raskin)
+Rush (Underwood)
+Sewell (Del Bene)
+Strickland (DelBene)
+Torres (CA) (Barragan)
+Van Drew (Norman)
+Wilson (FL) (Hayes)
+Amendment No. 9 Offered by Mrs. Wagner
+The SPEAKER pro tempore (Ms. Jacobs of California). Pursuant to
+clause 8 of rule XX, the unfinished business is the question on
+amendment No. 9, printed in part B of House Report 117-29, on which
+further proceedings were postponed and on which the yeas and nays were
+ordered.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+The SPEAKER pro tempore. The question is on the amendment offered by
+the gentlewoman from Missouri (Mrs. Wagner).
+The vote was taken by electronic device, and there were--yeas 199,
+nays 224, not voting 7, as follows:
+[Roll No. 140]
+YEAS--199
+Aderholt
+Allen
+Amodei
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bentz
+Bergman
+Bice (OK)
+Bilirakis
+Bishop (NC)
+Bost
+Brady
+Brooks
+Buchanan
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Calvert
+Cammack
+Carl
+Carter (GA)
+Carter (TX)
+Case
+[[Page H2294]]
+Cawthorn
+Chabot
+Cheney
+Cline
+Cloud
+Clyde
+Cole
+Comer
+Crawford
+Crenshaw
+Curtis
+Davidson
+Davis, Rodney
+DesJarlais
+Diaz-Balart
+Donalds
+Duncan
+Dunn
+Emmer
+Estes
+Fallon
+Feenstra
+Ferguson
+Fischbach
+Fitzgerald
+Fitzpatrick
+Fleischmann
+Fortenberry
+Foxx
+Franklin, C. Scott
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia (CA)
+Gibbs
+Gimenez
+Gohmert
+Gonzales, Tony
+Gonzalez (OH)
+Gooden (TX)
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Griffith
+Grothman
+Guest
+Guthrie
+Hagedorn
+Harris
+Harshbarger
+Hartzler
+Hern
+Herrell
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill
+Hinson
+Hollingsworth
+Hudson
+Huizenga
+Issa
+Jackson
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Katko
+Keller
+Kelly (PA)
+Kim (CA)
+Kinzinger
+Kustoff
+LaHood
+LaMalfa
+Lamborn
+Latta
+LaTurner
+Lesko
+Letlow
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Mace
+Malliotakis
+Mann
+Mast
+McCarthy
+McCaul
+McClain
+McHenry
+McKinley
+Meijer
+Meuser
+Miller (IL)
+Miller (WV)
+Miller-Meeks
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Mullin
+Murphy (NC)
+Nehls
+Newhouse
+Norman
+Nunes
+Obernolte
+Owens
+Palazzo
+Palmer
+Pence
+Pfluger
+Posey
+Reed
+Reschenthaler
+Rice (SC)
+Rodgers (WA)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Rutherford
+Salazar
+Scalise
+Schrader
+Schweikert
+Scott, Austin
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spartz
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Stivers
+Taylor
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Turner
+Upton
+Valadao
+Van Drew
+Van Duyne
+Wagner
+Walberg
+Walorski
+Waltz
+Weber (TX)
+Wenstrup
+Westerman
+Williams (TX)
+Wilson (SC)
+Wittman
+Womack
+Young
+Zeldin
+NAYS--224
+Adams
+Aguilar
+Allred
+Armstrong
+Auchincloss
+Axne
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Biggs
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Boebert
+Bonamici
+Bourdeaux
+Bowman
+Boyle, Brendan F.
+Brown
+Brownley
+Bush
+Bustos
+Butterfield
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Casten
+Castor (FL)
+Castro (TX)
+Chu
+Cicilline
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Cooper
+Correa
+Costa
+Courtney
+Craig
+Crist
+Crow
+Cuellar
+Davids (KS)
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Delgado
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Escobar
+Eshoo
+Espaillat
+Evans
+Fletcher
+Foster
+Frankel, Lois
+Gallego
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Gomez
+Gonzalez, Vicente
+Good (VA)
+Gottheimer
+Green, Al (TX)
+Greene (GA)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyer
+Huffman
+Jackson Lee
+Jacobs (CA)
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (TX)
+Jones
+Kahele
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Kind
+Kirkpatrick
+Krishnamoorthi
+Kuster
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Leger Fernandez
+Levin (CA)
+Levin (MI)
+Lieu
+Lofgren
+Lowenthal
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Manning
+Massie
+Matsui
+McBath
+McClintock
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Mfume
+Moore (WI)
+Morelle
+Moulton
+Mrvan
+Nadler
+Napolitano
+Neal
+Neguse
+Newman
+Norcross
+O'Halleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Perlmutter
+Perry
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Ross
+Roy
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sherrill
+Sires
+Slotkin
+Smith (WA)
+Soto
+Spanberger
+Speier
+Stanton
+Stauber
+Stevens
+Strickland
+Suozzi
+Swalwell
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres (NY)
+Trahan
+Trone
+Underwood
+Vargas
+Veasey
+Vela
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Welch
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+Yarmuth
+NOT VOTING--7
+Golden
+Gosar
+Jacobs (NY)
+Kelly (MS)
+Murphy (FL)
+Rogers (AL)
+Webster (FL)
+{time}  1535
+Mr. NORCROSS changed his vote from ``yea'' to ``nay.''
+Messrs. GROTHMAN and TIMMONS changed their vote from ``nay'' to
+``yea.''
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+Stated for:
+Mr. STAUBER. I was recorded as a ``no'' roll-call 140 and intended as
+a ``yes.''
+MEMBERS RECORDED PURSUANT TO HOUSE RESOLUTION 8, 117TH CONGRESS
+Allred (Stevens)
+Cardenas (Gallego)
+Correa (Vargas)
+Crenshaw (Pfluger)
+Eshoo (Thompson (CA))
+Grijalva (Garcia (IL))
+Johnson (TX) (Jeffries)
+Jones (Jacobs (CA))
+Kirkpatrick (Stanton)
+Lawson (FL) (Evans)
+Lieu (Beyer)
+Lofgren (Jeffries)
+Lowenthal (Beyer)
+McEachin (Wexton)
+Meng (Clark (MA))
+Moore (WI) (Beyer)
+Napolitano (Chu)
+Payne (Pallone)
+Porter (Wexton)
+Ruiz (Aguilar)
+Ruppersberger (Raskin)
+Rush (Underwood)
+Sewell (DelBene)
+Strickland (DelBene)
+Torres (CA) (Barragan)
+Van Drew (Norman)
+Wilson (FL) (Hayes)
+The SPEAKER pro tempore. The previous question is ordered on the
+bill, as amended.
+The question is on the engrossment and third reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+The SPEAKER pro tempore. The question is on the passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Ms. WATERS. Madam Speaker, on that I demand the yeas and nays.
+The SPEAKER pro tempore. Pursuant to section 3(s) of House Resolution
+8, the yeas and nays are ordered.
+The vote was taken by electronic device, and there were--yeas 215,
+nays 207, not voting 8, as follows:
+[Roll No. 141]
+YEAS--215
+Adams
+Aguilar
+Allred
+Auchincloss
+Axne
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bourdeaux
+Bowman
+Boyle, Brendan F.
+Brown
+Brownley
+Bush
+Bustos
+Butterfield
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Chu
+Cicilline
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Cooper
+Correa
+Costa
+Courtney
+Craig
+Crist
+Crow
+Cuellar
+Davids (KS)
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Delgado
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Escobar
+Eshoo
+Espaillat
+Evans
+Fletcher
+Foster
+Frankel, Lois
+Gallego
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Gomez
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyer
+Huffman
+Jackson Lee
+Jacobs (CA)
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (TX)
+Jones
+Kahele
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Kind
+Kirkpatrick
+Krishnamoorthi
+Kuster
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Leger Fernandez
+Levin (CA)
+Levin (MI)
+Lieu
+Lofgren
+Lowenthal
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Manning
+Matsui
+McBath
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Mfume
+Moore (WI)
+Morelle
+Moulton
+Mrvan
+Nadler
+Napolitano
+Neal
+Neguse
+Newman
+Norcross
+O'Halleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Perlmutter
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Ross
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sherrill
+Sires
+Slotkin
+Smith (WA)
+Soto
+Spanberger
+Speier
+Stanton
+Stevens
+Strickland
+Suozzi
+Swalwell
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres (NY)
+Trahan
+Trone
+Underwood
+Vargas
+Veasey
+Vela
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Welch
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+Yarmuth
+NAYS--207
+Aderholt
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bentz
+Bergman
+Bice (OK)
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brady
+Brooks
+Buchanan
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Calvert
+Cammack
+Carl
+Carter (GA)
+Carter (TX)
+Cawthorn
+Chabot
+Cheney
+Cline
+Cloud
+[[Page H2295]]
+Clyde
+Cole
+Comer
+Crawford
+Crenshaw
+Curtis
+Davidson
+Davis, Rodney
+DesJarlais
+Diaz-Balart
+Donalds
+Duncan
+Dunn
+Emmer
+Estes
+Fallon
+Feenstra
+Ferguson
+Fischbach
+Fitzgerald
+Fitzpatrick
+Fleischmann
+Fortenberry
+Foxx
+Franklin, C. Scott
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia (CA)
+Gibbs
+Gimenez
+Gohmert
+Gonzales, Tony
+Gonzalez (OH)
+Good (VA)
+Gooden (TX)
+Gosar
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Hagedorn
+Harris
+Harshbarger
+Hartzler
+Hern
+Herrell
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill
+Hinson
+Hollingsworth
+Hudson
+Huizenga
+Issa
+Jackson
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Katko
+Keller
+Kelly (PA)
+Kim (CA)
+Kinzinger
+Kustoff
+LaHood
+LaMalfa
+Latta
+LaTurner
+Lesko
+Letlow
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Mace
+Malliotakis
+Mann
+Massie
+Mast
+McCarthy
+McCaul
+McClain
+McClintock
+McHenry
+McKinley
+Meijer
+Meuser
+Miller (IL)
+Miller (WV)
+Miller-Meeks
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Mullin
+Murphy (NC)
+Nehls
+Newhouse
+Norman
+Nunes
+Obernolte
+Owens
+Palazzo
+Palmer
+Pence
+Perry
+Pfluger
+Posey
+Reed
+Reschenthaler
+Rice (SC)
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Scalise
+Schrader
+Schweikert
+Scott, Austin
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Stivers
+Taylor
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Turner
+Upton
+Valadao
+Van Drew
+Van Duyne
+Wagner
+Walberg
+Walorski
+Waltz
+Weber (TX)
+Wenstrup
+Westerman
+Williams (TX)
+Wittman
+Womack
+Young
+Zeldin
+NOT VOTING--8
+Allen
+Golden
+Jacobs (NY)
+Kelly (MS)
+Lamborn
+Murphy (FL)
+Webster (FL)
+Wilson (SC)
+{time}  1607
+Mr. SCHRADER changed his vote from ``yea'' to ``nay.''
+Messrs. VEASEY, COSTA, and KEATING changed their vote from ``nay'' to
+``yea.''
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+Stated against:
+Mr. ALLEN. Mr. Speaker, had I been present, I would have voted
+``nay'' on rollcall No. 141.
+MEMBERS RECORDED PURSUANT TO HOUSE RESOLUTION 8, 117TH CONGRESS
+Allred (Stevens)
+Cardenas (Gallego)
+Correa (Vargas)
+Crenshaw (Pfluger)
+Eshoo (Thompson (CA))
+Grijalva (Garci (IL))
+Johnson (TX) (Jeffries)
+Jones (Jacobs (CA))
+Kirkpatrick (Stanton)
+Lawson (FL) (Evans)
+Lieu (Beyer)
+Lofgren (Jeffries)
+Lowenthal (Beyer)
+McEachin (Wexton)
+Meng (Clark (MA))
+Moore (WI) (Beyer)
+Napolitano (Chu)
+Payne (Pallone)
+Porter (Wexton)
+Ruiz (Aguilar)
+Ruppersberger (Raskin)
+Rush (Underwood)
+Sewell (DelBene)
+Strickland (DelBene)
+Torres (CA) (Barragan)
+Van Drew (Norman)
+Wilson (FL) (Hayes)
+____________________

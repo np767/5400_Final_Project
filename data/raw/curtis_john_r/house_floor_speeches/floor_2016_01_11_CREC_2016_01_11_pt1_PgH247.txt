@@ -1,0 +1,256 @@
+[Congressional Record Volume 162, Number 6 (Monday, January 11, 2016)]
+[House]
+[Pages H247-H249]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+PRESIDENTIAL LIBRARY DONATION REFORM ACT OF 2016
+Mr. CHAFFETZ. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 1069) to amend title 44, United States Code, to require
+information on contributors to Presidential library fundraising
+organizations, and for other purposes, as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 1069
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Presidential Library
+Donation Reform Act of 2016''.
+SEC. 2. PRESIDENTIAL LIBRARIES.
+(a) In General.--Section 2112 of title 44, United States
+Code, is amended by adding at the end the following new
+subsection:
+``(h) Presidential Library Fundraising Organization
+Reporting Requirement.--
+``(1) Reporting requirement.--Not later than 15 days after
+the end of a calendar quarter and until the end of the
+requirement period described in paragraph (2), each
+Presidential library fundraising organization shall submit to
+the Archivist information for that quarter in an electronic
+searchable and sortable format with respect to every
+contributor who gave the organization a contribution or
+contributions (whether monetary or in-kind) totaling $200 or
+more for the quarterly period.
+[[Page H248]]
+``(2) Duration of reporting requirement.--The requirement
+to submit information under paragraph (1) shall continue
+until the later of the following occurs:
+``(A) The Archivist has accepted, taken title to, or
+entered into an agreement to use any land or facility for the
+Presidential archival depository for the President for whom
+the Presidential library fundraising organization was
+established.
+``(B) The President whose archives are contained in the
+deposit no longer holds the Office of President.
+``(3) Information required to be published.--The Archivist
+shall publish on the website of the National Archives and
+Records Administration, within 30 days after each quarterly
+filing, any information that is submitted under paragraph
+(1), without a fee or other access charge in a downloadable
+database.
+``(4) Submission of false material information
+prohibited.--
+``(A) Individual.--
+``(i) Prohibition.--It shall be unlawful for any person who
+makes a contribution described in paragraph (1) to knowingly
+and willfully submit false material information or omit
+material information with respect to the contribution to an
+organization described in such paragraph.
+``(ii) Penalty.--The penalties described in section 1001 of
+title 18, United States Code, shall apply with respect to a
+violation of clause (i) in the same manner as a violation
+described in such section.
+``(B) Organization.--
+``(i) Prohibition.--It shall be unlawful for any
+Presidential library fundraising organization to knowingly
+and willfully submit false material information or omit
+material information under paragraph (1).
+``(ii) Penalty.--The penalties described in section 1001 of
+title 18, United States Code, shall apply with respect to a
+violation of clause (i) in the same manner as a violation
+described in such section.
+``(5) Prohibition on contribution.--
+``(A) In general.--It shall be unlawful for a person to
+knowingly and willfully--
+``(i) make a contribution described in paragraph (1) in the
+name of another person;
+``(ii) permit his or her name to be used to effect a
+contribution described in paragraph (1); or
+``(iii) accept a contribution described in paragraph (1)
+that is made by one person in the name of another person.
+``(B) Penalty.--The penalties set forth in section 309(d)
+of the Federal Election Campaign Act of 1971 (2 U.S.C.
+437g(d)) shall apply to a violation of subparagraph (A) in
+the same manner as if such violation were a violation of
+section 316(b)(3) of such Act (2 U.S.C. 441b(b)(3)).
+``(6) Regulations required.--The Archivist shall promulgate
+regulations for the purpose of carrying out this subsection.
+``(7) Definitions.--In this subsection:
+``(A) Information.--The term `information' means the
+following:
+``(i) The amount or value of each contribution made by a
+contributor referred to in paragraph (1) in the quarter
+covered by the submission.
+``(ii) The source of each such contribution, and the
+address of the entity or individual that is the source of the
+contribution.
+``(iii) If the source of such a contribution is an
+individual, the occupation of the individual.
+``(iv) The date of each such contribution.
+``(B) Presidential library fundraising organization.--The
+term `Presidential library fundraising organization' means an
+organization that is established for the purpose of raising
+funds for creating, maintaining, expanding, or conducting
+activities at--
+``(i) a Presidential archival depository; or
+``(ii) any facilities relating to a Presidential archival
+depository.''.
+(b) Applicability.--Section 2112(h) of title 44, United
+States Code (as added by subsection (a))--
+(1) shall apply to an organization established for the
+purpose of raising funds for creating, maintaining,
+expanding, or conducting activities at a Presidential
+archival depository or any facilities relating to a
+Presidential archival depository before, on, or after the
+date of the enactment of this Act; and
+(2) shall only apply with respect to contributions (whether
+monetary or in-kind) made after the date of the enactment of
+this Act.
+SEC. 3. NO ADDITIONAL FUNDS AUTHORIZED.
+No additional funds are authorized to carry out the
+requirements of this Act and the amendments made by this Act.
+Such requirements shall be carried out using amounts
+otherwise authorized.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Utah (Mr. Chaffetz) and the gentlewoman from the District of Columbia
+(Ms. Norton) each will control 20 minutes.
+The Chair recognizes the gentleman from Utah.
+General Leave
+Mr. CHAFFETZ. I ask unanimous consent that all Members may have 5
+legislative days in which to revise and extend their remarks and
+include extraneous material on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Utah?
+There was no objection.
+Mr. CHAFFETZ. Mr. Speaker, I yield 5 minutes to the gentleman from
+Tennessee (Mr. Duncan), the gentleman who has championed this issue as
+the prime sponsor.
+Mr. DUNCAN of Tennessee. Mr. Speaker, I thank Chairman Chaffetz for
+his support and for yielding me this time.
+This is a bill that has passed in three separate Congresses with
+overwhelming bipartisan support and very, very little opposition. In
+fact, in this Congress, it is cosponsored by Ranking Member Elijah
+Cummings. In past Congresses, it has been cosponsored by Ranking Member
+Edolphus Towns; and in one Congress, Chairman Waxman became the primary
+sponsor. So it is a very bipartisan bill.
+It is a very simple bill, one that I think can be supported by anyone
+who is opposed to secrecy in government and believes in an open,
+transparent system. The Presidential Library Donation Reform Act simply
+requires that donations to a President's library greater than $200 be
+disclosed to the public and posted online.
+It is very surprising to people that there are no laws governing
+these donations at this time. In fact, any person, corporation, or
+foreign government can donate any amount, unreported, while a President
+is still in office.
+I first introduced this bill in the 106th Congress after reading a
+front-page story in The Washington Times reporting that foreign
+governments from the Middle East were making very large donations to
+the proposed library for President Clinton. I was concerned about the
+influence of donations being made by foreign governments. However, I
+hasten to say this is not directed toward former President Clinton or
+anyone else. This bill has been introduced and passed, and I have
+sponsored this bill under both Republican and Democratic Presidents.
+I did read at one point that after I introduced this bill that
+President Clinton's library had received a $450,000 contribution from
+the ex-wife of Marc Rich, who had fled the country to evade $40 million
+in taxes. So these types of things have certainly raised concern.
+In 2013, the Sunlight Foundation's policy director endorsed my bill
+during a hearing on Federal Government transparency in the House
+Oversight and Government Reform Committee, saying: ``It would provide
+valuable information on special interests whose donations put them in
+close proximity with Presidents.''
+{time}  1715
+Presidential libraries were once modest structures, but they have
+grown rapidly over the years into megamuseums devoted to a President's
+life and legacy. President George W. Bush's library topped $500 million
+in costs. That is seven times the cost of his father's library. A
+recent report in The New York Times noted that President Obama's
+library could end up costing $1 billion.
+As costs soar, clearly there is potential for abuse, no matter who is
+President. This is, as I said, not a partisan issue. It is not directed
+at any President. It is simply a good government bill that I think
+almost everyone can support, and certainly they have in the past.
+I urge support for this legislation.
+Ms. NORTON. Mr. Speaker, I yield myself such time as I may consume.
+I support this bill, Mr. Speaker.
+I want to thank Representative Duncan and Ranking Member Cummings for
+sponsoring this legislation. Representative Duncan first sponsored a
+bill to improve Presidential libraries 16 years ago. What has happened
+that we can't get this bill through the Congress? I hope this bill this
+year will prove different. This Congress, I hope we can finally get
+this important reform on the President's desk where I am sure it will
+be signed.
+The Presidential Library Donation Reform Act would provide
+transparency to the process for building Presidential libraries. The
+practice of creating a Presidential library began decades ago with
+President Franklin Delano Roosevelt. The tradition has carried on
+through every President since that time, and it is going to continue.
+Presidential libraries have become increasingly more expensive as
+they
+[[Page H249]]
+have evolved into multipurpose centers that do more than simply house
+Presidential records. For example, the William J. Clinton Library cost
+an estimated $165 million, while the George W. Bush Presidential Center
+cost an estimated $250 million to build, with President Bush having
+raised approximately half a billion dollars for his library, museum,
+and institute. We can expect that with each new President, these
+libraries are going to cost more. That is just natural.
+Under current law, there is no requirement to disclose the identities
+of those who donate to a Presidential library, and a President is able
+to secure an unlimited amount of private donations while still in
+office.
+The bill before us would make a simple but very important change in
+existing law. Under this bill, organizations that raise money to build
+Presidential libraries would be required to disclose the identity of
+any individual who donates more than $200. It seems reasonable to me,
+Mr. Speaker. The National Archives and Records Administration would
+then be required to post the donation information in a manner that is
+free to access and downloadable.
+Additionally, this legislation would create criminal penalties for
+individuals who report false information on donations and for
+fundraising organizations that omit donation information.
+A group of 15 good government organizations, including Citizens for
+Responsibility and Ethics in Washington and the Sunlight Foundation,
+sent a letter urging the House to support this bill. Here is what they
+wrote:
+``Under the current opaque system, Presidents raise funds privately
+to establish their Presidential libraries. These efforts, which often
+begin long before they leave office, are unregulated and undisclosed,
+creating opportunities for, or the appearance of, influence-peddling.
+Improved transparency would help reduce the appearance of impropriety
+and help deter inappropriate behavior.''
+The appearance is just as important as the behavior itself, I
+emphasize, Mr. Speaker.
+This bill was approved without opposition by the Committee on
+Oversight and Government Reform in March and has passed the House
+several times before.
+As I noted, companion legislation sponsored by Senators Corker and
+Johnson was approved by the Homeland Security and Governmental Affairs
+Committee earlier this year.
+It looks like this bill may become law after all, Mr. Duncan.
+I urge every Member of this body to support transparency by voting
+for this important legislation.
+I yield back the balance of my time.
+Mr. CHAFFETZ. Mr. Speaker, I yield myself such time as I may consume.
+I urge its passage. It is high time that this passed. It is
+bipartisan, it is bicameral, and it is done with some good leadership
+from Mr. Duncan. I urge its adoption.
+I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Utah (Mr. Chaffetz) that the House suspend the rules and
+pass the bill, H.R. 1069, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+A motion to reconsider was laid on the table.
+____________________

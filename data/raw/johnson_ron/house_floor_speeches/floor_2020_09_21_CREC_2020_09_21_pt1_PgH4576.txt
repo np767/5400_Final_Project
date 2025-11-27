@@ -1,0 +1,343 @@
+[Congressional Record Volume 166, Number 163 (Monday, September 21, 2020)]
+[House]
+[Pages H4576-H4579]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+EFFECTIVE ASSISTANCE OF COUNSEL IN THE DIGITAL ERA ACT
+Ms. SCANLON. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 5546) to regulate monitoring of electronic communications
+between an incarcerated person in a Bureau of Prisons facility and that
+person's attorney or other legal representative, and for other
+purposes.
+[[Page H4577]]
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 5546
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Effective Assistance of
+Counsel in the Digital Era Act''.
+SEC. 2. ELECTRONIC COMMUNICATIONS BETWEEN AN INCARCERATED
+PERSON AND THE PERSON'S ATTORNEY.
+(a) Prohibition on Monitoring.--Not later than 180 days
+after the date of the enactment of this Act, the Attorney
+General shall create a program or system, or modify any
+program or system that exists on the date of enactment of
+this Act, through which an incarcerated person sends or
+receives an electronic communication, to exclude from
+monitoring the contents of any privileged electronic
+communication. In the case that the Attorney General creates
+a program or system in accordance with this subsection, the
+Attorney General shall, upon implementing such system,
+discontinue using any program or system that exists on the
+date of enactment of this Act through which an incarcerated
+person sends or receives a privileged electronic
+communication, except that any program or system that exists
+on such date may continue to be used for any other electronic
+communication.
+(b) Retention of Contents.--A program or system or a
+modification to a program or system under subsection (a) may
+allow for retention by the Bureau of Prisons of, and access
+by an incarcerated person to, the contents of electronic
+communications, including the contents of privileged
+electronic communications, of the person until the date on
+which the person is released from prison.
+(c) Attorney-Client Privilege.--Attorney-client privilege,
+and the protections and limitations associated with such
+privilege (including the crime fraud exception), applies to
+electronic communications sent or received through the
+program or system established or modified under subsection
+(a).
+(d) Accessing Retained Contents.--Contents retained under
+subsection (b) may only be accessed by a person other than
+the incarcerated person for whom such contents are retained
+under the following circumstances:
+(1) Attorney general.--The Attorney General may only access
+retained contents if necessary for the purpose of creating
+and maintaining the program or system, or any modification to
+the program or system, through which an incarcerated person
+sends or receives electronic communications. The Attorney
+General may not review retained contents that are accessed
+pursuant to this paragraph.
+(2) Investigative and law enforcement officers.--
+(A) Warrant.--
+(i) In general.--Retained contents may only be accessed by
+an investigative or law enforcement officer pursuant to a
+warrant issued by a court pursuant to the procedures
+described in the Federal Rules of Criminal Procedure.
+(ii) Approval.--No application for a warrant may be made to
+a court without the express approval of a United States
+Attorney or an Assistant Attorney General.
+(B) Privileged information.--
+(i) Review.--Before retained contents may be accessed
+pursuant to a warrant obtained under subparagraph (A), such
+contents shall be reviewed by a United States Attorney to
+ensure that privileged electronic communications are not
+accessible.
+(ii) Barring participation.--A United States Attorney who
+reviews retained contents pursuant to clause (i) shall be
+barred from--
+(I) participating in a legal proceeding in which an
+individual who sent or received an electronic communication
+from which such contents are retained under subsection (b) is
+a defendant; or
+(II) sharing the retained contents with an attorney who is
+participating in such a legal proceeding.
+(3) Motion to suppress.--In a case in which retained
+contents have been accessed in violation of this subsection,
+a court may suppress evidence obtained or derived from access
+to such contents upon motion of the defendant.
+(e) Definitions.--In this Act--
+(1) the term ``agent of an attorney or legal
+representative'' means any person employed by or contracting
+with an attorney or legal representative, including law
+clerks, interns, investigators, paraprofessionals, and
+administrative staff;
+(2) the term ``contents'' has the meaning given such term
+in 2510 of title 18, United States Code;
+(3) the term ``electronic communication'' has the meaning
+given such term in section 2510 of title 18, United States
+Code, and includes the Trust Fund Limited Inmate Computer
+System;
+(4) the term ``monitoring'' means accessing the contents of
+an electronic communication at any time after such
+communication is sent;
+(5) the term ``incarcerated person'' means any individual
+in the custody of the Bureau of Prisons or the United States
+Marshals Service who has been charged with or convicted of an
+offense against the United States, including such an
+individual who is imprisoned in a State institution; and
+(6) the term ``privileged electronic communication''
+means--
+(A) any electronic communication between an incarcerated
+person and a potential, current, or former attorney or legal
+representative of such a person; and
+(B) any electronic communication between an incarcerated
+person and the agent of an attorney or legal representative
+described in subparagraph (A).
+The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from
+Pennsylvania (Ms. Scanlon) and the gentleman from North Dakota (Mr.
+Armstrong) each will control 20 minutes.
+The Chair recognizes the gentlewoman from Pennsylvania.
+General Leave
+Ms. SCANLON. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days to revise and extend their remarks and
+include extraneous material on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from Pennsylvania?
+There was no objection.
+Ms. SCANLON. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, H.R. 5546, the Effective Assistance of Counsel in the
+Digital Era Act would require the Federal Bureau of Prisons to
+establish a system to exempt from monitoring any privileged electronic
+communications between incarcerated individuals and their attorneys or
+legal representatives.
+The Sixth Amendment to the U.S. Constitution provides the right to
+counsel to assist in the defense of those accused of criminal offenses.
+In order to represent their clients in an effective manner, defense
+attorneys must have the ability to communicate candidly with their
+clients.
+The attorney-client privilege, which keeps communications between
+individuals and their attorneys confidential, exists, in part, to
+foster this sort of open communication.
+This privilege, of course, does not protect communications between a
+client and an attorney made in furtherance of, or in order to cover up
+a crime or fraud, also known as the crime-fraud exception. But to
+ensure free and open communication between individuals and their
+attorneys--a fundamental component of the effective assistance of
+counsel guaranteed by the Constitution--other communications between
+them may remain private.
+It goes without saying that defendants who are not in custody are
+less constrained in their ability to have candid conversations with
+their attorneys than those defendants who are in custody.
+Generally speaking, out-of-custody defendants can go to their
+attorneys' offices, speak with them freely on the phone, or write
+letters back and forth with their attorneys without fear of
+interference. To an extent, in-custody defendants also have these
+protections: Bureau of Prisons regulations ensure that inmates are able
+to meet with their attorneys without auditory supervision, and that
+they can talk on the phone and exchange letters with their attorneys
+without monitoring.
+But these same protections do not apply to email communications for
+the nearly 150,000 individuals currently in the Bureau of Prisons'
+custody, many of whom are in pretrial detention and have not been
+convicted of any crime.
+Since 2009, email communications have been available for Bureau of
+Prisons inmates through a system known as TRULINCS. TRULINCS requires
+inmates and their contacts to consent to monitoring, however, even in
+the case of communications between inmates and their attorneys.
+Over a decade ago, BOP clearly recognized the growing importance of
+email for purposes of efficiency and speed of communication between
+inmates and their outside contacts. Over time, email has rapidly grown
+into a primary means of communication between inmates and their
+attorneys, but without a system in place to maintain attorney-client
+privilege. Without that system, the Bureau of Prisons risks severely
+hindering the effective representation of inmates. It is even more
+important for us to enable these confidential communications at this
+point in time, given that the pandemic has severely hampered the
+ability of attorneys to meet with their clients in person.
+It is well past time to rectify this problem. I am pleased that H.R.
+5546 would do just that, by requiring BOP to put in place a system that
+will exempt
+[[Page H4578]]
+from monitoring any privileged electronic communications between
+incarcerated individuals and their attorneys or legal representatives.
+The bill also includes additional protections, including the
+requirement that the contents of electronic communications be destroyed
+when an inmate is released from prison, as well as authorizing the
+suppression of evidence obtained or derived from access to information
+in violation of provisions set forth in this bill.
+This is an important bill, and one that has been needed for quite
+some time. I commend our colleagues, Representatives Hakeem Jeffries
+and Doug Collins, for their efforts and leadership in developing this
+bipartisan piece of legislation.
+Mr. Speaker, I urge all of my colleagues to join me in support of
+this bill today, and I reserve the balance of my time.
+Mr. ARMSTRONG. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, I rise today in support of H.R. 5546, the Effective
+Assistance of Counsel in the Digital Era Act.
+As a defense attorney, I cannot overemphasize the importance of
+protecting attorney-client privilege. The ability to have confidential
+discussions with a client for the purpose of providing legal advice is
+foundational to providing effective assistance of counsel.
+This bill will help modernize our criminal justice system by
+extending attorney-client privilege to electronic communications sent
+or received through the Bureau of Prisons' email system.
+This will allow incarcerated individuals to communicate with their
+attorneys efficiently and privately. And it would prohibit the Bureau
+of Prisons from monitoring privileged email communications.
+We all agree that attorney-client privilege is a vital component of
+our legal system, as it helps to ensure that a criminal defendant has
+an effective advocate in the courtroom.
+Emails between incarcerated individuals and their attorneys should
+absolutely fall under attorney-client protections. This bill would
+protect the rights of incarcerated men and women to speak openly and
+honestly with their attorneys via email without fear that the
+prosecution is monitoring those communications.
+Other methods of communication, such as in-person meetings and
+letters, can be particularly burdensome and time consuming. Even if an
+attorney is in close proximity to the incarcerated client, it could
+take hours to travel to a detention facility and visit with that
+client.
+H.R. 5546 requires the Attorney General to ensure that BOP's email
+system excludes the contents of electronic communications between an
+incarcerated person and his or her attorney.
+The bill stipulates that the protections and limitations associated
+with attorney-client privilege, including the crime-fraud exception,
+apply to electronic communications. It does permit BOP to retain
+electronic communications until the incarcerated person is released but
+specifies that the contents may only be accessed under very limited
+circumstances.
+Finally, it allows a court to suppress evidence obtained or derived
+from access to the retained contents if such access were granted in
+violation of the act.
+Congress must continually address the application of existing law to
+emerging technology. This is a commonsense application of existing law
+to a technology that is decades old. It is time we act.
+Mr. Speaker, I urge my colleagues to join me in supporting H.R. 5546,
+and I reserve the balance of my time.
+Ms. SCANLON. Mr. Speaker, I yield 5 minutes to the gentleman from New
+York (Mr. Jeffries).
+Mr. JEFFRIES. Mr. Speaker, I thank the distinguished gentlewoman from
+the Commonwealth of Pennsylvania for her leadership and for yielding.
+Mr. Speaker, I rise in support of H.R. 5546, the Effective Assistance
+of Counsel in the Digital Era Act.
+The Sixth Amendment to the United States Constitution provides that
+in all criminal prosecutions the accused shall have the assistance of
+counsel for his defense.
+To effectively represent a client and provide the best possible legal
+advice, an attorney must be fully informed about the facts of the case.
+But this can only be achieved through confidential communication
+between the attorney and their client. That is why the attorney-client
+privilege is so critical.
+The Supreme Court stated in Lanza v. New York that ``even in a jail,
+or perhaps especially there, the relationships which the law has
+endowed with particularized confidentiality must continue to receive
+unceasing protection.''
+There are nearly 127,000 individuals currently in BOP custody, many
+of whom are in pretrial detention and have not been convicted of a
+crime. These Americans are innocent until proven guilty. Like any
+person involved in a criminal proceeding, these individuals need to be
+able to confidentially communicate with their attorneys in order to
+vindicate their rights under law.
+The bipartisan Effective Assistance of Counsel in the Digital Era Act
+will enable incarcerated individuals to communicate with their legal
+representatives privately, efficiently, and safely by prohibiting the
+Bureau of Prisons from monitoring privileged electronic communications.
+While BOP regulations place protections on attorney visits, phone
+calls, and traditional mail, no such protections currently exist in the
+context of email communications sent through BOP's electronic mail
+service, the Trust Fund Limited Inmate Computer System, otherwise known
+as TRULINCS. The TRULINCS email system has become the easiest, fastest,
+and most efficient method of communication available to incarcerated
+individuals and their attorneys.
+Even a brief client visit can take hours, as the distinguished
+gentleman from North Dakota pointed out, hours out of an attorney's day
+when you include travel and wait times. Confidential phone calls are
+often subject to time limitations and cannot usually be scheduled
+immediately.
+{time}  1415
+Postal mail can take an especially long time to reach an incarcerated
+individual because it must first be opened and screened. These delays
+should be unnecessary in a prison system that currently permits
+electronic communications and would be if the attorney-client privilege
+was consistently applied to email communication.
+The situation has become even more urgent in light of BOP's decision
+to suspend legal visits as part of its COVID-19 Modified Operations
+Plan.
+To solve this challenge, H.R. 5546 would require the Attorney General
+to ensure that the BOP email system excludes from monitoring the
+contents of electronic communications between an incarcerated person
+and their attorney.
+BOP would, of course, be allowed to retain the contents of those
+messages up until the incarcerated person is released, but they would
+be accessible only under very limited circumstances. The bill also
+allows a court to suppress evidence that is obtained or derived from
+illegal access to the retained contents.
+Our criminal justice system depends on the attorney-client privilege
+to ensure that lawyers are able to effectively represent their clients.
+That is why this legislation is so critical.
+I thank my good friend, Representative Doug Collins, Chairman Jerry
+Nadler, and Ranking Member   Jim Jordan for their leadership, as well
+as Members on both sides of the aisle.
+I also thank the ACLU, the American Bar Association, Americans for
+Prosperity, #cut50, Due Process Institute, Faith and Freedom Coalition,
+Families Against Mandatory Minimums, Federal Defenders, FreedomWorks,
+National Action Network, National Association of Criminal Defense
+Lawyers, Prison Fellowship, and Right on Crime for their support of
+this legislation.
+Mr. Speaker, I urge my colleagues to vote ``yes'' on H.R. 5546.
+Mr. ARMSTRONG. Mr. Speaker, I yield myself such time as I may
+consume.
+I do appreciate this bill, and the only question I sometimes have is
+that it seems like email has been around for a long time, and we are
+just getting to it, but better later than never.
+But I also think it is really important to recognize a lot of these
+cases are public defense cases. You will have public defenders who have
+bigger caseloads than we would like sometimes
+[[Page H4579]]
+and clients that don't necessarily trust the system.
+This is good for defendants. This is good for lawyers. This is good
+for overall faith in the criminal justice system. It protects people,
+and it doesn't just protect the client who that public defender is
+recognizing. It helps all of his other clients if he or she can
+communicate with all of their clients quicker and more efficiently.
+This is a really good bill. I urge everybody to support it, and I
+yield back the balance of my time.
+Ms. SCANLON. Mr. Speaker, H.R. 5546 is an important measure to
+reinforce the attorney-client privilege, an issue that is essential to
+the fair administration of our criminal justice system and one that is
+even more urgent in this pandemic.
+For all the reasons discussed here today, I urge my colleagues to
+join me in supporting this bipartisan legislation, and I yield back the
+balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentlewoman from Pennsylvania (Ms. Scanlon) that the House suspend the
+rules and pass the bill, H.R. 5546.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill was passed.
+A motion to reconsider was laid on the table.
+____________________

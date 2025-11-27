@@ -1,0 +1,904 @@
+[Congressional Record Volume 166, Number 163 (Monday, September 21, 2020)]
+[House]
+[Pages H4583-H4589]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+DOMESTIC TERRORISM PREVENTION ACT OF 2020
+Ms. JACKSON LEE. Mr. Speaker, I move to suspend the rules and pass
+the bill (H.R. 5602) to authorize dedicated domestic terrorism offices
+within the Department of Homeland Security, the Department of Justice,
+and the Federal Bureau of Investigation to analyze and monitor domestic
+terrorist activity and require the Federal Government to take steps to
+prevent domestic terrorism, as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 5602
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Domestic Terrorism
+Prevention Act of 2020''.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) Recent reports have demonstrated that White
+supremacists and other far-right-wing extremists are the most
+significant domestic terrorism threat facing the United
+States, including--
+(A) a February 22, 2019, New York Times op-ed, by a Trump
+Administration United States Department of Justice official,
+who wrote that ``white supremacy and far-right extremism are
+among the greatest domestic-security threats facing the
+United States. Regrettably, over the past 25 years, law
+enforcement, at both the Federal and State levels, has been
+slow to respond. . . . Killings committed by individuals and
+groups associated with far-right extremist groups have risen
+significantly.'';
+(B) an April 2017 Government Accountability Office report
+on the significant, lethal threat posed by domestic violent
+extremists, which--
+(i) explained that ``[s]ince September 12, 2001, the number
+of fatalities caused by domestic violent extremists has
+ranged from 1 to 49 in a given year.''; and
+(ii) noted that ``[F]atalities resulting from attacks by
+far right wing violent extremists have exceeded those caused
+by radical Islamist violent extremists in 10 of the 15 years,
+and were the same in 3 of the years since September 12, 2001.
+Of the 85 violent extremist incidents that resulted in death
+[[Page H4584]]
+since September 12, 2001, far right wing violent extremist
+groups were responsible for 62 (73 percent) while radical
+Islamist violent extremists were responsible for 23 (27
+percent).''; and
+(C) an unclassified May 2017 joint intelligence bulletin
+from the Federal Bureau of Investigation and the Department
+of Homeland Security, which found that ``white supremacist
+extremism poses [a] persistent threat of lethal violence,''
+and that White supremacists ``were responsible for 49
+homicides in 26 attacks from 2000 to 2016 . . . more than any
+other domestic extremist movement''.
+(2) Recent domestic terrorist attacks include--
+(A) the August 5, 2012, mass shooting at a Sikh gurdwara in
+Oak Creek, Wisconsin, in which a White supremacist shot and
+killed 6 members of the gurdwara;
+(B) the April 13, 2014, mass shooting at a Jewish community
+center and a Jewish assisted living facility in Overland
+Park, Kansas, in which a neo-Nazi shot and killed 3
+civilians, including a 14-year-old teenager;
+(C) the June 8, 2014, ambush in Las Vegas, Nevada, in which
+2 supporters of the far-right-wing ``patriot'' movement shot
+and killed 2 police officers and a civilian;
+(D) the June 17, 2015, mass shooting at the Emanuel AME
+Church in Charleston, South Carolina, in which a White
+supremacist shot and killed 9 members of the church;
+(E) the November 27, 2015, mass shooting at a Planned
+Parenthood clinic in Colorado Springs, Colorado, in which an
+anti-abortion extremist shot and killed a police officer and
+2 civilians;
+(F) the March 20, 2017, murder of an African-American man
+in New York City, allegedly committed by a White supremacist
+who reportedly traveled to New York ``for the purpose of
+killing black men'';
+(G) the May 26, 2017, attack in Portland, Oregon, in which
+a White supremacist allegedly murdered 2 men and injured a
+third after the men defended 2 young women whom the
+individual had targeted with anti-Muslim hate speech;
+(H) the August 12, 2017, attacks in Charlottesville,
+Virginia, in which--
+(i) a White supremacist killed one and injured nineteen
+after driving his car through a crowd of individuals
+protesting a neo-Nazi rally, and of which former Attorney
+General Jeff Sessions said, ``It does meet the definition of
+domestic terrorism in our statute.''; and
+(ii) a group of 6 men linked to militia or White
+supremacist groups assaulted an African-American man who had
+been protesting the neo-Nazi rally in a downtown parking
+garage;
+(I) the July 2018 murder of an African-American woman from
+Kansas City, Missouri, allegedly committed by a White
+supremacist who reportedly bragged about being a member of
+the Ku Klux Klan;
+(J) the October 24, 2018, shooting in Jeffersontown,
+Kentucky, in which a White man allegedly murdered 2 African
+Americans at a grocery store after first attempting to enter
+a church with a predominantly African-American congregation
+during a service;
+(K) the October 27, 2018, mass shooting at the Tree of Life
+Synagogue in Pittsburgh, Pennsylvania, in which a White
+nationalist allegedly shot and killed 11 members of the
+congregation;
+(L) the April 27, 2019, shooting at the Chabad of Poway
+synagogue in California, in which a man yelling anti-Semitic
+slurs allegedly killed a member of the congregation and
+wounded 3 others;
+(M) the August 3, 2019, mass shooting at a Walmart in El
+Paso, Texas, in which a White supremacist with anti-immigrant
+views killed 22 people and injured 26 others;
+(N) the December 10, 2019, shooting at a Kosher supermarket
+in Jersey City, New Jersey, in which 2 men with anti-Semitic
+views killed 3 people in the store and a law enforcement
+officer in an earlier encounter; and
+(O) the December 28, 2019, machete attack at a Hanukkah
+celebration in Monsey, New York, in which a man who had
+expressed anti-Semitic views stabbed 5 individuals.
+(3) In November 2019, the Federal Bureau of Investigation
+released its annual hate crime incident report, which found
+that in 2018, violent hate crimes reached a 16-year high.
+Though the overall number of hate crimes decreased slightly
+after three consecutive years of increases, the report found
+a 4-percent increase in aggravated assaults, a 15-percent
+increase in simple assaults, and a 13-percent increase in
+intimidation. There was also a nearly 6-percent increase in
+hate crimes directed at LGBTQ individuals and a 14-percent
+increase in hate crimes directed at Hispanic and Latino
+individuals. Nearly 60 percent of the religion-based hate
+crimes reported targeted American Jews and Jewish
+institutions. The previous year's report found that in 2017,
+hate crimes increased by approximately 17 percent, including
+a 23-percent increase in religion-based hate crimes, an 18-
+percent increase in race-based crimes, and a 5-percent
+increase in crimes directed against LGBTQ individuals. The
+report analyzing 2016 data found that hate crimes increased
+by almost 5 percent that year, including a 19-percent rise in
+hate crimes against American Muslims. Similarly, the report
+analyzing 2015 data found that hate crimes increased by 6
+percent that year. Much of the 2015 increase came from a 66-
+percent rise in attacks on American Muslims and a 9-percent
+rise in attacks on American Jews. In all 4 reports, race-
+based crimes were most numerous, and those crimes most often
+targeted African Americans.
+(4) On March 15, 2019, a White nationalist was arrested and
+charged with murder after allegedly killing 50 Muslim
+worshippers and injuring more than 40 in a massacre at the Al
+Noor Mosque and Linwood Mosque in Christchurch, New Zealand.
+The alleged shooter posted a hate-filled, xenophobic
+manifesto that detailed his White nationalist ideology before
+the massacre. Prime Minister Jacinda Ardern labeled the
+massacre a terrorist attack.
+(5) In January 2017, a right-wing extremist who had
+expressed anti-Muslim views was charged with murder for
+allegedly killing 6 people and injuring 19 in a shooting
+rampage at a mosque in Quebec City, Canada. It was the first-
+ever mass shooting at a mosque in North America, and Prime
+Minister Trudeau labeled it a terrorist attack.
+(6) On February 15, 2019, Federal authorities arrested U.S.
+Coast Guard Lieutenant Christopher Paul Hasson, who was
+allegedly planning to kill a number of prominent journalists,
+professors, judges, and ``leftists in general''. In court
+filings, prosecutors described Lieutenant Hasson as a
+``domestic terrorist'' who in an email ``identified himself
+as a White Nationalist for over 30 years and advocated for
+`focused violence' in order to establish a white homeland.''.
+(7) On November 3rd, 2019 a 24 year old man who authorities
+say was among masked Antifa supporters attacking
+conservatives at a June Demonstration in Portland, Oregon,
+was sentenced Friday to nearly six years in prison in
+connection with brutal assault. Gage Halupowski pleaded
+guilty to second-degree assault after authorities accused him
+of using a weapon against a conservative demonstrator who
+suffered blows to the head that the victim claims left him
+with a concussion and cuts that required 25 staples to close.
+(8) On December 12, 2019, an assailant involved in the
+prolonged firefight in Jersey City, NJ, that left six people
+dead, including one police officer, was linked on Wednesday
+to the Black Hebrew Israelite movement, and had public anti-
+Semitic posts online, a law enforcement official said.
+(9) On February 8, 2020, A gunman stormed a NYPD precinct
+after firing at police van, wounding 2. The police
+commissioner called the Bronx rampage an ``assassination
+attempt,'' on law enforcement.
+(10) In August 2020, a juvenile armed with a semi-automatic
+rifle heeded the online call posted by a self-proclaimed
+militia group on Facebook to confront protestors in Kenosha,
+Wisconsin. He allegedly shot and killed two protestors and
+wounded a third. After the shootings, local police officers
+waved the alleged murderer through their lines, even after
+bystanders identified him as the shooter. The armed juvenile
+then traveled across State lines to his home.
+SEC. 3. DEFINITIONS.
+In this Act--
+(1) the term ``Director'' means the Director of the Federal
+Bureau of Investigation;
+(2) the term ``domestic terrorism'' has the meaning given
+the term in section 2331 of title 18, United States Code,
+except that it does not include acts perpetrated by
+individuals associated with or inspired by--
+(A) a foreign person or organization designated as a
+foreign terrorist organization under section 219 of the
+Immigration and Nationality Act (8 U.S.C. 1189);
+(B) an individual or organization designated under
+Executive Order 13224 (50 U.S.C. 1701 note); or
+(C) a state sponsor of terrorism as determined by the
+Secretary of State under section 6(j) of the Export
+Administration Act of 1979 (50 U.S.C. 4605), section 40 of
+the Arms Export Control Act (22 U.S.C. 2780), or section 620A
+of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+(3) the term ``Domestic Terrorism Executive Committee''
+means the committee within the Department of Justice tasked
+with assessing and sharing information about ongoing domestic
+terrorism threats;
+(4) the term ``hate crime incident'' means an act described
+in section 241, 245, 247, or 249 of title 18, United States
+Code, or in section 901 of the Civil Rights Act of 1968 (42
+U.S.C. 3631);
+(5) the term ``Secretary'' means the Secretary of Homeland
+Security; and
+(6) the term ``uniformed services'' has the meaning given
+the term in section 101(a) of title 10, United States Code.
+SEC. 4. OFFICES TO COMBAT DOMESTIC TERRORISM.
+(a) Authorization of Offices To Monitor, Analyze,
+Investigate, and Prosecute Domestic Terrorism.--
+(1) Domestic terrorism unit.--There is authorized a
+Domestic Terrorism Unit in the Office of Intelligence and
+Analysis of the Department of Homeland Security, which shall
+be responsible for monitoring and analyzing domestic
+terrorism activity.
+(2) Domestic terrorism office.--There is authorized a
+Domestic Terrorism Office in the Counterterrorism Section of
+the National Security Division of the Department of Justice--
+(A) which shall be responsible for investigating and
+prosecuting incidents of domestic terrorism; and
+(B) which shall be headed by the Domestic Terrorism
+Counsel.
+(3) Domestic terrorism section of the fbi.--There is
+authorized a Domestic Terrorism Section within the
+Counterterrorism
+[[Page H4585]]
+Division of the Federal Bureau of Investigation, which shall
+be responsible for investigating domestic terrorism activity.
+(4) Staffing.--The Secretary, the Attorney General, and the
+Director shall each ensure that each office authorized under
+this section in their respective agencies shall--
+(A) have adequate number of employees to perform the
+required duties;
+(B) have not less than 1 employee dedicated to ensuring
+compliance with civil rights and civil liberties laws and
+regulations; and
+(C) require that all employees undergo annual anti-bias
+training.
+(5) Sunset.--The offices authorized under this subsection
+shall terminate on the date that is 10 years after the date
+of enactment of this Act.
+(b) Joint Report on Domestic Terrorism.--
+(1) Biannual report required.--Not later than 180 days
+after the date of enactment of this Act, and each 6 months
+thereafter for the 10-year period beginning on the date of
+enactment of this Act, the Secretary of Homeland Security,
+the Attorney General, and the Director of the Federal Bureau
+of Investigation shall submit a joint report authored by the
+domestic terrorism offices authorized under paragraphs (1),
+(2), and (3) of subsection (a) to--
+(A) the Committee on the Judiciary, the Committee on
+Homeland Security and Governmental Affairs, and the Select
+Committee on Intelligence of the Senate; and
+(B) the Committee on the Judiciary, the Committee on
+Homeland Security, and the Permanent Select Committee on
+Intelligence of the House of Representatives.
+(2) Contents.--Each report submitted under paragraph (1)
+shall include--
+(A) an assessment of the domestic terrorism threat posed by
+White supremacists and neo-Nazis, including White supremacist
+and neo-Nazi infiltration of Federal, State, and local law
+enforcement agencies and the uniformed services; and
+(B)(i) in the first report, an analysis of incidents or
+attempted incidents of domestic terrorism that have occurred
+in the United States since April 19, 1995, including any
+White-supremacist-related incidents or attempted incidents;
+and
+(ii) in each subsequent report, an analysis of incidents or
+attempted incidents of domestic terrorism that occurred in
+the United States during the preceding 6 months, including
+any White-supremacist-related incidents or attempted
+incidents; and
+(C) a quantitative analysis of domestic terrorism for the
+preceding 6 months, including--
+(i) the number of--
+(I) domestic terrorism related assessments initiated by the
+Federal Bureau of Investigation, including the number of
+assessments from each classification and subcategory, with a
+specific classification or subcategory for those related to
+White supremacism;
+(II) domestic terrorism-related preliminary investigations
+initiated by the Federal Bureau of Investigation, including
+the number of preliminary investigations from each
+classification and subcategory, with a specific
+classification or subcategory for those related to White
+supremacism, and how many preliminary investigations resulted
+from assessments;
+(III) domestic terrorism-related full investigations
+initiated by the Federal Bureau of Investigation, including
+the number of full investigations from each classification
+and subcategory, with a specific classification or
+subcategory for those related to White supremacism, and how
+many full investigations resulted from preliminary
+investigations and assessments;
+(IV) domestic terrorism-related incidents, including the
+number of incidents from each classification and subcategory,
+with a specific classification or subcategory for those
+related to White supremacism, the number of deaths and
+injuries resulting from each incident, and a detailed
+explanation of each incident;
+(V) Federal domestic terrorism-related arrests, including
+the number of arrests from each classification and
+subcategory, with a specific classification or subcategory
+for those related to White supremacism, and a detailed
+explanation of each arrest;
+(VI) Federal domestic terrorism-related indictments,
+including the number of indictments from each classification
+and subcategory, with a specific classification or
+subcategory for those related to White supremacism, and a
+detailed explanation of each indictment;
+(VII) Federal domestic terrorism-related prosecutions,
+including the number of incidents from each classification
+and subcategory, with a specific classification or
+subcategory for those related to White supremacism, and a
+detailed explanation of each prosecution;
+(VIII) Federal domestic terrorism-related convictions,
+including the number of convictions from each classification
+and subcategory, with a specific classification or
+subcategory for those related to White supremacism, and a
+detailed explanation of each conviction; and
+(IX) Federal domestic terrorism-related weapons recoveries,
+including the number of each type of weapon and the number of
+weapons from each classification and subcategory, with a
+specific classification or subcategory for those related to
+White supremacism; and
+(ii) an explanation of each individual case that progressed
+through more than 1 of the stages described under clause (i),
+including the specific classification or subcategory for each
+case.
+(3) Hate crimes.--In compiling a joint report under this
+subsection, the domestic terrorism offices authorized under
+paragraphs (1), (2), and (3) of subsection (a) shall, in
+consultation with the Civil Rights Division of the Department
+of Justice and the Civil Rights Unit of the Federal Bureau of
+Investigation, review each hate crime incident reported
+during the preceding 6 months to determine whether the
+incident also constitutes a domestic terrorism-related
+incident.
+(4) Classification and public release.--Each report
+submitted under paragraph (1) shall be--
+(A) unclassified, to the greatest extent possible, with a
+classified annex only if necessary; and
+(B) in the case of the unclassified portion of the report,
+posted on the public websites of the Department of Homeland
+Security, the Department of Justice, and the Federal Bureau
+of Investigation.
+(5) Nonduplication.--If two or more provisions of this
+subsection or any other law impose requirements on an agency
+to report or analyze information on domestic terrorism that
+are substantially similar, the agency shall construe such
+provisions as mutually supplemental, so as to provide for the
+most extensive reporting or analysis, and shall comply with
+each such requirement as fully as possible.
+(c) Domestic Terrorism Executive Committee.--There is
+authorized a Domestic Terrorism Executive Committee, which
+shall--
+(1) meet on a regular basis, and not less regularly than 4
+times each year, to coordinate with United States Attorneys
+and other key public safety officials across the country to
+promote information sharing and ensure an effective,
+responsive, and organized joint effort to combat domestic
+terrorism; and
+(2) be co-chaired by--
+(A) the Domestic Terrorism Counsel authorized under
+subsection (a)(2)(B);
+(B) a United States Attorney or Assistant United States
+Attorney;
+(C) a member of the National Security Division of the
+Department of Justice; and
+(D) a member of the Federal Bureau of Investigation.
+(d) Focus on Greatest Threats.--The domestic terrorism
+offices authorized under paragraphs (1), (2), and (3) of
+subsection (a) shall focus their limited resources on the
+most significant domestic terrorism threats, as determined by
+the number of domestic terrorism-related incidents from each
+category and subclassification in the joint report for the
+preceding 6 months required under subsection (b).
+SEC. 5. TRAINING TO COMBAT DOMESTIC TERRORISM.
+(a) Required Training and Resources.--The Secretary, the
+Attorney General, and the Director shall review the anti-
+terrorism training and resource programs of their respective
+agencies that are provided to Federal, State, local, and
+Tribal law enforcement agencies, including the State and
+Local Anti-Terrorism Program that is funded by the Bureau of
+Justice Assistance of the Department of Justice, and ensure
+that such programs include training and resources to assist
+State, local, and Tribal law enforcement agencies in
+understanding, detecting, deterring, and investigating acts
+of domestic terrorism and White supremacist and neo-Nazi
+infiltration of law enforcement and corrections agencies. The
+domestic-terrorism training shall focus on the most
+significant domestic terrorism threats, as determined by the
+quantitative analysis in the joint report required under
+section 4(b).
+(b) Requirement.--Any individual who provides domestic
+terrorism training required under this section shall have--
+(1) expertise in domestic terrorism; and
+(2) relevant academic, law enforcement, or other community-
+based experience in matters related to domestic terrorism.
+(c) Report.--
+(1) In general.--Not later than 6 months after the date of
+enactment of this Act and twice each year thereafter, the
+Secretary, the Attorney General, and the Director shall each
+submit a biannual report to the committees of Congress
+described in section 4(b)(1) on the domestic terrorism
+training implemented by their respective agencies under this
+section, which shall include copies of all training materials
+used and the names and qualifications of the individuals who
+provide the training.
+(2) Classification and public release.--Each report
+submitted under paragraph (1) shall be--
+(A) unclassified, to the greatest extent possible, with a
+classified annex only if necessary; and
+(B) in the case of the unclassified portion of each report,
+posted on the public website of the Department of Homeland
+Security, the Department of Justice, and the Federal Bureau
+of Investigation.
+SEC. 6. INTERAGENCY TASK FORCE.
+(a) In General.--Not later than 180 days after the date of
+enactment of this Act, the Attorney General, the Director,
+the Secretary, and the Secretary of Defense shall establish
+an interagency task force to analyze and combat White
+supremacist and neo-Nazi infiltration of the uniformed
+services and Federal law enforcement agencies.
+(b) Report.--
+(1) In general.--Not later than 1 year after the
+interagency task force is established
+[[Page H4586]]
+under subsection (a), the Attorney General, the Director, the
+Secretary, and the Secretary of Defense shall submit a joint
+report on the findings of the task force and the response of
+the Attorney General, the Director, the Secretary, and the
+Secretary of Defense to such findings, to--
+(A) the Committee on the Judiciary of the Senate;
+(B) the Committee on Homeland Security and Governmental
+Affairs of the Senate;
+(C) the Select Committee on Intelligence of the Senate;
+(D) the Committee on Armed Services of the Senate;
+(E) the Committee on the Judiciary of the House of
+Representatives;
+(F) the Committee on Homeland Security of the House of
+Representatives;
+(G) the Permanent Select Committee on Intelligence of the
+House of Representatives; and
+(H) the Committee on Armed Services of the House of
+Representatives.
+(2) Classification and public release.--The report
+submitted under paragraph (1) shall be--
+(A) submitted in unclassified form, to the greatest extent
+possible, with a classified annex only if necessary; and
+(B) in the case of the unclassified portion of the report,
+posted on the public website of the Department of Defense,
+the Department of Homeland Security, the Department of
+Justice, and the Federal Bureau of Investigation.
+SEC. 7. DEPARTMENT OF JUSTICE SUPPORT FOR HATE CRIME
+INCIDENTS WITH A NEXUS TO DOMESTIC TERRORISM.
+(a) Community Relations Service.--The Community Relations
+Service of the Department of Justice, authorized under
+section 1001(a) of the Civil Rights Act of 1964 (42 U.S.C.
+2000g), may offer the support of the Service to communities
+where the Department of Justice has brought charges in a hate
+crime incident that has a nexus to domestic terrorism.
+(b) Federal Bureau of Investigation.--Section 249 of title
+18, United States Code, is amended by adding at the end the
+following:
+``(e) Federal Bureau of Investigation.--The Attorney
+General, acting through the Director of the Federal Bureau of
+Investigation, shall assign a special agent or hate crimes
+liaison to each field office of the Federal Bureau of
+Investigation to investigate hate crimes incidents with a
+nexus to domestic terrorism (as such term is defined in
+section 3 of the Domestic Terrorism Prevention Act of
+2020).''.
+SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+There are authorized to be appropriated to the Department
+of Justice, the Federal Bureau of Investigation, the
+Department of Homeland Security, and the Department of
+Defense such sums as may be necessary to carry out this Act.
+The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from
+Texas (Ms. Jackson Lee) and the gentleman from North Dakota (Mr.
+Armstrong) each will control 20 minutes.
+The Chair recognizes the gentlewoman from Texas.
+General Leave
+Ms. JACKSON LEE. Mr. Speaker, I ask unanimous consent that all
+Members have 5 legislative days in which to revise and extend their
+remarks and include extraneous material on the bill under
+consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from Texas?
+There was no objection.
+Ms. JACKSON LEE. Mr. Speaker, I yield myself such time as I may
+consume.
+First, I certainly want to thank all of the sponsors of this bill,
+and I thank Mr. Schneider for all of the important work that has been
+done on this legislation.
+With the consideration of H.R. 5602, the Domestic Terrorism
+Prevention Act, the House takes affirmative steps in this time to
+address the rising menace of domestic terrorism and white supremacy.
+This bill creates three offices, one each within the Department of
+Homeland Security, the Department of Justice, and the Federal Bureau of
+Investigation to monitor, investigate, and prosecute cases of domestic
+terrorism.
+These newly created offices would focus their resources based on data
+collected on the most significant threats with specific emphasis on
+white supremacist terrorism. Additionally, pursuant to this bill, DOJ
+and DHS would issue joint biennial reports to Congress assessing the
+state of domestic terrorism threats.
+Let me say, Mr. Speaker, that this legislation is not based on a
+whim. It is not based on someone's taste or distaste; likes or
+dislikes. This is based on facts. And as we continue to view the
+modeling of domestic terrorism, we will begin to continue to respond to
+it legislatively. But now we have a solid base of information dealing
+with the issues of growing white supremacy.
+The creation of these offices and congressional reporting are much-
+needed measures to refocus the Federal Government's domestic terrorism
+efforts on the greatest threat to the American people: white supremacy
+and white nationalism.
+In April of last year, the Judiciary Committee held a hearing titled:
+``Hate Crimes and the Rise of White Nationalism.'' Sadly, since then
+there have been countless domestic terrorism attacks.
+The shooting spree at a Walmart in El Paso, Texas, in August of 2019
+was the deadliest attack in modern times against the Latino community
+in the United States and the third deadliest act of violence by
+domestic terrorism extremists in more than 50 years.
+I joined my colleagues who represented that area, and the pain that
+they experienced was without comparison. I went to a funeral. I went to
+the memorial. I went to where the place was that had been set up as a
+temporary place of honor. The pain was unceasing in that community. And
+just a few months ago, they had to commemorate the bitterness of 1
+year.
+I also went to the hospital and visited individuals who had put
+themselves in the line of fire to protect others. I think since that
+time one person, in particular, has passed away.
+This was a painful experience, and I can imagine that it will be
+painful for a very long time.
+In the last decade, places of worship, a Sikh temple in Milwaukee,
+the Emanuel African Methodist Episcopal Church, Mother Emanuel, where
+the victims who remained alive actually forgave the perpetrator who
+came and sat down and prayed; sat among people who were praying, who
+welcomed him. They lost a distinguished pastor and people who were so
+kind. People could not understand why they lost their lives. Thousands
+came to the memorial, and, of course, our President at that time,
+President Obama. That is how painful it was for this Nation.
+Then, of course, Pittsburgh's Tree of Life synagogue. I visited
+Pittsburgh, Pennsylvania, and met individuals who had been impacted by
+this horrific tragedy. In the midst of Rosh Hashanah, to our friends
+who are in the midst of their holiday, it is more than fitting that we
+acknowledge how domestic terrorism can divide so many communities, so
+many innocent communities, whether they happen to be of a particular
+faith, a particular ethnicity, or a particular status.
+We have seen all of this become tragic symbols of deadly threats a
+white supremacist poses even to the faith community.
+Just last Thursday in a committee that I participated in, FBI
+Director Christopher Wray--the Homeland Security Committee--once again
+stated that white supremacists constitute the largest portion of
+racially motivated violent extremists.
+In the same vein, before the House Homeland Security Committee,
+Director Wray testified that antigovernment and antiauthority groups
+have been responsible for the most lethal attacks this year. We know
+that. So we want to be sure that we are protecting the American people.
+None of us adhere to extremism or violence. We understand peaceful
+protests, but we stand for the principles of democracy of this Nation
+that has kept us a democracy for all of these many years.
+Just a few weeks ago our Nation was reminded how dangerous violent
+extremism can be. A rightwing militia boasting 3,000 members promoted
+an event on Facebook calling for patriots willing to take up arms and
+travel to Kenosha, Wisconsin, to confront protesters.
+Tragically, hours later, a 17-year-old youth heeded the call,
+traveled across State lines, and is alleged to have murdered two
+protesters and injured a third. He has yet to be brought to justice
+because he is still waiting on an extradition procedure.
+Yet, local police allowed this young man to safely pass through their
+lines and go home, despite the fact that bystanders had identified him
+as the shooter. That was one incident.
+We have seen law enforcement take up the issues of protecting our
+neighbors across the Nation and in those instances, of course, we
+recognize good policing and we thank them for it.
+[[Page H4587]]
+The tragic events in Kenosha are yet another example of how rightwing
+militia groups continue to pose a present threat. Indeed, over the last
+decade, rightwing extremists have been responsible for 76 percent of
+all domestic extremist-related murders. The time for Congress to act is
+now.
+The key elements of the Domestic Terrorism Prevention Act seek to
+address fundamental deficiencies highlighted at the April 2019
+Judiciary Committee hearing in the Federal Government's response to
+domestic terrorism and specifically white supremacy.
+Let me be very clear. We want a comprehensive response to terrorism.
+We want to rely upon our intelligence communities as it relates to
+international terrorism.
+{time}  1500
+We have done so because I have been on the Homeland Security
+Committee for a very long time and, as well, have seen the work of the
+Judiciary Committee. But we must be comprehensive in looking at
+terrorism; we must be responsive; and we must secure and make sure the
+American people are safe.
+Currently, the Federal Government has a number of statutory
+authorities to bring charges against domestic terrorists, including
+those who are white supremacists. Yet, it is clear that the Department
+of Justice has not initiated a sufficient number of these prosecutions.
+H.R. 5602 creates offices within the DOJ and DHS aimed at pooling the
+resources from all parts of each respective Department to focus them on
+the greatest threat of white supremacy.
+The reporting elements of this bill aim to keep Congress better
+informed of the domestic terrorism threats presented so that Congress
+can more readily assess what resources and authorities are necessary to
+protect the country against domestic terrorist activities.
+I am well aware of the work that was done in the last administration
+of trying to neutralize the idea of radicalizing individuals who were
+dealing with ISIS, al-Qaida, and others. Unfortunately, even that has
+been taken away from the work that we have been doing. This may be a
+time that that work begins to rise up as it relates to white supremacy
+and white nationalism.
+This legislation is a necessary and measured response to the real
+threats this country faces.
+Mr. Speaker, I urge all of my colleagues to support this legislation,
+and I reserve the balance of my time.
+Mr. ARMSTRONG. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, at a time when violent extremists are destroying cities
+nationwide, our Democratic colleagues here in the House continue to
+ignore this violence. The chairman of the Judiciary Committee even
+called Antifa violence a myth and imaginary. Instead of addressing
+violent leftwing extremism head-on, my colleagues across the aisle only
+want to use this bill for political purposes. They are not interested
+in passing legislation that would make any real difference in rooting
+out violence in our communities.
+Democrats are unable to call out the violent anarchists who are
+burning down cities all around the country. Instead, they seem to want
+to paint a picture that ties only conservatives to domestic terrorism.
+Not only is this bill blatantly political on its face, but it increases
+our already bloated bureaucracy by adding three new separate offices to
+do the exact same thing. That is the very definition of duplication and
+government waste.
+We already have dedicated law enforcement who fight domestic
+terrorism every day, and we should recognize them, commend them, and
+let them do their jobs. Unfortunately, my colleagues across the aisle
+likely will not do that either.
+Democrats must end the partisan charades. Democrats must stop
+ignoring the leftwing violence and crime that has taken over American
+cities. Instead of this biased approach in this bill, we should pass
+legislation that roots out all kinds of domestic terrorism, not just
+the type that is politically convenient for Democrats.
+Mr. Speaker, I urge my colleagues to join me in opposing H.R. 5602,
+and I reserve the balance of my time.
+Ms. JACKSON LEE. Mr. Speaker, just one point that I want to make as I
+yield to the author and leader on this bill is that we are continuously
+fighting a known, recognized domestic terrorism. This vital bill will
+provide the reporting for a roadmap to do the right thing. That is what
+the Federal Government is challenged and charged to do.
+Mr. Speaker, I yield 3 minutes to the distinguished gentleman from
+Illinois (Mr. Schneider). Congressman Schneider is a member of the
+Judiciary Committee and is the author of this legislation.
+Mr. SCHNEIDER. Mr. Speaker, I thank my friend, the gentlewoman from
+Texas, for yielding.
+Mr. Speaker, I am proud to rise in support of my bill, H.R. 5602, the
+Domestic Terrorism Prevention Act of 2020.
+White supremacists and other far-right extremists are the most
+significant domestic terrorism threat facing the United States. Don't
+take my word for it. Making that point last week in testimony to the
+House Homeland Security Committee, FBI Director Christopher Wray stated
+that domestic violence extremists, DVEs, ``pose a steady and evolving
+threat of violence and economic harm to the United States.''
+He notes in his next paragraph: ``The top threat we face from
+domestic violent extremists stems from those we identify as racially/
+ethnically motivated violent extremists (RMVE).''
+RMVEs were the primary source of ideologically motivated lethal
+incidents and violence in 2018 and 2019. From the Tree of Life
+synagogue to Walmart in El Paso, Texas, we have all tragically seen the
+deadly effect.
+According to the Southern Poverty Law Center, the number of white
+nationalist groups rose by 55 percent since 2017. Last November, the
+FBI reported violent hate crimes reached a 16-year high in 2018, and
+that number went up in 2019.
+Groups like the boogaloos, Rise Above Movement, and white nationalist
+militias across the country are organizing, and so must we. Therefore,
+we need to equip our law enforcement officials, the FBI, and the
+Departments of Justice and Homeland Security with the tools necessary
+to identify, monitor, and prevent acts of violent terrorism.
+The bill before us today does just that. It establishes offices
+within the FBI, the Department of Justice, and the Department of
+Homeland Security and empowers them to coordinate their efforts with
+each other. It requires them to report to Congress twice a year on the
+assessment of the threats, ranking them and allocating the resources
+based on their assessed threats.
+Congress must, with a single voice, definitively state that if you or
+your group is plotting violence or taking weapons--be they guns or
+knives or otherwise--into a crowd to intimidate or coerce others to
+further your ideological goals, you are a terrorist and will be treated
+as such.
+This is not a partisan issue but one that affects all Americans'
+personal and economic security. This bill passed out of committee with
+bipartisan support overwhelmingly, 24-2.
+Mr. Speaker, I urge all of my colleagues to vote ``yes.'' This bill
+will make a real difference. Again, I thank the chairman and the
+Speaker for bringing my bill to the House today.
+Ms. JACKSON LEE. Mr. Speaker, I reserve the balance of my time.
+Mr. ARMSTRONG. Mr. Speaker, I yield such time as he may consume to
+the gentleman from Ohio (Mr. Jordan), the ranking member of the
+Judiciary Committee.
+Mr. JORDAN. Mr. Speaker, I thank the gentleman for yielding.
+Mr. Speaker, Republicans denounce all violent extremism. Why won't
+the Democrats?
+Weeks ago in the committee, the Attorney General of the United States
+asked the chairman of the Judiciary Committee, asked the Democrats, why
+won't you speak out against the mob? Why won't you speak out against
+the violence that is taking place in our great cities all across the
+country this past summer?
+Guess what he got. Total, total silence.
+We have a bill on domestic terrorism, but a bill that barely mentions
+Antifa, one reference.
+Mr. Speaker, do you know why the one reference is in there? Because
+Republicans on the committee, through
+[[Page H4588]]
+Mr. Steube, offered an amendment in the committee.
+Not mentioned in the bill are two things that have happened in the
+last 30 days. The cold-blooded murder of a Trump supporter by an Antifa
+member was not mentioned in the resolution and is not mentioned in the
+bill. Not mentioned in the bill is the assassination attempt on two
+police officers sitting in their patrol car just 2 weeks ago.
+Let's condemn all violent extremism. Maybe they won't do that
+because, as my good friend from North Dakota said, the chairman of the
+House Judiciary Committee, the committee with that storied history of
+defending the rule of law, maybe because that individual said that
+Antifa is imaginary and that Antifa is a myth.
+Ask Andy Ngo that, Mr. Speaker. Ask the journalist who was attacked
+by Antifa a year ago. Ask the people in Portland, Oregon. For over 100
+days, their city has been under siege. There has been a siege on the
+Federal court building there by Antifa, but one reference only in their
+legislation, and that is only there because Mr. Steube offered the
+amendment in committee.
+For over 100 days, this organization has been targeting the business
+owners, the people, and the residents in Portland, Oregon, and in other
+cities around our country. Democrats can call what has been happening
+to our cities all summer peaceful protests, but calling rioting,
+looting, and arson peaceful protests doesn't make it so.
+Let's condemn all of it. We should speak out against all domestic
+terrorism. We should denounce the violence--the rioting, the looting,
+and the arson--that is taking place in our cities. We should not have
+another political messaging bill, which is exactly what this is.
+Ms. JACKSON LEE. Mr. Speaker, would you share the time remaining,
+please.
+The SPEAKER pro tempore. The gentlewoman from Texas has 8 minutes
+remaining. The gentleman from North Dakota has 16 minutes remaining.
+Ms. JACKSON LEE. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, let me thank my good friend from Ohio for bringing to
+our attention something that I think is very important. Then, it allows
+me to say that I don't know one single person in this body who condones
+violent protests. I have not run into anyone in the Judiciary
+Committee, and I have not seen anyone on the floor on either side of
+the aisle. That is why this legislation is so crucial because it
+generated bipartisan support on the work that the Congress should do.
+What is it that the Congress should do? Find a way for our agencies
+to work together.
+In the Judiciary Committee, we had a hearing with the Attorney
+General on the question of domestic terrorism. In the Homeland Security
+Committee, we had a hearing on the question of domestic terrorism. I
+think we found some, if you will, collegiality in recognizing that
+white supremacy and white nationalism were the greatest threat to
+domestic security.
+I remember in this legislation the generosity of Mr. Schneider and my
+commitment when the committee added Mr. Steube's--a Republican's--
+amendment at markup that included findings that addressed
+antigovernment actors and violence against police. We passed that in a
+bipartisan way. I want to remind my colleagues that the legislation
+itself was passed in a bipartisan manner.
+We have seen what happens when we undermine coordination. We see what
+happens when the pandemic office was dismissed out of the White House
+that was coordinating with agencies on COVID-19 or other pandemics. We
+see the confusion that we have.
+This legislation is simply trying to make sure that our very fine
+public servants who are fighting domestic terrorism are fighting it
+with the best informational tools they can get.
+How do they do that? With this very fine legislation that allows us
+to be able to get the right kind of data.
+I want to just indicate a lot of things have been happening. I have
+watched peaceful protesters be subjected to violence. My heart goes
+out. Those are someone's children; they are young people; and they have
+a right to be protesting. They have a right, as our dear beloved
+colleague has always said, to speak up. John Robert Lewis always said
+to speak up and get into good trouble to make this Nation better.
+I have not heard any Member of this body not condemn, in the
+strongest terms, the shooting of Los Angeles deputies and are pleased
+to hear that they are recovering.
+I would just indicate that we need to adhere to what is right. This
+legislation is laying us on a pathway of getting facts and information
+so that we can do what is right to secure the American people.
+Mr. Speaker, I have no further speakers, and I reserve the balance of
+my time.
+Mr. ARMSTRONG. Mr. Speaker, I was in the committee when we did this
+and when we accepted Republican amendments and garnered some support
+from people on my side of the aisle in committee. I have no doubt that
+my friends on the other side of the aisle condemn all kinds of
+violence, but somewhere between committee and here things got added to
+the bill.
+Mr. Speaker, do you know what didn't get added? Not one mention of
+the horrific attack against two police officers shot at pointblank
+range in their patrol car. The bill did not mention the murder of a
+Trump supporter in Portland. But we did manage to mention the juvenile
+from Kenosha.
+So, while the gentlewoman says she supports a certain thing or nobody
+condones certain things, their actions on how this occurs show us where
+their priorities are. The priorities are political because we could
+have added all of these things.
+I find it interesting and odd on the same day that we are talking
+about due process, rights to effective assistance of counsel, justice
+for juveniles, and all the election integrity and voting, we don't
+condemn the burning down of the post office in Minneapolis. We don't
+talk about these other things, but we will make sure we mention a
+juvenile offender in Kenosha prior to any of his court hearings being
+held.
+We can talk about delaying justice and the administration of justice,
+but that is not how it reads in the bill, and that is not how it was
+spoken to on the floor.
+Mr. Speaker, if we are going to do this, all I ask is that we are
+consistent. The gentlewoman can stand here and say that we condemn all
+forms of violence, but only one made it into the bill after committee.
+That is because it fits a particular political narrative, and we have
+no interest in actually rooting out domestic terrorism wherever it
+exists. We want to make sure it fits a particular narrative. That is
+what this bill is about, and that is why we should oppose it.
+Mr. Speaker, I yield back the balance of my time.
+{time}  1515
+Ms. JACKSON LEE. Mr. Speaker, I yield myself such time as I may
+consume.
+I thank the gentleman for his commentary, but I am going to rise and
+ask my colleagues to support this legislation in a bipartisan manner.
+As indicated--I would correct my friend's interpretation--Mr.
+Steube's amendment was added in the markup and the findings at that
+time addressed antigovernment actors and violence against police. We
+made it very clear, and it was bipartisan, that we condemn violence of
+any kind.
+But what I would say as well is that the simple addition as it
+relates to Kenosha was in sharp contrast to the visual, the video, of a
+direct skin contact shooting of an individual whose back was turned,
+and then the call across the Nation for white supremacists and white
+nationalists to come and defend.
+Defend what?
+There was law enforcement there. I think the governor had even asked
+for the Wisconsin National Guard to safeguard everyone.
+But here was someone that came--a teenager. I am grateful that he
+remained alive; grateful. But he walked with guns, and is alleged to
+have killed, harmed, three people at least, never was confronted by
+officers, of course, to our knowledge, and got home to sleep in his
+bed.
+On the other hand, Jacob Blake, whose father I met, wound up in ICU,
+wound up paralyzed, a victim in the Kenosha shootings.
+And so it is crucial that we get the facts of what this legislation
+wants to
+[[Page H4589]]
+do, and that we don't get a young man from Illinois versus another
+young man from Ohio, who was 12 years old--Tamir Rice--who didn't get
+to go home. We want to make sure that we have fairness.
+Mr. Speaker, as I said, I am very concerned about the shootings of
+these individuals, the Los Angeles deputies. We don't know the motives
+of the assailants. It remains unknown. But we continue to seek justice
+for them, and we want to make sure that the threat of white
+supremacists and domestic terrorism is known.
+Mr. Speaker, this bill directs that directly and I think it will
+provide for a very important tool for our law enforcement--unbiased--
+without any effort to try and stigmatize anyone.
+Mr. Speaker, in closing, domestic terrorism is a serious threat to
+our country. We must take real action to address the rise of hate
+crimes and white supremacy. This legislation would address the rising
+tide of white supremacy without impinging on constitutional rights.
+It reflects a careful balance between empowering the investigatory
+agencies of the Federal Government to curb hateful and dangerous
+incidents of domestic terrorism and protecting the rights of free
+speech and assembly.
+Mr. Speaker, I thank Representative Brad Schneider for his leadership
+and his diligent work on this important legislation during this
+Congress. We will be better for the passage of this legislation. The
+Nation will be better. It is critical that we adopt this bill.
+Mr. Speaker, I ask my colleagues to support this bipartisan
+legislation, passed out of the Committee on the Judiciary in a
+bipartisan vote, and I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentlewoman from Texas (Ms. Jackson Lee) that the House suspend the
+rules and pass the bill, H.R. 5602, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+A motion to reconsider was laid on the table.
+____________________

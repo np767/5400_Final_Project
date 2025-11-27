@@ -1,0 +1,1587 @@
+[Congressional Record Volume 170, Number 45 (Wednesday, March 13, 2024)]
+[House]
+[Pages H1163-H1171]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+PROTECTING AMERICANS FROM FOREIGN ADVERSARY CONTROLLED APPLICATIONS ACT
+Mrs. RODGERS of Washington. Mr. Speaker, I move to suspend the rules
+and pass the bill (H.R. 7521) to protect the national security of the
+United States from the threat posed by foreign adversary controlled
+applications, such as TikTok and any successor application or service
+and any other application or service developed or provided by ByteDance
+Ltd. or an entity under the control of ByteDance Ltd., as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 7521
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Protecting Americans from
+Foreign Adversary Controlled Applications Act''.
+SEC. 2. PROHIBITION OF FOREIGN ADVERSARY CONTROLLED
+APPLICATIONS.
+(a) In General.--
+(1) Prohibition of foreign adversary controlled
+applications.--It shall be unlawful for an entity to
+distribute, maintain, or update (or enable the distribution,
+maintenance, or updating of) a foreign adversary controlled
+application by carrying out, within the land or maritime
+borders of the United States, any of the following:
+(A) Providing services to distribute, maintain, or update
+such foreign adversary controlled application (including any
+source code of such application) by means of a marketplace
+(including an online mobile application store) through which
+users within the land or maritime borders of the United
+States may access, maintain, or update such application.
+(B) Providing internet hosting services to enable the
+distribution, maintenance, or updating of such foreign
+adversary controlled application for users within the land or
+maritime borders of the United States.
+(2) Applicability.--Subsection (a) shall apply--
+(A) in the case of an application that satisfies the
+definition of a foreign adversary controlled application
+pursuant to subsection (g)(3)(A), beginning on the date that
+is 180 days after the date of the enactment of this Act; and
+(B) in the case of an application that satisfies the
+definition of a foreign adversary controlled application
+pursuant to subsection (g)(3)(B), beginning on the date that
+is 180 days after the date of the relevant determination of
+the President under such subsection.
+(b) Data and Information Portability to Alternative
+Applications.--Before the date on which a prohibition under
+subsection (a) applies to a foreign adversary controlled
+application, the entity that owns or controls such
+application shall provide, upon request by a user of such
+application within the land or maritime borders of United
+States, to such user all the available data related to the
+account of such user with respect to such application. Such
+data shall be provided in a machine readable format and shall
+include any data maintained by such application with respect
+to the account of such user, including content (including
+posts, photos, and videos) and all other account information.
+(c) Exemptions.--
+(1) Exemptions for qualified divestitures.--Subsection
+(a)--
+(A) does not apply to a foreign adversary controlled
+application with respect to which a qualified divestiture is
+executed before the date on which a prohibition under
+subsection (a) would begin to apply to such application; and
+(B) shall cease to apply in the case of a foreign adversary
+controlled application with respect to which a qualified
+divestiture is executed after the date on which a prohibition
+under subsection (a) applies to such application.
+(2) Exemptions for certain necessary services.--Subsections
+(a) and (b) do not apply to services provided with respect to
+a foreign adversary controlled application that are necessary
+for an entity to attain compliance with such subsections.
+(d) Enforcement.--
+(1) Civil penalties.--
+(A) Foreign adversary controlled application violations.--
+An entity that violates subsection (a) shall be subject to
+pay a civil penalty in an amount not to exceed the amount
+that results from multiplying $5,000 by the number of users
+within the land or maritime borders of the United States
+determined to have accessed, maintained, or updated a foreign
+adversary controlled application as a result of such
+violation.
+(B) Data and information violations.--An entity that
+violates subsection (b) shall be subject to pay a civil
+penalty in an amount not to exceed the amount that results
+from multiplying $500 by the number of users within the land
+or maritime borders of the United States affected by such
+violation.
+(2) Actions by attorney general.--The Attorney General--
+(A) shall conduct investigations related to potential
+violations of subsection (a) or (b), and, if such an
+investigation results in a determination that a violation has
+occurred, the Attorney General shall pursue enforcement under
+paragraph (1); and
+(B) may bring an action in an appropriate district court of
+the United States for appropriate relief, including civil
+penalties under paragraph (1) or declaratory and injunctive
+relief.
+(e) Severability.--
+(1) In general.--If any provision of this section or the
+application of this section to any person or circumstance is
+held invalid, the invalidity shall not affect the other
+provisions or applications of this section that can be given
+effect without the invalid provision or application.
+(2) Subsequent determinations.--If the application of any
+provision of this section is held invalid with respect to a
+foreign adversary controlled application that satisfies the
+definition of such term pursuant to subsection (g)(3)(A),
+such invalidity shall not affect or preclude the application
+of the same provision of this section to such foreign
+adversary controlled application by means of a subsequent
+determination pursuant to subsection (g)(3)(B).
+(f) Rule of Construction.--Nothing in this Act may be
+construed--
+(1) to authorize the Attorney General to pursue
+enforcement, under this section, other than enforcement of
+subsection (a) or (b);
+(2) to authorize the Attorney General to pursue
+enforcement, under this section, against an individual user
+of a foreign adversary controlled application; or
+(3) except as expressly provided herein, to alter or affect
+any other authority provided by or established under another
+provision of Federal law.
+(g) Definitions.--In this section:
+(1) Controlled by a foreign adversary.--The term
+``controlled by a foreign adversary'' means, with respect to
+a covered company or other entity, that such company or other
+entity is--
+(A) a foreign person that is domiciled in, is headquartered
+in, has its principal place of business in, or is organized
+under the laws of a foreign adversary country;
+(B) an entity with respect to which a foreign person or
+combination of foreign persons described in subparagraph (A)
+directly or indirectly own at least a 20 percent stake; or
+(C) a person subject to the direction or control of a
+foreign person or entity described in subparagraph (A) or
+(B).
+(2) Covered company.--
+(A) In general.--The term ``covered company'' means an
+entity that operates, directly or indirectly (including
+through a parent company, subsidiary, or affiliate), a
+website, desktop application, mobile application, or
+augmented or immersive technology application that--
+(i) permits a user to create an account or profile to
+generate, share, and view text, images, videos, real-time
+communications, or similar content;
+(ii) has more than 1,000,000 monthly active users with
+respect to at least 2 of the 3 months preceding the date on
+which a relevant determination of the President is made
+pursuant to paragraph (3)(B);
+(iii) enables 1 or more users to generate or distribute
+content that can be viewed by other users of the website,
+desktop application, mobile application, or augmented or
+immersive technology application; and
+(iv) enables 1 or more users to view content generated by
+other users of the website, desktop application, mobile
+application, or augmented or immersive technology
+application.
+(B) Exclusion.--The term ``covered company'' does not
+include an entity that operates a website, desktop
+application, mobile application, or augmented or immersive
+technology application whose primary purpose is to allow
+users to post product reviews, business reviews, or travel
+information and reviews.
+(3) Foreign adversary controlled application.--The term
+``foreign adversary controlled application'' means a website,
+desktop application, mobile application, or augmented or
+immersive technology application that is operated, directly
+or indirectly (including through a parent company,
+subsidiary, or affiliate), by--
+(A) any of--
+(i) ByteDance, Ltd.;
+(ii) TikTok;
+(iii) a subsidiary of or a successor to an entity
+identified in clause (i) or (ii) that is controlled by a
+foreign adversary; or
+(iv) an entity owned or controlled, directly or indirectly,
+by an entity identified in clause (i), (ii), or (iii); or
+(B) a covered company that--
+(i) is controlled by a foreign adversary; and
+(ii) that is determined by the President to present a
+significant threat to the national security of the United
+States following the issuance of--
+[[Page H1164]]
+(I) a public notice proposing such determination; and
+(II) a public report to Congress, submitted not less than
+30 days before such determination, describing the specific
+national security concern involved and containing a
+classified annex and a description of what assets would need
+to be divested to execute a qualified divestiture.
+(4) Foreign adversary country.--The term ``foreign
+adversary country'' means a country specified in section
+4872(d)(2) of title 10, United States Code.
+(5) Internet hosting service.--The term ``internet hosting
+service'' means a service through which storage and computing
+resources are provided to an individual or organization for
+the accommodation and maintenance of 1 or more websites or
+online services, and which may include file hosting, domain
+name server hosting, cloud hosting, and virtual private
+server hosting.
+(6) Qualified divestiture.--The term ``qualified
+divestiture'' means a divestiture or similar transaction
+that--
+(A) the President determines, through an interagency
+process, would result in the relevant foreign adversary
+controlled application no longer being controlled by a
+foreign adversary; and
+(B) the President determines, through an interagency
+process, precludes the establishment or maintenance of any
+operational relationship between the United States operations
+of the relevant foreign adversary controlled application and
+any formerly affiliated entities that are controlled by a
+foreign adversary, including any cooperation with respect to
+the operation of a content recommendation algorithm or an
+agreement with respect to data sharing.
+(7) Source code.--The term ``source code'' means the
+combination of text and other characters comprising the
+content, both viewable and nonviewable, of a software
+application, including any publishing language, programming
+language, protocol, or functional content, as well as any
+successor languages or protocols.
+(8) United states.--The term ``United States'' includes the
+territories of the United States.
+SEC. 3. JUDICIAL REVIEW.
+(a) Right of Action.--A petition for review challenging
+this Act or any action, finding, or determination under this
+Act may be filed only in the United States Court of Appeals
+for the District of Columbia Circuit.
+(b) Exclusive Jurisdiction.--The United States Court of
+Appeals for the District of Columbia Circuit shall have
+exclusive jurisdiction over any challenge to this Act or any
+action, finding, or determination under this Act.
+(c) Statute of Limitations.--A challenge may only be
+brought--
+(1) in the case of a challenge to this Act, not later than
+165 days after the date of the enactment of this Act; and
+(2) in the case of a challenge to any action, finding, or
+determination under this Act, not later than 90 days after
+the date of such action, finding, or determination.
+The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from
+Washington (Mrs. Rodgers) and the gentleman from New Jersey (Mr.
+Pallone) each will control 20 minutes.
+Mr. MASSIE. Mr. Speaker, I rise in actual opposition to the bill.
+The SPEAKER pro tempore. Is the gentleman from New Jersey opposed to
+the motion?
+Mr. PALLONE. Mr. Speaker, no.
+The SPEAKER pro tempore. The gentleman from New Jersey is not opposed
+to the motion.
+The gentleman from Kentucky (Mr. Massie) will control 20 minutes in
+opposition.
+The Chair recognizes the gentlewoman from Washington (Mrs. Rodgers).
+General Leave
+Mrs. RODGERS of Washington. Mr. Speaker, I ask unanimous consent that
+all Members may have 5 legislative days in which to revise and extend
+their remarks and include extraneous material in the Record on the
+bill.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from Washington?
+There was no objection.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield myself such time as
+I may consume.
+Mr. Speaker, I rise today in support of H.R. 7521, the Protecting
+Americans from Foreign Adversary Controlled Applications Act.
+Foreign adversaries, like the Chinese Communist Party, pose the
+greatest national security threat of our time. TikTok's access to 177
+million American users makes it a valuable propaganda tool for the CCP
+to exploit.
+Over the past week, we saw in real time how CCP-controlled TikTok
+used its influence and power to force users to contact their
+Representatives if they even wanted to continue using the app. This is
+just a small taste of how the CCP weaponizes applications it controls
+to manipulate tens of millions of people to further its agenda.
+Today's legislation will end this abuse by preventing apps controlled
+by foreign adversaries from targeting, surveilling, and manipulating
+the American people. We have given TikTok a clear choice: Separate from
+your parent company, ByteDance, which is beholden to the CCP, and
+remain operational in the United States, or side with the CCP and face
+the consequences. The choice is TikTok's.
+Companies controlled by a foreign adversary, like the CCP, will never
+embrace American values like the freedom of speech, human rights, the
+rule of law, and a free press. If given the choice, they will always
+choose the path of more control, more surveillance, and more
+manipulation. In the case of TikTok, we wouldn't even know it.
+Today, we send a clear message that we will not tolerate our
+adversaries weaponizing our freedoms against us.
+Mr. Speaker, I encourage my colleagues to support this bill, and I
+reserve the balance of my time.
+Mr. MASSIE. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I know the sponsors of this bill are sincere in their
+concerns and in their effort to protect Americans. They have described
+the TikTok application as a Trojan horse, but there are some of us who
+feel that, either intentionally or unintentionally, this legislation to
+ban TikTok is actually a Trojan horse. Some of us are concerned that
+there are First Amendment implications here.
+Americans have the right to view information. We don't need to be
+protected by the government from information. Some of us just don't
+want the President picking which apps we can put on our phones or which
+websites we can visit. We don't think that is appropriate.
+We also think it is dangerous to give the President that kind of
+power, to give him the power to decide what Americans can see on their
+phones and on their computers. To give him that sort of discretion, we
+also think, is dangerous.
+People say that this TikTok ban will only apply to TikTok or maybe
+another company that pops up just like TikTok, but the bill is written
+so broadly that the President could abuse that discretion and include
+other companies that aren't just social media companies and that
+aren't, as some people would believe, controlled by foreign
+adversaries. Again, we are giving the President that discretion to
+decide whether it is controlled by a foreign adversary.
+There were some people who were legitimately concerned that this was
+an overly broad bill, and they got an exclusion written into the bill
+that I want to read. It says: ``The term `covered company' does not
+include an entity that operates a website . . . or . . . application
+whose primary purpose is to allow users to post product reviews,
+business reviews, or travel information and reviews.''
+Why is this exception in the bill? Why did somebody feel like they
+needed this exception if the bill itself only covers social media
+applications that foreign adversaries are running? These and other
+questions we hope to answer in the course of this debate, and I reserve
+the balance of my time.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 10 minutes to the
+gentleman from New Jersey (Mr. Pallone) and ask unanimous consent that
+he be permitted to control that time.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from Washington?
+There was no objection.
+Mr. PALLONE. Mr. Speaker, I yield myself 3 minutes.
+Mr. Speaker, I rise in support of H.R. 7521, the Protecting Americans
+from Foreign Adversary Controlled Applications Act.
+Big Tech has transformed social media platforms into modern-day media
+companies. Unfortunately, these networks engage in invasive
+surveillance practices by collecting Americans' most sensitive personal
+data.
+Foreign adversaries also see access to Americans' data communication
+networks, devices, and applications as the entry points to disrupt our
+daily lives and conduct espionage activities. All of this endangers our
+national security interests.
+We have a long history of restricting our television and radio
+airwaves from ownership by foreign governments and
+[[Page H1165]]
+individuals due to the national security concerns that these
+arrangements pose. Social media companies should also face similar
+scrutiny. After all, while technology has evolved, the threats are very
+much the same.
+I also take the concerns raised by the intelligence community very
+seriously. They have asked Congress to give them more authority to act
+in narrowly defined situations. I believe this bill would do just that
+by addressing the national security risks posed by applications
+operated by companies controlled by foreign adversaries.
+While this bill establishes a national security framework that could
+apply to other applications, much of the public attention has focused
+on TikTok. The combination of TikTok's Beijing Communist-based
+ownership and the fact that over 170 million Americans use it
+exacerbates its dangers to our country and our privacy.
+Laws in China allow the Chinese Communist Party to compel companies
+like TikTok to share data with them whether the companies want to or
+not. This means the CCP has the ability with TikTok to compromise
+device security, maliciously access Americans' data, promote pro-
+Communist propaganda, and undermine our Nation's interests.
+This is extremely troubling. Beijing, China, should not have the
+control over Americans that TikTok gives them. It is my hope that, if
+enacted, this legislation will force divestment of TikTok so that
+Americans will be able to continue to use this platform without the
+risk that it is being operated and controlled by Beijing, China.
+However, even if TikTok is divested, China and other foreign
+adversaries will still be able to acquire vast amounts of Americans'
+data. That is because we place no restrictions on who data brokers can
+sell data to, and that must stop as well. I look forward to the House
+considering next week legislation that I introduced with Chair Rodgers
+that would stop this from happening.
+We must begin to hold Big Tech accountable for transforming the
+information superhighway into a superspreader of harmful content,
+invasive surveillance practices, and addictive and damaging design
+features, all with the goal of collecting more data. We must enact a
+comprehensive data privacy bill so that we finally give Americans
+control over how their data is used and collected.
+I thank Representatives Krishnamoorthi and Gallagher for their
+bipartisan work on this bill, which unanimously passed out of the
+Energy and Commerce Committee last week, and I urge my colleagues to
+support H.R. 7521.
+Mr. Speaker, I reserve the balance of my time.
+Mr. MASSIE. Mr. Speaker, I reserve the balance of my time.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 1\1/2\ minutes to
+the gentleman from Wisconsin (Mr. Gallagher).
+Mr. GALLAGHER. Mr. Speaker, TikTok is a threat to our national
+security because it is owned by ByteDance, which does the bidding of
+the Chinese Communist Party. We know this because ByteDance leadership
+says so and because Chinese law requires it.
+This bill, therefore, would force TikTok to break up with the Chinese
+Communist Party. It does not apply to American companies. It only
+applies to companies subject to the control of foreign adversaries
+defined by Congress. It says nothing about election interference and
+cannot be turned against any American social media platform.
+It does not impact websites in general. The only impacted sites are
+those associated with foreign adversary apps, such as TikTok.com.
+It can never be used to penalize individuals. The text explicitly
+prohibits that.
+It cannot be used to censor speech. It takes no position at all on
+the content of speech, only foreign adversary control, foreign
+adversary control of what is becoming the dominant news platform for
+Americans under 30.
+Mr. Speaker, this is a commonsense measure to protect our national
+security, and I urge my colleagues to support this critical bipartisan
+legislation.
+Mr. MASSIE. Mr. Speaker, I reserve the balance of my time.
+Mr. PALLONE. Mr. Speaker, I yield 3 minutes to the gentleman from
+Illinois (Mr. Krishnamoorthi), who is the Democratic sponsor of the
+bill.
+Mr. KRISHNAMOORTHI. Mr. Speaker, I thank Ranking Member Pallone; Mr.
+Gallagher, my partner on this bill; Chairwoman McMorris Rodgers; and
+all the members of the select committee.
+First, this bill is not a ban, and it is not about TikTok. It is
+about ByteDance. Let me tell you about ByteDance. ByteDance is a 100-
+percent owner of TikTok. ByteDance is controlled by the Chinese
+Communist Party.
+In fact, the editor in chief of ByteDance is the secretary of the
+Chinese Communist Party cell embedded at the very highest ranks of the
+company. He has been charged with making sure that TikTok and all
+products of ByteDance adhere to ``correct political direction.''
+This particular bill ensures that ByteDance divests itself of the
+vast majority of the ownership of TikTok. Our intention is for TikTok
+to continue to operate but not under the control of the Chinese
+Communist Party.
+Secondly, this divestment requirement is not new. It is not without
+precedent. When the app Grindr, a popular LGBTQ app, was acquired by a
+Chinese company and the United States Government determined that
+sensitive data of LGBTQ members of the military and U.S. Government
+officials got into the hands of the Chinese Communist Party, they
+required divestment.
+This happened quickly. Why? Because Grindr was a very valuable social
+media company. The same is true with regard to TikTok. There will be no
+disruption to users, just as there was with Grindr.
+The third point, unfortunately, when TikTok has appeared before
+Congress, whether it is before the House Energy and Commerce Committee
+or otherwise, it has not been candid.
+First, TikTok has said its data is not accessible to China-based
+ByteDance employees. False. China-based employees routinely access this
+data, even unbeknownst to employees of TikTok USA.
+In addition, TikTok said its data will not be weaponized and has not
+been weaponized against American citizens. Again, false. Published
+reports have shown that TikTok data, geolocation data, has been used to
+surveil American journalists who reported on problems with Chinese-
+based employees having access to American user data.
+Finally, last week, under the leadership of the chairwoman and the
+ranking member, they brought up for consideration our bill before the
+House Energy and Commerce Committee. On the morning of that vote,
+TikTok delivered a push notification and a popup to thousands of user
+across the country. They used geolocation data targeting minor children
+to then force them to call congressional offices in order to continue
+using the app. In doing so, these children called and asked the
+question: What is Congress, and what is a Congressman? This influence
+campaign illustrates the need for this bill.
+Mr. MASSIE. Mr. Speaker, I yield 3 minutes to the gentleman from Ohio
+(Mr. Davidson), a data privacy champion.
+Mr. DAVIDSON. Mr. Speaker, I thank the gentleman for yielding time.
+Mr. Speaker, I think it is important we solve the right problem. The
+gentleman from New Jersey, who isn't actually opposed to the bill,
+seems to have identified the real issue, which is data privacy. I think
+it is important that we solve the correct problem.
+Our problem with all these companies, social media and otherwise--
+your car, your phone, you name it--is surveillance. The spying that
+goes on of American citizens does need to be addressed, and it should
+be addressed by the Energy and Commerce Committee.
+{time}  0930
+I have long pleaded with Members of both sides of the aisle to pass
+H.R. 4639 to reclaim the privacy rights that are so deeply infringed in
+our country, and by avoiding that problem, we take away the energy and
+momentum to address the root issue.
+Frankly, the people sponsoring this bill today claim that the real
+issue is ownership.
+Nonetheless, who owns this company?
+[[Page H1166]]
+It is not 100 percent owned by ByteDance. Mr. Speaker, 60 percent of
+it is owned by investors, including American investors; 20 percent is
+owned by the founders; and 20 percent is owned by employees, over 7,000
+employees. The company's headquarters is not in China, it is in
+Singapore. The American user data isn't housed in China, it is housed
+in Texas controlled by a database owned by Oracle.
+The administration seems to believe that they can ban the export of
+Americans' sensitive data not just on TikTok but on all platforms
+because they just issued an executive order banning the export.
+Now, I wish this were the bill that Pramila Jayapal and I have
+sponsored that we were moving, the Fourth Amendment Is Not For Sale
+Act. It passed Judiciary, but its complement to prevent foreigners from
+buying it would also address the privacy concerns.
+So if we think we can address the privacy concerns, then what is left
+to address?
+Frankly, it is content moderation.
+Mr. Speaker, do you remember before Elon Musk bought the crime scene
+at Twitter? It was all a conspiracy theory that these algorithms were
+silencing and canceling people. You guys are crazy.
+No. When Elon Musk bought Twitter he did keep it operating with 80
+percent fewer employees, but what we found is a lot of the employees
+were trying to do content moderation, shape who sees what and how they
+see it, which algorithms are used, and how does it promote certain
+people and filter others.
+So, really, Mr. Speaker, what you are saying here is that if you are
+not fully engaged with America's three-letter agencies in content
+moderation, we plan to TikTok you.
+Moreover, this bill isn't just limited to TikTok. It is a coercive
+power that can be applied to others, apps like Telegram and TUR. Things
+that provide privacy would be targeted by this bill--perhaps Tether,
+one of the things that they can't control as a monetary system.
+When you look at companies, Mr. Speaker, if it enables one user to
+see content that isn't approved, it is subject to a $500 million fine
+per user.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. MASSIE. Mr. Speaker, I yield an additional 30 seconds to the
+gentleman from Ohio.
+Mr. DAVIDSON. Mr. Speaker, this is meant to be able to take out
+anything, including email where its one user sees it. So it could
+target an infinite number of companies, but not an infinite number of
+places.
+So, for that, I do applaud the work that was done to back off from
+the dystopian RESTRICT Act, but this is essentially a downpayment on
+the RESTRICT Act. I encourage everyone to look up the RESTRICT Act.
+This is what the administration really wanted to do. What Members of
+Congress on both sides of the aisle wanted to do is to create a bigger
+surveillance state, and that is what the Intel Committee wants to do
+with FISA, is to make it bigger. We have to shrink it and protect our
+Fourth Amendment right to privacy.
+Mrs. RODGERS of Washington. Mr. Speaker, it is not true that this is
+a downpayment on the RESTRICT Act--not interested in the RESTRICT Act.
+Mr. Speaker, I yield 30 seconds to the gentleman from Ohio (Mr.
+Latta).
+Mr. LATTA. Mr. Speaker, the CEO of TikTok appeared before the Energy
+and Commerce Committee and admitted to me during questioning that
+ByteDance has access to U.S. user data.
+This should be an alarm to every TikTok user. There is no reason why
+the Chinese Communist Party should be in control of an app that can
+access information on a user's phone. Moreover, because companies who
+are owned or linked to the Chinese Communist Party are forced to comply
+with their laws, ByteDance and its employees are taking orders from
+this Communist regime.
+This is not a ban, but it provides Communist China-controlled
+ByteDance, the parent company of TikTok, a choice. If ByteDance divests
+their ownership of TikTok, then TikTok would be available to its U.S.
+users.
+Mr. Speaker, I urge all my colleagues to support this legislation.
+Mr. PALLONE. Mr. Speaker, I yield 2 minutes to the gentlewoman from
+California (Ms. Pelosi), the Speaker Emerita.
+Ms. PELOSI. Mr. Speaker, I thank the gentleman for yielding and for
+his leadership on this very important issue. I thank the distinguished
+chairwoman of the Energy and Commerce Committee and associate myself
+with her remarks as well as with Mr. Pallone. I thank Mr.
+Krishnamoorthi and Chairman Gallagher of the Select Committee on China
+for their great leadership bringing this legislation forward to the
+committee of legislative jurisdiction.
+Mr. Speaker, I have a few points to make, and it is interesting to
+hear this respectful debate.
+First of all, this is not a ban on TikTok. I am a grandmother of
+teenagers. I understand the entertainment value, the educational value,
+the communication value, and the business value for some businesses on
+this. This is not an attempt to ban TikTok. It is an attempt to make
+TikTok better, tic-tac-toe, a winner.
+Here is what I have to say: The people of China have come forth. The
+Tibetans have come forth and said on TikTok that in China they are
+suppressed. They cannot put their message out. Not only that, but the
+Chinese Government misrepresents the situation in Tibet.
+Let me just tell you about Hong Kong, Mr. Speaker. During the Hong
+Kong election, TikTok TikToked into Taiwan that the Uyghurs on whom
+there is a genocide exercised by the Chinese Government, they have told
+the people in Taiwan that the Uyghurs like that genocide, and they told
+them that the people of Hong Kong liked the destruction of their
+democracy. They don't frame it that way, but that is their message.
+Again, they are suppressing the communications from Tibet.
+Then, just yesterday on the steps, we heard from the Taiwan people,
+we heard from the Tibetans, we heard from Hong Kong, and we heard from
+a woman whose husband was arrested because of his communications with
+somebody with a shared view.
+So this is controlled by the Chinese Communist Government. I can't
+forget this.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. PALLONE. Mr. Speaker, I yield an additional 30 seconds to the
+gentlewoman from California.
+Ms. PELOSI. Forgetting that, if you can--Mr. Speaker, I can't--think
+of this: The Chinese Government will control the algorithm, and they
+can change it any time in the United States.
+Mr. Speaker, I urge a ``yes'' vote.
+Mr. MASSIE. Mr. Speaker, I yield 4 minutes to the gentleman from
+North Carolina (Mr. Bishop), who is my friend and fellow colleague on
+the Judiciary Committee.
+Mr. BISHOP of North Carolina. Mr. Speaker, this is not the first time
+that restricting speech has been pursued in the interests of national
+security. In fact, in 5 days' time, next Monday, I will go to the
+Supreme Court for the first time where I will attend an oral argument
+in the case of Murphy v. Missouri.
+It is a case where agents from the White House, the Department of
+Justice, and other Federal agencies embedded themselves with American
+social media companies to manipulate what could appear on social media:
+expression by the American people.
+It has been described by the lower court as the most massive attack
+on free speech in U.S. history.
+Even as that pends for a decision by the Supreme Court, Congress
+would in this legislation say, in effect: Hold my beer.
+I don't use TikTok. I think it is ill-advised to do so. Members of
+this body are famous on TikTok, and I think that is unwise. Be that as
+it may, I respect the choices of 170 million users in the United
+States.
+The Trump administration attempted to ban TikTok in 2020. It was held
+that it couldn't do so in two court decisions because under the
+International Emergency Economic Powers Act, he is subject to the
+Berman amendment, passed in 1988 by this body, to provide that in the
+interest of dealing with hostile foreign powers, the President can do
+all sorts of things
+[[Page H1167]]
+with respect to commerce, but he cannot ban the free flow of
+information across international boundaries.
+I have heard that described as a gap in the law, but it is a feature.
+It is not a bug.
+This legislation cannot be described as other than receding from the
+Berman amendment. That principle in American law--which did not, by the
+way, emerge from the brow of Representative Berman in 1988--was
+predicated on a much earlier principle of First Amendment law
+established in 1965 by the United States Supreme Court in the case
+Lamont v. Postmaster General which said the American people have a
+First Amendment right of access to foreign propaganda.
+At first, it may be remarkable or strike one as odd to hear that.
+However, it is because the proper relationship between government and
+citizen in the United States is that the citizen decides what to be
+exposed to and what ideologies to embrace and consider and is always
+free to engage in expression including across international boundaries.
+That remains the prevailing constitutional law today.
+It begs this question: How could it be that Congress should be
+working hard to devise a means to circumvent that prevailing principle
+of the First Amendment against the use of a particular means of
+expression by 170 million Americans?
+Isn't it ironic that the technical advisers in the construction of
+this legislation to design it so that it can get around legislation
+challenges, including isolating litigation challenges to 180 days and
+only in the court of appeals in the District of Columbia, those
+technical advisers are the same folks at the Department of Justice who
+devised that plan to embed agents of the Department of Justice and
+other Federal agencies with social media platforms in the United States
+to restrict what Americans could say online.
+Mr. Speaker, America confronts a grave challenge in China, and it
+will not prevail by becoming more like them.
+Mr. MASSIE. Mr. Speaker, I yield back the balance of my time.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 30 seconds to the
+gentleman from Kentucky (Mr. Guthrie).
+Mr. GUTHRIE. Mr. Speaker, I want to emphasize this bill does not ban
+TikTok. It simply would require the Chinese Communist Party-affiliated
+ByteDance to sell TikTok and divest their interest.
+I was asked: Does this affect TikTok?
+No. It is any foreign adversary or any app that is owned, controlled,
+or unduly influenced by any foreign adversary.
+We must protect our national security and help keep America's private
+data out of the hands of our foreign adversaries.
+Mr. Speaker, I urge support of this bill.
+Mr. PALLONE. Mr. Speaker, I yield 2 minutes to the gentlewoman from
+California (Ms. Eshoo), who is a member of the committee.
+Ms. ESHOO. Mr. Speaker, I thank the ranking member of the Energy and
+Commerce Committee for yielding.
+Mr. Speaker, I rise today in support of H.R. 7521, the Protecting
+Americans from Foreign Adversary Controlled Applications Act.
+This bill will ensure the divestiture of TikTok from its People's
+Republic of China-controlled parent company, ByteDance.
+Why is it essential for Congress to do this?
+It is because the PRC controls ByteDance, and this presents a serious
+national security threat to our country.
+TikTok has 170 million-plus U.S. users, and it collects tremendous
+amounts of sensitive data. They also collect substantial background
+data that may be proprietary which may only be available to TikTok.
+The national security law of the PRC requires all Chinese
+organizations to ``support, assist, and cooperate with national
+intelligence efforts.'' Under this law, ByteDance could be compelled by
+the Chinese Government to provide data on every American TikTok user.
+They can weaponize this data to exploit and manipulate Americans
+through surveillance and disinformation.
+This legislation separates TikTok's data, algorithms, and source code
+from ByteDance.
+Importantly, this bill does not ban TikTok, something I do not
+support.
+I support divestiture because our first and most important
+responsibility as Members of Congress is to defend our Constitution and
+protect and defend the United States of America. The bill would also
+give Americans secure ownership of their data, including posts, photos,
+and videos, and give this administration and future administrations the
+authority to respond to future national security threats.
+For all these reasons, I urge all my colleagues to vote for this
+legislation in the name of our national security.
+{time}  0945
+The SPEAKER pro tempore. The gentleman from New Jersey's time has
+expired.
+Mr. MASSIE. Mr. Speaker, I yield 4 minutes to the gentlewoman from
+Georgia (Ms. Greene).
+Ms. GREENE of Georgia. Mr. Speaker, I rise today as the only Member
+of Congress that has ever been banned by social media.
+On January 2, 2022, Twitter banned me, banned my personal account on
+which I was campaigning for Congress, raising money, and using my free
+speech to inform the voters in my district they can vote for me.
+This was not done by a company owned by China. That was done by
+American-owned Twitter. This came on the heels of our own United States
+Government working with Big Tech and working with social media
+companies to censor and ban Americans' free speech.
+I believe that this bill can cause future problems. It is opening
+Pandora's box, and I am opposed to this bill.
+Most Americans don't trust the United States Government because of
+our experience dealing with it. Never forget that the United States
+Government also was the one that provided the Russia hoax to Americans.
+It also worked to ban Americans' free speech. It also has worked in so
+many ways to illegally spy on Americans through FISA without a warrant.
+If we wanted to be serious about stopping a foreign adversary, if we
+wanted to be serious about stopping China, we would stop China from
+buying our U.S. farmland. We would raise up our American energy
+independence. We would also stop the Green New Deal and not rely on
+China who owns and operates 85 percent of the battery market worldwide.
+There are dangers that lie ahead in this. This is really about
+controlling Americans' data. If we cared about Americans' data, then we
+would stop the sale of Americans' data universally, not just with
+China.
+There is some further issues. This is a Pandora's box. What is to
+stop Congress or the United States Government in the future from
+forcing the sale of another social media company claiming that it is
+protecting Americans' data from foreign adversaries.
+I think we can see in the future another Russia, Russia, Russia, and
+possibly force the sale of X as many Members in this body claim that
+Elon Musk is altering the algorithms of X.
+By the way, it was Elon Musk's purchase of X that restored my social
+media account on Twitter and allowed me to have my free speech back on
+Twitter.
+There are also Democrat Members of this body claiming that election
+meddling can happen on social media.
+Well, we can never forget Mark Zuckerberg and Facebook. We can never
+forget the election meddling that happened there. By the way, American-
+owned Facebook and Instagram is where most of the garbage like the
+gender lies and the woke lies exist.
+Many Americans and many teenagers believe awful things and they don't
+just see them on TikTok, they see them on Facebook and Instagram, too.
+I don't think this will accomplish what the goal is to accomplish.
+The other concern is that when the government moves in to force the
+sale of TikTok, who is going to buy it? That is the question that we
+should be asking. Who is going to buy it? Who will be the next to
+control the data of over 170 million Americans? Are we going to trust
+Mark Zuckerberg to control their data? I certainly don't.
+By the way, most of the time, my posts on Facebook are shadow banned,
+and I certainly don't have the reach on that social media account.
+[[Page H1168]]
+I think that there are many other ways to protect data, and I think
+this body is capable of it if we choose to do it.
+Mr. Speaker, I oppose the bill.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 1\1/2\ minutes to
+the gentleman from Texas (Mr. Roy).
+Mr. ROY. Mr. Speaker, we are in a cold war with China and some of my
+colleagues want to ignore this fact. We have legislation before us that
+is 12 pages long.
+The bill is not a ban. It forces foreign adversaries, including
+Chinese Communists, to divest. The bill is not a bill of attainder; it
+is prospective, not retrospective.
+The bill does not violate the First Amendment. It focuses on conduct,
+not content. It requires both being controlled by a foreign adversary
+and conduct that itself is espionage. If you just had one alone, it
+might be debatable, as the gentleman from North Carolina or Senator
+Paul notes, in that it might protect Americans' rights to seek out and
+obtain foreign propaganda. However, again, that is not this case
+because we have, and have as a trigger in the bill, demonstrated
+national security conduct harm.
+To be clear, we have properly taken action at the device layer by
+banning Huawei and ZTE spy gear. We have taken action at the carrier
+level, prohibiting China Mobile and China Telecom from connecting to
+our networks based on a determination they are controlled by the CCP
+and a national security threat.
+We now need to take action at the application level when malign CCP
+control has been demonstrated lest we render meaningless our past
+actions to protect the United States of America.
+We should ban Chicom ownership of our farmland or drug manufacturing,
+but we should fight them here and ban the foreign ownership and control
+of American data and stop apologizing for the Chinese Communists.
+Mr. MASSIE. Mr. Speaker, I yield 1 minute to the gentleman from
+California (Mr.  Robert Garcia), my friend on the other side of the
+aisle.
+Mr. ROBERT GARCIA of California. Mr. Speaker, I have enormous respect
+for the efforts of my colleagues to focus on security and data
+protection and I share many of their concerns; however, I disagree with
+this approach and this bill that could impact 170 million Americans who
+use TikTok.
+One-third of all U.S. adults use the app and millions of
+entrepreneurs and small business owners use the platform to support
+their family.
+Yes, just like every other social media platform, there is
+misinformation and privacy concerns on TikTok, and I share those;
+however, it is important that we don't treat TikTok differently than
+other platforms.
+If we are going to address this issue, we have to take the same
+approach to all social media platforms. We can't just single out one.
+I join many of my colleagues and the ACLU in voicing concern over the
+freedom of expression. I am a strong supporter of ensuring that TikTok
+remains an open marketplace. There is no guarantee in this bill that
+there won't be an interruption of service that could lead to an end of
+this app. I don't think we fully appreciate the impact this is going to
+have. Mr. Speaker, I am a strong ``no.''
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 30 seconds to the
+gentleman from Indiana (Mr. Bucshon).
+Mr. BUCSHON. Mr. Speaker, one of the most important duties the
+Constitution assigns to Congress is to protect the American people and
+to safeguard our national security.
+After hearing from national security experts last week, it is clear
+the prolific use of media platforms controlled by the Chinese Communist
+Party and other foreign adversaries poses a danger to our country.
+I am grateful to my bipartisan colleagues for moving this
+legislation, showing we will take action to protect the American people
+by protecting their personal data and security from foreign
+interference and manipulation. We took an oath to do so.
+Mr. MASSIE. Mr. Speaker, I yield 1 minute to the gentlewoman from
+California (Ms. Kamlager-Dove), my friend on the other side of the
+aisle.
+Ms. KAMLAGER-DOVE. Mr. Speaker, I rise today to oppose H.R. 7521.
+Banning TikTok is an insufficient Band-Aid solution to the genuine
+national security concerns the app raises and exposes. The bill
+seriously undermines civil liberties by essentially banning a platform
+that 150 million Americans use to engage in free speech and expression.
+A statewide TikTok ban has already been paused by a Federal judge on
+First Amendment grounds.
+Even without TikTok, the PRC could still be able to conduct influence
+operations on other social media platforms and obtain sensitive U.S.
+user data through hacking or data brokers.
+Finally, this bill would greatly expand the executive's authority to
+ban tech companies with zero congressional oversight. I cannot sign a
+blank check to some future President who would easily and dangerously
+weaponize this legislation to profit and silence.
+The creatives, artists, content creators, and businesses in my
+district will get caught in the cross fire of this bill, and deserve
+better than Federal overreach as a substitute for a thoughtful and
+incisive solution to this complicated national security challenge.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 40 seconds to the
+gentlewoman from Iowa (Mrs. Hinson).
+Mrs. HINSON. Mr. Speaker, I rise today in support of this simple
+bill. It forces TikTok to cut ties with the CCP or lose American users.
+The day after we introduced our bill, TikTok went into panic mode.
+They lied to their users saying Congress was going to ban TikTok, using
+young kids as political pawns.
+TikTok's gross stunt proved our point. What if on election day,
+TikTok sent out an alert saying our elections were canceled. We must
+act now.
+Today, we are sending a message to the CCP that we are going to
+deflate the 140 million spy balloons that they have installed on
+American phones. We must act and pass this bill today.
+Mr. MASSIE. Mr. Speaker, I reserve the balance of my time.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 1 minute to the
+gentlewoman from Florida (Mrs. Cammack).
+Mrs. CAMMACK. Mr. Speaker, today, we take a stand against the Chinese
+Communist Party and their efforts to turn content creators in America
+into foot soldiers for the CCP.
+We aren't banning a company, as the highest paid lobbyist for
+ByteDance, which is owned by China, would lead you to believe. We
+aren't infringing on constitutionally protected speech or growing the
+size of government.
+All we are saying is break up with the Chinese Communist Party. As a
+constitutional conservative, I don't want my government or Big Tech to
+have unfettered access to my private data, so why in the hell would we
+want and allow the Chinese Communist Party to have access to our
+private data?
+The CCP is an adversary of the United States, and this legislation
+narrowly, thoughtfully, and directly addresses the national security
+threat and protects Americans' data and, by extension, their First
+Amendment rights, because let us not pretend for one second that TikTok
+is not infringing on our First Amendment rights.
+I would say, as Representative Roy from Texas said, this bill is
+about conduct, not content.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mrs. CAMMACK. There is no restriction mentioned on content in this
+bill.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mrs. CAMMACK. But I will mention, Mr. Speaker, that the espionage is
+not covered or protected as one of the five tenets of the First
+Amendment.
+The SPEAKER pro tempore. The gentlewoman is no longer recognized.
+Mr. MASSIE. Mr. Speaker, I yield 1 minute to my good friend from
+Arizona (Mr. Schweikert).
+Mr. SCHWEIKERT. Mr. Speaker, I actually am about to try to make
+everyone mad. I actually believe data is a private property right. It
+belongs to you as an American citizen. The problem with our design
+here, it is really well-meaning, but it doesn't get at the
+structural problem.
+Let's say you have an entity over here that divests. What makes them
+not then take the data, sell it to a data broker, and it gets washed
+and ends up still in the bad actors' hands?
+You have to understand, there is even articles out this week of even
+our
+[[Page H1169]]
+own three-letter agencies buying their data now from data brokers
+instead of doing the tracking.
+We need to think dramatically more globally. Your data is a private
+property right. That will be the only way we end up protecting
+ourselves from bad actors and sometimes even our own selves.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield 30 seconds to the
+gentleman from Michigan (Mr. Walberg).
+Mr. WALBERG. Mr. Speaker, last March when I asked about Americans'
+data being stored and accessed by China, TikTok CEO stated under oath
+that it was not accessible by the CCP. However, this statement was a
+lie. As their own internal recording said, ``everything is seen in
+China.''
+H.R. 7521 gives TikTok and similar apps 6 months to divest from their
+parent company ByteDance. It is their choice. TikTok needs to decide
+whether they value their users or their ties to the Chinese Communist
+Party more. It is as simple as that. I urge a vote for this bill.
+{time}  1000
+Mr. MASSIE. Mr. Speaker, I yield myself the balance of my time to
+close.
+Mr. Speaker, I know the other side is sincere. We have not questioned
+that here today, and I won't question their sincerity.
+In fact, I think they have identified at least three problems that we
+have in America: moral decay of our society, invasion of Americans'
+privacy, and our competitiveness with China. However, in this case,
+their cure is worse than the diseases.
+There are ways to get at these root problems. We just haven't taken
+it upon ourselves to address those root problems with actual
+legislative solutions that have been put forth here in Congress.
+For instance, Mr. Warren Davidson's Fourth Amendment Is Not For Sale
+Act would put a strong stake in the ground to protect Americans'
+privacy, whether it is from our own government or some foreign
+governments. That is the kind of thing we need.
+We need warrants in the FISA program. Our government shouldn't be
+able to spy on Americans without a warrant, yet they are. Let's bring
+that to the floor and vote on it.
+These are the kinds of cures we need, not the bill that is offered
+here today.
+The bill that is offered here today, even though I know it is offered
+genuinely, could also be named the Facebook protection and enhancement
+act because it is not the American people who are going to benefit most
+from this. It will be Facebook. Their stock is going to go up if this
+bill should pass the Senate.
+What are some ways that we could improve this bill? It should at
+least have a sunset. That is the only reason we are able to debate
+whether FISA should have warrants in it, because it sunsets. What have
+we observed? FISA has been abused.
+That is my concern with this TikTok ban. It will be abused. If it is
+just banning TikTok and ByteDance and copies of that, why does it need
+to be 13 pages long?
+I know they say it doesn't ban it, but it forces divestiture of the
+company. This sounds like when American companies try to do business in
+Third World countries and a dictator says: You can do business here.
+You just have to give me your company, and now you can continue to do
+business.
+We wouldn't let another country take over Ford Motor Company for
+selling Ford cars in their country, yet that is what we are wanting to
+do here.
+Again, this is a cure that is worse than the disease. Who is going to
+be prosecuted by this bill? Is it ByteDance or TikTok? Will they be
+taken to court? No. They are the target of this, but how do you elicit
+or effect a ban on them? By prosecuting Americans.
+The only way my colleagues can ban TikTok and the other companies
+from being here is to say what this bill says, which is the government
+will bring a civil action suit against you if you so much as host them
+here. If you have an app store that allows them to be here, and you are
+an American or an American company, you will be the target of this
+bill. Those are the only people who can be pursued under this bill. I
+know it is in order to go after TikTok, or so they say.
+I close by saying that we are sitting here with phones made in China.
+We are wearing suits made in China. We drove cars here with chips that
+are made in China.
+They are a foreign adversary, and, by golly, we are going to do
+something about it. What are we going to do? My colleagues are going to
+tell Americans they can't put a piece of software on their computer and
+can't go to certain websites that the President designates.
+Mr. Speaker, I urge my colleagues to oppose this well-intentioned
+bill because it will have bad consequences, and I yield back the
+balance of my time.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield the remainder of my
+time to the gentleman from Texas (Mr. Crenshaw).
+Mr. CRENSHAW. Mr. Speaker, I want to address all of my colleagues who
+I think are confused about the First Amendment, confused about the
+nature of TikTok, and confused about the intentions of the Chinese
+Communist Party.
+Let me explain this very simply. TikTok is owned by ByteDance.
+ByteDance is in China, and when you are in China, you have to do
+whatever the Chinese Communist Party says you have to do. That is
+according to the National Intelligence Law passed in 2017. If they want
+you to spy for them, you will spy for them. That is how that works.
+They have a board member from the Chinese Communist Party on
+ByteDance. My colleagues wouldn't allow a radio tower owned by the
+Chinese to be put up right in the middle of Washington, D.C., and then
+allow it to put out Chinese propaganda. My colleagues would probably
+complain about that.
+That is exactly what TikTok can be used for because millions of
+Americans are addicted to it. They see it, and the Chinese can
+absolutely manipulate those algorithms.
+The First Amendment does not give the Chinese Communist Party the
+right to American data or the right to manipulate the minds of
+Americans. That would be a really weird interpretation of the First
+Amendment.
+The primary counterarguments to this bill seem to be as shallow as it
+doesn't do everything I want, and Facebook is really mean, and I don't
+want them to make money. Does that mean we owe the Chinese access to
+all of our data and access to manipulate the minds of Americans? I
+don't think so.
+This is a very specific bill, very specifically tailored. It does not
+harm American companies or American individuals. You know it. You have
+to read it. Pass this bill.
+Mrs. RODGERS of Washington. Mr. Speaker, I yield back the balance of
+my time.
+Mr. SMITH of New Jersey. Mr. Speaker, I urge my colleagues to join me
+in supporting H.R. 7521, the Protecting Americans from Foreign
+Adversary Controlled Applications Act, a bipartisan bill introduced by
+our colleagues Mike Gallagher and Raja Krishnamoorthi.
+It is aimed at countering the Chinese Communist Party's efforts to
+sway public opinion in its favor--especially that of the younger
+generation--through the use of the social media app TikTok, as well as
+to counter the use of the app to collect data on Americans.
+Indeed, just this last week we saw a real time demonstration of the
+insidious use of TikTok: the targeting of American children with
+Communist Party propaganda--during school hours--and the recruiting of
+minors to act unwittingly as foreign agents of the Chinese Communist
+Party.
+On March 7, members of Congress--including me--were inundated with a
+phone call advocacy campaign that utilized children while we were
+debating the efforts of the CCP to sabotage the American economy. And
+the CCP connection with TikTok and its Chinese parent is something that
+is very tangible.
+TikTok's parent ByteDance, headquartered in Bejing, is compelled to
+participate in a strategic partnership with the Chinese Ministry of
+Public Security.
+Indeed, under China's Cybersecurity Law, companies are required to
+provide any information asked for to police or intelligence agencies.
+One former ByteDance official, Yintao Yu, has said that the CCP has
+access to all the company's data--including data stored in the U.S.
+Indeed TikTok has conceded as much--just look at the company's
+privacy policy, which says it can share user data with ByteDance and
+various governments around the world if required: ``We may disclose any
+of the Information we collect to respond to . . . government
+inquires,'' as well as to ``comply with any applicable law.''
+[[Page H1170]]
+We also know that the CCP has punished executives and companies that
+do not tow the Party line--just ask Jack Ma, one of the richest men in
+the world, what happens when you buck the Party.
+Indeed, ByteDance, like many Chinese companies, has an internal
+Communist Party Committee within its corporate structure, which is led
+by ByteDance Vice President Zhang Fuping.
+So what is TikTok's response to all this?
+After being deluged with phone calls in my office, that very day, I
+wrote to TikTok, at their American headquarters in Culver City,
+California, asking them to provide all internal documentation relating
+to the ``genesis, approval and execution of the advocacy campaign
+initiated by TikTok on March 7,'' so that Congress may determine the
+role of the CCP in recruiting children to lobby Congress on its behalf.
+Four days later, TikTok Vice President for Public Policy Michael
+Beckerman responded, with piratical defiance, claiming that
+congressional interest in this issue was ``offensive'' and ``patently
+false.''
+Really? You don't think that this is an issue that is in the national
+interest?
+We shall see about that.
+I will vote in favor of H.R. 7521 and urge my colleagues to do the
+same.
+Mr. DUNN of Florida. Mr. Speaker, a year ago, I asked TikTok CEO Shou
+Zi Chew point blank if ByteDance, its parent company, has spied on
+Americans on behalf of the Chinese Communist Party.
+He told me: ``I don't think spying is the right way to describe it.''
+Congress has overwhelming evidence that TikTok collects search and
+browsing histories, keystroke patterns, biometric identifiers, draft
+messages, metadata, geolocation data, and more.
+We're talking an overwhelming amount of sensitive user-data.
+This is not just data on adults, but the personal information of our
+children.
+That is the very definition of spying.
+TikTok and ByteDance present a serious national security threat.
+TikTok functions as a sophisticated surveillance tool--an
+organization that is bound to the Chinese Communist Party and required
+by their National Intelligence Law to support Chinese intelligence
+services.
+My esteemed colleagues and I are trying to protect Americans from
+this dangerous, destructive spyware masked as a simple social media
+app.
+The Protecting Americans from Foreign Adversary Controlled
+Applications Act will incentivize the divestment of TikTok so that it
+is no longer controlled by a China-based entity.
+This bill does not punish individual social media users, censor
+speech, or impact apps or websites that sever ties with companies
+controlled by foreign adversaries.
+The First Amendment does not protect espionage.
+I urge my colleagues to support this bill.
+Ms. JACKSON LEE. Mr. Speaker, I rise today to speak on H.R. 7521, the
+Protecting Americans from Foreign Adversary Controlled Applications
+Act.
+This bill would prohibit the distribution, maintenance, or provision
+of internet hosting services for any foreign adversary controlled
+application unless they execute a qualified divestiture as determined
+by the President.
+More specifically, under this bill, ByteDance would be required to
+divest themself from Tiktok in order for the application to remain in
+operation.
+As one of the most dominant social media platforms in recent history,
+it currently has over 150 million active users in the United States
+alone.
+Much of this success could be attributed to the application's
+algorithms being used to generate specifically curated content for each
+user on their respective ``For You'' pages in a short-form, infinite
+scroll format.
+Upon the rapid success of this content format, other social media
+platforms, including Facebook, Instagram, and Youtube have all followed
+suit.
+This has only further entrenched the massive success of the company
+among its users.
+This success is not without caveat, however.
+Recent studies conducted by researchers at Rutgers University found a
+disturbing underrepresentation of certain topics on the platform.
+Though pop culture and political terms were represented roughly
+proportional to other platforms, topics involving Uyghurs, Tibet,
+Tiananmen Square, and the Hong Kong protests were severely
+underrepresented.
+In addition, many valid concerns have been raised regarding the issue
+of national security and foreign government interference.
+Many stakeholders argue that the vast amount of data harvested from
+American users poses a threat to our data security and democracy.
+With the vast amount of American users on the platform, particularly
+individuals under the age of 24, I recognize the need to ensure
+security in our national democracy.
+I hope, moving forward, that we can join together in taking action to
+protect our youth from harmful actors while also safeguarding their
+freedom of thought.
+More investigation must happen to decide the next steps for TikTok. I
+will pursue the next steps before finalizing a complete ban. What
+company will be the purchaser? All must be answered before the best
+decision can be made.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentlewoman from Washington (Mrs. Rodgers) that the House suspend the
+rules and pass the bill, H.R. 7521, as amended.
+The question was taken.
+The SPEAKER pro tempore. In the opinion of the Chair, two-thirds
+being in the affirmative, the ayes have it.
+Mr. MASSIE. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The vote was taken by electronic device, and there were--yeas 352,
+nays 65, answered ``present'' 1, not voting 14, as follows:
+[Roll No. 86]
+YEAS--352
+Adams
+Aderholt
+Aguilar
+Alford
+Allen
+Allred
+Amo
+Amodei
+Armstrong
+Arrington
+Auchincloss
+Babin
+Bacon
+Baird
+Balderson
+Balint
+Banks
+Barr
+Barragan
+Bean (FL)
+Beatty
+Bentz
+Bera
+Bergman
+Beyer
+Bice
+Bilirakis
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Boebert
+Bost
+Brecheen
+Brown
+Brownley
+Buchanan
+Buck
+Bucshon
+Budzinski
+Burchett
+Burgess
+Burlison
+Calvert
+Cammack
+Caraveo
+Carbajal
+Cardenas
+Carey
+Carl
+Carson
+Carter (GA)
+Carter (LA)
+Carter (TX)
+Cartwright
+Case
+Casten
+Castor (FL)
+Chavez-DeRemer
+Cherfilus-McCormick
+Chu
+Ciscomani
+Clarke (NY)
+Cleaver
+Cline
+Cloud
+Clyde
+Cohen
+Cole
+Collins
+Comer
+Correa
+Costa
+Courtney
+Craig
+Crane
+Crawford
+Crenshaw
+Crow
+Cuellar
+Curtis
+D'Esposito
+Davids (KS)
+Davis (NC)
+De La Cruz
+Dean (PA)
+DeGette
+DeLauro
+DelBene
+Deluzio
+DeSaulnier
+Diaz-Balart
+Dingell
+Doggett
+Donalds
+Duncan
+Dunn (FL)
+Edwards
+Ellzey
+Emmer
+Escobar
+Eshoo
+Estes
+Evans
+Ezell
+Fallon
+Feenstra
+Ferguson
+Finstad
+Fischbach
+Fitzgerald
+Fitzpatrick
+Fleischmann
+Fletcher
+Flood
+Foster
+Foushee
+Foxx
+Franklin, Scott
+Fry
+Fulcher
+Gallagher
+Garamendi
+Garbarino
+Garcia (TX)
+Garcia, Mike
+Gimenez
+Golden (ME)
+Goldman (NY)
+Gonzales, Tony
+Gonzalez, Vicente
+Good (VA)
+Gooden (TX)
+Gottheimer
+Graves (LA)
+Graves (MO)
+Green (TN)
+Green, Al (TX)
+Griffith
+Grothman
+Guest
+Guthrie
+Hageman
+Harris
+Harshbarger
+Hern
+Hill
+Hinson
+Houchin
+Houlahan
+Hoyer
+Hudson
+Huffman
+Huizenga
+Hunt
+Issa
+Ivey
+Jackson (NC)
+Jackson (TX)
+James
+Jeffries
+Johnson (GA)
+Johnson (LA)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Kaptur
+Kean (NJ)
+Keating
+Kelly (IL)
+Kelly (MS)
+Kelly (PA)
+Kiggans (VA)
+Kildee
+Kiley
+Kilmer
+Kim (CA)
+Krishnamoorthi
+Kuster
+Kustoff
+LaHood
+LaLota
+LaMalfa
+Lamborn
+Landsman
+Langworthy
+Latta
+LaTurner
+Lawler
+Lee (FL)
+Lee (NV)
+Leger Fernandez
+Lesko
+Letlow
+Levin
+Lieu
+Loudermilk
+Lucas
+Luetkemeyer
+Luna
+Luttrell
+Lynch
+Magaziner
+Malliotakis
+Maloy
+Mann
+Manning
+Mast
+Matsui
+McBath
+McCaul
+McClain
+McClellan
+McCollum
+McCormick
+McHenry
+Menendez
+Meuser
+Mfume
+Miller (IL)
+Miller (OH)
+Miller (WV)
+Miller-Meeks
+Mills
+Molinaro
+Moolenaar
+Moore (UT)
+Moran
+Morelle
+Moskowitz
+Moulton
+Mrvan
+Murphy
+Napolitano
+Neguse
+Nehls
+Newhouse
+Nickel
+Norcross
+Norman
+Nunn (IA)
+Obernolte
+Owens
+Pallone
+Palmer
+Panetta
+Pappas
+Pascrell
+Payne
+Pelosi
+Peltola
+Pence
+Perez
+Peters
+Pettersen
+Pfluger
+Pingree
+Posey
+Quigley
+Raskin
+Reschenthaler
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Ross
+Rouzer
+Roy
+Ruiz
+Ruppersberger
+Rutherford
+Ryan
+Salazar
+Salinas
+Sanchez
+Sarbanes
+Scalise
+Scanlon
+Schiff
+Schneider
+Scholten
+Schrier
+Scott (VA)
+Scott, Austin
+Scott, David
+Self
+Sessions
+Sewell
+Sherman
+Sherrill
+Slotkin
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (WA)
+Smucker
+Sorensen
+Soto
+Spanberger
+Spartz
+Stansbury
+Stanton
+Stauber
+Steel
+Stefanik
+Steil
+Stevens
+Strickland
+Strong
+Suozzi
+Sykes
+Takano
+Tenney
+Thanedar
+Thompson (CA)
+Thompson (MS)
+Thompson (PA)
+Tiffany
+Timmons
+Titus
+Tokuda
+[[Page H1171]]
+Tonko
+Torres (NY)
+Trahan
+Trone
+Turner
+Underwood
+Valadao
+Van Drew
+Van Duyne
+Van Orden
+Vasquez
+Veasey
+Walberg
+Waltz
+Wasserman Schultz
+Waters
+Watson Coleman
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Wexton
+Wild
+Williams (NY)
+Wilson (FL)
+Wilson (SC)
+Wittman
+Womack
+Yakym
+Zinke
+NAYS--65
+Biggs
+Bishop (NC)
+Bonamici
+Bowman
+Boyle (PA)
+Bush
+Casar
+Castro (TX)
+Clark (MA)
+Clyburn
+Davidson
+Duarte
+Espaillat
+Frost
+Gaetz
+Gallego
+Garcia (IL)
+Garcia, Robert
+Gomez
+Greene (GA)
+Hayes
+Higgins (LA)
+Himes
+Horsford
+Hoyle (OR)
+Jackson (IL)
+Jackson Lee
+Jacobs
+Jayapal
+Kamlager-Dove
+Khanna
+Larsen (WA)
+Larson (CT)
+Lee (CA)
+Lee (PA)
+Lofgren
+Mace
+Massie
+McClintock
+McGarvey
+McGovern
+Meeks
+Meng
+Mooney
+Moore (AL)
+Moore (WI)
+Mullin
+Nadler
+Neal
+Ocasio-Cortez
+Omar
+Perry
+Phillips
+Pocan
+Porter
+Pressley
+Ramirez
+Schakowsky
+Schweikert
+Steube
+Swalwell
+Torres (CA)
+Vargas
+Velazquez
+Williams (GA)
+ANSWERED ``PRESENT''--1
+Crockett
+NOT VOTING--14
+Connolly
+Davis (IL)
+DesJarlais
+Frankel, Lois
+Gosar
+Granger
+Grijalva
+Harder (CA)
+Kim (NJ)
+Ogles
+Simpson
+Tlaib
+Wagner
+Williams (TX)
+{time}  1033
+Mr. LARSON of Connecticut changed his vote from ``yea'' to ``nay.''
+Messrs. WENSTRUP, CLEAVER, Ms. BALINT, Mr. CARSON, Mses. BOEBERT, and
+BROWNLEY changed their vote from ``nay'' to ``yea.''
+Ms. CROCKETT changed her vote from ``yea'' to ``present.''
+So (two-thirds being in the affirmative) the rules were suspended and
+the bill, as amended, was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+Stated for:
+Ms. GRANGER. Madam Speaker, I missed today's votes due to
+circumstances beyond my control. Had I been present, I would have voted
+``yea'' on rollcall no. 86.
+Mr. OGLES. Madam Speaker, I was unavoidably detained. Had I been
+present, I would have voted ``yea'' on rollcall No. 86.
+Stated against:
+Mr. CONNOLLY. Madam Speaker, I was absent from the vote today due to
+illness. Had I been present, I would have voted ``nay'' on rollcall No.
+86.
+____________________
