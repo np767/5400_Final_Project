@@ -1,0 +1,1638 @@
+[Congressional Record Volume 164, Number 60 (Friday, April 13, 2018)]
+[House]
+[Pages H3214-H3223]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+VOLCKER RULE REGULATORY HARMONIZATION ACT
+Mr. HENSARLING. Mr. Speaker, pursuant to House Resolution 811, I call
+up the bill (H.R. 4790) to amend the Volcker rule to give the Board of
+Governors of the Federal Reserve System sole rulemaking authority, to
+exclude community banks from the requirements of the Volcker rule, and
+for other purposes, and ask for its immediate consideration in the
+House.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore (Mr. Mitchell). Pursuant to House Resolution
+811, in lieu of the amendment in the nature of a substitute recommended
+by the Committee on Financial Services printed in the bill, an
+amendment in the nature of a substitute consisting of the text of Rules
+Committee Print 115-67, is adopted, and the bill, as amended, is
+considered read.
+The text of the bill, as amended, is as follows:
+H.R. 4790
+Be it enacted by the Senate and House of Representatives of
+the United Sates of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Volcker Rule Regulatory
+Harmonization Act''.
+SEC. 2. RULEMAKING AUTHORITY UNDER THE VOLCKER RULE.
+(a) In General.--Paragraph (2) of section 13(b) of the Bank
+Holding Company Act of 1956 (12 U.S.C. 1851(b)(2)) is amended
+to read as follows:
+``(2) Rulemaking.--
+``(A) In general.--The Board may, as appropriate, consult
+with the Comptroller of the Currency, the Federal Deposit
+Insurance Corporation, the Securities and Exchange
+Commission, or the Commodity Futures Trading Commission to
+adopt rules or guidance to carry out this section, as
+provided in subparagraph (B).
+``(B) Rulemaking requirements.--In adopting a rule or
+guidance under subparagraph (A), the Board--
+``(i) shall consider the findings of the report required in
+paragraph (1) and, as appropriate, subsequent reports;
+``(ii) shall assure, to the extent possible, that such rule
+or guidance provide for consistent application and
+implementation of the applicable provisions of this section
+to avoid providing advantages or imposing disadvantages to
+the companies affected by this subsection and to protect the
+safety and soundness of banking entities and nonbank
+financial companies supervised by the Board; and
+``(iii) shall include requirements to ensure compliance
+with this section, such as requirements regarding internal
+controls and recordkeeping.
+``(C) Authority.--The Board shall have sole authority to
+issue and amend rules under this section after the date of
+the enactment of this paragraph.
+``(D) Conforming authority.--
+``(i) Continuity of regulations.--Any rules or guidance
+issued under this section prior to the date of enactment of
+this paragraph shall continue in effect until the Board
+issues a successor rule or guidance, or amends such rule or
+guidance, pursuant to subparagraph (C).
+``(ii) Applicable guidance.--In performing examinations or
+other supervisory duties, the appropriate Federal banking
+agencies, the Securities and Exchange Commission, and the
+Commodity Futures Trading Commission, as appropriate, shall
+update any applicable policies and procedures to ensure that
+such policies and procedures are consistent (to the extent
+practicable) with any rules or guidance issued pursuant to
+subparagraph (C).''.
+(b) Conforming Amendments.--Section 13 of the Bank Holding
+Company Act of 1956 (12 U.S.C. 1851) is amended--
+(1) by striking ``the appropriate Federal banking agencies,
+the Securities and Exchange Commission, and the Commodity
+Futures Trading Commission,'' each place it appears and
+inserting ``the Board'';
+(2) by striking ``appropriate Federal banking agencies, the
+Securities and Exchange Commission, and the Commodity Futures
+Trading Commission'' each place it appears and inserting
+``Board'';
+(3) in subsection (c)(5), by striking ``Notwithstanding
+paragraph (2)'' and all that follows through ``provided in
+subsection (b)(2),'' and inserting ``The Board shall have the
+authority''; and
+(4) in subsection (d)(1)--
+(A) in subparagraph (F)(ii)--
+(i) by striking ``the appropriate Federal banking
+agencies'' and inserting ``the Board''; and
+(ii) by striking ``have not jointly'' and inserting ``has
+not''; and
+[[Page H3215]]
+(B) in subparagraph (G)(viii), by striking ``appropriate
+Federal banking agencies, the Securities and Exchange
+Commission, or the Commodity Futures Trading Commission,''
+and inserting ``Board,''.
+SEC. 3. ENFORCEMENT; ANTI-EVASION.
+(a) In General.--Subsection (e) of section 13 of the Bank
+Holding Company Act of 1956 (12 U.S.C. 1851(e)) is amended to
+read as follows:
+``(e) Enforcement; Anti-evasion.--
+``(1) Appropriate federal banking agency.--Notwithstanding
+any other provision of law except for any rules or guidance
+issued under subsection (b)(2), whenever the appropriate
+Federal banking agency has reasonable cause to believe that a
+banking entity or nonbank financial company supervised by the
+Board has made an investment or engaged in an activity in a
+manner that either violates the restrictions under this
+section, or that functions as an evasion of the requirements
+of this section (including through an abuse of any permitted
+activity), such appropriate Federal banking agency shall
+order, after due notice and opportunity for hearing, the
+banking entity or nonbank financial company supervised by the
+Board to terminate the activity and, as relevant, dispose of
+the investment.
+``(2) Securities and exchange commission and commodity
+futures trading commission.--
+``(A) In general.--Notwithstanding any other provision of
+law except for any rules or guidance issued under subsection
+(b)(2), whenever the Securities and Exchange Commission or
+the Commodity Futures Trading Commission, as appropriate, has
+reasonable cause to believe that a covered nonbank financial
+company for which the respective agency is the primary
+Federal regulator has made an investment or engaged in an
+activity in a manner that either violates the restrictions
+under this section, or that functions as an evasion of the
+requirements of this section (including through an abuse of
+any permitted activity), the Securities and Exchange
+Commission or the Commodity Futures Trading Commission, as
+appropriate, shall order, after due notice and opportunity
+for hearing, the covered nonbank financial company to
+terminate the activity and, as relevant, dispose of the
+investment.
+``(B) Covered nonbank financial company defined.--In this
+paragraph, the term `covered nonbank financial company' means
+a nonbank financial company (as defined in section 102 of the
+Financial Stability Act of 2010) supervised by the Securities
+and Exchange Commission or the Commodity Futures Trading
+Commission, as appropriate.''.
+(b) Rule of Construction.--Nothing in this section shall be
+construed to abrogate, reduce, or eliminate the backup
+authority of the Federal Deposit Insurance Corporation
+authority under the Dodd-Frank Wall Street Reform and
+Consumer Protection Act (12 U.S.C. 5301 et seq.), the Federal
+Deposit Insurance Act (12 U.S.C. 1811), or Federal Deposit
+Insurance Corporation Improvement Act of 1991.
+SEC. 4. EXCLUSION OF COMMUNITY BANKS FROM VOLCKER RULE.
+Section 13(h)(1) of the Bank Holding Company Act of 1956
+(12 U.S.C. 1851(h)(1)) is amended--
+(1) in subparagraph (D), by redesignating clauses (i) and
+(ii) as subclauses (I) and (II), respectively, and adjusting
+the margins accordingly;
+(2) by redesignating subparagraphs (A), (B), (C), and (D)
+as clauses (i), (ii), (iii), and (iv), respectively, and
+adjusting the margins accordingly;
+(3) in the matter preceding clause (i), as so redesignated,
+in the second sentence, by striking ``institution that
+functions solely in a trust or fiduciary capacity, if--'' and
+inserting the following: ``institution--
+``(A) that functions solely in a trust or fiduciary
+capacity, if--'';
+(4) in clause (iv)(II), as so redesignated, by striking the
+period at the end and inserting ``; or''; and
+(5) by adding at the end the following:
+``(B) that does not have and is not controlled by a company
+that has--
+``(i) more than $10,000,000,000 in total consolidated
+assets; and
+``(ii) total trading assets and trading liabilities, as
+reported on the most recent applicable regulatory filing
+filed by the institution, that are more than 5 percent of
+total consolidated assets.''.
+The SPEAKER pro tempore. The bill, as amended, shall be debatable for
+1 hour equally divided and controlled by the chair and ranking minority
+member of the Committee on Financial Services.
+The gentleman from Texas (Mr. Hensarling) and the gentlewoman from
+California (Ms. Maxine Waters) each will control 30 minutes.
+The Chair recognizes the gentleman from Texas.
+General Leave
+Mr. HENSARLING. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days within which to revise and extend their
+remarks and include extraneous material on the bill under
+consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Texas?
+There was no objection.
+Mr. HENSARLING. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, another day, another strong bipartisan bill presented to
+the House by the House Financial Services Committee.
+I take great pride in that fact.
+Today, I rise in strong support of H.R. 4790, the Volcker Rule
+Regulatory Harmonization Act.
+I want to thank, first, the gentleman from Arkansas (Mr. Hill) for
+his leadership on the issue and so many other issues in front of our
+committee.
+And I want to thank his bipartisan partner, the Democrat gentleman
+from Illinois (Mr. Foster) for his leadership on his side of the aisle
+on this very important piece of legislation.
+As a result of their hard work, this bill was reported out of our
+committee, Mr. Speaker, 50-10, which means 80 percent--80 percent--of
+our colleagues on the committee supported the legislation, including a
+majority of the Democrats.
+Now, Mr. Speaker, we enjoy, in America, the deepest, strongest, and
+most liquid capital markets, frankly, the world has ever known, and
+that helps us have a very strong, strong progrowth economy.
+Our capital markets are vital; vital to the job growth and job-
+creating machine in America. Our capital markets provide very important
+funding to Main Street businesses and to entrepreneurs for short-term
+operations and long-term growth.
+Main Street businesses, for example, like an equipment and party
+rental store in my district, whose owner is named Arlis, who told me,
+``The number one issue for me to keep the doors open is access to
+capital.''
+That is why it is so critical that we ensure that he has access to
+capital.
+I also heard from Jeff from Henderson County in the Fifth District of
+Texas that I have the privilege of representing. He owns a farm and
+ranch store, and he explained, ``During the past year, I have been able
+to expand my business location and double my inventory. I have been
+able to hire additional employees as I grow. Without access to credit,
+things like this would not be possible.''
+Just two quick little vignettes about how in our economy capital
+formation, access to credit, how important that is for the job engine
+of America.
+So again, Mr. Speaker, members of the House Financial Services
+Committee on both sides of the aisle have been working very hard on
+bipartisan pieces of legislation that can result in smarter, more
+efficient, more effective regulation that our hardworking taxpayers
+expect so that we can have robust capital formation and our job
+creators, our small business people like Jeff and Arlis, can continue
+to grow and prosper.
+H.R. 4790 is just one example of this type of legislation.
+Specifically, Mr. Speaker, H.R. 4790 will streamline the regulatory
+authority set forth in section 619 of the Dodd-Frank Act, a section
+more commonly known as the Volcker rule. It provides a framework that
+will provide increased regulatory clarity for entities that must comply
+with the Volcker rule. It does this by consolidating--consolidating--
+rulemaking authority and interpretation with the Federal Reserve Board,
+and for purposes of examination and enforcement, designating the
+primary Federal regulator for a covered entity as the sole regulator in
+those capacities.
+The challenge here, Mr. Speaker, is that some entities can have as
+many as five different regulators interpreting the Volcker rule and
+five different regulators enforcing the Volcker rule. Sometimes they
+conflict with each other, Mr. Speaker, and, frankly, the entity doesn't
+know what to do. You cannot have an economy based on the rule of law
+when, frankly, you don't know what the law says.
+So the gentleman from Arkansas (Mr. Hill) brings a very simple bill
+to the House floor that says we are going to have one--one--regulator
+in charge of interpreting the rules, and the primary regulator is going
+to be in charge of enforcing the rule. It is common sense. It creates
+efficiency.
+{time}  0915
+Now, I want to be clear about one thing: H.R. 4790 does not repeal
+the Volcker rule. I wish it did, but it doesn't. That is not what we
+are debating here today.
+Outside of providing important relief to community banks--bipartisan
+regulatory relief that, by the way, has already been approved by a
+strong two-
+[[Page H3216]]
+thirds of our Senate colleagues--this bill doesn't require any changes
+to the Volcker rule itself.
+I highlight this because this legislation, again, represents
+something that Members of Congress should agree on, that regardless of
+how you stand on a particular rule or regulation, it at least ought to
+be clear, and there ought to be one interpretation and one enforcer of
+the rule so that you know what the rule is. You can't abide by the rule
+if you don't know what the rule is. This is only common sense, and it
+can only lead to, again, stronger, deeper, more liquid capital markets
+to help our job creators.
+So regardless of whether we support the Volcker rule or we wish to
+repeal it, hopefully, we can at least agree that it shouldn't be
+unnecessarily complex and burdensome and virtually impossible to abide
+by. And so that, again, is what H.R. 4790 is simply trying to do.
+Mr. Speaker, I commend this piece of legislation to all of my
+colleagues. It is a very important piece of legislation, again,
+strongly bipartisan. Eighty percent of the Members of the House
+Financial Services Committee support it.
+Again, I want to commend the leadership of the gentleman from
+Arkansas (Mr. Hill), and with that, I reserve the balance of my time.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, I would like to start off with a quote from Speaker Paul
+Ryan in a 2012 townhall meeting. This is what he said to his
+constituents: ``If you're a bank and you want to operate like some
+nonbank entity like a hedge fund, then don't be a bank. Don't let banks
+use their customers' money to do anything other than traditional
+banking.''
+I agree, and that is why Congress passed the Volcker rule in the wake
+of the 2008 financial crisis, to prevent taxpayer-backed banks from
+engaging in risky, speculative activities like owning hedge funds. But
+since that time, Republicans have engaged in a relentless attack
+against the Volcker rule at the behest of Wall Street megabanks.
+H.R. 4790, the so-called Volcker Rule Regulatory Harmonization Act,
+is the latest threat to that rule. Specifically, H.R. 4790, contains
+two problematic provisions that would create a loophole in the Volcker
+rule and make it easier for the Trump administration to weaken or
+repeal it.
+Leading up to the financial crisis, Wall Street megabanks engaged in
+proprietary trading, which is essentially speculative, highly leveraged
+betting that benefits their bottom line but uses federally insured
+loans backed by the U.S. taxpayer.
+These banks gambled on exotic financial instruments like
+collateralized debt obligations comprised of risky subprime mortgages
+and credit default swaps, which even the legendary investor, Warren
+Buffett, criticized as ``financial weapons of mass destruction.''
+When the Housing bubble finally burst, these bets led to massive
+losses and required the Federal Government to bail out the banking
+industry with trillions of taxpayer dollars to stop an economic
+catastrophe. To protect the American taxpayer and the economy from this
+sort of risky trading as well as to return banks to the business of
+helping consumers and small businesses, Congress included the Volcker
+rule's ban on proprietary trading as part of the Dodd-Frank Wall Street
+Reform and Consumer Protection Act.
+Specifically, the Volcker rule prohibits taxpayer-backed banks from
+engaging in risky proprietary trading and from owning hedge funds and
+private equity funds. It also prohibits banks from owning the very same
+risky collateralized debt obligations that accelerated the 2008 crisis.
+According to Martin Gruenberg, Chairman of the Federal Deposit
+Insurance Corporation, that is, the FDIC, which is the agency charged
+with protecting taxpayers from bank bailouts, ``had it,'' this
+prohibition, ``been in place then, the Volcker rule would have
+constrained the proliferation of such instruments.''
+The result today is less reckless risk-taking by Wall Street
+megabanks and a stronger financial system. And despite dire predictions
+by Republicans, our banks have returned to lending to consumers and
+businesses, and our financial markets are adapting and thriving.
+For example, since passage of Dodd-Frank, bank lending to businesses
+has increased 80 percent; and in the bond market, which has long been
+dominated by bank dealers, we have seen record-new bond issuance by
+companies, States, cities, and towns seeking to raise funds and record
+trading volumes in those bonds. Most other metrics also show a healthy
+corporate bond market.
+Nevertheless, H.R. 4790 is just the latest Republican attempt to
+weaken the Volcker rule. First, the bill would provide a blanket
+exemption from the Volcker rule for 97 percent of our Nation's banks
+which have consolidated assets of $10 billion or less and with less
+than 5 percent of those assets in trading assets.
+To be clear, most community banks do not engage in any trading
+activities and, therefore, have no compliance requirements under the
+rule. However, H.R. 4790 would give all community banks the
+congressional thumbs-up to begin speculative trading instead of
+focusing on the traditional business of banking. It also makes
+community banks prime targets for hedge fund salesmen.
+Now, why is this an area of concern for me? It is an area of concern
+because I hear the community banks when they say that their numbers are
+going down because of mergers and consolidation. This bill does not
+help with this problem. It makes it worse because it sends a shining
+beacon to hedge funds all over the country that they can peddle risky
+and questionable investments to community banks, and the regulators
+will be none the wiser.
+I am extraordinarily concerned with the extent of the affordable
+housing crisis our Nation is facing. We need banks to invest in housing
+and in our communities. I believe that community banks can provide
+those kind of investments.
+But I am also concerned that, if the hedge funds can prey on
+community banks with little oversight, then they will be unable to
+provide the kinds of investments in housing and small businesses that
+communities need. Instead, we will see more community banks investing
+in hedge funds and possibly leaving these communities behind.
+So when Members ask: How can we create more affordable housing or
+address the issues that experts like Dr. Matthew Desmond are raising on
+the housing crisis in America, one thing that we can do is not think
+narrowly about the impact of financial services legislation, and,
+particularly, legislation like H.R. 4790 that can create lasting,
+unintended consequences if not carefully considered.
+We should think broadly and realize that the policies that we make
+for banks can have real impacts on the communities they serve. And the
+regulators and experts have done just that. They have carefully
+considered the bill's provisions and the unintended consequences that
+could ensue.
+That is why the blanket carve-out in this bill is opposed by former
+Federal Reserve Chairman and the rule's namesake, Paul Volcker, who has
+said: ``I know from my long experience in banking and savings and loan
+regulation that plausibly small loopholes can be `gamed' and exploited
+with unfortunate consequences.'' Paul Volcker was Chairman of the
+Federal Reserve for part of the savings and loan crisis, which, during
+that time, more than 1,000 S&Ls failed, fully one-third of the
+industry.
+The exemption is also opposed by FDIC Chairman Gruenberg, FDIC Vice
+Chairman Thomas Hoenig, and investors and advocates.
+If we truly want to reduce regulatory burdens on community banks that
+engage in permitted trading activity, we should be looking at other
+ways to accommodate them, such as by creating a presumption of
+compliance with the Volcker rule, which reduces compliance costs
+without opening up a loophole. Rather than encouraging banks,
+especially community banks, to make speculative bets on hedge funds or
+derivatives, we should be doing everything possible to ensure banks are
+focused on supporting their communities by offering mortgages and
+commercial loans.
+Second, H.R. 4790 would repeal the requirement that the Federal
+Reserve, FDIC; Office of the Comptroller of Currency, that is the OCC;
+Securities and Exchange Commission, that is the SEC; and the Commodity
+Futures Trading
+[[Page H3217]]
+Commission, that is the CFTC, work together to jointly implement the
+rule. Instead, the bill would delegate sole rulemaking authority to the
+Federal Reserve, which could choose to consult or not consult with the
+other regulators.
+This would unreasonably cut the FDIC out of any future rule changes,
+even though it is the regulator charged with protecting deposit
+insurance against the very risky, speculative activities the Volcker
+rule was designed to prevent.
+It would also cut the OCC out of the rulemaking process, even though
+it oversees institutions that account for approximately 40 percent of
+bank holding company trading revenues.
+And it would cut out the SEC and the CFTC, even though those agencies
+have the expertise and jurisdiction over broker dealers and future
+traders and their marketmaking activities.
+Worse, appointing the Fed a single regulator would make it easier for
+the Trump administration to weaken and repeal the Volcker rule, even
+though it was expeditiously promulgated in 2 years and the regulators
+are now working together to make appropriate changes. While the bill
+would at least allow the appropriate banking regulators--SEC and CFTC--
+to enforce the rule, such enforcement authority is meaningless if the
+Volcker rule is effectively gutted by the Trump administration.
+But this is what my Republican colleagues want. Chairman Hensarling's
+600-page Big Bank giveaway, H.R. 10, known as the ``Wrong'' CHOICE Act,
+would have repealed the Volcker rule outright. H.R. 4790 is merely the
+latest attempt to do the same thing.
+Mr. Speaker, I strongly oppose H.R. 4790, and I reserve the balance
+of my time.
+Mr. HENSARLING. Mr. Speaker, I yield myself 30 seconds just to say I
+am not sure what bill the ranking member is debating. It does not
+appear to be H.R. 4790, and I have my own quotes.
+Paul Volcker, himself, said the Volcker rule is ``much more
+complicated than I would like to see.''
+President Obama's Federal Reserve Chairman Janet Yellen, said:
+``Implementation of the Volcker rule is, frankly, complex. . . .''
+President Obama's Federal Reserve Governor Tarullo said: ``Several
+years of experience have convinced me that . . . the Volcker rule is
+too complicated.''
+President Obama's former Comptroller of the Currency said the Volcker
+rule ``has been one of the most complex rulemakings I can remember
+being involved in.''
+That is why we need to simplify it.
+Mr. Speaker, I am now very happy to yield 5 minutes to the gentleman
+from Arkansas (Mr. Hill), the bill's sponsor, one of the hardest
+working and most knowledgeable members on our committee.
+{time}  0930
+Mr. HILL. Mr. Speaker, I thank the chairman, and I appreciate the
+chairman's leadership in bringing this bill to the floor today.
+I think the American people should be very pleased that this bill is
+coming to the floor in the form that it is, because we are doing two
+things here, Mr. Speaker, that I hear about from constituents all the
+time in terms of the way Congress should work.
+First, the Dodd-Frank Act was passed 8 years ago this July and has
+been scrutinized by Congresses since that time on how it can be
+improved. What are the implications of it? What are the unintended
+consequences of it?
+No section of this bill was talked about more than section 619, the
+Volcker rule. So we are evaluating it, and we are bringing today a
+bipartisan solution to something that regulators say is a problem,
+bankers say is a problem, and our consumers and businesses have had the
+unintended consequences of being hurt by, because it has not allowed
+our capital markets to function efficiently.
+So, first, Dodd-Frank is subject to review after it was passed. That
+is something our constituents want. We know no law is perfect when it
+is passed. It is not a piece of the true cross discovered by St. Helena
+in Jerusalem. It is not part of the Rosetta Stone. It is subject to the
+scrutiny of the people--our people--the American people.
+Secondly, people tell me all the time: Why can't you be more
+bipartisan?
+So, Mr. Speaker, this is people's exhibit A of bipartisanship.
+The Financial CHOICE Act that this House passed last year repealed
+the Volcker rule. We believe it harms the capital market system of this
+country. We believe it was an overreaction to the financial crisis.
+We had members of the Obama administration who said that proprietary
+trading didn't even contribute to the financial crisis. But set that
+issue aside. We proposed repeal. Over in the United States Senate, they
+passed the bill with two-thirds of the Senate, Mr. Speaker, to say that
+the Volcker rule is not perfect.
+Section 619 is not right, and they exempt community banks under $10
+billion that don't have trading activity. They exempt them completely
+in the U.S. Senate bill passed with two-thirds of the Senate. I think
+all Americans know that two-thirds of the Senate agreeing on something
+is shocking. They can't even agree that there are 24 hours in a day.
+So this bill represents an improvement. This bill represents
+bipartisanship. With my friend, Dr. Foster, we have worked from the yin
+of full repeal to the Senate-exempt community banks. We have identical
+language to exempt community banks in this bill, Mr. Speaker. That is
+why we got a 50-0 vote in our committee. It is common sense.
+But we add one feature that we think improves that Senate language,
+and that is the heart of what is changed in this bill and the heart of
+what Dr. Foster worked on, which is, how do we harmonize the
+interpretation of this 1,000-page complex rule that our Federal Reserve
+bank presidents don't understand and our current chairman said that
+trading desks had to have a Ouija board to figure out how to do a
+trade? So we want a standard, harmonized interpretation of this rule,
+and that is what Dr. Foster and I propose today.
+They have tried other ways. We have an Interagency Working Group.
+They sit around, drink coffee, and figure out ways to harmonize stuff.
+But they have failed. There were hundreds of questions submitted: How
+do we interpret this rule? They could come up with 21 answers, Mr.
+Speaker, out of hundreds submitted.
+So for that reason, Dr. Foster and I suggest that the Federal Reserve
+system be first among equals in interpreting this complex rule. Why?
+Because they oversee all of the bank holding companies in the country,
+the most complex institutions in the country. In my view, that is what
+we need to do.
+We are bipartisan. We have compromised. We have brought both sides
+together. We have improved the bill. Like our chairman, I wish it were
+repealed, but that is not possible right now. So we take a step forward
+to make it a better rule that provides more certainty for market
+makers.
+If market makers have more certainty, Mr. Speaker, broker-dealers
+under $10 billion or over $10 billion will have a more clear compliance
+regime. Our towns and municipalities that require in their municipal
+bonds having market makers and trading will get better prices, which
+means our water and sewer systems are going to cost less when it comes
+to the net interest cost. That is what we are trying to do, is improve
+our capital markets and let our companies have more market makers.
+So, Mr. Speaker, I urge my colleagues to support this bill. I thank
+Dr. Foster for his support, and I thank the chairman for bringing it to
+the floor.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield 3\1/2\ minutes
+to the gentleman from Illinois (Mr. Foster), who is a member of the
+Financial Services Committee.
+Mr. FOSTER. Mr. Speaker, I thank Ranking Member Waters for yielding
+me the time and for her commitment to thoughtful debate in our caucus
+to get the best results for the people that we represent.
+I thank Congressman Hill for working with me and our staff for months
+to craft the bipartisan bill that you see on the floor today.
+When I first entered Congress, the Great Recession required an
+emergency response for lawmakers to save the economy from collapse, and
+then it required a thoughtful response to make sure that we would have
+an economy that would remain stable and work for everyone.
+[[Page H3218]]
+That is why I worked hard to draft the Dodd-Frank Wall Street Reform
+and Consumer Protection Act, and I am proud that it has succeeded in
+creating a more stable and better capitalized financial system so that
+hardworking families should never have to endure a similar financial
+crisis. The balance has generally been good between reining in risk and
+allowing financial services firms to play their necessary role in our
+economy.
+We have to constantly monitor for new risks and ways that regulation
+may unintentionally reduce liquidity or restrict access to capital. But
+first and foremost, we need to fight to preserve the substantive pieces
+that we got right and to build on its success with improvements to the
+law. That includes the Volcker rule, a crucial aspect of protecting the
+system. The current arrangement uses a committee of five agencies--the
+Fed, OCC, FDIC, SEC, and CFTC--to write and update the rule.
+During Volcker rulemaking, each regulator on the committee has an
+effective veto over any proposed policy. I spoke with former regulators
+who were involved in that rulemaking process and came to understand
+that the committee decision often formed around the weakest regulatory
+position, which is not good. The veto of each regulator also applies to
+interpreted guidance, which makes it very hard for either industry or
+watchdog groups to get a straight answer on what the details of the
+Volcker rule actually are.
+H.R. 4790 would strengthen Dodd-Frank by making regulatory practices
+more efficient and clear. The bill, including my amendment, would make
+the Federal Reserve the sole rulemaking agency for the Volcker rule,
+identify the regulator primarily responsible for oversight of an
+institution, and provide relief to community banks who are not going to
+threaten our economy by setting up a massive proprietary trading desk.
+Consolidated rulemaking at the Fed will also streamline the process
+for updating the Volcker rule to new market conditions that may create
+new threats. As markets change, we need a single nimble regulator to
+respond by amending the rule and providing an interpretation for new
+conditions.
+Identifying the single regulator responsible for Volcker oversight of
+an institution ensures consistent implementation and enforcement. This
+will be the Fed for a bank holding company, the OCC for a national
+bank, the FDIC for a federally insured State-chartered bank, the SEC
+for a broker-dealer, and the CFTC for a swap dealer. Importantly, the
+FDIC retains its backup examination authority for banks to protect the
+Deposit Insurance Fund with respect to all insured institutions.
+Exempting small community banks will relieve a significant compliance
+cost that is unnecessary because few of these banks have any interest
+in proprietary trading. This would also allow the regulators to focus
+on the largest banks which are the only ones capable of having large
+trading operations. These large banks hold 82 percent of all deposits
+and are the potential source of nearly all systemic risk.
+The bill limits the exemption to banks with less than $10 billion in
+assets and less than 5 percent of those assets being in trading assets.
+The SPEAKER pro tempore (Mr. Lance). The time of the gentleman has
+expired.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield the gentleman
+from Illinois an additional 30 seconds.
+Mr. FOSTER. Mr. Speaker, this 5 percent limitation means that any
+well-capitalized small bank that decides to invest in tradeable assets
+could take 100 percent losses on its trading positions without becoming
+insolvent and without threatening the Deposit Insurance Fund. So there
+is no gambling with taxpayer funds involved here.
+Mr. Speaker, I urge you to support a stronger Volcker rule by
+bringing greater efficiency and transparency to the policy formulation
+and greater consistency to implementation and enforcement.
+I thank, again, the ranking member for yielding me the time, and I
+urge a ``yes'' vote on the final passage of H.R. 4790, the Volcker Rule
+Regulatory Harmonization Act.
+Mr. HENSARLING. Mr. Speaker, I yield 3 minutes to the gentleman from
+Michigan (Mr. Huizenga), who is the chairman of the Capital Markets,
+Securities, and Investment Subcommittee.
+Mr. HUIZENGA. Mr. Speaker, the ranking member seems as if she would
+like to have a conversation about housing and prices. I am happy to do
+that--I am a former realtor and builder--just not right now.
+Today, we are here to talk about H.R. 4790, the Volcker Rule
+Regulatory Harmonization Act, introduced by my good friend and
+colleague, Mr. Hill.
+H.R. 4790 would streamline the regulatory authority over the Volcker
+rule by granting the Federal Reserve the exclusive primary authority,
+while requiring all of the other agencies to yet do their job as
+prescribed.
+This was really about proprietary trading. Because of the key role
+that market making plays in ensuring deep, liquid capital markets, the
+framers of the Volcker rule sought to exempt market-making activities
+from the coverage of its prohibition on proprietary trading.
+There is just one problem: The line between impermissible
+``proprietary trading'' and permissible ``market making'' is virtually
+impossible to draw.
+To add insult to injury, the framers of the Volcker rule unartfully
+conferred responsibility for both implementing and enforcing the rule
+on five different Federal financial regulators, all of which have
+different mandates and regulatory philosophies: the Federal Reserve,
+FDIC, OCC, SEC, and the CFTC. It is an alphabet soup of regulators.
+With each regulator having different statutory mandates and
+regulatory missions, is it any surprise that these five agencies have
+failed to reach a consensus on the regulation to implement the Volcker
+rule's vague legislative language?
+Let me give you another example. This is a little like driving down
+an unmarked section of the road where the State police, the Department
+of Transportation, the local police, the parking attendant, and the FBI
+have all been told that they have primary enforcement responsibilities
+for the speed limit. It just doesn't make sense. As a result, banks are
+getting out of the market-making business for fear of running afoul of
+the Volcker rule. This is a great detriment to the U.S. capital
+markets.
+The real-world implications of the Volcker rule have been higher
+borrowing costs for job creators, smaller investment returns for
+hardworking families, and less economic activity overall because of
+further regulatory restraints placed on already reduced liquidity
+margins in key fixed-income markets, including the corporate bond
+market.
+So, needless to say, from its inception, the Volcker rule has been a
+solution in search of a problem. It seeks to address activities that
+had nothing to do with the financial crisis, and its practical effect
+has been to undermine financial stability rather than to preserve it.
+H.R. 4790 is a much-needed first step to addressing the numerous
+unintended and negative consequences of the Volcker rule. This
+bipartisan bill, as has been pointed out, streamlines the rulemaking
+authority of the Federal Reserve. It consolidates examination and
+enforcement authority into a single primary regulator.
+This legislative measure makes important and sensible changes to
+ensure much-needed regulatory clarity and reduces burdensome compliance
+costs.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. HENSARLING. Mr. Speaker, I yield the gentleman from Michigan an
+additional 30 seconds.
+Mr. HUIZENGA. Mr. Speaker, despite the hyperbole you are hearing from
+the ranking member, nothing in this bill grants the Federal Reserve the
+ability to repeal the Volcker rule--nothing. Additionally, the other
+regulators, that alphabet soup of regulators, are still required to
+enforce the law.
+Everyone deserves to have clarity and understanding of what the rules
+of the road are, and that is what this bill is trying to do.
+Mr. Speaker, I urge my colleagues to vote ``yes'' on H.R. 4790.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, when the gentleman from Michigan started his remarks, he
+[[Page H3219]]
+accused me of wanting to talk about housing. He is absolutely correct.
+I want to talk about housing. I believe that if we really understood
+the needs of our constituents all over this country, instead of talking
+about megabanks and how we can give them whatever they want in order to
+make more profits, we should be talking about housing. We should be
+talking about housing needs in this country.
+As a matter of fact, I have said to the chairman more than once that
+I really would like to have a hearing on homelessness because
+homelessness is exploding all over the country. In the city of Los
+Angeles, we have probably over 53,000 homeless people every night
+without a place to lay their heads.
+Oh, yes, we should be talking about housing. You cannot separate
+trading from housing in the way that maybe some would attempt to do:
+Oh, this is about Volcker; it has nothing to do with housing.
+Oh, yes, it does.
+{time}  0945
+Because, instead of this risky trading that the banks are doing, they
+should be investing in our communities and providing for affordable
+housing.
+And let me just tell you, African-American homeownership today is as
+low as it was when housing discrimination was legal. There is not a
+single county in the United States with sufficient affordable housing.
+So, yes, we should be talking about housing, and thank you for
+bringing it to my attention. Thank you for accusing me of wanting to
+talk about housing.
+Last year our Nation's banks reported $164.8 billion in profit. Had
+it not been for the Republicans' new tax law which required them to
+take a one-time charge, the FDIC estimates that the banks would have
+profited to the tune of $183.1 billion, which is an all-time high and
+an increase of 7.2 percent from 2016 and a 26 percent increase from
+2006.
+So I think it is a little hard to argue that banks don't have enough
+money to lend, but let's look at what they did with that money.
+The Wall Street megabanks returned a lot of that money to their
+shareholders in the form of dividends and stock buybacks. For example,
+in June 2017, J.P. Morgan announced a stock repurchase program of up to
+$19.4 billion, its biggest buyback since the financial crisis.
+Citigroup also announced its largest ever stock buyback program, worth
+up to $15.6 billion, and doubled its dividend.
+The Wall Street megabanks also handsomely rewarded their CEOs with
+some of the biggest paydays since 2006. Five Wall Street banks,
+combined, paid their CEOs a total compensation of $126 million, the
+highest amount since before the financial crisis. Each chief of the
+banks--which includes Bank of America, J.P. Morgan, and Morgan
+Stanley--received an average $25.3 million for their work, and that was
+up 17 percent from 2016.
+Mr. Speaker, we listen to Chairman Hensarling's stories. He shares a
+lot of stories with us that he receives from his constituents about
+problems they are having receiving car loans or a mortgage. And I
+agree, we should be doing more to expand access to credit for
+consumers; but what I do not agree with is the Republican argument
+that, if we only repealed bank regulations, then all of a sudden those
+individuals would receive the car loans and the mortgages that they
+currently cannot.
+Banks are raking in money hand over fist, and they could use that
+money now to lend to creditworthy borrowers instead of paying millions
+of dollars in bonuses to their CEOs. Let's be clear about what is
+really going on. No amount of regulatory relief will cure Wall Street
+greed.
+Mr. Speaker, I reserve the balance of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 2 minutes to the gentleman from
+Wisconsin (Mr. Duffy), chairman of the Subcommittee on Housing and
+Insurance.
+Mr. DUFFY. Mr. Speaker, I thank the chairman for yielding time to me.
+Mr. Speaker, I want to congratulate Mr. Hill on putting together such
+a great bill, the Volcker Rule Regulatory Harmonization Act, a bill
+that you might not know from this conversation has wide bipartisan
+support in our committee, which has a lot of different views, left and
+right. It passed 50-10--passed 50-10.
+I want to talk about the Volcker rule in a second, but my good friend
+across the aisle--I call her a friend--is talking about big banks and
+all the bad things they are doing. Listen, when banks do well, our
+communities do well. When banks don't do well, we see crises spread
+across America, and people get hurt.
+When we talk about some of the biggest banks and making sure they
+have strong and stiff regulation, I would agree with the ranking
+member; but when we talk about their stock prices going up, we have got
+to ask: Who owns J.P. Morgan? Who owns Wells Fargo? Who owns the
+biggest banks in America?
+The people who President Trump had on his stage yesterday in the Rose
+Garden: It is truck drivers. It is the Wisconsin teachers. It is the
+people who work across this country who put money in their 401(k)s that
+own all of these stocks. And when those stock prices rise, so, too, do
+the values of the 401(k)s, because they own those American businesses.
+When you look at the Volcker rule and this ham-handed way in which it
+was put together and you are starting to reduce marketmaking in an
+effort to get away from proprietary trading, what you find is more
+volatility. And what you see then is the price of mortgages actually go
+up.
+Having markets that actually work is a way to get the most efficient
+pricing to homeowners, which is what we are trying to do here, which is
+why so many Democrats voted for a bill like this from Mr. Hill.
+I know this is not a housing conversation, but it is true that there
+are a lot more homeless people in America. We were devastated by the
+Obama economy.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. HENSARLING. Mr. Speaker, I yield the gentleman from Wisconsin an
+additional 30 seconds.
+Mr. DUFFY. Mr. Speaker, I think we can't deny the fact that, when you
+want to buy a house, you have to have a salary. You have to have a job.
+As the President likes to point out, the unemployment rate for the
+African-American and the Hispanic communities, of which my wife is one,
+is at all-time lows. They have jobs. And when you have a job, you have
+a salary. When you have a salary, you can buy a house.
+What I don't want to do is what we did before the 2008 crisis, which
+is give mortgages to people who can't afford to pay them, and then they
+lose those homes in foreclosure and their lives are devastated. We want
+to make loans to people who can afford to pay the mortgage and keep
+their home. Now is the time under a Trump economy where people have
+jobs, income, and can now afford to buy a home.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, this is absolutely amazing. We had the gentleman earlier
+who said this is not the time to talk about housing, and then we have
+the gentleman from Wisconsin who says, when the banks do well, our
+constituents do well.
+The banks are making millions of dollars; the CEOs are making
+millions of dollars; and they have bank tellers and people who work who
+are not even making $15 an hour. We can't even get a minimum wage
+increase, Federal minimum wage increase for our constituents, and many
+of them are working in these megabanks where the CEOs are walking away
+every year with millions of dollars in pay.
+So these statements, when banks do well, everybody does well, I wish
+my good friend would reexamine that statement because I think, when he
+thinks about it, he might want to retract it and take that back.
+``Certainly, we have to do a better job ring-fencing, fire-walling--
+whatever metaphor you want to use--between an insured depository
+institution and a noninsured investment bank.'' That is a quote from
+Chairman Jeb Hensarling, March 2013. That appeared in The Wall Street
+Journal.
+And this is just what the Volcker rule does.
+``If you're a bank and you want to operate like some nonbank entity
+like a hedge fund, then don't be a bank. Don't let banks use their
+customers' money
+[[Page H3220]]
+to do anything other than traditional banking.'' Again, I repeat, that
+is what Speaker Paul Ryan said in May 2012 in a townhall meeting.
+``I do support the Volcker rule. I think the concept of proprietary
+trading does not belong in banks with FDIC insurance.'' That is a quote
+from Treasury Secretary Steve Mnuchin, January 2017, during the Senate
+confirmation hearings.
+Another quote: ``I think the Volcker rule is very important and it is
+good. I think the Volcker rule is good. Banks should not be a last
+resort to sell securities. Banks should not have prop desks buying
+them.''
+That was Carl Icahn, the hedge fund manager and currently special
+adviser to President Trump on regulatory reform during a 2015
+conference.
+Another quote: ``Proprietary trading played a big role in
+manufacturing the CDOs and other instruments that were at the heart of
+the financial crisis. . . . If firms weren't able to buy up the parts
+of these deals that wouldn't sell . . . the game would have stopped a
+lot sooner.''
+This is a quote by Michael Madden, a managing director of the
+investment firm BlackEagle Partners and a former Lehman executive.
+We have more quotes. Here is one: ``The industry should be
+compartmentalized so as to limit the propagation of failures and also
+to preserve cultural boundaries.'' That is a quote by John Reed, the
+former Citigroup chairman, in a Senate testimony, February 2010.
+Further quoting: ``A strong Volcker rule is one of the most important
+provisions to prevent `too big to fail' financial institutions, stop
+conflicts of interest, and support credit in our economy. . . . Failure
+to comply should be severely punished.'' And this is what Reed said in
+a letter to regulators, February 2012.
+Again, in looking at all of these quotes, we find that there is one
+from former Democratic and Republican Secretaries of the Treasury W.
+Michael Blumenthal, joined by Nicholas Brady, Paul O'Neill, George
+Schultz, and John Snow.
+This is what they said: ``Banks benefiting from public support by
+means of access to the Federal Reserve and FDIC insurance should not
+engage in essentially speculative activity unrelated to essential bank
+services.'' Again, all of these gentlemen said this in a letter,
+reported in The Wall Street Journal, February 2010. This was a letter
+to the editor.
+And let me just, again, refer to one of the greatest economists in
+this country and the former Chair of the FDIC, Paul Volcker. What did
+he say?
+He said, in essence: The five banking regulatory authorities have now
+successfully responded to the provisions of the Dodd-Frank Act by
+setting out a comprehensive regulation restricting proprietary trading
+by commercial banks in the United States. . . . The agencies have dealt
+comprehensively with thousands of particular conceptual and practical
+questions raised by affected bankers, by legions of lobbyists, by other
+interested parties, and by the general public. . . . The result should
+help the process of restoring trust and confidence in commercial
+banking institutions. It is, after all, those institutions which
+benefit from explicit and implicit public support that we count on to
+provide a strong, safe, and effective financial system--Paul Volcker,
+December 2013.
+``The Volcker rule will make it illegal for firms to use government-
+insured money to make speculative bets that threaten the entire
+financial system and demand a new era of accountability from CEOs who
+must sign off on their firms' practices. Our financial system will be
+safer, and the American people are more secure because we fought to
+include this protection in the law.'' That was President Obama,
+December 2013.
+Mr. Speaker, with that, I will reserve the balance of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 2 minutes to the gentleman from
+Illinois (Mr. Hultgren), who has come to actually speak on H.R. 4790 as
+opposed to H.R. red herring, the vice chairman of the Financial
+Services Subcommittee on Capital Markets, Securities, and Investments.
+Mr. HULTGREN. Mr. Speaker, I first want to thank the hardest working,
+most effective chairman in all of Congress; and I also want to thank my
+good friend and colleague French Hill for sponsoring this legislation.
+I also want to thank my friend and colleague from Illinois, Bill
+Foster, for his work on this.
+I am also very happy to be a cosponsor of the Volcker Rule Regulatory
+Harmonization Act. This legislation strikes a bipartisan balance for
+simplifying some of the regulatory burden of the Volcker rule and
+provides a clear exemption for community banks.
+{time}  1000
+The Dodd-Frank Act granted responsibility to five different financial
+regulators with implementing and enforcing the Volcker rule: the Fed,
+OCC, FDIC, SEC, and CFTC. Every Member of this body knows that it can
+be difficult to come to an agreement when you have too many cooks in
+the kitchen. Imagine if this were the case for promulgating,
+implementing, and enforcing something as complicated as the Volcker
+rule.
+One Illinois bank, that serves thousands of my constituents,
+explained it is this way: ``This overlapping authority with respect to
+interpretations and guidance, as well as examinations and supervision,
+is inefficient and requires unnecessary time and effort, on the part of
+banks as well as regulators, to ensure compliance.''
+The Volcker Rule Regulatory Harmonization Act is an artful solution
+to dealing with this issue. It grants the Federal Reserve the exclusive
+rulemaking authority under section 619 of the Dodd-Frank Act and
+provides the sole examination and enforcement authority by an entity's
+primary Federal regulator. The bill also addresses the concerns that
+community banks have raised with the Volcker rule.
+H.R. 4790 exempts banking organizations that do not have or are not
+controlled by entities with $10 billion or more in total consolidated
+assets and total trading assets or trading liabilities that are more
+than 5 percent of total consolidated assets.
+Because of the Volcker rule's complexity, even those community banks
+that do not conduct any proprietary trading have, nonetheless, had to
+incur large costs simply proving what the regulators already know, that
+they are not engaged in activities covered by the rule. This is simply
+not fair to subject community banks to these costs associated with
+this.
+Mr. Speaker, I encourage my colleagues to support this legislation.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield 2 minutes to
+the gentlewoman from Ohio (Ms. Kaptur), my friend and champion of
+consumers.
+Ms. KAPTUR. Mr. Speaker, I thank Ranking Member Waters for her
+constant leadership to restore prudent banking to this country and rein
+in reckless speculation.
+When six megabanks in our country control over 75 percent of the
+wealth, that is too much power in too few hands. It has become
+increasingly clear that the Republican Party is focusing its efforts in
+this Congress on the only issue in which the GOP can seem to collect a
+consensus: handing out massive giveaways to the fat cats on Wall Street
+and their 1 percent buddies.
+The number of Dodd-Frank rollbacks we have seen this year alone is a
+blizzard. Now, this bill, the Volcker rule repeal, is just that,
+another Dodd-Frank rollback wrapped and tied with a big bow for giants
+Goldman Sachs and J.P. Morgan and their like.
+The bill rolls back key prudent banking protections put into place to
+prevent another financial meltdown and protect hardworking Americans
+from losing their wealth. You know, not one of those buzzards went to
+jail.
+The bill allows for a blanket exemption for the Volcker rule for
+banks with less than $10 billion in assets. Oh, I feel so sorry for
+them. They only have $10 billion. There is no logic behind allowing
+banks of a certain size to engage in the exact type of speculative--
+risky speculation that contributed to the financial crisis that we are
+still digging our way out of.
+Don't we remember Countrywide? It wasn't so long ago. You know, my
+unflagging dedication to leveling the playing field and building up our
+prudent lenders, community banks, and credit unions is the reason I
+stand to object to this legislation today. We can't allow such
+foundational building blocks of our communities to be wrecked again
+into the mangled progeny of the big six, and that is just what
+[[Page H3221]]
+my colleagues on the Republican side are about.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield an additional
+30 seconds to the gentlewoman from Ohio.
+Ms. KAPTUR. Mr. Speaker, on top of this blanket exemption, the bill
+also hands complete rulemaking power to the Fed rather than having
+checks and balances inside the executive branch, paving the way to
+completely gut the Volcker rule.
+You know, Fed Chair, formerly Paul Volcker, had said: ``I know from
+my long experience in banking and savings and loan regulation that
+plausibly small loopholes can be `gamed' and exploited with unfortunate
+consequences.''
+Again I say: Remember Countrywide?
+African Americans lost half their accumulated wealth since the
+founding of the Republic, Latinos a third, and everybody else a fifth.
+You know what, it is time to keep prudent banking elevated and curb the
+speculators.
+Mr. HENSARLING. Mr. Speaker, I yield 2 minutes to the gentleman from
+North Carolina (Mr. Pittenger), who is familiar with the eight-page
+bill and knows that H.R. 4790 does not repeal the Volcker rule. He
+happens to be the vice chairman of the Financial Services Subcommittee
+on Terrorism and Illicit Finance.
+Mr. PITTENGER. Mr. Speaker, I thank the chairman for his exceptional
+leadership on this important consideration and legislation.
+Mr. Speaker, I rise today in strong support of the gentleman from
+Arkansas, as well and the whip of the Financial Services Committee, for
+his work on H.R. 4790, the Volcker Rule Regulatory Harmonization Act.
+Mr. Hill's legislation streamlines the rulemaking process by granting
+the Federal Reserve sole authority to make exemption determinations
+under the Volcker rule. This simplification is a vital change from the
+confusion and the regulatory inconsistencies of the current Volcker
+rule by resolving the problem of having five different regulators
+weighing in on the same issue. This bill also exempts community banks
+under $10 billion in assets from the rule.
+Mr. Speaker, I want to note that, according to the FDIC, community
+banks with less than $10 billion in assets represent 92 percent of the
+insured institutions. Now, more than ever, actions like this need to be
+taken to provide relief to community banks and smaller financial
+institutions.
+Look no further than my State in North Carolina, which has lost 50
+percent of its banks since this financial crisis and the inception of
+the Dodd-Frank bill. Mr. Speaker, I thank Mr. Hill for his work on this
+bipartisan piece of legislation. It is long past time that we provide
+commonsense reforms to overly complex regulations passed under the
+Dodd-Frank Act. This is why I strongly urge my colleagues to join me in
+voting ``yes'' on H.R. 4790.
+Ms. MAXINE WATERS of California. Mr. Speaker, I reserve the balance
+of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman
+from Texas (Mr. Williams), the vice chairman of the Financial Services
+Subcommittee on Monetary Policy and Trade.
+Mr. WILLIAMS. Mr. Speaker, I rise today in support of H.R. 4790, the
+Volcker Rule Regulatory Harmonization Act. I appreciate the gentleman
+from Arkansas (Mr. Hill) for his leadership on this issue.
+At over 930 pages, section 619 of Dodd-Frank, otherwise known as the
+Volcker rule, is as lengthy as it is complex and confusing. The Volcker
+rule is framed as a solution to a problem that never existed in the
+first place. Right now there are five different agencies responsible
+for overseeing the implementation of the Volcker rule. These five
+agencies all have different legal mandates and regulatory missions,
+which have led to duplicate and concurrent reviews into U.S. banks.
+In the 25th District of Texas, community banks are struggling to get
+by and wonder why they have five different regulators knocking on their
+doors about the same issue. Only in Washington would that kind of
+backwards thinking be rewarded.
+H.R. 4790 would streamline regulatory authority over the Volcker rule
+by giving the Federal Reserve exclusive rulemaking authority. In other
+words, banks won't have five different regulators coming to them about
+the same regulation. As a result, Main Street will be able to breathe
+again.
+Mr. Speaker, the bottom line is this: This is a commonsense way of
+governing that we should see more of in this Chamber. I am proud to
+support this piece of legislation that passed the committee with wide
+bipartisan support just last month, and I encourage the whole House to
+vote in favor of it today.
+Now, we have had a lot of quotes. I have a quote. ``Business is good
+and business is getting better. H.R. 4790 moves our economy to new
+levels like we have never seen in years. Roger Williams, small business
+owner. Thank you very much.''
+Ms. MAXINE WATERS of California. Mr. Speaker, may I inquire, how many
+more speakers does Mr. Hensarling have?
+Mr. HENSARLING. Mr. Speaker, the majority has three more speakers.
+Ms. MAXINE WATERS of California. Mr. Speaker, I reserve the balance
+of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman
+from Minnesota (Mr. Emmer), another hardworking member of the Financial
+Services Committee.
+Mr. EMMER. Mr. Speaker, I rise today in support of H.R. 4790, which
+makes important changes to our financial regulatory system that will
+provide clarity and consistency for our community financial
+institutions.
+I want to thank my colleague from Arkansas for bringing this
+important legislation forward. The Volcker rule, a creation of the
+Dodd-Frank Act, sought to prohibit reckless trading and investment
+strategies to protect consumers. Instead, it has led to yet another
+overly complex one-size-fits-all regulatory regime that adds additional
+pressure on our already overregulated community banks.
+The complexities of this rule and its unintended consequences have
+been acknowledged by the current and prior administration as well as by
+Members on both sides of the aisle. The mere fact that five different
+agencies: the Fed; the FDIC; Office of the Comptroller of the Currency,
+the OCC; Securities and Exchange Commission, the SEC; and Commodity
+Futures Trading Commission, the CFTC, are responsible for implementing
+and enforcing one rule should tell the American people everything they
+need to know about how fragmented and confusing the Volcker rule can
+be.
+That is why I am pleased to see H.R. 4790, the Volcker Rule
+Regulatory Harmonization Act come before the House today to provide an
+exemption for our small community financial institutions and to
+streamline the regulatory authority of the Volcker rule.
+Mr. Speaker, this bill will free up banks on Main Street Minnesota
+and in towns all across the country, allowing them to spend more time
+lending to consumers and small businesses and less time wondering if
+the heavy hand of the Federal Government is going to come crashing down
+on him.
+Again, I thank Mr. Hill for his hard work on this issue and urge my
+colleagues to vote ``yes'' on H.R. 4790.
+Ms. MAXINE WATERS of California. Mr. Speaker, I continue to reserve
+the balance of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman
+from Georgia (Mr. Loudermilk), a great member of the Financial Services
+Committee.
+Mr. LOUDERMILK. Mr. Speaker, I want to thank the gentleman from Texas
+(Mr. Hensarling) for yielding time and the gentleman from Arkansas (Mr.
+Hill) for bringing this bill, a very important bill, to the floor for a
+vote today. Mr. Hill's bill will simplify and streamline one of the
+most complicated regulations from Dodd-Frank, the Volcker rule.
+The Volcker rule is intended to prevent banks from engaging in risky
+investments that do not benefit their customers, also known as
+proprietary trading. There are currently five Federal regulatory
+agencies implementing the Volcker rule. This has caused overlap,
+duplication, and confusion among regulated companies.
+The bill on the floor today will ensure that one Federal agency, the
+Federal Reserve, is responsible for writing
+[[Page H3222]]
+this regulation and that each bank's primary regulator will have the
+sole enforcement authority for that bank. This will streamline and
+simplify this overly complicated rule so financial institutions can
+spend more of their time making loans to consumers and businesses and
+less time on regulatory compliance.
+This bill will also fully exempt our small community banks that
+maintain less than $10 billion in assets from the Volcker rule rather
+than requiring them to prove a negative.
+There are currently 176 banks headquartered in my home State of
+Georgia, and all but three of them have less than $10 billion in
+assets. This bill will go a long way toward relieving small community
+banks in Georgia from unnecessary, complicated, and burdensome
+regulation.
+This bipartisan bill passed out of committee by a vote of 50-10 with
+the support of all the Republicans and the majority of the Democrats. I
+urge all my colleagues to support this bill.
+Ms. MAXINE WATERS of California. Mr. Speaker, I continue to reserve
+the balance of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman
+from Ohio (Mr. Davidson), a good member of the Financial Services
+Committee.
+Mr. DAVIDSON. Mr. Speaker, I rise on behalf of Ohio constituents who
+have suffered reduced access to the banking system due to the loss of
+community financial institutions in Ohio's Eighth District.
+Like many things in Dodd-Frank that were intended to do good and
+protect consumers, the Volcker rule is doing the exact opposite. The
+Volcker rule was designed to protect depositors from having their
+deposits placed at risk through proprietary trading. It was not
+designed to discourage other forms of capital from flowing into our
+banking system, from increasing competition, or from lowering prices
+for a broad swath of customers.
+This pragmatic, bipartisan compromise on Volcker is a great step
+forward in enabling community banks to reach their compliance costs and
+allow them to deploy more capital in the communities that serve.
+My hope is we can move forward and pursue more commonsense solutions
+like this, especially to help underserved communities where we have
+seen local banking services dry up. I encourage support for this bill.
+{time}  1015
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself the
+balance of my time to close.
+This is the third bill that the majority has put on the House floor
+this week that is a harmful giveaway to the big banks. I could just
+list you all of the deregulatory bills that they have been bringing
+forward, but, today, the bill we are considering, H.R. 4790, would
+threaten the Volcker rule, which prevents banks from gambling with
+taxpayer money. As we have discussed, the Volcker rule is a key
+component of Wall Street reform and has prevented risky, speculative
+behavior by Wall Street and made our economy safer. It must not be
+compromised.
+It seems the Republicans have not learned the lessons of the
+financial crisis at all. They are working every day to reverse critical
+Dodd-Frank reforms and to reopen the door to risky and harmful
+practices that led our Nation to economic catastrophe, so I oppose this
+bill.
+I do not want our Members to be tricked or fooled talking about
+community banks. This is not about community banks. This is about the
+megabanks. They always use the community banks to lead on some of these
+arguments so that people will think that they are doing something for
+community banks.
+Mr. Speaker, I yield back the balance of my time.
+Mr. HENSARLING. Mr. Speaker, may I inquire how much time I have
+remaining.
+The SPEAKER pro tempore (Mr. Byrne). The gentleman from Texas has 3
+minutes remaining.
+Mr. HENSARLING. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, as I listened very carefully to my friend and ranking
+member describe this parade of horribles that is going to befall our
+economy if H.R. 4790 is enacted, I would gently remind her that a
+majority of her own Members supported it. So all of these accusations
+that she has made against the majority party, I hope, and believe, she
+has, obviously, foisted upon the majority of her own Members who
+clearly do not support her in what she is attempting to do.
+In addition, Mr. Speaker, I would remind all Members, contrary to the
+Volcker rule, that weighs in at almost 1,000 pages, H.R. 4790 weighs in
+at 8 pages. If you read the bill, you will discover that it does not
+repeal the Volcker rule. Again, I don't know what bill the ranking
+member was debating, but it is not H.R. 4790.
+Now, Mr. Speaker, just think about it for a second. Paying your
+taxes--tax day is coming up--is not a pleasant time of year. And as
+unpleasant as that time is, think if you had to file your taxes with
+five different Federal agencies. Think about the fact that if you had a
+question about your taxes, that you had to call the Internal Revenue
+Service, you had to call the Department of Labor, you had to call the
+EPA, and you had to call the CFPB. What if you had five different
+agencies interpreting the Internal Revenue Code, all enforcing it in
+different ways? That would take one of the worst days of the year and
+compound it mightily.
+What the gentleman from Arkansas is trying to do on the majority
+side, and what the gentleman from Illinois is trying to do on minority
+side, is say: If we are going to have a Volcker rule--one of the most
+complicated, complex rules ever devised by the mind of man--maybe we
+ought to have one agency interpret it and one agency enforce it.
+Why do we do that, Mr. Speaker?
+We do that so that capital can be available to the people I spoke
+about in my opening statement. So that Jeff and Arlis can have capital
+to expand their small businesses on Main Street. That is what this is
+all about--so that our small businesses can thrive, so that the people
+who want to own a home can thrive, and so that this economy can grow.
+This is commonsense. It is why it is a strong, bipartisan measure--
+another strong, bipartisan measure that, unfortunately, our ranking
+member chooses not to partake in. And it is one of the reasons why,
+unfortunately, Mr. Speaker, if we listen to that side of the aisle--or
+at least a particular voice--we will continue to have bad economic
+growth. We need good economic growth for all of the American people.
+Mr. Speaker, I urge all Members to support H.R. 4790, and I yield
+back the balance of my time.
+The SPEAKER pro tempore. All time for debate has expired.
+Pursuant to House Resolution 811, the previous question is ordered on
+the bill, as amended.
+The question is on the engrossment and third reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+The SPEAKER pro tempore. The question is on the passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Mr. HENSARLING. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The vote was taken by electronic device, and there were--yeas 300,
+nays 104, not voting 25, as follows:
+[Roll No. 139]
+YEAS--300
+Abraham
+Adams
+Aderholt
+Aguilar
+Allen
+Amash
+Amodei
+Arrington
+Babin
+Bacon
+Banks (IN)
+Barletta
+Barr
+Barragan
+Barton
+Beatty
+Bera
+Bergman
+Beyer
+Biggs
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Black
+Blackburn
+Blum
+Blunt Rochester
+Bost
+Boyle, Brendan F.
+Brady (TX)
+Brat
+Brooks (AL)
+Brooks (IN)
+Brown (MD)
+Brownley (CA)
+Bucshon
+Budd
+Burgess
+Butterfield
+Byrne
+Calvert
+Carbajal
+Cardenas
+Carter (GA)
+Carter (TX)
+Chabot
+Cheney
+Clarke (NY)
+Clay
+Cleaver
+Clyburn
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Comstock
+Conaway
+Connolly
+Cook
+Cooper
+Correa
+Costa
+Costello (PA)
+Cramer
+Crawford
+Cuellar
+Culberson
+Curbelo (FL)
+Curtis
+Davidson
+Davis (CA)
+Davis, Rodney
+Delaney
+DelBene
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Dunn
+Emmer
+Estes (KS)
+Esty (CT)
+Evans
+[[Page H3223]]
+Faso
+Ferguson
+Fitzpatrick
+Fleischmann
+Flores
+Fortenberry
+Foster
+Foxx
+Frelinghuysen
+Fudge
+Gaetz
+Gallagher
+Garrett
+Gianforte
+Gibbs
+Gohmert
+Gonzalez (TX)
+Goodlatte
+Gottheimer
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Green, Gene
+Griffith
+Grothman
+Guthrie
+Hanabusa
+Handel
+Harper
+Harris
+Hartzler
+Heck
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Higgins (LA)
+Hill
+Himes
+Holding
+Hollingsworth
+Hoyer
+Hudson
+Huizenga
+Hultgren
+Hunter
+Hurd
+Issa
+Jackson Lee
+Jeffries
+Jenkins (KS)
+Johnson (GA)
+Johnson (OH)
+Johnson, E. B.
+Johnson, Sam
+Jordan
+Joyce (OH)
+Katko
+Kelly (IL)
+Kelly (MS)
+Kelly (PA)
+Kilmer
+Kind
+King (IA)
+King (NY)
+Kinzinger
+Knight
+Kuster (NH)
+Kustoff (TN)
+Labrador
+LaHood
+LaMalfa
+Lamb
+Lamborn
+Lance
+Larsen (WA)
+Latta
+Lawrence
+Lawson (FL)
+Lewis (MN)
+LoBiondo
+Loebsack
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lujan Grisham, M.
+MacArthur
+Maloney, Sean
+Marchant
+Marino
+Marshall
+Mast
+McCarthy
+McCaul
+McClintock
+McEachin
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Meeks
+Meng
+Messer
+Mitchell
+Moolenaar
+Mooney (WV)
+Moulton
+Mullin
+Murphy (FL)
+Newhouse
+Norman
+Nunes
+O'Halleran
+O'Rourke
+Olson
+Palazzo
+Palmer
+Panetta
+Paulsen
+Pearce
+Perlmutter
+Perry
+Peters
+Peterson
+Pittenger
+Poe (TX)
+Poliquin
+Posey
+Quigley
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (NY)
+Richmond
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney, Francis
+Rooney, Thomas J.
+Ros-Lehtinen
+Rosen
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce (CA)
+Ruppersberger
+Russell
+Rutherford
+Ryan (OH)
+Sanford
+Scalise
+Schneider
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Sherman
+Shimkus
+Shuster
+Sinema
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Stefanik
+Stewart
+Stivers
+Suozzi
+Taylor
+Tenney
+Thompson (MS)
+Thompson (PA)
+Thornberry
+Trott
+Turner
+Upton
+Valadao
+Vargas
+Veasey
+Vela
+Wagner
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Wasserman Schultz
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams
+Wilson (FL)
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (AK)
+Young (IA)
+Zeldin
+NAYS--104
+Blumenauer
+Bonamici
+Capuano
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Chu, Judy
+Cicilline
+Clark (MA)
+Cohen
+Courtney
+Crist
+Crowley
+Cummings
+Davis, Danny
+DeFazio
+DeGette
+DeLauro
+Demings
+DeSaulnier
+Deutch
+Doggett
+Doyle, Michael F.
+Ellison
+Engel
+Eshoo
+Espaillat
+Gabbard
+Gallego
+Garamendi
+Gomez
+Green, Al
+Grijalva
+Gutierrez
+Hastings
+Higgins (NY)
+Huffman
+Jayapal
+Jones
+Kaptur
+Keating
+Kennedy
+Khanna
+Kihuen
+Kildee
+Krishnamoorthi
+Langevin
+Larson (CT)
+Lee
+Levin
+Lewis (GA)
+Lieu, Ted
+Lipinski
+Lofgren
+Lowenthal
+Lowey
+Lujan, Ben Ray
+Lynch
+Maloney, Carolyn B.
+Matsui
+McCollum
+McGovern
+McNerney
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+Pallone
+Pascrell
+Payne
+Pelosi
+Pingree
+Pocan
+Polis
+Price (NC)
+Raskin
+Roybal-Allard
+Ruiz
+Rush
+Sanchez
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Serrano
+Sires
+Smith (WA)
+Soto
+Speier
+Swalwell (CA)
+Thompson (CA)
+Titus
+Tonko
+Torres
+Tsongas
+Velazquez
+Visclosky
+Waters, Maxine
+Watson Coleman
+Welch
+Yarmuth
+NOT VOTING--25
+Bass
+Bishop (GA)
+Brady (PA)
+Bridenstine
+Buchanan
+Buck
+Bustos
+Dingell
+Frankel (FL)
+Gosar
+Jenkins (WV)
+Johnson (LA)
+Massie
+Moore
+Noem
+Rice (SC)
+Scott, David
+Sewell (AL)
+Shea-Porter
+Simpson
+Smith (TX)
+Takano
+Tipton
+Walker
+Walz
+{time}  1047
+Messrs. DELANEY, LAWSON of Florida, and Mrs. LAWRENCE changed their
+vote from ``nay'' to ``yea.''
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+Stated for:
+Mr. DAVID SCOTT of Georgia. Mr. Speaker, during the votes held on
+April 13th, 2018, I was away handling important matters related to my
+District and attending my 15th Annual Jobs Fair held in Atlanta. If I
+had been present I would have voted ``yes'' on H.R. 4790--the Volcker
+Rule Regulatory Harmonization Act.
+personal explanation
+Mr. SIMPSON. Mr. Speaker, I was unable to be present to vote due to
+personal reasons. Had I been present, I would have voted ``yea'' on
+rollcall No. 138 and ``yea'' on rollcall No. 139.
+____________________

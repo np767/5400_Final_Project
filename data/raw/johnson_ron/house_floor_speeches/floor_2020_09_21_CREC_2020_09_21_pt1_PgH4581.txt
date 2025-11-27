@@ -1,0 +1,178 @@
+[Congressional Record Volume 166, Number 163 (Monday, September 21, 2020)]
+[House]
+[Pages H4581-H4582]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+{time}  1430
+DEFENDING THE INTEGRITY OF VOTING SYSTEMS ACT
+Ms. JACKSON LEE. Mr. Speaker, I move to suspend the rules and pass
+the bill (S. 1321) to amend title 18, United States Code, to prohibit
+interference with voting systems under the Computer Fraud and Abuse
+Act.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+S. 1321
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Defending the Integrity of
+Voting Systems Act''.
+SEC. 2. PROHIBITION ON INTERFERENCE WITH VOTING SYSTEMS.
+Section 1030(e) of title 18, United States Code, is
+amended--
+(1) in paragraph (2)--
+(A) in subparagraph (A), by striking ``or'' at the end;
+(B) in subparagraph (B), by adding ``or'' at the end; and
+(C) by adding at the end the following:
+``(C) that--
+``(i) is part of a voting system; and
+``(ii)(I) is used for the management, support, or
+administration of a Federal election; or
+``(II) has moved in or otherwise affects interstate or
+foreign commerce;'';
+(2) in paragraph (11), by striking ``and'' at the end;
+(3) in paragraph (12), by striking the period and inserting
+a semicolon; and
+(4) by adding at the end the following:
+``(13) the term `Federal election' means any election (as
+defined in section 301(1) of the Federal Election Campaign
+Act of 1971 (52 U.S.C. 30101(1))) for Federal office (as
+defined in section 301(3) of the Federal Election Campaign
+Act of 1971 (52 U.S.C. 30101(3))); and
+``(14) the term `voting system' has the meaning given the
+term in section 301(b) of the Help America Vote Act of 2002
+(52 U.S.C. 21081(b)).''.
+The SPEAKER pro tempore (Mr. Cuellar). Pursuant to the rule, the
+gentlewoman from Texas (Ms. Jackson Lee) and the gentleman from North
+Dakota (Mr. Armstrong) each will control 20 minutes.
+The Chair recognizes the gentlewoman from Texas.
+General Leave
+Ms. JACKSON LEE. Mr. Speaker, I ask unanimous consent that all
+Members have 5 legislative days to revise and extend their remarks and
+include extraneous material on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from Texas?
+There was no objection.
+Ms. JACKSON LEE. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, I rise in strong support of S. 1321, the Defending the
+Integrity of Voting Systems Act.
+We are on the verge of a significant, historic, and, really, life-or-
+death Presidential Federal election. This is an important legislative
+initiative. This important and timely legislation would strengthen
+Federal criminal laws related to interference with voting systems used
+in a Federal election.
+All of us want a fair and just election system. Voting is an
+essential part of our democracy. We must ensure that our citizens have
+confidence in our electoral systems.
+As we know too well from the last Presidential election and from
+evidence that we continue to learn, our adversaries, Russians and
+others, are conducting cyber operations to interfere with our
+elections. We are well aware of the Russian bots that interfered with
+the elections in 2016. We need to do all that we can to protect voting
+machines and the related infrastructure as we head to November.
+The integrity and legitimacy of our elections is at stake. That is
+why this bill was developed: to ensure that our law concerning the
+unauthorized accessing of computer systems can also be used to
+prosecute those who hack into computer voting systems.
+Led by Senator Blumenthal and by our former colleague Mr. Ratcliffe
+in the House, this bipartisan legislation responds to a concerning
+report by the Justice Department's Cyber-Digital Task Force in 2018.
+The report concluded that current law is inadequate, given all the
+potential threats to our Nation's election security and voting systems.
+Specifically, the report identified a gap in current Federal criminal
+law relating to hacking of voting machines, especially when the
+machines are offline.
+The Computer Fraud and Abuse Act is a key tool for the prosecution of
+computer crimes and the protection of property rights and computers,
+but the law is generally limited to certain devices connected to the
+internet. However, researchers have repeatedly demonstrated that ballot
+recording machines and other voting systems are susceptible to
+tampering based on physical or close access.
+In order to reduce the risk of attack, more jurisdictions are
+adopting important and recommended measures to
+[[Page H4582]]
+keep these voting systems off the internet. Therefore, S. 1321, this
+Senate bill, would expand the definition of the term ``protected
+computer'' under the Computer Fraud and Abuse Act to include computers,
+even if offline, that are a part of any voting system used in a Federal
+election.
+It is so crucial that the American people know that we have taken
+this action today to protect them and to ensure the sanctity of the
+process of voting and democracy. By expanding the definition of
+computers that are protected under current law, we will enhance the
+ability of law enforcement and prosecutors to bring appropriate charges
+in instances in which computer voting systems are hacked.
+The Senate passed this legislation with unanimous support, and it is
+now our turn to join our colleagues to adopt this important bill so
+that it may become law as quickly as possible. Therefore, Mr. Speaker,
+I ask all of my colleagues today to join me in this bipartisan, crucial
+legislation which upholds democracy and assures the sanctity of one
+vote, one person.
+Mr. Speaker, I reserve the balance of my time.
+Mr. ARMSTRONG. Mr. Speaker, I yield myself as much time as I may
+consume.
+Mr. Speaker, I rise in support of S. 1321, the Defending the
+Integrity of Voting Systems Act.
+This bill will protect our Nation's most sacred democratic process by
+making it a Federal crime to hack any voting system used in a Federal
+election.
+Protecting our Nation's election process from bad actors must be a
+top priority of Congress.
+In 2018, the Department of Justice's Cyber-Digital Task Force issued
+a report finding that election systems were not adequately protected by
+Federal law. This bill is a bipartisan response to address the problems
+identified by the task force.
+Bad actors who attempt to interfere in our elections must be punished
+for their actions. As someone who spends a lot of time here talking
+about where crimes fit in the State and Federal place, and oftentimes I
+think we overreact as a Federal Government and interfere in things that
+I believe should be left to the States, I think this is the opposite of
+that. An election in North Dakota can have consequences across the
+country. An election in Texas can have consequences across the country.
+This is written in a way that it deals with Federal elections and any
+machines used in those. It is a good piece of legislation. It is a
+bipartisan piece of legislation. It is based off of task force
+findings. It is narrow, and it does what we need it to do.
+Mr. Speaker, I urge my colleagues to join me in supporting this bill,
+and I yield back the balance of my time.
+Ms. JACKSON LEE. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, I thank the gentleman from the Judiciary Committee and
+on the Crime, Terrorism, and Homeland Security Subcommittee for his
+leadership, and I thank the sponsors for their leadership. I thank our
+chairman and ranking member for the bipartisanship of this legislation.
+Again, Mr. Speaker, let me remind my colleagues how important this
+change is. It doesn't speak to mistakes or innocent mistakes, but what
+it does is it makes sure that a computer that is offline is subject to
+the laws of hacking that may occur when a computer is online or active.
+We know how creative those who want to undermine and distract from a
+fair, just election are. They may not just have an inclination to hack
+an active computer. So under the Computer Fraud and Abuse Act, this is
+to include computers, even if they are offline, that are part of a
+voting system used in a Federal election.
+Again, we understand how many people are engaged in making sure we
+have a secure and just election, and we know that this legislation
+focuses on the bad actors, and that is what we want to do.
+The integrity, Mr. Speaker, of the upcoming elections is essential to
+the foundation of our democracy. The right to vote is the most
+fundamental right of citizenship in our democracy, and this issue
+touches every voter in every community across America.
+We know that people are now voting as we stand here on the floor of
+the House. We know that mail balloting will continue or start in many
+jurisdictions. Some have already started. We know many States are
+engaged in early voting, where millions of people will be voting. This
+is an important initiative that needs to be signed immediately into
+law.
+We need to do all that we can to address current threats and to
+ensure public confidence in our elections. This legislation will help
+advance that goal. That is why I ask all of my colleagues to join me in
+supporting passage of S. 1321 today.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentlewoman from Texas (Ms. Jackson Lee) that the House suspend the
+rules and pass the bill, S. 1321.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill was passed.
+A motion to reconsider was laid on the table.
+____________________

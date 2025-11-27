@@ -1,0 +1,988 @@
+[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]
+[House]
+[Pages H3427-H3434]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+ANTI-CBDC SURVEILLANCE STATE ACT
+Mr. HILL of Arkansas. Mr. Speaker, pursuant to House Resolution 580,
+I call up the bill (H.R. 1919) to amend the Federal Reserve Act to
+prohibit the Federal reserve banks from offering certain products or
+services directly to an individual, to prohibit the use of central bank
+digital currency for monetary policy, and for other purposes, and ask
+for its immediate consideration in the House.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore. Pursuant to House Resolution 580, the
+[[Page H3428]]
+amendment in the nature of a substitute recommended by the Committee on
+Financial Services, printed in the bill, is adopted, and the bill, as
+amended, is considered read.
+The text of the bill, as amended, is as follows:
+H.R. 1919
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Anti-CBDC Surveillance State
+Act''.
+SEC. 2. PROHIBITION ON FEDERAL RESERVE BANKS RELATING TO
+CERTAIN PRODUCTS OR SERVICES FOR INDIVIDUALS
+AND PROHIBITION ON DIRECTLY ISSUING A CENTRAL
+BANK DIGITAL CURRENCY.
+Section 16 of the Federal Reserve Act (12 U.S.C. 411 et
+seq.) is amended by adding at the end the following new
+paragraph:
+``(18)(A) A Federal reserve bank may not--
+``(i) offer financial products or services directly to an
+individual;
+``(ii) maintain an account on behalf of an individual; or
+``(iii) issue a central bank digital currency, or any
+digital asset that is substantially similar under any other
+name or label.
+``(B) In this paragraph, the term `central bank digital
+currency' has the meaning given that term under section
+10(11)(D).''.
+SEC. 3. PROHIBITION ON FEDERAL RESERVE BANKS INDIRECTLY
+ISSUING A CENTRAL BANK DIGITAL CURRENCY.
+Section 16 of the Federal Reserve Act (12 U.S.C. 411 et
+seq.), as amended by section 2, is further amended by adding
+at the end the following paragraph:
+``(19)(A) A Federal reserve bank may not offer a central
+bank digital currency, or any digital asset that is
+substantially similar under any other name or label,
+indirectly to an individual through a financial institution
+or other intermediary.
+``(B) In this paragraph, the term `central bank digital
+currency' has the meaning given that term under section
+10(11)(D).''.
+SEC. 4. PROHIBITION WITH RESPECT TO CENTRAL BANK DIGITAL
+CURRENCY.
+Section 10 of the Federal Reserve Act (12 U.S.C. 241 et
+seq.) is amended by inserting before paragraph (12) the
+following:
+``(11) Prohibition with respect to central bank digital
+currency.--
+``(A) In general.--The Board of Governors of the Federal
+Reserve System may not test, study, develop, create, or
+implement a central bank digital currency, or any digital
+asset that is substantially similar under any other name or
+label.
+``(B) Monetary policy.--The Board of Governors of the
+Federal Reserve System and the Federal Open Market Committee
+may not use a central bank digital currency to implement
+monetary policy, or any digital asset that is substantially
+similar under any other name or label.
+``(C) Exception.--Subparagraph (A) and sections
+16(18)(A)(iii) and 16(19)(A) may not be construed to prohibit
+any dollar-denominated currency that is open, permissionless,
+and private, and fully preserves the privacy protections of
+United States coins and physical currency.
+``(D) Central bank digital currency defined.--In this
+paragraph, the term `central bank digital currency' means a
+form of digital money or monetary value that is--
+``(i) denominated in the national unit of account;
+``(ii) a direct liability of the Federal Reserve System;
+and
+``(iii) widely available to the general public.''.
+SEC. 5. SENSE OF CONGRESS.
+It is the sense of Congress that the Board of Governors of
+the Federal Reserve System currently does not have the
+authority to issue a central bank digital currency, or any
+digital asset that is substantially similar under any other
+name or label, and will not have such authority unless
+Congress grants it under Congress's Article 1 Section 8
+powers.
+The SPEAKER pro tempore. The bill, as amended, shall be debatable for
+1 hour, equally divided and controlled by the chair and ranking
+minority member of the Committee on Financial Services or their
+respective designees.
+The gentleman from Arkansas (Mr. Hill) and the gentlewoman from
+California (Ms. Waters) each will control 30 minutes.
+The Chair recognizes the gentleman from Arkansas (Mr. Hill).
+General Leave
+Mr. HILL of Arkansas. Mr. Speaker, I ask unanimous consent that all
+Members may have 5 legislative days in which to revise and extend their
+remarks and include extraneous material on this bill.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Arkansas?
+There was no objection.
+Mr. HILL of Arkansas. Mr. Speaker, I yield myself such time as I may
+consume in support of H.R. 1919.
+This bill has been before us in this House Chamber. We debated it in
+the last Congress. It has had the outstanding leadership support and
+advocacy by our majority whip here in the House, Mr.   Tom Emmer of
+Minnesota. I rise in strong support.
+At stake is a fundamental choice about the future of money in
+America, a choice between freedom or government control. Central bank
+digital currencies, or CBDCs, put the government at the center of every
+financial transaction: monitoring, controlling, and possibly
+restricting how Americans could use their own hard-earned money. An
+American Government-controlled digital dollar threatens to open the
+door to government overreach here at home.
+It would threaten individual privacy and stifle innovation by
+undermining progress that we have seen from private-sector solutions
+like we just talked about on the House floor, privately issued U.S.
+dollar-backed payment stablecoins.
+That is a continuation of the evolution of the private-sector guiding
+the expanse of our money, how we use our money to make payments,
+formerly starting out with cash. We wrote checks. We use debit cards
+and ATM cards at the point of sale. We use credit cards. We can send
+money by wire transfer or by an electronic check. The private sector
+has innovated all along that continuum of financial technology, and
+that is why today we don't want the Fed to drive that, to potentially
+control it, to issue it, for individuals to bank at the Fed and be
+subject to these risks to privacy or surveillance. Let's stick with the
+approach of private-sector solutions.
+We have already seen small glimpses of this possibility under the
+prior administration. The chair of the House Financial Services
+Subcommittee for Oversight and Investigations,  Dan Meuser of
+Pennsylvania, has been having a robust discussion about the debanking
+policies of the prior administration for politically disfavored
+industries.
+The capability for the government then to follow on and directly
+freeze or delete Americans' funds on a whim is not compatible with our
+values, our cherished freedoms, our way of life, or even the past
+approach to the evolution of payments in our country.
+Moreover, a government-run digital dollar would put the Federal
+Reserve potentially in direct competition with the private sector.
+Further, a CBDC would create unnecessary risks by consolidating
+financial power within the Federal Government, limiting choice and
+threatening the very innovation that made American financial markets
+the strongest in the world.
+For all these reasons, I am thankful that consistently my friend, our
+colleague, Majority Whip   Tom Emmer, has been leading the charge to
+prohibit the implementation of a U.S. central bank digital currency. I
+thank him for the work he has done to elevate this issue in the
+Congress and bring this bill before us once again for a vote on this
+House floor.
+I hope all my colleagues can recognize that Article I determines how
+we issue money and how we value it, that that is a power of the
+Congress, and that we are not delegating it to the executive. We
+control that in Article I. This bill says that you can't issue a CBDC
+without that specific explicit authority and direction from the
+Congress.
+Mr. Speaker, I urge all my colleagues to join me in supporting Mr.
+Emmer's bill, and I reserve the balance of my time.
+{time}  1150
+Ms. WATERS. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, over the last hours we heard arguments from the other
+side of the aisle that the United States must prioritize innovation.
+The Republican crypto bills we considered will create giant loopholes
+in our Federal financial laws that put consumers and investors at risk
+in the name of innovation.
+These bills would increase the chance of another costly financial
+crisis like the one in 2008 that led to trillions of dollars of wealth
+being wiped out in the name of innovation.
+It comes as a surprise to me that the last bill we will debate would
+block any research, pilots, or consideration about how to digitize the
+U.S. dollar, it is the reason that I call H.R. 1919 the anti-innovation
+act.
+We have been discussing a lot about cryptocurrency. We have talked
+about two different acts, which are the CLARITY Act and the GENIUS Act.
+We have talked about a lot of intricacies of crypto. The general public
+does not understand all of this because the big
+[[Page H3429]]
+issuers, the big boys, literally kind of own all of the information.
+They are the issuers, et cetera, et cetera.
+It is time for the United States Government to take charge, and our
+central bank must be involved in the study and the research so that we
+don't have issuers with crypto or anything else without the Federal
+Government knowing about it and being in control.
+H.R. 1919 would immediately halt and prohibit the United States from
+any research and exploration of the benefits of a central bank digital
+currency, or CBDC. A central bank digital currency is essentially a
+digital version of the dollar, issued by the Federal Government, that
+uses crypto technology known as blockchain to record everything and
+everybody who owns tokens. Open it up. Let us know who the big issuers
+are.
+There are two types of CBDCs, and this bill bans both of them. A
+retail CBDC is made available directly to consumers from the Federal
+Reserve, from a bank, or other Federal institutions. A wholesale CBDC
+is not available to the public but only to the banks and other
+financial institutions. This bill would ban both of these kinds of
+CBDCs.
+Mr. Speaker, when Republicans raise concerns about CBDCs, they are
+talking about retail CBDCs, but because they are so averse to knowledge
+and averse to studying things, they have no idea that their bill blocks
+research into other forms of digitizing the dollar that would truly cut
+costs for people.
+For example, J.P. Morgan Chase has estimated that $100 billion could
+be saved in cross-border transactions every year if a wholesale CBDC is
+adopted. Earlier this week in the Rules Committee, we heard Republicans
+claim that we need to weaken oversight of private crypto because doing
+so will help cross-border payments.
+I ask my colleagues across the aisle: Why should we abandon any
+research into making the greenback ready for the future? If this bill
+passes, the United States would be the only country in the world to ban
+any research in the world on CBDC. What are my colleagues afraid of?
+Why do they not want the knowledge explained?
+Mr. Speaker, 137 countries are racing ahead. Some are studying, and
+others are issuing their own CBDC. The foreign currency markets are
+evolving, but Republicans want to stick their heads in the stand. Those
+137 countries and currency unions represent 98 percent of the global
+GDP, and China is one of the frontrunners in the global race to
+implement a viable CBDC.
+Do my friends across the aisle know why China is quickly rolling out
+its digital currency? It desperately wants to create an alternative to
+the U.S. dollar to determine the dominance of our currency.
+Mr. Speaker, America reaps great riches because our currency, the
+dollar, is the premium currency used around the world for all sorts of
+trade. It is used from sales of oil to commodities to financial
+contracts.
+One of those benefits is that when we take out a loan to buy a car or
+use our credit cards, our interest rates are much lower than in other
+countries. Another benefit is that the United States can pressure bad
+actors from Iran to Russia to China by cutting off access to our
+financial system and the dollar using sanctions.
+Those same countries would love to replace the dollar with their
+currency or something else. One way China hopes to do this is to show
+that the dollar is an antiquated currency, whereas the Chinese currency
+is the future.
+It is so shortsighted to not even study how the dollar could be
+digitized, especially during the same week that Republicans want to let
+private companies create their own currency.
+It is very important for all of us to understand that if we want to
+be innovative and if we want innovation, we will study and we will
+understand so we then will be able to explain. If we really want to
+protect the American dollar, we will not put our heads in the sand. We
+will allow this research to go on to make sure that the American dollar
+stays strong even in digital.
+Mr. Speaker, I reserve the balance of my time.
+Mr. HILL of Arkansas. Mr. Speaker, I include in the Record the
+Congressional Budget Office estimate for this bill.
+H.R. 1919, ANTI-CBDC SURVEILLANCE STATE ACT, AS REPORTED BY THE HOUSE
+COMMITTEE ON FINANCIAL SERVICES ON MAY 6, 2025
+------------------------------------------------------------------------
+By fiscal year, millions of
+dollars--
+-----------------------------------
+2025      2025-2030   2025-2035
+------------------------------------------------------------------------
+Direct Spending (Outlays)...........          0           0           0
+Revenues............................          *           *           *
+Increase or Decrease (-) in the               *           *           *
+Deficit............................
+Spending Subject to Appropriation             0           0           0
+(Outlays)..........................
+------------------------------------------------------------------------
+* = between -$500,000 and $500,000.
+Increases net direct spending in any of the four
+consecutive 10-year periods beginning in 2036? No.
+Increases on-budget deficits in any of the four consecutive
+10-year No periods beginning in 2036? No.
+Statutory pay-as-you-go procedures apply? Yes.
+Mandate Effects:
+Contains intergovernmental mandate? No.
+Contains private-sector mandate? No.
+H.R. 1919 would prohibit the Federal Reserve banks from
+providing products or services directly to individual
+consumers and from maintaining such accounts on their behalf.
+The bill also would prohibit testing, studying, developing,
+creating, or implementing a central bank digital currency and
+bar the banks from using such a currency to implement
+monetary policy.
+The bill's prohibition on the Federal Reserve studying the
+use of digital currency would result in administrative cost
+savings. Such savings increase remittances from the Federal
+Reserve to the Treasury, which are recorded in the budget as
+revenues. CBO estimates that enacting the bill would increase
+revenues by an insignificant amount over the 2025-2035
+period.
+The CBO staff contact for this estimate is Nathaniel
+Frentz. The estimate was reviewed by H. Samuel Papenfuss,
+Deputy Director of Budget Analysis.
+Phillip L. Swagel,
+Director, Congressional Budget Office.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 2\1/2\ minutes to the
+gentleman from Wisconsin (Mr. Steil), our distinguished chair of the
+Subcommittee on Digital Assets, Financial Technology, and Artificial
+Intelligence.
+Mr. STEIL. Mr. Speaker, I thank the gentleman from Arkansas (Mr.
+Hill) for yielding time.
+Mr. Speaker, I rise in strong support of the Anti-CBDC Surveillance
+Act. I thank Whip Emmer for his leadership on this issue. He was
+actually one of the first in Congress to raise the alarm. Since then,
+the case has only grown stronger about the risks posed by U.S. CBDC.
+Mr. Speaker, the global economy is at a crossroads when it comes to
+digital payments. Jurisdictions around the world are upgrading their
+payment systems to be faster, to be cheaper, and cross-border. The
+private sector is leading the way, including payment stablecoins to
+enhance the payment rails.
+As the United States grapples with modernizing our own payment
+systems, we are confronted with a choice. Do we empower free-market
+solutions that protect privacy and protect individual liberty, or do we
+centralize control over payments in the hands of the Federal
+Government?
+Mr. Speaker, the choice is clear to me. Federal Reserve Governor
+Christopher Waller has repeatedly warned that a CBDC is ``a solution in
+search of a problem.'' Nonetheless, Mr. Speaker, in 2022, in his
+executive order on Responsible Development of Digital Assets, President
+Biden sought to explore a U.S. central bank digital currency placing
+``the highest urgency on research and development efforts into the
+potential design and development options of a United States CBDC.''
+President Trump understands a CBDC's threat to our American freedoms.
+{time}  1200
+In his January 2025 executive order, President Trump explicitly
+prohibited any Federal agency from issuing or advancing a CBDC without
+direct congressional authorization.
+In a free society, Mr. Speaker, financial privacy and private
+property rights must be protected. The American economy thrives on
+choice, competition, and liberty, not on coercion and control.
+Mr. Speaker, I urge all Members to support this bill, preserving
+liberty, protecting privacy, and ensuring the United States of America
+is a global leader in financial innovation.
+Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentleman from
+Massachusetts (Mr. Lynch), who is also the ranking member of the
+Subcommittee
+[[Page H3430]]
+on Digital Assets, Financial Technology, and Artificial Intelligence.
+He knows more about digital assets than anybody on the opposite side of
+the aisle.
+Mr. LYNCH. Mr. Speaker, I thank the gentlewoman for her confidence
+and for yielding time.
+Mr. Speaker, I rise in strong opposition to H.R. 1919, the so-called
+Anti-CBDC Surveillance State Act. At the expense of U.S. global
+economic leadership, this misguided legislation would prevent the
+Federal Reserve from issuing a central bank digital currency, also
+known as a CBDC.
+Unfortunately, the facts surrounding the development of CBDC have
+been obscured by disinformation, conspiracy theories, and extreme
+political ideology. Republicans and the crypto industry have made
+unfounded claims that a CBDC will be used as a surveillance tool by the
+Federal Government.
+Let's be clear about what a CBDC is. It is a publicly issued digital
+dollar that would be regulated by the Federal Reserve, an independent
+Federal Reserve, that would have the full faith and backing of the U.S.
+Government. A CBDC could serve as an alternative to existing forms of
+payments, and it will have benefits, including instant payment
+settlement, providing a medium for cross-border transactions, and
+fostering greater financial inclusion. Additionally, Congress could
+require that the architecture of a central bank digital currency not
+have surveillance capability.
+More than 130 countries are or have been studying or have launched
+their own government-backed digital currencies, including every major
+world power. Meanwhile, the U.S. remains far behind amid increasing and
+blatant misinformation about the features of digital currency.
+Let's talk about the EU. It is widely acknowledged that the EU has
+one of the most stringent data protection regimes and protection laws
+on the planet. They have strict data protections, number one, on the
+GDPR, so EU citizens have access to control of their personal data.
+They have the right to be forgotten, which would prevent data
+surveillance and surveillance of citizens, and they have strict
+penalties for companies that violate their personal data rights.
+The United States could have the same in a U.S. digital currency.
+There is a widening gap between the U.S. and its G7 peers, all of whom
+have far more advanced CBDC projects than the U.S.
+I will go back to the EU. The EU is in the final stages of a pilot
+retail CBDC program already. They are so far ahead of us. They are
+going to capture the future if we adopt this bill.
+The U.S. Government has always led the way in harnessing technology
+to promote innovation. DARPA and NASA space programs are clear examples
+of what happens when the U.S. invests in research and development.
+While concerns about data privacy could be real, we have the ability
+to protect that data in any architecture that we adopt. It is
+counterintuitive that my colleagues would be raising concerns about
+data privacy while thousands of private companies are scooping up data
+every single day.
+Mr. Speaker, vote ``no'' on this bill.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 4 minutes to the gentleman
+from Kentucky (Mr. Barr), who is the chair of our House Financial
+Institutions Subcommittee.
+Mr. BARR. Mr. Speaker, I rise in strong support of my friend from
+Minnesota, Whip Emmer's bill, the Anti-CBDC Surveillance State Act, a
+bill I am proud to cosponsor. This bill would prohibit the Federal
+Reserve from issuing a central bank digital currency, or a CBDC, to
+anyone.
+I don't think the Federal Reserve has the authority to do this. In
+fact, a cursory, simple review of the Federal Reserve Act shows that
+the Federal Reserve does not have the legal authority to issue a CBDC
+to individuals absent explicit authorizing legislation from Congress.
+The Supreme Court has also recognized Congress' power to coin money and
+regulate the value thereof, implicitly denying to the executive branch
+or to the Fed the ability to do this without congressional authority.
+That said, I think it is prudent to explicitly deprive the Fed of the
+authority to do this for a variety of reasons.
+As has been said, Americans' financial privacy is at stake here, and
+we should not try to compete with China by becoming more like China.
+The argument for a CBDC that Beijing is doing this, so we should do it,
+too, why on Earth would we want to imitate, emulate, or copy Beijing's
+surveillance-state authoritarianism?
+To my friend on the other side of the aisle who just made the
+argument that we are behind and the European Central Bank is doing
+this, when have we in this country, the United States of America,
+wanted to emulate Europe?
+This is America. We do it the American way, not the European way, not
+the Chinese way, and not the Communist, socialist way. We do it the
+free enterprise way. We do it the limited government way. We do it the
+way to honor Americans' privacy through the GENIUS Act and through
+private stablecoins. That is the way we should do it. That is the way
+we should lead in innovation.
+Yes, personal privacy is at stake. Surveillance of Americans'
+individual financial transactions through a CBDC does raise serious
+privacy concerns and concerns about government control and
+politicization of loans, online payments, credit scores, tax
+compliance, Federal contracts, monetary policy, and the like.
+In addition to these privacy concerns, a central bank digital
+currency would centralize Americans' finances, eroding the banking
+deposit base. That would decrease competition and choice.
+This is a big concern that I have, that a CBDC would substantially
+decrease the availability of credit and increase the cost of financial
+services and products for consumers, destroying our conventional,
+traditional banking system.
+Our banking system, in contrast to Europe and China, is the envy of
+the world due to its free market principles, dynamism, and diversity.
+Banks of all different sizes serve customers, communities, and
+businesses with all different needs. Capitalism promotes market
+demands, which incentivize banks to offer products that fit the needs
+of their consumers at the best price possible.
+We don't want to eliminate that. We don't want to erode the deposit
+base with a CBDC.
+I ask, Mr. Speaker, would we truly want to lose the benefits of a
+diverse banking system that makes the U.S. the global leader in the
+financial system? Do we want to take actions to be more like China or
+Europe and decrease Americans' right to privacy?
+I went to the European Central Bank. I heard them lecture us about a
+CBDC, and it made me more convinced than ever that we don't want to be
+like Europe.
+The answer is that we do not want to be like Europe and that we do
+not want to be like the Communists in Beijing. We must disintermediate
+our banking system and allow for the creation of a CBDC. We must not
+threaten Americans' access to privacy.
+That is why I support this legislation, and I urge all of my
+colleagues to do so, as well.
+If my Republican colleagues really don't like a CBDC, then vote for
+the GENIUS Act, which takes away all the arguments for it.
+Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentleman from
+Connecticut (Mr. Himes), who is also the ranking member of the
+Permanent Select Committee on Intelligence.
+Mr. HIMES. Mr. Speaker, I thank the gentlewoman from California for
+this opportunity to speak because this is one of the most ignorant
+things I have seen this House produce in a very long time.
+It stuns me, frankly, that my good friends, Congressmen Hill, Steil,
+and Barr, are associating themselves with this bill.
+Let's be super clear about this. Nobody knows whether a CBDC is a
+good idea. A couple of years ago, I wrote a white paper on CBDC, and I
+concluded that it is not clear. The arguments for and against are being
+mooted today.
+Yes, it could be abused by an overwhelming executive if we had a
+President, for example, who showed disdain for the Constitution, who
+was comfortable acting illegally, and who wasn't comfortable with
+judicial rulings. It is hard for us to imagine that President, but this
+could be abused.
+It could be used for monetary policy, a bad idea. It could be used
+for taxation, a bad idea. It could also, by the way, be a trusted
+electronic currency
+[[Page H3431]]
+for an unbanked population. It could be a way of supporting the primacy
+of the American dollar. I don't know.
+The truth is that nobody on that side of the aisle or this side of
+the aisle knows either, but we are going to forbid any inquiry around
+this to figure out whether it is a good idea or a bad idea. We are
+going to say we can't even research it.
+This is a stunning definition of ignorance. Imagine if 100 years ago
+we had said that electricity is scary. It can kill you and is produced
+by burning coal, which is dangerous, so we are not going to research
+electricity or atomic power or the automobile. Tens of thousands of
+Americans die every year because of the automobile.
+We don't know, and the majority says let's not learn because they
+have some ideological fixation that, frankly, I don't understand.
+{time}  1210
+Two hundred years ago, the private sector, which my friends on the
+other side of the aisle hold up, had issued currency. It was called
+scrip. Companies and banks issued their own currency, and this country
+learned that this was a terrible idea and that, in fact, the central
+bank should issue currency, which is one of the reasons we are who we
+are today. You might give the CBDC at least some benefit of the doubt
+instead of being ignorant about whether we want to know the truth.
+We need to stop this. We held this institution up for 2 days over a
+bizarre MAGA obsession which is rooted in insanity and ignorance. Don't
+even find out the answer. The ranking member said that this is like a
+boy who is hiding from the truth. I have another metaphor. This is like
+a young 5-year-old who is angry and covers his eyes and ears and
+believes he is invisible.
+Just imagine my good friend   Andy Barr saying we are not like China,
+we are not like--what if there is a sterling or--
+The SPEAKER pro tempore (Mr. Knott). The time of the gentleman has
+expired.
+Ms. WATERS. Mr. Speaker, I yield an additional 1 minute to the
+gentleman from Connecticut.
+Mr. HIMES. Mr. Speaker, for all the rah-rah patriotism, think about
+this. Again, I will acknowledge that we don't know if this is a good
+idea or a bad idea, and we ought to find out.
+Let's imagine that the European Union, which Mr. Barr wants to
+dissociate himself with, puts out a CBDC that picks up real usage. Now
+all of a sudden, we have a threat to the dollar because we are still
+handing around pieces of paper because the Republican majority said we
+shouldn't even research something that may or may not be a good part of
+a modern, 21st century economy.
+Don't go with ignorance. You are too smart for that. Don't risk
+putting us behind on something that could be really important to the
+future of the American dollar. Vote ``no'' on this ignorant bill.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 3 minutes to the gentleman
+from Ohio (Mr. Davidson), who is the chair of our Subcommittee on
+National Security, Illicit Finance, and International Financial
+Institutions.
+Mr. DAVIDSON. Mr. Speaker, central bank digital currency poses an
+existential threat to western civilization. It is essentially, at its
+heart, communist banking.
+Elizabeth Warren, Sherrod Brown, and Democrats in the Senate didn't
+walk around Omarova to be confirmed as a bank regulator because they
+were opposed to communist banking. They want it. That is what central
+bank digital currency is.
+Our colleagues on the other side of this debate act like we need to
+study communism a little harder to figure out whether it works or not.
+We have got plenty of evidence it doesn't work. Central bank digital
+currency inserts government between you and your money.
+Another word for central bank digital currency is programmable money.
+Who does the programming? The central bank. They can condition your
+access to your own money with whatever parameters they put in place.
+They can filter transactions. They can even set them to expire.
+Monetary policy wonks in the communist banking world think this is a
+feature, not a flaw. They think if they can set your access to your
+money to expire, then it would be a better future.
+Every dystopian fiction that I have found--``Brave New World,''
+``1984''--says this is the future of money, that it is corrupted into a
+tool for surveillance, coercion, and control.
+Frankly, our own current banking system has crept too close to that.
+We need to turn the other direction. The market is telling us that.
+That is why cryptocurrency was invented, frankly. That is why it is so
+popular and is a growing asset class. We need to say no to this, and we
+need to protect what the market is telling us consumers want.
+We tested this under the Biden administration. They decided that they
+were going to spy on your bank accounts if you had $600 in your bank.
+The public said: Whoa, what? Why are you spying on my bank account?
+In a communist world, they say: Well, if you have nothing to hide,
+then why should you have anything to fear.
+But that is not our way of life in this country. The Fourth Amendment
+doesn't say that. It says if you have probable cause, and only then,
+then you get a warrant. Here, you build the surveillance into the
+program.
+I get it. If all men were angels, this would never be abused, but we
+know they are not. We have seen massive abuse in our own country. In
+Canada we saw Trudeau, a fellow traveler on the communist long march,
+want to ban people's access to their own bank accounts because they
+were protesting his COVID policies at trucker rallies.
+This is very easy to do when you have programmable money. We need to
+say no to this. It is an existential threat to our way of life, and
+ideally, we would do it at every opportunity.
+Mr. Speaker, I urge all our colleagues to vote for Mr. Emmer's bill
+and stop this threat to our way of life.
+Ms. WATERS. Mr. Speaker, I yield 3 minutes to the gentleman from
+California (Mr. Sherman), who is also the ranking member of the
+Subcommittee on Capital Markets.
+Mr. SHERMAN. Mr. Speaker, I worked hard in school, but the grade I am
+proudest of is to be the first Member of this House to get an ``F''
+from the crypto industry.
+Article I, Section 8, of the U.S. Constitution says that it is the
+Federal Government and Congress who should coin money and determine the
+value thereof. However, our Republican friends tell us that that means
+that the Federal Government should be stuck with 1776 technology while
+the competitors of the dollar race forward in the 21st century.
+The largest super-PAC expenditures in history occurred last year. The
+crypto industry spent more on independent expenditures--look at this.
+If you combine all of the expenditures from Big Oil plus Big Pharma,
+put them together, and multiply by five, you still don't have what the
+crypto industry did last year.
+It is not surprising that we hear words like ``freedom,''
+``innovation,'' ``choice,'' and ``competitiveness'' used to justify
+making money for the crypto bros, and now we have a bill designed to
+prevent freedom, innovation, choice, and competitiveness when it poses
+a risk to their profits.
+This bill not only prevents us from ever having a digital dollar; it
+prevents us from even studying a digital dollar.
+Now, I think Americans will always have banks, credit cards, debit
+cards, Zelle, Venmo, cash, money market funds, and pursuant to the bill
+that it looks like we are going to pass today, they will have
+stablecoin, a privacy device specifically designed for criminals and
+tax evaders. Then they will have mixers to make it impossible for even
+the most advanced law enforcement, even with a warrant, to find out
+what is happening.
+They have all of those choices.
+What is the one choice you are not allowed to have?
+You are not allowed to have the currency provided for in the U.S.
+Constitution. You are not allowed to have a digital dollar or even a
+study of a digital dollar. If you don't want to carry a lot of paper
+around, you can't have the full faith and credit of the United States.
+Now, we have talked about the role of the U.S. dollar, the critical
+role that it plays in international transactions, and why that is a
+major economic benefit to the United States.
+The crypto bros occasionally tell you out loud what they are
+thinking. That
+[[Page H3432]]
+is they want to minimize and destroy the role of the U.S. dollar
+internationally. What do they do to hobble the dollar? They say the
+Chinese Communist Party can have a digital yuan, the bitcoin bros can
+have a digital currency, but America is limited to 1776 technology.
+Our banking system is the envy of the world because we innovate. This
+bill says no innovation.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Ms. WATERS. Mr. Speaker, I yield an additional 1 minute to the
+gentleman from California.
+{time}  1220
+Mr. SHERMAN. Mr. Speaker, you might think it is hypocritical that
+they tell us that we have to have crypto because, otherwise, China will
+do it. Then they say: We can't have a digital dollar because China is
+doing it.
+That is not inconsistent. They are consistent. Their consistent rule
+is that you must do what makes profit for the crypto bros, including
+Donald Trump, and you must prevent them from facing any competition,
+even the competition called for by the U.S. Constitution.
+Today's bills in whole, all three of them, will create a payment
+system designed for tax evaders and criminals. It will provide for
+taxpayer bailouts, and it will allow the crypto industry to say that we
+have all this power in Congress. Crypto bailouts are not only allowed,
+but they are guaranteed.
+It will provide an avenue for foreign interests to provide hidden
+money--``cryptocurrency'' literally means hidden money--into Trump's
+personal pocket, and it is designed to allow taxpayer money to be used
+to buy bitcoin and Trump coin.
+Finally, it takes our freedom. It says that you can have freedom to
+have a digital currency only if you do it in a way that it enriches the
+crypto bros. There would be no choice for Americans who want a digital
+dollar.
+Mr. HILL of Arkansas. Mr. Speaker, I have the pleasure to introduce
+the author of this important legislation, and I yield 4\1/2\ minutes to
+the gentleman from Minnesota (Mr. Emmer), the majority whip of the U.S.
+House of Representatives.
+Mr. EMMER. Mr. Speaker, after much debate, we can now codify
+President Trump's effort to prevent the development of a central bank
+digital currency, or CBDC, and ensure that the United States' digital
+currency policy remains in the hands of the American people and not the
+administrative state.
+I am proud to have my legislation, the Anti-CBDC Surveillance State
+Act, being considered on the House floor for a vote today.
+This bill is straightforward. It prevents unelected Washington
+bureaucrats from creating a financial surveillance tool that, if not
+done correctly, will fundamentally alter the lives of every American.
+Unlike decentralized digital assets, a CBDC is a digital form of
+sovereign currency that is designed, issued, and monitored by the
+Federal Government. It is government-controlled, programmable money
+that, if designed without the privacy protections of cash, could give
+the Federal Government the ability to surveil and restrict Americans'
+transactions and monitor every aspect of our daily lives.
+In other words, every dollar you spend, where you spend it, and who
+you spend it with would all be visible to and tracked by the watchful
+eyes of Washington. There would be no cash, no anonymity, and no space
+for private financial decisionmaking.
+This isn't an inconceivable concept. We have already seen examples of
+governments developing these types of tools and using them to weaponize
+their financial systems against their citizens. The Chinese Communist
+Party employs a CBDC that is being used to monitor and restrict its
+citizens' spending. The data is being used to develop a social credit
+system that rewards or punishes individuals based on their spending
+behavior.
+In Canada, the former Trudeau administration demonstrated the power
+of Federal financial surveillance and control when it froze the bank
+accounts of hundreds of truckers protesting the COVID vaccine mandate
+in 2022.
+Surely, this totalitarian surveillance tool would never take root in
+the United States. However, that assumption would be wrong. This is not
+a theoretical risk. It is a very real and very dangerous precedent.
+Under the Biden administration, financial surveillance was a core
+tenet of President Biden's policy agenda. In 2022, President Biden
+issued an executive order placing urgency on CBDC research and
+development.
+Moreover, the agency reports created under that executive order made
+it clear that the previous administration was eager to create a CBDC
+and was willing to trade Americans' right to financial privacy for a
+CCP-style surveillance tool.
+Our bill, the Anti-CBDC Surveillance State Act, prevents future
+administrations from weaponizing this technology against the American
+people while ensuring that any development of digital money reflects
+our American values of privacy, individual sovereignty, and free market
+competitiveness.
+If not designed to be open, permissionless, and private--``private''
+with a capital p--resembling cash, a government-issued CBDC is nothing
+more than an Orwellian surveillance tool that will be used to erode the
+American way of life.
+The Federal Government has no business monitoring Americans' daily
+financial lives. We don't need or want a state-run digital dollar with
+Chinese Communist Party characteristics. We need to protect the core
+principles that make this country exceptional: liberty,
+limited government, and the right to privacy.
+We are on the verge of the next game-changing technological
+evolution, and we must embrace this push for a more developed digital
+economy. In doing so, we cannot jeopardize who we are as Americans, and
+this bill is designed to ensure just that.
+Mr. Speaker, I thank Chairman Hill and Chairman Steil for their
+tireless work and advocacy on this issue, in addition to the 135
+Members of Congress who have joined as cosponsors of our legislation. I
+urge all of my colleagues to support this bill.
+Ms. WATERS. Mr. Speaker, I reserve the balance of my time.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 2 minutes to the gentleman
+from Pennsylvania (Mr. Meuser), chairman of our Subcommittee on
+Oversight and Investigations.
+Mr. MEUSER. Mr. Speaker, I thank the chairman of our full committee,
+Chairman Hill, for his leadership.
+Mr. Speaker, I rise in support of H.R. 1919, the Anti-CBDC
+Surveillance State Act, led by Whip Emmer.
+This bill is about defending our Constitution and protecting the
+privacy of the American people. The Constitution is unambiguous in
+Article I, Section 8, which grants only Congress exclusive authority to
+coin money, regulate the value thereof, and of foreign coin.
+This is a clear provision of the United States Constitution. It is a
+foundational element of our constitutional Republic designed to keep
+such important authority over our Nation's currency issuance within the
+hands of the people's Representatives.
+A central bank digital currency would centralize unprecedented power
+in the Federal Government and could open the door to real-time
+surveillance of every financial transaction in America.
+Existing banking practices safeguard Americans' privacy. A CBDC could
+undo that protection overnight, creating a tool ripe for abuse. Even
+though the Constitution is clear, this bill restrains the Fed from even
+considering a central bank digital currency, reinforces Congress'
+constitutional authority over currency, and ensures that any digital
+dollar reflects our founding principles.
+Mr. Speaker, I commend Whip Emmer for his leadership, and I urge
+support for this very important legislation.
+Ms. WATERS. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, Democrats are not the only ones who want to study CBDC.
+In 2021, my dear friend, Chairman Hill, worked with Representative
+Foster to introduce the Central Bank Digital Currency Study Act.
+Chairman Hill also wrote a letter to the Fed asking for information.
+After the Fed agreed to do a study, he issued a statement saying:
+The Fed is finally taking actionable steps to do what we
+have been asking them to do
+[[Page H3433]]
+for 2 years, and we are pleased to see Chairman Powell
+announce steps toward making a digital dollar a reality.
+I ask the gentleman: What changed?
+We need more research. We need to learn more, so we need to vote
+``no'' on this bill. It goes in the opposite direction from what the
+gentleman wants and has been asking for.
+Finally, we have a chance to vote, and certainly I am asking for a
+``no'' vote, and I hope that the gentleman would, too.
+Mr. Speaker, I reserve the balance of my time.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 2 minutes to the gentleman
+from Tennessee (Mr. Rose).
+Mr. ROSE. Mr. Speaker, I thank the chairman for yielding me time.
+Mr. Speaker, I rise today in support of H.R. 1919, the Anti-CBDC
+Surveillance State Act.
+Among the many rights that we enjoy as Americans, privacy is among
+the most fundamental. Establishing a central bank digital currency
+would not only usurp consumers' privacy and individual freedoms, but it
+would also hinder free market innovation.
+Digital assets are here to stay. I agree strongly with President
+Trump that the United States should be a leader in this space. However,
+the last administration held a very different view. They wasted no time
+exploring ways to set up a surveillance state digital currency managed
+and micromanaged by the Federal Government.
+President Trump understands the dangers of more government and more
+surveillance. It is why he issued an executive order prohibiting a
+CBDC. The vote before the House would make that ban permanent, and I
+urge my colleagues to support this bill.
+{time}  1230
+Mr. Speaker, today the House will vote on the GENIUS Act, short for
+the Guiding and Establishing National Innovation for U.S. Stablecoins
+Act. The bill, which was introduced in the Senate by my friend and
+fellow Tennessean, Senator Bill Hagerty, provides a clear regulatory
+framework for the issuance of payment stablecoins.
+Today, this payment product is offered with little, if any, Federal
+oversight. By establishing this regulatory clarity, this bill will
+drive significant demand for stablecoins. This bill will ensure issuers
+back stablecoins with high-quality liquid assets, a major win for the
+American consumer.
+The GENIUS Act includes consumer protections and enables innovators
+to do what they do best. It also happens to strengthen the U.S.
+dollar's reserve currency status. This will result in the ability to
+make near-instant payments anywhere in the world, which is good for
+consumers, companies, and Americans.
+Ms. WATERS. Mr. Speaker, yet, again, my colleague confuses retail and
+wholesale CBDC. Banning wholesale CBDC is nonsensical. It has nothing
+to do with surveillance and everything to do with modernizing how
+American financial institutions and our central bank engage in
+intrabank cross-border transactions.
+This suggestion of Big Brother and monitoring is just a fabrication,
+a bogeyman. We must support financial innovation and not hide from the
+future.
+Mr. Speaker, I reserve the balance of my time.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 2 minutes to the gentleman
+from Indiana (Mr. Stutzman), a returning member of the House Financial
+Services Committee.
+Mr. STUTZMAN. Mr. Speaker, I thank our Financial Services chairman
+for his leadership on a really important issue that is going to affect
+many generations ahead of us.
+Mr. Speaker, I rise today in strong support of the anti-CBDC
+Surveillance State Act.
+Our Founding Fathers were clear that Congress, not the executive
+branch, has the power to coin money and regulate its value.
+Yet, in 2022, the Biden administration issued an executive order that
+placed the highest urgency on the research and development of a central
+bank digital currency, a so-called digital dollar.
+Under the wrong circumstances, this technology could allow the
+Federal Government unfettered access into the wallets of every
+American, putting privacy and freedom at risk.
+Unfortunately, Americans know all too well how far some
+administrations are willing to go to intrude into our lives. We all saw
+how the Biden administration ruthlessly pressured social media
+platforms to silence the voices of Americans who criticized their
+disastrous COVID-19 policies.
+We saw this same ideology taken to the extreme when Canadian Prime
+Minister Justin Trudeau froze the bank accounts of Canadians who dared
+to protest his government during the pandemic.
+Now, imagine if the Federal Government could see where we spend our
+hard-earned paychecks, track our charitable donations, or even cut off
+access to our own money if it disapproves of our beliefs.
+Any digital dollar must reflect our values of privacy and our First
+Amendment rights. This bill ensures our digital assets policy is in the
+hands of the American people, not the administrative state. It protects
+our values of privacy, individual freedom, and free market innovation
+by prohibiting a CBDC surveillance tool that could be wielded against
+the American way of life.
+I am proud to be a cosponsor of this important legislation, and I
+thank Whip Emmer and Chairman Hill for their outstanding leadership on
+this important issue.
+Mr. Speaker, I urge my colleagues to support this legislation.
+Ms. WATERS. Mr. Speaker, I reserve the balance of my time.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 1 minute to the gentleman
+from California (Mr. Kiley), who represents the prettiest district
+outside Arkansas.
+Mr. KILEY of California. Mr. Speaker, the Biden administration
+started us down the road of adopting a Central Bank Digital Currency
+issued by the Federal Reserve without the consent of the American
+people or their Representatives here in Congress.
+Today, we are saying no. We are not the Chinese Communist Party. We
+are not going to turn the central bank of the United States into a
+giant panopticon, capable of tracking and surveilling every American
+citizen, while keeping a watchful eye on each and every one of your
+financial transactions, crediting or discrediting, or punishing you
+based on your personal behavior, and restricting that behavior with the
+tap of a button. Nothing could be more inimical to the liberty and
+privacy on which American greatness depends.
+Mr. Speaker, I am proud to be a sponsor of this critical legislation
+and look forward to its passage on the House floor today.
+Ms. WATERS. Mr. Speaker, I reserve the balance of my time.
+Mr. HILL of Arkansas. Mr. Speaker, I yield 1 minute to the gentleman
+from North Carolina (Mr. McDowell), our new Member.
+Mr. McDOWELL. Mr. Speaker, I thank the chairman for yielding.
+Mr. Speaker, America is not a surveillance state, and under
+Republican leadership, it never will be. Today, this Congress has the
+opportunity to lay the foundation for a digital future that protects
+freedom and financial privacy.
+At the center of that effort is the Anti-CBDC Surveillance State Act.
+This bill ensures that no central bank digital currency will be created
+under the Federal Reserve. We have seen what that looks like in
+Communist China where the CCP uses it to track, monitor, and control
+their people, but not here, Mr. Speaker. Not in the land of the free
+because together with the CLARITY Act and the GENIUS Act, we will
+protect Americans' financial liberty and make the United States the
+crypto capital of the world.
+Mr. Speaker, I urge my colleagues to support this legislation.
+Mr. HILL of Arkansas. Mr. Speaker, I am prepared to close, and I
+reserve the balance of my time.
+Ms. WATERS. Mr. Speaker, I yield myself the balance of my time.
+Earlier my colleagues praised our wonderful private sector, and we
+know now my friends do not like studies, but I would encourage them to
+read the study from our biggest bank, JPMorgan Chase, explaining how
+CBDC's can save $120 billion in cross-border payments. Please read the
+study. Even if you don't like studies, read it anyway.
+Mr. Speaker, the bottom line is that we fall further and further
+behind the global economic stage with congressional Republicans'
+policies. We are already seeing inflation rise on consumer
+[[Page H3434]]
+goods as Trump's tariffs take place. Now, Republicans want to raise the
+cost of auto loans, credit card fees, and mortgages for Americans by
+forcing the dollar to become a relic of the past. That is why I will
+vote ``no.''
+Further, Mr. Speaker, Mr. Himes made a great argument and a great
+point about ignorance. He believes that this is an ignorant bill, and
+it just does not speak well for the Members of Congress not wanting to
+do research and study to determine what is in the best interest of the
+dollar and our country.
+Mr. Speaker, I yield back the balance of my time.
+Mr. HILL of Arkansas. Mr. Speaker, I yield myself the remainder of my
+time.
+Mr. Speaker, first, I will thank the members of the House Financial
+Services Committee and the members of the House Agriculture Committee
+for all the work that they have put in on both sides of the aisle. It
+was significant hours for multiple years, basically the last three
+Congresses, in thinking through what is the future of digital assets,
+how are they best regulated, what is the role of United States
+Government in oversight, what is the future of money in terms of the
+use of a blockchain.
+Members in these committees have worked extensively. Likewise over in
+the Energy and Commerce Committee, the idea of blockchain technology at
+large outside financial institutions has garnered a tremendous amount
+of bipartisan work.
+{time}  1240
+This House wants to make sure that we prepare this country for a
+prosperous, free, open Web3 technology as we go into seeing the
+benefits of writing applications on a blockchain. We will see
+competition in blockchains, just as we saw competition in operating
+systems in computing. I think that breeds a lot of excitement.
+No one can actually do that if we don't have clear rules of the road.
+We have spent this morning debating those rules of the road.
+The CLARITY Act that we debated on this House floor provides that
+market framework for the use of digital assets, custodying digital
+assets, investing in digital assets, or dealing or raising capital
+around them. It clearly defines what should be treated as a commodity
+versus what should be treated as a security.
+We talked about that important payment device on a blockchain for use
+in that marketplace that is outlined in the CLARITY Act. That is a
+dollar-backed stablecoin.
+We want the U.S. to dominate in financial technology and payments,
+just as we do for the vast majority of payments around the world in
+dollars. That is delivered by the bipartisan work in the Senate on the
+GENIUS Act.
+I want to start by thanking those Members. I also recognize the
+incredibly hardworking staff members on the House Committee on
+Agriculture and the House Committee on Financial Services who have
+worked together unbelievably, capably, cooperatively, and effectively
+over these last two Congresses, as they did at the height of the
+cleanup from the financial crisis in 2008 when House Financial Services
+and the Agriculture Committee came together to write rules about the
+swap market.
+I particularly thank Nick, Jack Jackson, Lindsey, and Paul on the
+staff at the House Agriculture Committee. They did great. I thank Nick,
+Allison, and our team at House Financial Services for their staff
+leadership.
+Mr. Speaker, this bill we are debating today is essential. The
+ranking member seems to think that I am interested in the subject of a
+central bank digital currency, and I am. I have spent the better part
+of the last 5 years studying central bank digital currencies outside
+the United States and talking to officials inside the United States
+about whether that is a good idea or a bad idea.
+Over those years, it is not out of ignorance that I have come to the
+conclusion that it is a bad idea. One of the contributing factors to my
+determining that I don't believe it is an idea whose time has come, to
+supplement private-sector innovation in this Nation, is actually
+Congressman  Jim Himes' white paper that he shared with me years ago. I
+thought it was well-written, and it was another indication that this
+was not the direction to go in.
+Since that time, I have visited with other central banks around the
+world, in Europe and other places, that make me even more certain that
+we should rely on private-sector innovation that, in turn, can create
+the tokenized money, which we have talked about all morning, but
+doesn't do it in a way that can surveil your work, take over your life,
+have outcomes that you heard from Congressman Davidson and Congressman
+Emmer, about the examples of debanking that we witnessed in Canada or
+the policy debanking we witnessed in the Obama administration and, to a
+degree, the Biden administration.
+Americans have made it clear: We don't want the Federal Government
+controlling how we spend, save, or send our money in our personal
+lives. We have witnessed firsthand the dangers when government wields
+that power unchecked, and you heard examples of that this morning.
+Americans want and deserve control over their own money, and we have
+tried to institutionalize that in all the work we have done in both of
+these committees in this digital assets innovation and reform space.
+We believe in self-custody. I have self-custody in the analog world
+of cash and investments. Why can't I have that custody, that self-
+control, in my digital financial space? I don't understand why one
+can't recognize the authorities that we have on our person--
+constitutionally guaranteed, guaranteed by law--in an analog context?
+Why can't we demand the same?
+Mr. Speaker, I urge my colleagues to join me in supporting this bill,
+and I yield back the balance of my time.
+The SPEAKER pro tempore. All time for debate has expired.
+Pursuant to House Resolution 580, the previous question is ordered on
+the bill, as amended.
+The question is on the engrossment and third reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+The SPEAKER pro tempore. The question is on passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Ms. WATERS. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further
+proceedings on this question will be postponed.
+____________________

@@ -1,0 +1,198 @@
+[Congressional Record Volume 170, Number 48 (Tuesday, March 19, 2024)]
+[House]
+[Pages H1203-H1204]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+REVIEW OF INTERAGENCY DISPUTE RESOLUTION PROCESS
+Mr. McCORMICK. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 6602) to amend the Export Control Reform Act of 2018
+relating to the review of the interagency dispute resolution process,
+as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 6602
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. REVIEW OF INTERAGENCY DISPUTE RESOLUTION PROCESS.
+Section 1763(c) of the Export Control Reform Act of 2018
+(50 U.S.C. 4822(c)) is amended--
+(1) by striking ``In any case'' and inserting the
+following:
+``(1) In general.--In any case'';
+(2) by inserting ``countries subject to a comprehensive
+United States arms embargo,'' after ``matters relating to'';
+(3) by striking ``may be decided'' and inserting ``shall be
+decided'';
+(4) by adding at the end the following: ``The chair of the
+Committee is authorized to decide any case or matter
+described in the preceding sentence in which the Committee is
+unable to decide the case or matter by majority vote.''; and
+(5) by further adding at the end the following:
+``(2) Definition.--In paragraph (1), the term `country
+subject to a comprehensive United States arms embargo'
+means--
+``(A) any country listed on table 1 to paragraph (d)(1) of
+section 126.1 of title 22, Code of Federal Regulations (as
+such section is in effect on the day before the date of the
+enactment of this paragraph); and
+``(B) the Russian Federation.''.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Georgia (Mr. McCormick) and the gentlewoman from Pennsylvania (Ms.
+Wild) each will control 20 minutes.
+The Chair recognizes the gentleman from Georgia.
+General Leave
+Mr. McCORMICK. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days to revise and extend their remarks and
+include extraneous material on this measure.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Georgia?
+There was no objection.
+Mr. McCORMICK. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, the People's Republic of China, under the leadership of
+the Chinese Communist Party, is waging an all-out economic war against
+the United States. The CCP is using unfair and illegal means to try to
+dominate the market in dual-use technologies that are shaping the
+modern battlefield.
+Fortunately, the CCP still significantly relies on technologies from
+the United States, our allies, and our partners to develop advanced
+dual-use capabilities. For that reason, export controls are a critical
+tool for the United States to slow down and, in some cases, stop
+China's ability to develop certain capabilities.
+For this strategy to work, we have to deny Chinese licenses to use
+American technology. Unfortunately, based on data reviewed and released
+by the House Foreign Affairs Committee, those licenses are rarely
+denied by the Commerce Department's Bureau of Industry and Security,
+known as BIS.
+For instance, during a 6-month period spanning 2020 and 2021, BIS
+denied less than 2 percent of licenses and approved $100 billion worth
+of licenses to Huawei and SMIC. Both of those companies are considered
+CCP military companies by the Department of Defense and are CCP
+national champion technology firms.
+When deciding whether to approve or deny a license, BIS generally
+consults other agencies that make up the Operating Committee for Export
+Policy, the Departments of Defense, Energy, State, and Commerce.
+However, BIS is not required to follow those other agencies' advice.
+Sometimes, BIS actively ignores it. Statistics provided by BIS for
+fiscal years 2017 through 2019 show that there was a 60 percent
+increase of nonconsensus decisions by the operating committee during
+that time. In other words, over half the time, 60 percent of the time,
+they ignored everybody else's objections and went ahead and did
+whatever they wanted to, just one person's decision. That is not good.
+More than 10 percent of the time, it appears the operating committee
+chair, which is part of the BIS, took the position that only one other
+operating committee member supported--also not good.
+Since the Department of Commerce is both the chair and a member, this
+data raises concerns that Commerce may be abusing its position on the
+operating committee to override the considered objections of other
+agencies. Otherwise, why even be there?
+{time}  1615
+This bill provides a commonsense solution to those dangers: When a
+license for China comes before the operating committee, the decision to
+approve or deny the license should be based on a majority vote by all
+of its members.
+Each agency brings a unique view to a license and should have a voice
+and a vote. It makes little sense for BIS to have sole discretionary
+and decisional authority on those consequential issues.
+In fact, when dealing with satellites and hot section jet engines,
+the operating committee already requires a majority vote. So my bill
+simply puts licenses to China on the same level as licenses for certain
+advanced technologies.
+Chairman Xi has ordered his military to have the capability to invade
+Taiwan by 2027. This is a country that produces 100 percent of the
+chips in AI that we consume here in America, I might add.
+It makes no sense for our Department of Defense to not have a vote on
+what capabilities may fall into the hands of the Chinese military.
+I thank my colleagues on the Foreign Affairs Committee for their
+unanimous, bipartisan support for this important national security
+reform bill during the committee markup back in December.
+Mr. Speaker, I urge my colleagues to support H.R. 6602, and I reserve
+the balance of my time.
+Ms. WILD. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I rise in support of H.R. 6602.
+In recent years, our use of export controls to safeguard our national
+security has expanded greatly. However, these efforts have not come
+with a commensurate increase in the budget of the Department of
+Commerce's Bureau of Industry and Security, or BIS, which is the U.S.
+Government entity leading export control efforts.
+The Biden administration has vastly expanded controls against Russia
+and Belarus since the horrific invasion of Ukraine and has imposed
+unprecedented unilateral controls against China in the semi-conductor
+space.
+[[Page H1204]]
+This has resulted in a large increase in the license review and
+enforcement burden at BIS, which now processes nearly 40,000 licenses
+per year.
+For our controls to be effective, I strongly believe that they need
+to be laser-focused on the highest priority cases where the national
+security concerns are most clear. At the moment, the Departments of
+State, Defense, Energy, or Commerce can individually block the approval
+or denial of a license by an interagency committee by escalating a
+decision if they don't agree with it.
+This legislation will allow the chair of the operating committee to
+decide cases where the agencies are divided 2-2, which should mitigate
+the number of escalations that we see and result in a more streamlined
+and effective process.
+Mr. Speaker, I thank Representative McCormick and Chairman McCaul for
+working with the minority to address our concerns. I encourage my
+colleagues to join me in supporting this measure, and I reserve the
+balance of my time.
+Mr. McCORMICK. Mr. Speaker, I reserve the balance of my time.
+Ms. WILD. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, to safeguard our national security in an ever-changing
+global landscape and to ensure that we are putting American workers and
+families first, our policies must be robust and effective, not
+counterproductive. If we want our export controls to work, we need to
+do a few things.
+First and foremost, we need to make sure that we are blocking the
+transactions that pose a clear threat to our national security. This
+requires focusing on key chokepoints and specific technologies and not
+having blanket rules that will inundate the Bureau of Industry and
+Security with a review of items that are not problematic.
+Second, we need to ensure that those controls are multilateral, so
+that the intended party isn't simply able to buy the same goods from
+other global suppliers or nations. Unilateral actions don't work, and
+they hurt American workers and families by ceding market share to
+foreign competitors resulting in job losses here at home.
+Third, we need to ensure that the license review process is fast,
+effective, and that BIS has the resources and tools necessary to
+effectively implement and enforce controls.
+So while I stand in support of Mr. McCormick's bill, I also urge the
+House to think seriously about increasing funding for BIS. I hope my
+colleagues will join me in supporting this bill, and I yield back the
+balance of my time.
+Mr. McCORMICK. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, in closing, I thank Chairman McCaul, Ranking Member
+Meeks, and my bipartisan colleagues on the Foreign Affairs Committee
+for supporting this bill before us today.
+The committee is made up of a five-member panel with representatives
+from the Departments of Commerce, Defense, State, and Energy, with the
+chair being the Bureau of Industry and Security representative who, per
+the governing statute, should act impartially when the Operating
+Committee for Export Policy convenes.
+Under current law, OCEP, which is the Operating Committee for Export
+Policy, may resolve these issues and disputes by a majority vote.
+However in practice, the chair typically issues a ruling without
+calling a vote and most often rules in favor of the Department of
+Commerce, which draws into question their adherence to the directive to
+be impartial.
+It is critical that we deny our adversaries the opportunity to access
+our American private sector innovation. Our innovation should not be
+giving a leg up to our enemies in competition.
+An increasingly aggressive Chinese Communist Party is posing a
+growing threat to American values and American interests around the
+world. In many cases, they are threatening us with our own technology.
+For that reason, we must ensure that our national security agencies
+have a real voice and vote in deciding what technologies can be
+exported to the People's Republic of China. We want to ensure that the
+BIS does not produce BS.
+Mr. Speaker, I urge support for this bill, and I yield back the
+balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Georgia (Mr. McCormick) that the House suspend the rules
+and pass the bill, H.R. 6602, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+A motion to reconsider was laid on the table.
+____________________

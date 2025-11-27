@@ -1,0 +1,1041 @@
+[Congressional Record Volume 162, Number 6 (Monday, January 11, 2016)]
+[House]
+[Pages H249-H255]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+FOIA OVERSIGHT AND IMPLEMENTATION ACT OF 2015
+Mr. CHAFFETZ. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 653) to amend section 552 of title 5, United States Code
+(commonly known as the Freedom of Information Act), to provide for
+greater public access to information, and for other purposes, as
+amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 653
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``FOIA Oversight and
+Implementation Act of 2015'' or the ``FOIA Act''.
+SEC. 2. FREEDOM OF INFORMATION ACT AMENDMENTS.
+(a) Electronic Accessibility.--Section 552 of title 5,
+United States Code, is amended--
+(1) in subsection (a)--
+(A) in paragraph (2)--
+(i) by striking ``for public inspection and copying'' each
+place it appears and inserting ``in an electronic, publicly
+accessible format'';
+(ii) by striking ``; and'' and inserting a semicolon;
+(iii) by striking subparagraph (E) and inserting the
+following new subparagraphs:
+``(E) copies of all releasable records, regardless of form
+or format, that have been requested three or more times under
+paragraph (3); and
+``(F) a general index of the records referred to under
+subparagraphs (D) and (E);''; and
+(iv) in the matter following subparagraph (F) (as added by
+clause (iii) of this subparagraph)--
+(I) by striking ``subparagraph (D)'' and inserting
+``subparagraphs (D) and (E)'';
+(II) by striking ``subparagraph (E)'' and inserting
+``subparagraph (F)''; and
+(B) in paragraph (7)--
+(i) in subparagraph (A)--
+(I) by striking ``that will take longer than ten days to
+process''; and
+(II) by striking ``; and'' and inserting a semicolon;
+(ii) in subparagraph (B)--
+(I) by inserting ``automated'' after ``provides''; and
+(II) by striking the period at the end of clause (ii) and
+inserting ``; and''; and
+(iii) by adding at the end the following new subparagraph:
+``(C) provide a name, phone number, and email address for
+an agency employee who can provide current information about
+the status of each request received.'';
+(2) in subsection (g), by striking ``make publicly
+available upon request'' and inserting ``make available in an
+electronic, publicly accessible format''; and
+(3) by adding at the end the following new subsection:
+``(m) Electronic Submission of Requests.--
+``(1) Consolidated online request portal.--The Director of
+the Office of Management and Budget, in consultation with the
+Attorney General, shall ensure the operation of a
+consolidated online request portal that allows a member of
+the public to submit a request for records under subsection
+(a) to any agency from a single website. The portal may
+include any additional tools the Director of the Office of
+Management and Budget finds will improve the implementation
+of this section.
+``(2) Rule of construction.--This subsection shall not be
+construed to alter the power of any other agency to create or
+maintain an independent online portal for the submission of a
+request for records under this section. The Director of the
+Office of Management and Budget shall establish standards for
+interoperability between the portal required under paragraph
+(1) and other request processing software used by agencies
+subject to this section.
+``(3) Email request required.--At a minimum, each agency
+shall accept requests for records under subsection (a)
+through an email address and shall publish such email address
+on the website of the agency.''.
+(b) Presumption of Openness.--
+(1) Amendments.--Section 552(b) of title 5, United States
+Code, is amended--
+(A) in paragraph (5), by inserting after ``with the
+agency'' the following: ``, excluding--
+``(A) opinions that are controlling interpretations of law;
+``(B) final reports or memoranda created by an entity other
+than the agency, including other Governmental entities, at
+the request of the agency and used to make a final policy
+decision;
+``(C) guidance documents used by the agency to respond to
+the public; and
+``(D) records or information created 25 years or more
+before the date on which a request is made under subsection
+(a)(3);'';
+(B) in paragraph (6), by striking ``similar files'' and
+inserting ``personal information such as contact information
+or financial information''; and
+(C) in the matter following paragraph (9)--
+(i) by inserting before ``Any reasonably segregable
+portion'' the following: ``An agency may not withhold
+information under this subsection unless such agency
+reasonably foresees that disclosure would cause specific
+identifiable harm to an interest protected by an exemption,
+or if disclosure is prohibited by law.''; and
+(ii) by inserting before ``If technically feasible,'' the
+following: ``For each record withheld in whole or in part
+under paragraph (3), the agency shall identify the statute
+that exempts the record from disclosure.''
+(2) Rules of construction.--
+(A) Intelligence sources and methods.--Nothing in the
+amendments made by this Act to section 552(b) of title 5,
+United States Code, shall be construed to require the
+disclosure of information that--
+(i) is exempt under paragraph (1) of such section; or
+(ii) would adversely affect intelligence sources and
+methods that are protected by an exemption under such
+section.
+(B) Personal privacy.--For purposes of section 552(b)(6) of
+title 5, United States Code, as amended by this Act, the term
+``personal privacy'' may not be construed to include the name
+of a Federal employee engaged in an official duty of such
+employee.
+(3) Exemption decision transparency.--Section
+552(a)(6)(C)(i) of title 5, United States Code, is amended by
+striking the
+[[Page H250]]
+fourth sentence and inserting at the end the following: ``Any
+notification of denial or partial denial of any request for
+records under this subsection shall set forth each name and
+title or position of each person responsible for the denial
+or partial denial or any decision to withhold a responsive
+record under subsection (b).''.
+(c) Requests From Congress.--Section 552(d) of title 5,
+United States Code, is amended by adding at the end the
+following: ``In responding to requests from Congress for
+information, an agency may not assert that information may be
+withheld from Congress under this section.''.
+(d) Assessment of Attorney Fees and Other Litigation
+Costs.--Section 552(a)(4)(E)(i) of title 5, United States
+Code, is amended by striking ``The court may'' and inserting
+``The court shall''.
+(e) Office of Government Information Services.--Section 552
+of title 5, United States Code, is amended--
+(1) in subsection (a)(4)(A)(i), by striking ``the Director
+of the Office of Management and Budget'' and inserting ``the
+Director of the Office of Management and Budget, in
+consultation with the Director of the Office of Government
+Information Services,''; and
+(2) by amending subsection (h) to read as follows:
+``(h) Office of Government Information Services.--
+``(1) Establishment.--There is established the Office of
+Government Information Services within the National Archives
+and Records Administration. The head of the Office is the
+Director of the Office of Government Information Services.
+``(2) Review of foia policy, procedure, and compliance.--
+The Office of Government Information Services shall--
+``(A) review policies and procedures of agencies under this
+section;
+``(B) review compliance with this section by agencies;
+``(C) identify methods that improve compliance under this
+section that may include--
+``(i) the timely processing of requests submitted to
+agencies under this section;
+``(ii) the system for assessing fees and fee waivers under
+this section; and
+``(iii) the use of any exemption under subsection (b); and
+``(D) review and provide guidance to agencies on the use of
+fees and fee waivers.
+``(3) Mediation services.--The Office of Government
+Information Services shall offer mediation services to
+resolve disputes between persons making requests under this
+section and agencies as a non-exclusive alternative to
+litigation and may issue advisory opinions at the discretion
+of the Office or upon request of any party to such mediation
+services.
+``(4) Submission of report.--
+``(A) In general.--The Office of Government Information
+Services shall not less than annually submit to the
+committees described in subparagraph (C) and the President a
+report on the findings from the information reviewed and
+identified under paragraph (2), a summary of the Office's
+activities under paragraph (3) (including any advisory
+opinions issued), and legislative and regulatory
+recommendations to improve the administration of this
+section.
+``(B) Electronic availability of reports.--The Office shall
+make available any report submitted under subparagraph (A) in
+an electronic, publicly accessible format.
+``(C) Congressional submission of report.--The committees
+described in this subparagraph are the following:
+``(i) The Committee on Oversight and Government Reform of
+the House of Representatives.
+``(ii) The Committees on Homeland Security and Governmental
+Affairs and the Judiciary of the Senate.
+``(D) Direct submission of reports and testimony.--Any
+report submitted under subparagraph (A), any testimony, or
+any other communication to Congress shall be submitted
+directly to the committees and the President, without any
+requirement that any officer or employee outside of the
+Office of Government Information Services, including the
+Archivist of the United States and the Director of the Office
+of Management and Budget, review such report, testimony, or
+other communication.
+``(5) Submission of additional information.--The Director
+of the Office of Government Information Services may submit
+additional information to Congress and the President that the
+Director determines to be appropriate.
+``(6) Annual meeting required.--Not less than once a year,
+the Office of Government Information Services shall hold a
+meeting that is open to the public on the review and reports
+by the Office and permit interested persons to appear and
+present oral or written statements at such meeting.''.
+(f) Public Resources.--Section 552(a)(6) of title 5, United
+States Code, is amended--
+(1) in subparagraph (A)--
+(A) in clause (i), by striking ``of such determination and
+the reasons therefor, and of the right of such person to
+appeal to the head of the agency any adverse determination;
+and'' and inserting the following: ``of--
+``(I) such determination and the reasons therefor;
+``(II) the right of such person to seek assistance from the
+agency FOIA Public Liaison; and
+``(III) the right of such person to appeal to the head of
+the agency any adverse determination, within a period
+determined by the agency that is not less than 90 days after
+the receipt of such adverse determination; and''; and
+(B) in clause (ii), by striking the period at the end and
+inserting the following: ``and the right of such person to
+seek dispute resolution services from the agency FOIA Public
+Liaison or the Office of Government Information Services.'';
+(2) in subparagraph (B)--
+(A) by redesignating clause (iv) as clause (v); and
+(B) by inserting after clause (iii) the following new
+clause (iv):
+``(iv) When an agency consults with an entity with
+substantial interests in the determination of a request (in
+this clause referred to as the `consulted entity'):
+``(I) The agency shall notify the requestor of the
+consultation in writing, including each of the following:
+``(aa) A brief description of the consultation process.
+``(bb) The name of each consulted entity, unless otherwise
+prohibited by law.
+``(cc) An approximate number of pages, or other description
+of the volume of records, that each consulted entity is
+reviewing.
+``(II) The agency shall notify the consulted entity of the
+need to consult in writing, including each of the following:
+``(aa) An approximate number of pages, or other description
+of the volume of records, that the entity is requested to
+review.
+``(bb) A request to provide a complete response within 15
+days after the date on which the notification is sent and a
+notice that after the expiration of that time period the
+agency will proceed with the compliance of the request if a
+completed response is not received.
+``(cc) If the number of records in the consultation under
+this clause exceeds 3,000 pages, a notification that the
+consulted entity shall have 15 days after the date on which
+the notice is sent to submit a substantial response and that
+a response on at least 3,000 pages not less than every five
+days thereafter is required to continue the consultation
+period.
+``(dd) If the consulted entity is unable or anticipates
+that the entity will be unable to complete the consultation
+within the time period described, a notification that the
+consulted entity may request mediation services at the Office
+of Government Information Services to set an alternative
+consultation schedule.
+``(III) If the requesting agency has not received a
+completed request within the time period described in the
+consultation notice, the agency shall request that the
+consulted entity engage in mediation services with the Office
+of Government Information Services. If the consulted entity
+is an agency, the consulted agency shall agree to participate
+in mediation services.
+``(IV) If the consulted entity requests or agrees to engage
+in mediation services, the requesting agency shall notify the
+requester of the mediation and the opportunity to participate
+in the mediation, if participation is not otherwise
+prohibited by law. The parties in the mediation shall
+determine a reasonable schedule of completion and a date by
+which the requesting agency shall complete the response to
+the request.
+``(V) If the consulted entity does not respond or rejects
+the offer to mediate an alternative schedule, the requesting
+agency shall complete the response to the requester.
+``(VI) The previous provisions of this clause shall not
+apply when the consulted entity is an element of the
+intelligence community (as defined in section 3(4) of the
+National Security Act of 1947 (50 U.S.C. 3003(4))).''; and
+(3) in subparagraph (F), by striking ``any such estimate to
+the person making the request, unless providing such estimate
+would harm an interest protected by the exemption in
+subsection (b) pursuant to which the denial is made.'' and
+inserting the following: ``to the person making the request
+the following:
+``(i) Any such estimate, unless providing such estimate
+would harm an interest protected by the exemption in
+subsection (b) pursuant to which the denial is made.
+``(ii) A list of all records requested the provision of
+which was denied, unless the disclosure of such record is
+prohibited by law.''.
+(g) Additional Disclosure of Information Requirements.--
+Section 552(a) of title 5, United States Code, is amended by
+adding at the end the following new paragraphs:
+``(8) Disclosure of Information for Increased Public
+Understanding of the Government.--Each agency shall--
+``(A) review the records of such agency to determine
+whether the release of the records would be in the public
+interest because it is likely to contribute significantly to
+public understanding of the operations or activities of the
+Government;
+``(B) for records determined to be in the public interest
+under subparagraph (A), reasonably segregate and redact any
+information exempted from disclosure under subsection (b);
+and
+``(C) make available in an electronic, publicly accessible
+format, any records identified in subparagraph (A), as
+modified pursuant to subparagraph (B).
+``(9) Increased Disclosure of Information.--Each agency
+shall--
+``(A) make information public to the greatest extent
+possible through modern technology to--
+``(i) inform the public of the operations and activities of
+the Government; and
+``(ii) ensure timely disclosure of information; and
+[[Page H251]]
+``(B) establish procedures for identifying categories of
+records that may be disclosed regularly and additional
+records of interest to the public that are appropriate for
+public disclosure, and for posting such records in an
+electronic, publicly accessible format.''.
+(h) Report on Categories of Information for Disclosure.--
+Not later than one year after the date of the enactment of
+this Act, and every two years thereafter, the Director of the
+Office of Information Policy of the Department of Justice,
+after consultation with agencies selected by the Director,
+shall submit to the Committee on Oversight and Government
+Reform of the House of Representatives and the Committees on
+Homeland Security and Governmental Affairs and the Judiciary
+of the Senate a report that identifies categories of records
+that would be appropriate for proactive disclosure, and shall
+make such report available in an electronic, publicly
+accessible format.
+(i) Agency FOIA Report.--Section 552(e) of title 5, United
+States Code, is amended--
+(1) in paragraph (1)--
+(A) by inserting ``and to the Director of the Office of
+Government Information Services'' after ``the Attorney
+General of the United States'';
+(B) in subparagraph (N), by striking ``; and'' and
+inserting a semicolon;
+(C) in subparagraph (O), by striking the period and
+inserting a semicolon; and
+(D) by adding at the end the following new subparagraphs:
+``(P) the number of times the agency invoked a law
+enforcement exclusion under subsection (c);
+``(Q) the number of times the agency engaged in dispute
+resolution with the assistance of the Office of Government
+Information Services or the FOIA Public Liaison;
+``(R) the number of records that were made available in an
+electronic, publicly accessible format under subsection
+(a)(2); and
+``(S) the number of times the agency assessed a search or
+duplication fee under subsection (a)(4)(A) and did not comply
+with a time limit under subsection (a)(6).'';
+(2) by amending paragraph (3) to read as follows:
+``(3) Electronic Accessibility of Reports.--Each agency
+shall make each such report available in an electronic,
+publicly accessible format. In addition, each agency shall
+make the raw statistical data used in its reports available
+in a timely manner in an electronic, publicly accessible
+format. Such data shall be--
+``(A) made available without charge, license, or
+registration requirement;
+``(B) capable of being searched and aggregated; and
+``(C) permitted to be downloaded and downloaded in bulk.'';
+(3) in paragraph (4)--
+(A) by striking ``Committee on Government Reform and
+Oversight'' and inserting ``Committee on Oversight and
+Government Reform'';
+(B) by striking ``Governmental Affairs'' and inserting
+``Homeland Security and Governmental Affairs''; and
+(C) by striking ``April 1'' and inserting ``March 1'';
+(4) in paragraph (5)--
+(A) by inserting ``and the Director of the Office of
+Government Information Services'' after ``the Director of the
+Office of Management and Budget''; and
+(B) by striking ``by October 1, 1997''; and
+(5) by amending paragraph (6) to read as follows:
+``(6) Attorney General FOIA Report.--
+``(A) In general.--The Attorney General of the United
+States shall submit to Congress and the President an annual
+report on or before March 1 of each calendar year which shall
+include for the prior calendar year--
+``(i) a listing of the number of cases arising under this
+section, including for each case, as applicable--
+``(I) each subsection under this section;
+``(II) each paragraph of each such subsection;
+``(III) any exemption;
+``(IV) the disposition of such case; and
+``(V) the cost, fees, and penalties assessed under
+subparagraphs (E), (F), and (G) of subsection (a)(4); and
+``(ii) a description of the efforts undertaken by the
+Department of Justice to encourage agency compliance with
+this section.
+``(B) Electronic availability.--The Attorney General of the
+United States--
+``(i) shall make each report described under subparagraph
+(A) available in an electronic, publicly accessible format;
+and
+``(ii) shall make the raw statistical data used in each
+report available in an electronic, publicly accessible
+format, which shall be--
+``(I) made available without charge, license, or
+registration requirement;
+``(II) capable of being searched and aggregated; and
+``(III) permitted to be downloaded, including downloaded in
+bulk.''.
+(j) Search or Duplication Fees.--Section 552(a)(4)(A) of
+title 5, United States Code, is amended by striking clause
+(viii) and inserting the following new clause:
+``(viii)(I) Except as provided in subclause (II), an agency
+shall not assess any search fees (or in the case of a
+requester described under clause (ii)(II) of this
+subparagraph, duplication fees) under this subparagraph if
+the agency fails to comply with any time limit described in
+paragraph (6).
+``(II)(aa) If an agency has determined that unusual
+circumstances apply (as the term is defined in paragraph
+(6)(B)) and the agency provided a timely written notice to
+the requester in accordance with paragraph (6)(B), a failure
+described in subclause (I) is excused for an additional 10
+days. If the agency fails to comply with the extended time
+limit, the agency may not assess any search fees (or in the
+case of a requester described under clause (ii)(II) of this
+subparagraph, duplication fees).
+``(bb) If an agency has determined that unusual
+circumstances apply and more than 3,000 pages are necessary
+to respond to the request, an agency may charge search fees
+(or in the case of a requester described under clause
+(ii)(II) of this subparagraph, duplication fees) if the
+agency has provided a timely written notice to the requester
+in accordance with paragraph (6)(B) and the agency has
+discussed with the requester via written mail, electronic
+mail, or telephone (or made not less than 3 good-faith
+attempts to do so) how the requester could effectively limit
+the scope of the request in accordance with paragraph
+(6)(B)(ii).
+``(cc) If a court has determined that exceptional
+circumstances exist (as that term is defined in paragraph
+(6)(C)), a failure described in subclause (I) shall be
+excused for the length of time provided by the court order.
+``(ix) When assessing or estimating fees, agencies shall
+provide a detailed explanation of the fee calculation,
+including--
+``(I) the actual or estimated number, as appropriate, of--
+``(aa) records duplicated;
+``(bb) hours of searching;
+``(cc) files searched;
+``(dd) records searched;
+``(ee) custodians searched;
+``(ff) records reviewed; and
+``(gg) hours of review;
+``(II) citations to the fee schedule for each category of
+fee assessed; and
+``(III) in the case of an estimate, the basis for such
+estimate.''.
+(k) Government Accountability Office.--Subsection (i) of
+section 552 of title 5, United States Code, is amended to
+read as follows:
+``(i) Government Accountability Office.--The Government
+Accountability Office shall--
+``(1) conduct audits of administrative agencies on
+compliance with and implementation of the requirements of
+this section and issue reports detailing the results of such
+audits;
+``(2) catalog the number of exemptions under subsection
+(b)(3) and agency use of such exemptions; and
+``(3) review and prepare a report on the processing of
+requests by agencies for information pertaining to an entity
+that has received assistance under title I of the Emergency
+Economic Stabilization Act of 2008 (12 U.S.C. 5211 et seq.)
+during any period in which the Government owns or owned more
+than 50 percent of the stock of such entity.''.
+(l) Chief FOIA Officer Responsibilities; Council; Review.--
+Section 552 of title 5, United States Code, is amended--
+(1) by striking subsections (j) and (k); and
+(2) by inserting after subsection (i), the following new
+subsections:
+``(j) Chief FOIA Officer.--
+``(1) Designation.--Each agency shall designate a Chief
+FOIA Officer who shall be a senior official of such agency
+(at the Assistant Secretary or equivalent level).
+``(2) Duties.--The Chief FOIA Officer of each agency shall,
+subject to the authority of the head of the agency--
+``(A) have agency-wide responsibility for efficient and
+appropriate compliance with this section;
+``(B) monitor implementation of this section throughout the
+agency and keep the head of the agency, the chief legal
+officer of the agency, and the Attorney General appropriately
+informed of the agency's performance in implementing this
+section;
+``(C) recommend to the head of the agency such adjustments
+to agency practices, policies, personnel, and funding as may
+be necessary to improve the implementation of this section;
+``(D) review and report to the Attorney General, through
+the head of the agency, at such times and in such formats as
+the Attorney General may direct, on the agency's performance
+in implementing this section;
+``(E) facilitate public understanding of the purposes of
+the statutory exemptions of this section by including concise
+descriptions of the exemptions in both the agency's handbook
+issued under subsection (g), and the agency's annual report
+on this section, and by providing an overview, where
+appropriate, of certain general categories of agency records
+to which those exemptions apply;
+``(F) serve as the primary agency liaison with the Office
+of Government Information Services and the Office of
+Information Policy; and
+``(G) designate one or more FOIA Public Liaisons.
+``(3) Compliance review required.--The Chief FOIA Officer
+of each agency shall--
+``(A) review, not less than annually, all aspects of the
+agency's administration of this section to ensure compliance
+with the requirements of this section, including--
+``(i) agency regulations;
+``(ii) disclosure of records required under paragraphs (2),
+(8), and (9) of subsection (a);
+``(iii) assessment of fees and determination of eligibility
+for fee waivers;
+``(iv) the timely processing of requests for information
+under this section;
+``(v) the use of exemptions under subsection (b); and
+[[Page H252]]
+``(vi) dispute resolution services with the assistance of
+the Office of Government Information Services or the FOIA
+Public Liaison; and
+``(B) make recommendations as necessary to improve agency
+practices and compliance with this section.
+``(k) Chief FOIA Officers Council.--
+``(1) Establishment.--There is established in the executive
+branch the Chief FOIA Officers Council (in this subsection,
+referred to as the `Council').
+``(2) Members.--The Council shall consist of the following
+members:
+``(A) The Deputy Director for Management of the Office of
+Management and Budget.
+``(B) The Director of the Office of Information Policy at
+the Department of Justice.
+``(C) The Director of the Office of Government Information
+Services at the National Archives and Records Administration.
+``(D) The Chief FOIA Officer of each agency.
+``(E) Any other officer or employee of the United States as
+designated by the Co-Chairs.
+``(3) Co-chairs.--The Director of the Office of Information
+Policy at the Department of Justice and the Director of the
+Office of Government Information Services at the National
+Archives and Records Administration shall be the Co-Chairs of
+the Council.
+``(4) Support services.--The Administrator of General
+Services shall provide administrative and other support for
+the Council.
+``(5) Consultation.--In performing its duties, the Council
+shall consult regularly with members of the public who make
+requests under this section.
+``(6) Duties.--The duties of the Council include the
+following:
+``(A) Develop recommendations for increasing compliance and
+efficiency under this section.
+``(B) Disseminate information about agency experiences,
+ideas, best practices, and innovative approaches related to
+this section.
+``(C) Identify, develop, and coordinate initiatives to
+increase transparency and compliance with this section.
+``(D) Promote the development and use of common performance
+measures for agency compliance with this section.
+``(7) Meetings.--
+``(A) Regular meetings.--The Council shall meet regularly
+and such meetings shall be open to the public unless the
+Council determines to close the meeting for reasons of
+national security or to discuss information exempt under
+subsection (b).
+``(B) Annual meetings.--Not less than once a year, the
+Council shall hold a meeting that shall be open to the public
+and permit interested persons to appear and present oral and
+written statements to the Council.
+``(C) Notice.--Not later than 10 business days before a
+meeting of the Council, notice of such meeting shall be
+published in the Federal Register.
+``(D) Public availability of council records.--Except as
+provided in subsection (b), the records, reports,
+transcripts, minutes, appendixes, working papers, drafts,
+studies, agenda, or other documents that were made available
+to or prepared for or by the Council shall be made publicly
+available.
+``(E) Minutes.--Detailed minutes of each meeting of the
+Council shall be kept and shall contain a record of the
+persons present, a complete and accurate description of
+matters discussed and conclusions reached, and copies of all
+reports received, issued, or approved by the Council.''.
+(m) Excluded Records.--Section 552(c) of title 5, United
+States Code, is amended by adding at the end the following
+new paragraph:
+``(4) An agency shall notify the Department of Justice in
+each instance records responsive to a request have been
+identified that the agency determines are not subject to the
+requirements of this section under paragraphs (1), (2), or
+(3) and shall provide the Department of Justice with a
+detailed justification for such determination for each such
+instance. The Department of Justice shall maintain records of
+each notification and justification received. An agency may
+treat records created under this paragraph as not subject to
+the requirements under this section.''.
+(n) Agency Performance; Adverse Actions.--
+(1) In general.--Section 552 of title 5, United States
+Code, is further amended by adding at the end the following
+new subsection:
+``(n) Agency Performance.--
+``(1) Performance reviews.--Performance appraisals under
+chapter 43 of this title shall include consideration of the
+employee's responsibility for, and compliance with, this
+section as appropriate.
+``(2) Agency-wide training.--Each agency shall ensure
+agency employees receive annual training on the
+responsibilities of the agency under this section, including
+the specific responsibilities of each employee, such as
+responding promptly to requests for records and providing all
+records that may be responsive to the request.
+``(3) FOIA officer training.--Each agency shall ensure
+agency employees directly responsible for fulfilling the
+requirements under this section receive annual training on
+such requirements. The annual training shall include
+statutory requirements (such as time limits to respond to
+requests for records, limitations on exemptions, and
+opportunities for discretionary disclosure) and any changes
+to this section or any interpretation of this section (such
+as a regulation issued under this section).
+``(4) Violation of foia.--
+``(A) Intentional.--An intentional violation of any
+provision of this section, including any rule, regulation, or
+other implementing guideline, by an officer or employee of an
+agency, as determined by the appropriate supervisor, shall be
+forwarded to the Inspector General of the agency for a
+verification of the violation, and upon verification, such
+officer or employee shall be subject to the suspension and
+removal provisions under subchapter II or V of chapter 75.
+``(B) Unauthorized withholding.--The withholding of
+information in contravention of the requirements of this
+section, including any rule, regulation, or other
+implementing guideline, as determined by the appropriate
+supervisor, shall be a basis for disciplinary action in
+accordance with subchapter I, II, or V of chapter 75, as the
+case may be.''.
+(2) Regulations.--The Office of Personnel Management shall
+ensure that any performance appraisal system established
+pursuant to chapter 43 of title 5, United States Code, shall
+include the requirements of section 552(n)(1) of such title
+(as added by paragraph (1)).
+(o) Regulations; GAO Study; System of Record Notice.--
+(1) Revision of regulations.--Not later than 180 days after
+the date of the enactment of this Act, the head of each
+agency shall review the regulations of such agency and shall
+issue regulations on procedures for the disclosure of records
+under section 552 of title 5, United States Code, in
+accordance with the amendments made by this section. The
+regulations of each agency shall include--
+(A) procedures for engaging in dispute resolution; and
+(B) procedures for engaging with the Office of Government
+Information Services.
+(2) GAO non-custodian study.--Not later than 18 months
+after the date of the enactment of this Act, the Comptroller
+General shall--
+(A) conduct a study of not less than five agencies to
+assess the feasibility of implementing a policy requiring
+non-custodians to search for records to meet the requirements
+of section 552 of title 5, United States Code, and requests
+for documents from Congress; and
+(B) submit a report on such assessment to the Committee on
+Oversight and Government Reform of the House of
+Representatives and the Committee on the Judiciary of the
+Senate detailing the results of such study.
+(3) Office of government information services report.--Not
+later than 270 days after the date of the enactment of this
+Act, the Office of Government Information Services shall
+submit to Congress a report on agency compliance with the
+requirements of this subsection.
+(4) Agency system of records notice required.--Not later
+than 90 days after the date of the enactment of this Act, the
+head of each agency shall publish in the Federal Register a
+system of records notice as defined in section 552a of title
+5, United States Code, which allows the Office of Government
+Information Services access to records to the extent
+necessary to meet the requirements of this Act, and the
+amendments made by this Act.
+(5) Report on noncompliance.--Not later than 270 days after
+the date of the enactment of this Act, the head of an agency
+that does not meet the requirements of paragraph (1) shall
+submit to Congress a report on the reason for noncompliance.
+(6) Inspector general review for noncompliance.--Any agency
+that fails to comply with the requirements of this subsection
+shall be reviewed by the Office of Inspector General of such
+agency for compliance with section 552 of title 5, United
+States Code.
+(7) Agency defined.--In this section, the term ``agency''
+has the meaning given such term in section 552(f) of title 5,
+United States Code.
+SEC. 3. INSPECTOR GENERAL REVIEW.
+(a) Periodic Review.--The Inspector General of each agency
+(as such term is defined in section 552(f) of this title 5,
+United States Code) shall--
+(1) periodically review compliance with the requirements of
+section 552 of title 5, United States Code, including the
+timely processing of requests, assessment of fees and fee
+waivers, and the use of exemptions under subsection (b) of
+such section; and
+(2) make recommendations the Inspector General determines
+to be necessary to the head of the agency, including
+recommendations for disciplinary action.
+(b) Required Frequency for Certain Agencies.--The Inspector
+General of each agency (as such term is defined in section
+901 of title 31, United States Code) shall complete the
+review and make the recommendations required under subsection
+(a) not less than once every two years.
+SEC. 4. NO ADDITIONAL FUNDS AUTHORIZED.
+No additional funds are authorized to carry out the
+requirements of this Act and the amendments made by this Act.
+Such requirements shall be carried out using amounts
+otherwise authorized.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Utah (Mr. Chaffetz) and the gentleman from Maryland (Mr. Cummings) each
+will control 20 minutes.
+[[Page H253]]
+The Chair recognizes the gentleman from Utah.
+General Leave
+Mr. CHAFFETZ. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days in which to revise and extend their remarks
+and include extraneous materials on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Utah?
+There was no objection.
+Mr. CHAFFETZ. Mr. Speaker, I yield 5 minutes to the gentleman from
+California (Mr. Issa), the former chairman of the Oversight and
+Government Reform Committee and one of the lead sponsors of this bill.
+Mr. ISSA. Mr. Speaker, I thank the chairman.
+It is no accident that this is one of the first bills of the new
+year. Like some of the other legislation, it is not a new idea. In many
+ways, what it really is is this body, once again, if you will,
+reiterating when we talk about freedom of information for the American
+people, whether it is a private citizen who doesn't know what the
+government knows about him or her and would like to or it is an
+interest group, a think tank, or very, very often the press--The New
+York Times, The Washington Post, the LA Times, and a host more--wanting
+to know what the government is doing, what their government is doing
+with their money, their freedoms.
+This bill emphasizes in no uncertain terms something that is long
+overdue: that the balance between the American people's right to know
+about their information and the government's right to keep a secret
+shall always be balanced in favor and presumed to be the American
+people's right. In other words, no longer, after this bill is signed
+into law, will an administration, Republican or Democratic, be able to
+presume that they are going to say no if they possibly can. Instead,
+this bill shifts the burden to the presumption of yes.
+Not only does it shift the burden, but it puts an outright mandate
+that, after 25 years, information not covered by national security
+requirements or classifications of secret or above, shall, in fact,
+simply be available.
+These are fundamentally important distinctions between the current
+law. But more to the point of a modernization, this legislation
+mandates a single point of asking for FOIA, an assumption that it is
+long overdue for us to streamline and improve the ability to get this
+information and get it to everyone.
+One of the aspects of the legislation is that H.R. 653 will require
+that information asked for again and again and again be posted and
+available for everyone rather than each time being a burden of somebody
+wanting similar or even identical information to have to put in a FOIA
+request.
+Mr. Speaker, what I want to close with is this isn't just bipartisan;
+this is universal. Members of the House and the Senate, whether there
+is a Republican or Democratic President, whether it is on behalf of a
+constituent wanting some simple information, we regularly use the
+Freedom of Information Act, and we regularly find ourselves frustrated.
+This is good for the administration. It builds on legislation like
+the DATA Act and other reforms that the Oversight and Government Reform
+Committee have done over a number of years.
+Lastly, I want to thank my good friend from Maryland (Mr. Cummings).
+From the very day we began heading the committee, more than 5 years ago
+now, together, he has always been for FOIA reform, always been for more
+transparency, and always been supportive of the legislation you see
+here today. I want to thank Mr. Cummings, something that I don't get
+enough chances to do.
+And I want to thank Chairman Chaffetz for bringing this bill, not
+only as it was originally written, but with some important
+modifications to make it, hopefully, go through quickly when it is
+considered by the Senate.
+I urge its support.
+Mr. CUMMINGS. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I rise in strong support of H.R. 653, the FOIA Oversight
+and Implementation Act.
+I want to start by thanking Representative Darrell Issa for working
+with me on this legislation. We first introduced the FOIA Act in March
+2013. The bill before us today is the product of 3 years of work--hard
+work--feedback, negotiation, and perseverance.
+I also want to thank the chairman of the Oversight and Government
+Reform Committee, Jason Chaffetz, for his work on this bill and his
+strong support for bringing it to the House floor today.
+I would say that this is a bipartisan effort, but it is more than
+that. We actually worked very, very hard together, all of us, to make
+this happen. If there was any case where we had to use this term of not
+moving to common ground but moving to higher ground, it would be this
+legislation.
+Open government advocates--journalists, editorial boards, and
+everyday citizens--who support this bill also deserve a tremendous
+amount of gratitude.
+The FOIA Act would strengthen the cornerstone of our open government
+laws and the Freedom of Information Act. This legislation builds on the
+historic work of the Obama administration, which I believe will go down
+in history as the most transparent administration to date. The bill
+would codify the presumption of openness standard that President Obama
+put in place in a memo issued on his first day in office.
+The bill would require agencies to identify specific identifiable
+harm to an interest protected by exemption unless disclosure is
+prohibited by law. This provision would not require agencies to
+disclose classified information, it would not require agencies to
+disclose anything they are prohibited from disclosing by law, and it
+would not remove any of FOIA's existing time exemptions. It would,
+however, put the burden on agencies where it should be: to justify
+keeping government information secret.
+The bill would also put a 25-year sunset exemption 5 of FOIA--the
+deliberative process exemption--and limit the scope of records that
+agencies could withhold under that exemption. It would modernize FOIA
+by requiring the Office of Management and Budget to create a central
+portal to allow FOIA requests to any agency through one Web site.
+The Office of Government Information Services, the FOIA ombudsman
+created by Congress in 2007, would become more independent, which is
+very important under this bill, because that office would be allowed to
+submit testimony and reports directly to Congress without going through
+political review.
+This bill is coming to the floor with an amendment that makes a
+number of changes, and many of them proposed by Chairman Chaffetz. Some
+of these additions include requiring agencies to provide each FOIA
+requester with a contact name and information for an agency employee
+who can provide information on the status of the request. This is so
+very, very important.
+Our bill has widespread support. A coalition of 47 open government
+groups sent a letter in support of this bill on February 5, 2015, that
+said:
+``Congress must act this year to ensure that FOIA stays current with
+people's need to access government information and resilient in the
+face of attempts to subvert that access.''
+{time}  1730
+Numerous editorial boards have written, urging Congress to pass FOIA
+reform legislation.
+A New York Times editorial from February 2015 reads: ``This is a rare
+chance to log a significant bipartisan accomplishment in the public
+interest.''
+A USA Today editorial in March 2015 called for the enactment of this
+bill's reforms.
+A Los Angeles Times editorial read that this legislation and a
+similar bill in the Senate ``deserves to be passed.''
+This is a movement called Fix FOIA by 50. That movement is aimed at
+getting H.R. 653 enacted before the 50th anniversary of FOIA in July of
+this year.
+An online clearinghouse for the movement includes stories from
+journalists about why FOIA is critical to their work and why this
+legislation must be enacted.
+It is important to note that, even with the enactment of this
+legislation, the work of Congress must continue.
+Agency FOIA staff are being asked to do more than ever before. From
+2009 to
+[[Page H254]]
+2014, the overall number of FOIA requests submitted to Federal agencies
+increased by 28 percent with new records set in each of the past 4
+years in a row. The total number of FOIA personnel, however, decreased
+by about 4 percent. Congress must give these agencies more resources.
+Again, I thank Congressman Issa for all of his hard work. I know that
+he has been on this bill for a long time and has tried to make sure it
+gets passed. Again, I want to thank both staffs for working so hard.
+Since Chairman Chaffetz became chairman, we have had two meetings,
+and I know our staffs have had numerous meetings and have hammered out
+the details to make a very good bill a better bill. I want to thank
+them.
+I urge my colleagues to vote for transparency and for the American
+people by voting ``yes'' on this legislation.
+Mr. Speaker, I reserve the balance of my time.
+Mr. CHAFFETZ. Mr. Speaker, I yield myself such time as I may consume.
+This is a good, much-needed piece of legislation. It is hard to
+believe that FOIA, the Freedom of Information Act, was passed nearly 50
+years ago.
+We are a little different in the United States. We are self-critical.
+We do look at things. We do examine things. We do it in the spirit of
+making this country better.
+We also have to remember who we work for. We work for the American
+people. The American people are paying the tab. It is their government,
+and they have the right to know.
+Updating this piece of legislation is something that, in particular,
+Congressman Issa sought to do some time ago. He put the wheels in
+motion and started to draft a good and much-needed bill.
+Coming together with the ranking member, Mr. Cummings, has made this
+all possible. We have had some good, vibrant discussions. We had 2 days
+of hearings in our committee. We heard from citizens. We heard from the
+media. We heard from a host of people.
+I think it is fair to say that, in large part, the FOIA, the way it
+operates now, is broken. I do agree and concur with the ranking member
+that, if we are going to have such a bombardment of requests, they need
+to be properly funded and there needs to be the personnel in order to
+make sure they can fulfill these requests.
+When appropriation season comes, I want to stand with Mr. Cummings
+and with others and make sure that it is properly funded so that those
+good people can do their good work.
+There were a number of reforms and improvements that needed to
+happen. I do appreciate the flexibility of working and of offering
+suggestions and then another set of suggestions.
+This would not have been possible, Mr. Speaker, without some good
+work in the Office of Legal Counsel. Sally Walker dealt with us time
+and time again.
+On our side of the aisle, we had it spearheaded with Katy Rother, and
+I know that Krista Boyd particularly, on Mr. Cummings' staff, was vital
+to making this happen.
+There are vital pieces of information that are needed and that are
+rightfully requested by the American people, but this piece of
+legislation will make that FOIA process smoother. It will make it more
+effective, more efficient, and I think it is much needed as we go into
+the 50th year of FOIA. I look forward to its passage. I urge a ``yes''
+vote.
+Mr. Speaker, I reserve the balance of my time.
+Mr. CUMMINGS. Mr. Speaker, I yield myself such time as I may consume.
+I close by highlighting a few additional provisions of FOIA.
+This bill would require agencies to review existing records to
+identify categories of records to proactively disclose rather than
+waiting for FOIA requests.
+The bill would also require the Department of Justice to report to
+Congress on categories of records that would be appropriate for
+proactive disclosure.
+Finally, the bill would tackle the proliferation of statutory FOIA
+exemptions by requiring the Government Accountability Office to catalog
+all of the statutory exemptions on the books.
+Again, I urge the support of this legislation.
+Mr. Speaker, I yield back the balance of my time.
+Mr. CHAFFETZ. Mr. Speaker, I yield myself such time as I may consume.
+I appreciate the good, bipartisan work. It was through a lot of labor
+and a lot of listening to what the public needs and to what the media
+needs. I do think this will make the Freedom of Information Act better
+as it is the spirit by which we operate in this country.
+I urge the bill's passage.
+Mr. Speaker, I yield back the balance of my time.
+House of Representatives, Permanent Select Committee on
+Intelligence,
+Washington, DC, January 8, 2016.
+Hon. Jason Chaffetz,
+Chairman, Committee on Oversight and Government Reform ,
+Washington, DC.
+Dear Chairman Chaffetz: On January 7, 2016, your committee
+ordered H.R. 653, the ``FOIA Oversight and Implementation Act
+of 2015,'' reported. As you know, H.R. 653 contains several
+provisions that implicate the work of agencies within the
+jurisdiction of the Permanent Select Committee on
+Intelligence. The bill addresses how elements of the
+Intelligence Community (IC), as defined in section 3(4) of
+the National Security Act of 1947, may protect sensitive
+information from disclosure under the Freedom of Information
+Act (FOIA).
+On the basis of your consultations with the Committee, I
+understand that H.R. 653 has been crafted to avoid compelling
+the disclosure of any properly classified information, or
+other information where disclosure would adversely affect
+intelligence sources and methods protected by an existing
+FOIA exemption. In particular, I understand that H.R. 653
+does not allow or require FOIA requesters to obtain IC
+records or information, without regard to the age of the
+records or information, if such disclosure would adversely
+affect intelligence sources and methods.
+I further understand that H.R. 653 does not alter an
+Intelligence Community element's discretion over the language
+it chooses to use in denying records or information sought
+pursuant to FOIA. Specifically, I understand that the
+requirement in Section 2(f)(3) for federal agencies to
+include ``a list'' of all denied records preserves an
+Intelligence Community element's discretion regarding the
+contents of the required ``list.'' To the extent that
+elaboration of any list would adversely affect intelligence
+sources and methods, an IC element may cite to the applicable
+FOIA exemption to meet the list requirement.
+I would appreciate your response to this letter confirming
+these understandings and would request that you include a
+copy of this letter in the Congressional Record during its
+floor consideration. Thank you in advance for your
+cooperation.
+Sincerely,
+Devin Nunes,
+Chairman.
+____
+House of Representatives, Committee on Oversight and
+Government Reform,
+Washington, DC, January 11, 2016.
+Hon. Devin Nunes,
+Chairman, Permanent Select Committee on Intelligence,
+Washington, DC.
+Dear Mr. Chairman: Thank you for your January 8, 2016,
+letter regarding H.R. 653, the FOIA Oversight and
+Implementation Act of 2015, as reported. H.R. 653 bill
+addresses how elements of the Intelligence Community (IC), as
+defined in section 3(4) of the National Security Act of 1947,
+may protect sensitive information from disclosure under the
+Freedom of Information Act (FOIA). I am writing to confirm
+our mutual understanding with respect to the consideration of
+the bill.
+H.R. 653 has been crafted to strengthen FOIA by
+establishing a strong presumption in favor of disclosure,
+while also recognizing the need to avoid compelling the
+disclosure of any properly classified information, or other
+information where disclosure would adversely affect
+intelligence sources and methods protected by an existing
+FOIA exemption. The bill, as reported, does not require
+agency FOIA staff to disclose IC records or information,
+without regard to the age of the records or information, if
+such disclosure would adversely affect intelligence sources
+and methods. Further, the bill does not alter an IC element's
+discretion over the language it chooses to use in denying
+records or information sought pursuant to FOIA. Specifically,
+the requirement in Section 2(f)(3) for federal agencies to
+include ``a list'' of all denied records preserves an
+Intelligence Community element's discretion regarding the
+contents of the required ``list.''
+A copy of our exchange of letters on this matter in the
+will be inserted into the Congressional Record during
+consideration of this bill on the House floor. Thank you for
+your attention to this matter.
+Sincerely,
+Jason Chaffetz,
+Chairman.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Utah (Mr. Chaffetz) that the House suspend the rules and
+pass the bill, H.R. 653, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+[[Page H255]]
+A motion to reconsider was laid on the table.
+____________________

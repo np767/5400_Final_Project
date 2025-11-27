@@ -1,0 +1,3775 @@
+[Congressional Record Volume 168, Number 108 (Friday, June 24, 2022)]
+[House]
+[Pages H5895-H5915]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+JOSEPH WOODROW HATCHETT UNITED STATES COURTHOUSE AND FEDERAL BUILDING
+Mr. NADLER. Mr. Speaker, pursuant to House Resolution 1204, I call up
+the bill (S. 2938) to designate the United States Courthouse and
+Federal Building located at 111 North Adams Street in Tallahassee,
+Florida, as the ``Joseph Woodrow Hatchett United States Courthouse and
+Federal Building'', and for other purposes, with the Senate amendments
+to the House amendment thereto, and ask for its immediate
+consideration.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore. The Clerk will designate the Senate
+amendments to the House amendment.
+Senate amendments to House amendment:
+In lieu of the matter proposed to be inserted, insert the
+following:
+SECTION 1. JOSEPH WOODROW HATCHETT UNITED STATES COURTHOUSE
+AND FEDERAL BUILDING.
+(a) Designation.--The United States Courthouse and Federal
+Building located at 111 North Adams Street in Tallahassee,
+Florida, shall be known and designated as the ``Joseph
+Woodrow Hatchett United States Courthouse and Federal
+Building''.
+(b) References.--Any reference in a law, map, regulation,
+document, paper, or other record of the United States to the
+United States Courthouse and Federal Building referred to in
+subsection (a) shall be deemed to be a reference to the
+``Joseph Woodrow Hatchett United States Courthouse and
+Federal Building''.
+SEC. 2. LYNN C. WOOLSEY POST OFFICE BUILDING.
+(a) Designation.--The facility of the United States Postal
+Service located at 120 4th Street in Petaluma, California,
+shall be known and designated as the ``Lynn C. Woolsey Post
+Office Building''.
+(b) References.--Any reference in a law, map, regulation,
+document, paper, or other record of the United States to the
+facility referred to in subsection (a) shall be deemed to be
+a reference to the ``Lynn C. Woolsey Post Office Building''.
+SEC. 3. SHORT TITLE; TABLE OF CONTENTS.
+(a) Short Title.--This Act may be cited as the ``Bipartisan
+Safer Communities Act''.
+(b) Table of Contents.--The table of contents for this Act
+is as follows:
+Sec. 1. Joseph Woodrow Hatchett United States Courthouse and Federal
+Building.
+Sec. 2. Lynn C. Woolsey Post Office Building.
+Sec. 3. Short title; table of contents.
+DIVISION A--MENTAL HEALTH AND FIREARMS PROVISIONS
+TITLE I--CHILDREN AND FAMILY MENTAL HEALTH SERVICES
+Sec. 11001. Expansion of community mental health services demonstration
+program.
+Sec. 11002. Medicaid and telehealth.
+Sec. 11003. Supporting access to health care services in schools.
+Sec. 11004. Review of State implementation of early and periodic
+screening, diagnostic, and treatment services.
+Sec. 11005. Pediatric mental health care access grants.
+TITLE II--FIREARMS
+Sec. 12001. Juvenile records.
+Sec. 12002. Defining ``engaged in the business''.
+Sec. 12003. Use of Byrne grants for implementation of State crisis
+intervention programs.
+Sec. 12004. Stop Illegal Trafficking in Firearms Act.
+[[Page H5896]]
+Sec. 12005. Misdemeanor crime of domestic violence.
+TITLE III--OTHER MATTERS
+Subtitle A--Extension of Moratorium
+Sec. 13101. Extension of moratorium on implementation of rule relating
+to eliminating the anti-kickback statute safe harbor
+protection for prescription drug rebates.
+Subtitle B--Medicare Improvement Fund
+Sec. 13201. Medicare Improvement Fund.
+Subtitle C--Luke and Alex School Safety Act of 2022
+Sec. 13301. Short title.
+Sec. 13302. Federal Clearinghouse on School Safety Evidence-based
+Practices.
+Sec. 13303. Notification of clearinghouse.
+Sec. 13304. Grant program review.
+Sec. 13305. Rules of construction.
+Subtitle D--Amendment on ESEA Funding
+Sec. 13401. Amendment on ESEA funding.
+DIVISION B--APPROPRIATIONS
+DIVISION A--MENTAL HEALTH AND FIREARMS PROVISIONS
+TITLE I--CHILDREN AND FAMILY MENTAL HEALTH SERVICES
+SEC. 11001. EXPANSION OF COMMUNITY MENTAL HEALTH SERVICES
+DEMONSTRATION PROGRAM.
+Section 223 of the Protecting Access to Medicare Act of
+2014 (42 U.S.C. 1396a note) is amended--
+(1) in subsection (c), by adding at the end the following
+new paragraph:
+``(3) Additional planning grants for states.--In addition
+to the planning grants awarded under paragraph (1), as soon
+as practicable after the date of enactment of this paragraph,
+the Secretary shall award planning grants to States (other
+than States selected to conduct demonstration programs under
+paragraph (1) or (8) of subsection (d)) to develop proposals
+to participate in time-limited demonstration programs
+described in subsection (d) so that, beginning July 1, 2024,
+and every 2 years thereafter, up to 10 additional States may
+participate in the demonstration programs described in
+subsection (d) in accordance with paragraph (9) of that
+subsection.'';
+(2) in subsection (d)--
+(A) in paragraph (3)--
+(i) by striking ``September 30, 2023'' and inserting
+``September 30, 2025''; and
+(ii) by striking ``Subject to paragraph (8)'' and inserting
+``Subject to paragraphs (8) and (9)'';
+(B) in paragraph (5)--
+(i) in subparagraph (B), in the matter preceding clause
+(i), by striking ``that is furnished'' and inserting ``that
+is furnished by a State participating in an ongoing
+demonstration program under this subsection'';
+(ii) in subparagraph (C)(iii)--
+(I) in subclause (I), by striking ``September 30, 2023;
+and'' and inserting ``September 30, 2025;'';
+(II) in subclause (II), by striking ``under paragraph (8)''
+and all that follows through the period and inserting ``under
+paragraph (8), during the first 24 fiscal quarter period (or
+any portion of such period) that the State participates in
+the demonstration program; and''; and
+(III) by adding at the end the following new subclause:
+``(III) in the case of a State selected to participate in
+the demonstration program under paragraph (9), during the
+first 16 fiscal quarter period (or any portion of such
+period) that the State participates in the demonstration
+program.''; and
+(iii) by adding at the end the following:
+``(D) Rule of construction.--Nothing in this section shall
+be construed as prohibiting a State that participated in a
+demonstration program under this subsection that has ended
+from receiving Federal financial participation under title
+XIX of the Social Security Act for amounts expended by the
+State under a State plan under such title (or a waiver of
+such plan) for providing medical assistance for items and
+services, and carrying out activities, including continuing
+to pay for services under the prospective payment system
+established under subsection (c), that were provided or
+carried out by the State under the demonstration program, to
+the extent such financial participation is otherwise
+available under such title.'';
+(C) in paragraph (7)--
+(i) in subparagraph (A), by inserting ``through the year in
+which the last demonstration under this section ends'' after
+``annually thereafter'';
+(ii) in subparagraph (B)--
+(I) by striking ``December 31, 2021'' and inserting
+``September 30, 2025''; and
+(II) by adding at the end the following new sentence:
+``Such recommendations shall include data collected after
+2019, where feasible.''; and
+(iii) by adding at the end the following new subparagraph:
+``(C) Final evaluation.--Not later than 24 months after all
+demonstration programs under this section have ended, the
+Secretary shall submit to Congress a final evaluation of such
+programs.'';
+(D) in paragraph (8)(A), by striking ``2 years'' and all
+that follows through the period and inserting ``6 years.'';
+and
+(E) by adding at the end the following new paragraph:
+``(9) Further additional programs.--
+``(A) In general.--In addition to the States selected under
+paragraphs (1) and (8), the Secretary shall select any State
+that meets the requirements described in subparagraph (B) to
+conduct a demonstration program that meets the requirements
+of this subsection for 4 years.
+``(B) Requirements.--The requirements described in this
+subparagraph with respect to a State are that the State--
+``(i) was awarded a planning grant under paragraph (1) or
+(3) of subsection (c); and
+``(ii) submits an application (in addition to any
+application that the State may have previously submitted
+under this section) that includes the information described
+in paragraph (2)(B).
+``(C) Requirements for selected states.--The requirements
+applicable to States selected under paragraph (8) pursuant to
+subparagraph (C) of such paragraph shall apply in the same
+manner to States selected under this paragraph.
+``(D) Limitation.--The Secretary shall not select more than
+10 States to conduct a demonstration program under this
+paragraph for each 2 fiscal year period.''; and
+(3) in subsection (f)(1)--
+(A) in subparagraph (A), by striking ``and'' after the
+semicolon;
+(B) in subparagraph (B), by striking the period and
+inserting ``; and''; and
+(C) by adding at the end the following:
+``(C) for purposes of awarding planning grants under
+subsection (c)(3), providing technical assistance to States
+applying for grants under such subsection, and carrying out
+demonstration programs under subsection (d), $40,000,000 for
+fiscal year 2023, to remain available until expended.''.
+SEC. 11002. MEDICAID AND TELEHEALTH.
+(a) Guidance to States on Furnishing Services Through
+Telehealth Under Medicaid and CHIP.--Not later than 18 months
+after the date of enactment of this Act, the Secretary shall
+provide technical assistance and issue guidance to States on
+improving access to telehealth for services covered under
+Medicaid and CHIP, including with respect to:
+(1) How States can adopt flexibilities under Medicaid and
+CHIP to expand access to covered services via telehealth,
+including when States may adopt such flexibilities without
+the need for approval of a State plan amendment or waiver.
+(2) Best practices regarding billing for services,
+including recommended voluntary billing codes, modifiers, and
+place of service designations and how such billing codes,
+modifiers, and designations can be used to create consistent
+data sets.
+(3) Strategies for integrating telehealth services into
+value-based care models.
+(4) Best practices from States that have used Medicaid
+waivers and other Medicaid authorities to expand access to
+telehealth, including during the COVID-19 public health
+emergency declared by the Secretary pursuant to section 319
+of the Public Health Service Act on January 31, 2020,
+entitled ``Determination that a Public Health Emergency
+Exists Nationwide as the Result of the 2019 Novel
+Coronavirus'', including any renewal of such declaration.
+(5) Strategies to promote the delivery of accessible and
+culturally competent care via telehealth, including
+addressing the needs of individuals with disabilities,
+medically underserved urban and rural communities, racial and
+ethnic minorities such as American Indians and Alaska
+Natives, individuals with limited English proficiency, and
+individuals of different age groups including children, young
+adults, and seniors;
+(6) Strategies for training and providing resources to
+providers and patients on the use of telehealth, including
+working with interpreters to furnish health services and
+providing resources in multiple languages.
+(7) Integrating the use of existing video platforms that
+enable multi-person video calls.
+(8) Best practices to support the delivery of covered
+services under Medicaid and CHIP via telehealth in schools,
+including specifically for the provision of mental health and
+substance use disorder services in such settings.
+(9) Strategies for evaluating how the delivery of health
+services via telehealth affects quality, outcomes, and cost
+under Medicaid and CHIP.
+(10) Best practices for conveying information to
+beneficiaries regarding the availability of telehealth as an
+option to receive services covered under Medicaid and CHIP,
+including the availability of audio-only telehealth, the
+ability to receive such services from a patient's home, and
+requirements related to in-person visits.
+(b) Definitions.--In this section:
+(1) CHIP.--The term ``CHIP'' means the State children's
+health insurance program established under title XXI of the
+Social Security Act (42 U.S.C. 1397aa et seq.).
+(2) Medicaid.--The term ``Medicaid'' means the program
+established under title XIX of the Social Security Act (42
+U.S.C. 1396 et seq.).
+(3) Secretary.--Except as otherwise provided, the term
+``Secretary'' means the Secretary of Health and Human
+Services.
+(4) State.--The term ``State'' has the meaning given that
+term in section 1101(a)(1) of the Social Security Act (42
+U.S.C. 1301(a)(1)) for purposes of titles XIX and XXI of such
+Act.
+SEC. 11003. SUPPORTING ACCESS TO HEALTH CARE SERVICES IN
+SCHOOLS.
+(a) Guidance and Technical Assistance.--
+(1) Guidance.--
+(A) In general.--Not later than 12 months after the date of
+enactment of this Act, the Secretary, in consultation with
+the Secretary of Education, shall issue guidance to State
+Medicaid agencies, local educational agencies, and school-
+based entities to support the delivery of medical assistance
+to Medicaid and CHIP beneficiaries in school-based settings.
+(B) Required information.--The guidance issued pursuant to
+subparagraph (A) shall--
+(i) include updates to the May 2003 Medicaid School-Based
+Administrative Claiming Guide, the 1997 Medicaid and Schools
+Technical Assistance Guide, and other relevant guidance in
+effect on the date of enactment of this Act;
+(ii) clarify that payments may be made to school-based
+entities under Medicaid for delivering assistance under
+Medicaid, including any such assistance provided in
+accordance with an individualized education program or under
+the policy described in the State Medicaid Director letter on
+payment for services issued on December 15, 2014 (#14-006);
+[[Page H5897]]
+(iii) outline strategies and tools to reduce administrative
+burdens on, and simplify billing for, local educational
+agencies, in particular small and rural local educational
+agencies, and support compliance with Federal requirements
+regarding billing, payment, and recordkeeping, including by
+aligning direct service billing and school-based
+administrative claiming payment systems;
+(iv) include a comprehensive list of best practices and
+examples of approved methods that State Medicaid agencies and
+local educational agencies have used to pay for, and increase
+the availability of, assistance under Medicaid, including
+expanding State programs to include all Medicaid-enrolled
+students, providing early and periodic screening, diagnostic,
+and treatment (EPSDT) services in schools, utilizing
+telehealth, coordinating with community-based mental health
+and substance use disorder treatment providers and
+organizations, coordinating with managed care entities, and
+supporting the provision of culturally competent and trauma-
+informed care in school settings; and
+(v) provide examples of the types of providers (which may
+include qualified school health personnel) that States may
+choose to enroll, deem, or otherwise treat as participating
+providers for purposes of school-based programs under
+Medicaid and best practices related to helping such providers
+enroll in Medicaid for purposes of participating in school-
+based programs under Medicaid.
+(2) Technical assistance center.--
+(A) In general.--Not later than 12 months after the date of
+enactment of this Act, the Secretary, in consultation with
+the Secretary of Education, shall establish a technical
+assistance center to--
+(i) assist and expand the capacity of State Medicaid
+agencies and local educational agencies and school-based
+entities to provide assistance under Medicaid;
+(ii) reduce administrative burdens for such agencies and
+health centers or entities;
+(iii) support State educational agencies, local educational
+agencies, and school-based entities in obtaining payment for
+the provision of assistance under Medicaid;
+(iv) ensure ongoing coordination and collaboration between
+the Department of Health and Human Services and the
+Department of Education with respect to the provision of, and
+payment for, assistance under Medicaid by local educational
+agencies; and
+(v) provide information to State and local educational
+agencies and States on how to utilize funding from the
+Department of Health and Human Services, the Department of
+Education, and other Federal agencies to ensure payment under
+Medicaid for assistance provided in school-based settings.
+(B) Small and rural schools.--The Secretary shall ensure
+that the technical assistance center includes resources which
+are specifically designed to help support small and rural
+local educational agencies in obtaining payment for the
+provision of assistance under Medicaid.
+(C) Reporting.--The technical assistance center shall, on a
+biennial basis, submit to the Secretary a report on the work
+of the center that identifies the areas where the most
+assistance was requested.
+(3) Funding.--Out of any funds in the Treasury not
+otherwise appropriated, there is appropriated to the
+Secretary to carry out this subsection, $8,000,000, for
+fiscal year 2022, to remain available until expended.
+(b) Grants.--There is authorized to be appropriated
+$50,000,000 for fiscal year 2022 for the Secretary to award
+grants to States for the purpose of implementing, enhancing,
+or expanding the provision of assistance through school-based
+entities under Medicaid or CHIP. A State shall not use any
+grant funds to provide medical assistance, child health
+assistance, or other health services.
+(c) Definitions.--For purposes of this section:
+(1) CHIP.--The term ``CHIP'' means the State children's
+health insurance program established under title XXI of the
+Social Security Act (42 U.S.C. 1397aa et seq.).
+(2) Individualized education program.--The term
+``individualized education program'' has the meaning given
+such term in section 602(14) of the Individuals with
+Disabilities Education Act (20 U.S.C. 1401(14)).
+(3) Medicaid.--The term ``Medicaid'' means the program
+established under title XIX of the Social Security Act (42
+U.S.C. 1396 et seq.).
+(4) School-based entity.--The term ``school-based entity''
+means--
+(A) a school-based health center, as that term is defined
+in section 2110(c)(9) of the Social Security Act (42 U.S.C.
+1397jj(c)(9)); and
+(B) an entity that provides medical assistance in a school-
+based setting for which Federal financial participation is
+allowed under Medicaid.
+(5) Secretary.--Except as otherwise provided, the term
+``Secretary'' means the Secretary of Health and Human
+Services.
+(6) State.--The term ``State'' has the meaning given that
+term in section 1101(a)(1) of the Social Security Act (42
+U.S.C. 1301(a)(1)) for purposes of titles XIX and XXI of such
+Act.
+(7) State educational agency; local educational agency.--
+The terms ``State educational agency'' and ``local
+educational agency'' have the meaning given those terms in
+section 8101 of the Elementary and Secondary Education Act of
+1965 (20 U.S.C. 7801).
+SEC. 11004. REVIEW OF STATE IMPLEMENTATION OF EARLY AND
+PERIODIC SCREENING, DIAGNOSTIC, AND TREATMENT
+SERVICES.
+(a) Review.--
+(1) In general.--Not later than 24 months after the date of
+enactment of Act, and every 5 years thereafter, the Secretary
+shall--
+(A) review State implementation of the requirements for
+providing early and periodic screening, diagnostic, and
+treatment services under Medicaid in accordance with sections
+1902(a)(43), 1905(a)(4)(B), and 1905(r) of the Social
+Security Act (42 U.S.C. 1396a(a)(43), 1396d(a)(4)(B),
+1396d(r)), including with respect to the provision of such
+services by managed care organizations, prepaid inpatient
+health plans, prepaid ambulatory health plans, and primary
+care case managers;
+(B) identify gaps and deficiencies with respect to State
+compliance with such requirements;
+(C) provide technical assistance to States to address such
+gaps and deficiencies; and
+(D) issue guidance to States on the Medicaid coverage
+requirements for such services that includes best practices
+for ensuring children have access to comprehensive health
+care services, including children without a mental health or
+substance use disorder diagnosis.
+(2) Reports to congress.--Not later than 6 months after
+each date on which the Secretary completes the activities
+described in paragraph (1), the Secretary shall submit to the
+Committee on Finance of the Senate and the Committee on
+Energy and Commerce of the House of Representatives a report
+on the most recent activities completed for purposes of such
+paragraph that includes the findings made, and descriptions
+of actions taken by the Secretary or by States as a result of
+such activities, and any additional actions the Secretary
+plans to carry out or that States are required to carry out
+as a result of such activities.
+(3) Funding.--Out of any funds in the Treasury not
+otherwise appropriated, there is appropriated to the
+Secretary to carry out this subsection, to remain available
+until expended, $5,000,000, for each of fiscal years 2023 and
+2024, and $1,000,000 for each fiscal year thereafter.
+(b) GAO Study and Report.--
+(1) Study.--The Comptroller General of the United States
+(in this subsection referred to as the ``Comptroller
+General'') shall conduct a study evaluating State
+implementation under Medicaid of the early and periodic
+screening, diagnostic, and treatment services benefit
+required for children by section 1905(a)(4)(B) of the Social
+Security Act (42 U.S.C. 1396d(a)(4)(B)) and as defined in
+section 1905(r) of such Act (42 U.S.C. 1396d(r)) and provided
+in accordance with the requirements of section 1902(a)(43) of
+such Act (42 U.S.C. 1396a(a)(43)), specifically with respect
+to State oversight of managed care organizations, prepaid
+inpatient health plans, prepaid ambulatory health plans, and
+primary care case managers, and shall provide recommendations
+as appropriate to improve State compliance with the
+requirements for providing such benefit, State oversight of
+managed care organizations, prepaid inpatient health plans,
+prepaid ambulatory health plans, and primary care case
+managers, and oversight of State programs under Medicaid by
+the Administrator of the Centers for Medicare & Medicaid
+Services.
+(2) Report.--Not later than 3 years after the date of
+enactment of this Act, the Comptroller General shall submit
+to Congress a report on the study conducted under paragraph
+(1) that includes the recommendations required by such
+paragraph, as well as recommendations for such legislation
+and administrative action as the Comptroller General
+determines appropriate.
+(c) Definitions.--In this section:
+(1) Medicaid.--The term ``Medicaid'' means the program
+established under title XIX of the Social Security Act (42
+U.S.C. 1396 et seq.).
+(2) Secretary.--Except as otherwise provided, the term
+``Secretary'' means the Secretary of Health and Human
+Services.
+(3) State.--The term ``State'' has the meaning given that
+term in section 1101(a)(1) of the Social Security Act (42
+U.S.C. 1301(a)(1)) for purposes of titles XIX and XXI of such
+Act.
+SEC. 11005. PEDIATRIC MENTAL HEALTH CARE ACCESS GRANTS.
+Section 330M of the Public Health Service Act (42 U.S.C.
+254c-19) is amended--
+(1) in the section enumerator, by striking ``330M'' and
+inserting ``330M.'';
+(2) in subsection (a), in the matter preceding paragraph
+(1)--
+(A) by inserting ``or cooperative agreements'' after
+``award grants''; and
+(B) by striking ``Indian tribes and tribal organizations''
+and inserting ``Indian Tribes and Tribal organizations'';
+(3) in subsection (b)--
+(A) in paragraph (1)--
+(i) in the matter preceding subparagraph (A), by striking
+``a grant'' and inserting ``an award'';
+(ii) in subparagraph (G), by inserting ``developmental-
+behavioral pediatricians,'' after ``psychiatrists,'';
+(iii) in subparagraph (H), by inserting ``provide
+information to pediatric health care providers about
+available mental health services for children in the
+community and'' before ``assist''; and
+(iv) in subparagraph (I), by striking ``problems'' and
+inserting ``conditions'';
+(B) by redesignating paragraph (2) as paragraph (3);
+(C) by inserting after paragraph (1) the following:
+``(2) Support to schools and emergency departments.--
+``(A) In general.--In addition to the activities required
+under paragraph (1), a pediatric mental health care access
+program referred to in subsection (a), with respect to which
+an award under such subsection may be used, may provide
+information, consultative support, training, and technical
+assistance to--
+``(i) emergency departments; and
+``(ii) State educational agencies, local educational
+agencies, Tribal educational agencies, and elementary and
+secondary schools.
+``(B) Requirements for certain recipients.--An entity
+receiving information, consultative support, training, and
+technical assistance under subparagraph (A)(ii) shall operate
+in a
+[[Page H5898]]
+manner consistent with, and shall ensure consistency with,
+the requirements of subsections (a) and (c) of section 4001
+of the Elementary and Secondary Education Act with respect to
+such information, consultative support, training, and
+technical assistance.''; and
+(D) in paragraph (3), as so redesignated, by inserting ``,
+and which may include a developmental-behavioral
+pediatrician'' before the period at the end of the first
+sentence;
+(4) in subsections (c), (d), and (f), by striking ``Indian
+tribe, or tribal organization'' each place it appears and
+inserting ``Indian Tribe, or Tribal organization'';
+(5) in subsections (c) and (d)--
+(A) by striking ``a grant'' each place it appears and
+inserting ``an award''; and
+(B) by striking ``such grant'' each place it appears and
+inserting ``such award'';
+(6) in subsection (e), by striking ``grants'' and inserting
+``awards'';
+(7) in subsection (f)--
+(A) by striking ``award a grant'' and inserting ``make an
+award''; and
+(B) by striking ``the grant'' and inserting ``the award'';
+(8) by redesignating subsection (g) as subsection (h);
+(9) by inserting after subsection (f) the following:
+``(g) Technical Assistance.--The Secretary may--
+``(1) provide, or continue to provide, technical assistance
+to recipients of awards under subsection (a); and
+``(2) award a grant or contract to an eligible public or
+nonprofit private entity (as determined by the Secretary) for
+the purpose of providing such technical assistance pursuant
+to this subsection.''; and
+(10) in subsection (h), as so redesignated, by striking
+``$9,000,000 for the period of fiscal years 2018 through
+2022'' and inserting ``$31,000,000 for each of fiscal years
+2023 through 2027''.
+TITLE II--FIREARMS
+SEC. 12001. JUVENILE RECORDS.
+(a) Improving NICS Examination of Juvenile Records.--
+(1) In general.--Section 922 of title 18, United States
+Code, is amended--
+(A) in subsection (d)--
+(i) in the matter preceding paragraph (1), by inserting ``,
+including as a juvenile'' after ``such person''; and
+(ii) in paragraph (4), by inserting ``at 16 years of age or
+older'' after ``institution''; and
+(B) in subsection (t)--
+(i) in paragraph (1)--
+(I) in subparagraph (B)(ii)--
+(aa) by inserting ``subject to subparagraph (C),'' before
+``3 business days''; and
+(bb) by striking ``and'' at the end;
+(II) by redesignating subparagraph (C) as subparagraph (D);
+and
+(III) by inserting after subparagraph (B) the following:
+``(C) in the case of a person less than 21 years of age, in
+addition to all other requirements of this chapter--
+``(i) the system provides the licensee with a unique
+identification number;
+``(ii) 3 business days (meaning a day on which State
+offices are open) have elapsed since the licensee contacted
+the system, and the system has not notified the licensee that
+cause exists to further investigate a possibly disqualifying
+juvenile record under subsection (d); or
+``(iii) in the case of such a person with respect to whom
+the system notifies the licensee in accordance with clause
+(ii) that cause exists to further investigate a possibly
+disqualifying juvenile record under subsection (d), 10
+business days (meaning a day on which State offices are open)
+have elapsed since the licensee contacted the system, and the
+system has not notified the licensee that--
+``(I) transferring the firearm to the other person would
+violate subsection (d) of this section; or
+``(II) receipt of a firearm by the other person would
+violate subsection (g) or (n) of this section, or State,
+local, or Tribal law; and'';
+(ii) in paragraph (2)--
+(I) by inserting ``transfer or'' before ``receipt''; and
+(II) by striking ``(g) or (n)'' and inserting ``(d), (g),
+or (n) (as applicable)'';
+(iii) in paragraph (4)--
+(I) by inserting ``transfer of a firearm to or'' before
+``receipt''; and
+(II) by striking ``(g) or (n)'' and inserting ``(d), (g),
+or (n) (as applicable)''; and
+(iv) in paragraph (5)--
+(I) by inserting ``transfer of a firearm to or'' before
+``receipt''; and
+(II) by striking ``(g) or (n)'' and inserting ``(d), (g),
+or (n) (as applicable)''.
+(2) NICS requirements.--Section 103 of the Brady Handgun
+Violence Prevention Act (34 U.S.C. 40901) is amended by
+adding at the end the following:
+``(l) Requirements Relating to Background Checks for
+Persons Under Age 21.--If a licensee contacts the system
+established under this section regarding a proposed transfer
+of a firearm to a person less than 21 years of age in
+accordance with subsection (t) of section 922 of title 18,
+United States Code, the system shall--
+``(1) immediately contact--
+``(A) the criminal history repository or juvenile justice
+information system, as appropriate, of the State in which the
+person resides for the purpose of determining whether the
+person has a possibly disqualifying juvenile record under
+subsection (d) of such section 922;
+``(B) the appropriate State custodian of mental health
+adjudication records in the State in which the person resides
+to determine whether the person has a possibly disqualifying
+juvenile record under subsection (d) of such section 922; and
+``(C) a local law enforcement agency of the jurisdiction in
+which the person resides for the purpose of determining
+whether the person has a possibly disqualifying juvenile
+record under subsection (d) of such section 922;
+``(2) as soon as possible, but in no case more than 3
+business days, after the licensee contacts the system, notify
+the licensee whether cause exists to further investigate a
+possibly disqualifying juvenile record under subsection (d)
+of such section 922; and
+``(3) if there is cause for further investigation, as soon
+as possible, but in no case more than 10 business days, after
+the licensee contacts the system, notify the licensee
+whether--
+``(A) transfer of a firearm to the person would violate
+subsection (d) of such section 922; or
+``(B) receipt of a firearm by the person would violate
+subsection (g) or (n) of such section 922, or State, local,
+or Tribal law.''.
+(3) Sunset of requirements to contact state and local
+entities.--Effective on September 30, 2032, paragraphs (1)(B)
+and (2) are repealed, and the provisions of law amended by
+those paragraphs are restored as if those paragraphs had not
+been enacted.
+(b) Report on Removing Outdated, Expired, or Erroneous
+Records.--
+(1) In general.--On an annual basis for each fiscal year
+through fiscal year 2032, each State and Federal agency
+responsible for the submission of disqualifying records under
+subsection (d), (g), or (n) of section 922 of title 18,
+United States Code, to the national instant criminal
+background check system established under section 103 of the
+Brady Handgun Violence Prevention Act (34 U.S.C. 40901) shall
+submit to the Committee on the Judiciary and the Committee on
+Appropriations of the Senate and the Committee on the
+Judiciary and the Committee on Appropriations of the House of
+Representatives a report detailing the removal from the
+system of records that no longer prohibit an individual from
+lawfully acquiring or possessing a firearm under such
+subsection (d), (g), or (n).
+(2) Contents.--Each report submitted by a State or Federal
+agency under paragraph (1) shall include pertinent
+information on--
+(A) the number of records that the State or Federal agency
+removed from the national instant criminal background check
+system established under section 103 of the Brady Handgun
+Violence Prevention Act (34 U.S.C. 40901) during the
+reporting period;
+(B) why the records were removed; and
+(C) for each record removed, the nature of the
+disqualifying characteristic outlined in subsection (d), (g),
+or (n) of section 922 of title 18, United States Code, that
+caused the State or Federal agency to originally submit the
+record to the system.
+SEC. 12002. DEFINING ``ENGAGED IN THE BUSINESS''.
+Section 921(a) of title 18, United States Code, is
+amended--
+(1) in paragraph (21)(C), by striking ``with the principal
+objective of livelihood and profit'' and inserting ``to
+predominantly earn a profit'';
+(2) by redesignating paragraphs (22) through (29) as
+paragraphs (23) through (30), respectively; and
+(3) by inserting after paragraph (21) the following:
+``(22) The term `to predominantly earn a profit' means that
+the intent underlying the sale or disposition of firearms is
+predominantly one of obtaining pecuniary gain, as opposed to
+other intents, such as improving or liquidating a personal
+firearms collection:  Provided, That proof of profit shall
+not be required as to a person who engages in the regular and
+repetitive purchase and disposition of firearms for criminal
+purposes or terrorism. For purposes of this paragraph, the
+term `terrorism' means activity, directed against United
+States persons, which--
+``(A) is committed by an individual who is not a national
+or permanent resident alien of the United States;
+``(B) involves violent acts or acts dangerous to human life
+which would be a criminal violation if committed within the
+jurisdiction of the United States; and
+``(C) is intended--
+``(i) to intimidate or coerce a civilian population;
+``(ii) to influence the policy of a government by
+intimidation or coercion; or
+``(iii) to affect the conduct of a government by
+assassination or kidnapping.''.
+SEC. 12003. USE OF BYRNE GRANTS FOR IMPLEMENTATION OF STATE
+CRISIS INTERVENTION PROGRAMS.
+(a) Byrne JAG Program.--Section 501(a)(1) of title I of the
+Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C.
+10152(a)(1)) is amended--
+(1) in the matter preceding subparagraph (A), by inserting
+``or civil proceedings'' after ``criminal justice''; and
+(2) by adding at the end the following:
+``(I) Implementation of State crisis intervention court
+proceedings and related programs or initiatives, including
+but not limited to--
+``(i) mental health courts;
+``(ii) drug courts;
+``(iii) veterans courts; and
+``(iv) extreme risk protection order programs, which must
+include, at a minimum--
+``(I) pre-deprivation and post-deprivation due process
+rights that prevent any violation or infringement of the
+Constitution of the United States, including but not limited
+to the Bill of Rights, and the substantive or procedural due
+process rights guaranteed under the Fifth and Fourteenth
+Amendments to the Constitution of the United States, as
+applied to the States, and as interpreted by State courts and
+United States courts (including the Supreme Court of the
+United States). Such programs must include, at the
+appropriate phase to prevent any violation of constitutional
+rights, at minimum, notice, the right to an in-person
+hearing, an unbiased adjudicator, the right to know opposing
+evidence, the right to present evidence, and the right to
+confront adverse witnesses;
+``(II) the right to be represented by counsel at no expense
+to the government;
+[[Page H5899]]
+``(III) pre-deprivation and post-deprivation heightened
+evidentiary standards and proof which mean not less than the
+protections afforded to a similarly situated litigant in
+Federal court or promulgated by the State's evidentiary body,
+and sufficient to ensure the full protections of the
+Constitution of the United States, including but not limited
+to the Bill of Rights, and the substantive and procedural due
+process rights guaranteed under the Fifth and Fourteenth
+Amendments to the Constitution of the United States, as
+applied to the States, and as interpreted by State courts and
+United States courts (including the Supreme Court of the
+United States). The heightened evidentiary standards and
+proof under such programs must, at all appropriate phases to
+prevent any violation of any constitutional right, at
+minimum, prevent reliance upon evidence that is unsworn or
+unaffirmed, irrelevant, based on inadmissible hearsay,
+unreliable, vague, speculative, and lacking a foundation; and
+``(IV) penalties for abuse of the program.''.
+(b) Annual Report on Crisis Intervention Programs.--Section
+501 of title I of the Omnibus Crime Control and Safe Streets
+Act of 1968 (34 U.S.C. 10152) is amended by adding at the end
+the following:
+``(h) Annual Report on Crisis Intervention Programs.--The
+Attorney General shall publish an annual report with respect
+to grants awarded for crisis intervention programs or
+initiatives under subsection (a)(1)(I) that contains--
+``(1) a description of the grants awarded and the crisis
+intervention programs or initiatives funded by the grants,
+broken down by grant recipient;
+``(2) an evaluation of the effectiveness of the crisis
+intervention programs or initiatives in preventing violence
+and suicide;
+``(3) measures that have been taken by each grant recipient
+to safeguard the constitutional rights of an individual
+subject to a crisis intervention program or initiative; and
+``(4) efforts that the Attorney General is making, in
+coordination with the grant recipients, to protect the
+constitutional rights of individuals subject to the crisis
+intervention programs or initiatives.''.
+SEC. 12004. STOP ILLEGAL TRAFFICKING IN FIREARMS ACT.
+(a) Anti-straw Purchasing and Firearms Trafficking
+Amendments.--
+(1) In general.--Chapter 44 of title 18, United States
+Code, is amended by adding at the end the following:
+``Sec. 932. Straw purchasing of firearms
+``(a) Definitions.--For purposes of this section--
+``(1) the term `drug trafficking crime'--
+``(A) has the meaning given that term in section 924(c)(2);
+and
+``(B) includes a felony punishable under the law of a State
+for which the conduct constituting the offense would
+constitute a felony punishable under the Controlled
+Substances Act (21 U.S.C. 801 et seq.), the Controlled
+Substances Import and Export Act (21 U.S.C. 951 et seq.), or
+chapter 705 of title 46;
+``(2) the term `Federal crime of terrorism' has the meaning
+given that term in section 2332b(g)(5); and
+``(3) the term `felony' means any offense under Federal or
+State law punishable by imprisonment for a term exceeding 1
+year.
+``(b) Violation.--It shall be unlawful for any person to
+knowingly purchase, or conspire to purchase, any firearm in
+or otherwise affecting interstate or foreign commerce for, on
+behalf of, or at the request or demand of any other person,
+knowing or having reasonable cause to believe that such other
+person--
+``(1) meets the criteria of 1 or more paragraphs of section
+922(d);
+``(2) intends to use, carry, possess, or sell or otherwise
+dispose of the firearm in furtherance of a felony, a Federal
+crime of terrorism, or a drug trafficking crime; or
+``(3) intends to sell or otherwise dispose of the firearm
+to a person described in paragraph (1) or (2).
+``(c) Penalty.--
+``(1) In general.--Except as provided in paragraph (2), any
+person who violates subsection (b) shall be fined under this
+title, imprisoned for not more than 15 years, or both.
+``(2) Use in felonies, crimes of terrorism, or drug
+trafficking crimes.--If a violation of subsection (b) is
+committed knowing or with reasonable cause to believe that
+any firearm involved will be used to commit a felony, a
+Federal crime of terrorism, or a drug trafficking crime, the
+person shall be sentenced to a term of imprisonment of not
+more than 25 years.
+``Sec. 933. Trafficking in firearms
+``(a) In General.--It shall be unlawful for any person to--
+``(1) ship, transport, transfer, cause to be transported,
+or otherwise dispose of any firearm to another person in or
+otherwise affecting interstate or foreign commerce, if such
+person knows or has reasonable cause to believe that the use,
+carrying, or possession of a firearm by the recipient would
+constitute a felony (as defined in section 932(a));
+``(2) receive from another person any firearm in or
+otherwise affecting interstate or foreign commerce, if the
+recipient knows or has reasonable cause to believe that such
+receipt would constitute a felony; or
+``(3) attempt or conspire to commit the conduct described
+in paragraph (1) or (2).
+``(b) Penalty.--Any person who violates subsection (a)
+shall be fined under this title, imprisoned for not more than
+15 years, or both.
+``Sec. 934. Forfeiture and fines
+``(a) Forfeiture.--
+``(1) In general.--Any person convicted of a violation of
+section 932 or 933 shall forfeit to the United States,
+irrespective of any provision of State law--
+``(A) any property constituting, or derived from, any
+proceeds the person obtained, directly or indirectly, as the
+result of such violation; and
+``(B) any of the person's property used, or intended to be
+used, in any manner or part, to commit, or to facilitate the
+commission of, such violation, except that for any forfeiture
+of any firearm or ammunition pursuant to this section,
+section 924(d) shall apply.
+``(2) Imposition.--The court, in imposing sentence on a
+person convicted of a violation of section 932 or 933, shall
+order, in addition to any other sentence imposed pursuant to
+section 932 or 933, that the person forfeit to the United
+States all property described in paragraph (1).
+``(b) Fines.--A defendant who derives profits or other
+proceeds from an offense under section 932 or 933 may be
+fined not more than the greater of--
+``(1) the fine otherwise authorized by this part; or
+``(2) the amount equal to twice the gross profits or other
+proceeds of the offense under section 932 or 933.''.
+(2) Title iii authorization.--Section 2516(1)(n) of title
+18, United States Code, is amended by striking ``sections 922
+and 924'' and inserting ``section 922, 924, 932, or 933''.
+(3) Racketeering amendment.--Section 1961(1)(B) of title
+18, United States Code, is amended by inserting ``section 932
+(relating to straw purchasing), section 933 (relating to
+trafficking in firearms),'' before ``section 1028''.
+(4) Money laundering amendment.--Section 1956(c)(7)(D) of
+title 18, United States Code, is amended by striking
+``section 924(n)'' and inserting ``section 924(n), 932, or
+933''.
+(5) Directive to sentencing commission.--Pursuant to its
+authority under section 994 of title 28, United States Code,
+and in accordance with this subsection, the United States
+Sentencing Commission shall review and amend its guidelines
+and policy statements to ensure that persons convicted of an
+offense under section 932 or 933 of title 18, United States
+Code, and other offenses applicable to the straw purchases
+and trafficking of firearms are subject to increased
+penalties in comparison to those currently provided by the
+guidelines and policy statements for such straw purchasing
+and trafficking of firearms offenses. In its review, the
+Commission shall consider, in particular, an appropriate
+amendment to reflect the intent of Congress that straw
+purchasers without significant criminal histories receive
+sentences that are sufficient to deter participation in such
+activities and reflect the defendant's role and culpability,
+and any coercion, domestic violence survivor history, or
+other mitigating factors. The Commission shall also review
+and amend its guidelines and policy statements to reflect the
+intent of Congress that a person convicted of an offense
+under section 932 or 933 of title 18, United States Code, who
+is affiliated with a gang, cartel, organized crime ring, or
+other such enterprise should be subject to higher penalties
+than an otherwise unaffiliated individual.
+(6) Technical and conforming amendment.--The table of
+sections for chapter 44 of title 18, United States Code, is
+amended by adding at the end the following:
+``932. Straw purchasing of firearms.
+``933. Trafficking in firearms.
+``934. Forfeiture and fines.''.
+(b) Amendments to Section 922(d).--Section 922(d) of title
+18, United States Code, is amended--
+(1) in paragraph (8), by striking ``or'' at the end;
+(2) in paragraph (9), by striking the period at the end and
+inserting a semicolon; and
+(3) by striking the matter following paragraph (9) and
+inserting the following:
+``(10) intends to sell or otherwise dispose of the firearm
+or ammunition in furtherance of a felony, a Federal crime of
+terrorism, or a drug trafficking offense (as such terms are
+defined in section 932(a)); or
+``(11) intends to sell or otherwise dispose of the firearm
+or ammunition to a person described in any of paragraphs (1)
+through (10).
+This subsection shall not apply with respect to the sale or
+disposition of a firearm or ammunition to a licensed
+importer, licensed manufacturer, licensed dealer, or licensed
+collector who pursuant to subsection (b) of section 925 is
+not precluded from dealing in firearms or ammunition, or to a
+person who has been granted relief from disabilities pursuant
+to subsection (c) of section 925.''.
+(c) Amendments to Section 924(a).--Section 924(a) of title
+18, United States Code, is amended--
+(1) in paragraph (2), by striking ``(d), (g),''; and
+(2) by adding at the end the following:
+``(8) Whoever knowingly violates subsection (d) or (g) of
+section 922 shall be fined under this title, imprisoned for
+not more than 15 years, or both.''.
+(d) Amendments to Section 924(d).--Section 924(d) of title
+18, United States Code, is amended--
+(1) in paragraph (1), by inserting ``932, or 933,'' after
+``section 924,''; and
+(2) in paragraph (3)--
+(A) in subparagraph (E), by striking ``and'' at the end;
+(B) in subparagraph (F), by striking the period at the end
+and inserting ``; and''; and
+(C) by adding at the end the following:
+``(G) any offense under section 932 or 933.''.
+(e) Amendments to Section 924(h).--Section 924 of title 18,
+United States Code, is amended by striking subsection (h) and
+inserting the following:
+``(h) Whoever knowingly receives or transfers a firearm or
+ammunition, or attempts or conspires to do so, knowing or
+having reasonable cause to believe that such firearm or
+ammunition will be used to commit a felony, a Federal
+[[Page H5900]]
+crime of terrorism, or a drug trafficking crime (as such
+terms are defined in section 932(a)), or a crime under the
+Arms Export Control Act (22 U.S.C. 2751 et seq.), the Export
+Control Reform Act of 2018 (50 U.S.C. 4801 et seq.), the
+International Emergency Economic Powers Act (50 U.S.C. 1701
+et seq.), or the Foreign Narcotics Kingpin Designation Act
+(21 U.S.C. 1901 et seq.), shall be fined under this title,
+imprisoned for not more than 15 years, or both.''.
+(f) Amendments to Section 924(k).--Section 924 of title 18,
+United States Code, is amended by striking subsection (k) and
+inserting the following:
+``(k)(1) A person who smuggles or knowingly brings into the
+United States a firearm or ammunition, or attempts or
+conspires to do so, with intent to engage in or to promote
+conduct that--
+``(A) is punishable under the Controlled Substances Import
+and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of
+title 46; or
+``(B) constitutes a felony, a Federal crime of terrorism,
+or a drug trafficking crime (as such terms are defined in
+section 932(a)),
+shall be fined under this title, imprisoned for not more than
+15 years, or both.
+``(2) A person who smuggles or knowingly takes out of the
+United States a firearm or ammunition, or attempts or
+conspires to do so, with intent to engage in or to promote
+conduct that--
+``(A) would be punishable under the Controlled Substances
+Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705
+of title 46, if the conduct had occurred within the United
+States; or
+``(B) would constitute a felony or a Federal crime of
+terrorism (as such terms are defined in section 932(a)) for
+which the person may be prosecuted in a court of the United
+States, if the conduct had occurred within the United States,
+shall be fined under this title, imprisoned for not more than
+15 years, or both.''.
+(g) Prohibition on Firearms or Ammunition Transfers to
+Agents of Drug Cartels.--The Department of Justice, and any
+of its law enforcement coordinate agencies, shall not conduct
+or otherwise facilitate the transfer of an operable firearm
+or ammunition to an individual if any law enforcement officer
+employed by the Department of Justice involved with the
+transfer knows or has reasonable cause to believe that the
+recipient of the firearm or ammunition is an agent of a drug
+cartel, unless law enforcement personnel of the United States
+continuously monitor or control the firearm or ammunition at
+all times.
+(h) FFL Access to Law Enforcement Information.--
+(1) In general.--Section 103(b) of the Brady Handgun
+Violence Prevention Act (34 U.S.C. 40901(b)), is amended--
+(A) by striking ``Not later than'' and inserting the
+following:
+``(1) In general.--Not later than''; and
+(B) by adding at the end the following:
+``(2) Voluntary background checks.--
+``(A) In general.--Not later than 90 days after the date of
+enactment of this paragraph, the Attorney General shall
+promulgate regulations allowing licensees to use the national
+instant criminal background check system established under
+this section for purposes of voluntarily conducting an
+employment background check relating to a current or
+prospective employee. The Attorney General may not collect a
+fee for an employment background check under this
+subparagraph.
+``(B) Notice.--Before conducting an employment background
+check relating to a current or prospective employee under
+subparagraph (A), a licensee shall--
+``(i) provide written notice to the current or prospective
+employee that the licensee intends to conduct the background
+check; and
+``(ii) obtain consent to conduct the background check from
+the current or prospective employee in writing.
+``(C) Exemption.--An employment background check conducted
+by a licensee under subparagraph (A) shall not be governed by
+the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
+``(D) Appeal.--Any individual who is the subject of an
+employment background check conducted by a licensee under
+subparagraph (A) the result of which indicates that the
+individual is prohibited from possessing a firearm or
+ammunition pursuant to subsection (g) or (n) of section 922
+of title 18, United States Code, may appeal the results of
+the background check in the same manner and to the same
+extent as if the individual had been the subject of a
+background check relating to the transfer of a firearm.''.
+(2) Acquisition, preservation, and exchange of
+identification records and information.--Section 534 of title
+28, United States Code, is amended--
+(A) in subsection (a)--
+(i) in paragraph (3), by striking ``and'' at the end;
+(ii) in paragraph (4), by striking the period at the end
+and inserting ``; and''; and
+(iii) by inserting after paragraph (4) the following:
+``(5) provide a person licensed as an importer,
+manufacturer, or dealer of firearms under chapter 44 of title
+18 with information necessary to verify whether firearms
+offered for sale to such licensees have been stolen.''; and
+(B) in subsection (b), by inserting ``, except for
+dissemination authorized under subsection (a)(5) of this
+section'' before the period.
+(3) Regulations.--Not later than 90 days after the date of
+enactment of this Act, and without regard to chapter 5 of
+title 5, United States Code, the Attorney General shall
+promulgate regulations allowing a person licensed as an
+importer, manufacturer, or dealer of firearms under chapter
+44 of title 18, United States Code, to receive access to
+records of stolen firearms maintained by the National Crime
+Information Center operated by the Federal Bureau of
+Investigation, solely for the purpose of voluntarily
+verifying whether firearms offered for sale to such licensees
+have been stolen.
+(4) Statutory construction; evidence.--
+(A) Statutory construction.--Nothing in this subsection or
+the amendments made by this subsection shall be construed--
+(i) to create a cause of action against any person licensed
+as an importer, manufacturer, or dealer of firearms under
+chapter 44 of title 18, United States Code, or any other
+person for any civil liability; or
+(ii) to establish any standard of care.
+(B) Evidence.--Notwithstanding any other provision of law,
+evidence regarding the use or non-use by a person licensed as
+an importer, manufacturer, or dealer of firearms under
+chapter 44 of title 18, United States Code, of the systems,
+information, or records made available under this subsection
+or the amendments made by this subsection shall not be
+admissible as evidence in any proceeding of any court,
+agency, board, or other entity.
+(i) Funding for Existing ATF Anti-straw Purchasing
+Campaign.--There are authorized to be appropriated to the
+Bureau of Alcohol, Tobacco, Firearms, and Explosives
+$1,000,000 for each of fiscal years 2023 through 2027 to
+continue and expand current efforts with existing partners to
+educate persons licensed as an importer, manufacturer, or
+dealer of firearms under chapter 44 of title 18, United
+States Code, and the public to combat illegal straw purchases
+of firearms.
+(j) Local Law Enforcement Reimbursement for Assistance
+Provided to DHS-HSI to Prevent Illegal Trafficking.--Section
+432(d)(2) of the Homeland Security Act of 2002 (6 U.S.C.
+240(d)(2)) is amended by inserting ``salary reimbursement,''
+after ``administrative,''.
+(k) Rule of Construction.--Nothing in this section, or an
+amendment made by this section, shall be construed to allow
+the establishment of a Federal system of registration of
+firearms, firearms owners, or firearms transactions or
+dispositions.
+SEC. 12005. MISDEMEANOR CRIME OF DOMESTIC VIOLENCE.
+(a) Defining ``Dating Relationship''.--Section 921(a) of
+title 18, United States Code, is amended--
+(1) in paragraph (33)(A)(ii)--
+(A) by striking ``or by a person'' and inserting ``by a
+person''; and
+(B) by inserting before the period at the end the
+following: ``, or by a person who has a current or recent
+former dating relationship with the victim''; and
+(2) by adding at the end the following:
+``(37)(A) The term `dating relationship' means a
+relationship between individuals who have or have recently
+had a continuing serious relationship of a romantic or
+intimate nature.
+``(B) Whether a relationship constitutes a dating
+relationship under subparagraph (A) shall be determined based
+on consideration of--
+``(i) the length of the relationship;
+``(ii) the nature of the relationship; and
+``(iii) the frequency and type of interaction between the
+individuals involved in the relationship.
+``(C) A casual acquaintanceship or ordinary fraternization
+in a business or social context does not constitute a dating
+relationship under subparagraph (A).''.
+(b) No Retroactive Application.--The amendments made by
+subsection (a) shall not apply to any conviction of a
+misdemeanor crime of domestic violence entered before the
+date of enactment of this Act.
+(c) Limitations on Convictions of Crimes of Domestic
+Violence With Respect to Dating Relationships.--Section
+921(a)(33) of title 18, United States Code, is amended--
+(1) in subparagraph (A)--
+(A) in the matter preceding clause (i), by striking
+``subparagraph (C)'' and inserting ``subparagraphs (B) and
+(C)''; and
+(B) in clause (ii), by striking ``State,,'' and inserting
+``State,''; and
+(2) by adding at the end the following:
+``(C) A person shall not be considered to have been
+convicted of a misdemeanor crime of domestic violence against
+an individual in a dating relationship for purposes of this
+chapter if the conviction has been expunged or set aside, or
+is an offense for which the person has been pardoned or has
+had firearm rights restored unless the expungement, pardon,
+or restoration of rights expressly provides that the person
+may not ship, transport, possess, or receive firearms:
+Provided, That, in the case of a person who has not more than
+1 conviction of a misdemeanor crime of domestic violence
+against an individual in a dating relationship, and is not
+otherwise prohibited under this chapter, the person shall not
+be disqualified from shipping, transport, possession,
+receipt, or purchase of a firearm under this chapter if 5
+years have elapsed from the later of the judgment of
+conviction or the completion of the person's custodial or
+supervisory sentence, if any, and the person has not
+subsequently been convicted of another such offense, a
+misdemeanor under Federal, State, Tribal, or local law which
+has, as an element, the use or attempted use of physical
+force, or the threatened use of a deadly weapon, or any other
+offense that would disqualify the person under section
+922(g). The national instant criminal background check system
+established under section 103 of the Brady Handgun Violence
+Prevention Act (34 U.S.C. 40901) shall be updated to reflect
+the status of the person. Restoration under this subparagraph
+is not available for a current or former spouse, parent, or
+guardian of the victim, a person with whom the victim shares
+a child in common, a person who is cohabiting with or has
+cohabited with the victim as a spouse, parent, or guardian,
+or a person similarly situated to a spouse, parent, or
+guardian of the victim.''.
+[[Page H5901]]
+TITLE III--OTHER MATTERS
+Subtitle A--Extension of Moratorium
+SEC. 13101. EXTENSION OF MORATORIUM ON IMPLEMENTATION OF RULE
+RELATING TO ELIMINATING THE ANTI-KICKBACK
+STATUTE SAFE HARBOR PROTECTION FOR PRESCRIPTION
+DRUG REBATES.
+Section 90006 of division I of the Infrastructure
+Investment and Jobs Act (42 U.S.C. 1320a-7b note) is amended
+by striking ``January 1, 2026'' and inserting ``January 1,
+2027''.
+Subtitle B--Medicare Improvement Fund
+SEC. 13201. MEDICARE IMPROVEMENT FUND.
+Section 1898(b)(1) of the Social Security Act (42 U.S.C.
+1395iii(b)(1)) is amended by striking ``fiscal year 2021,
+$5,000,000'' and inserting ``fiscal year 2022,
+$7,500,000,000''.
+Subtitle C--Luke and Alex School Safety Act of 2022
+SEC. 13301. SHORT TITLE.
+This subtitle may be cited as the ``Luke and Alex School
+Safety Act of 2022''.
+SEC. 13302. FEDERAL CLEARINGHOUSE ON SCHOOL SAFETY EVIDENCE-
+BASED PRACTICES.
+(a) In General.--Subtitle A of title XXII of the Homeland
+Security Act of 2002 (6 U.S.C. 651 et seq.) is amended by
+adding at the end the following:
+``SEC. 2220D. FEDERAL CLEARINGHOUSE ON SCHOOL SAFETY
+EVIDENCE-BASED PRACTICES.
+``(a) Establishment.--
+``(1) In general.--The Secretary, in coordination with the
+Secretary of Education, the Attorney General, and the
+Secretary of Health and Human Services, shall establish a
+Federal Clearinghouse on School Safety Evidence-based
+Practices (in this section referred to as the
+`Clearinghouse') within the Department.
+``(2) Purpose.--The Clearinghouse shall serve as a Federal
+resource to identify and publish online through
+SchoolSafety.gov, or any successor website, evidence-based
+practices and recommendations to improve school safety for
+use by State and local educational agencies, institutions of
+higher education, State and local law enforcement agencies,
+health professionals, and the general public.
+``(3) Personnel.--
+``(A) Assignments.--The Clearinghouse shall be assigned
+such personnel and resources as the Secretary considers
+appropriate to carry out this section.
+``(B) Detailees.--The Secretary of Education, the Attorney
+General, and the Secretary of Health and Human Services may
+detail personnel to the Clearinghouse.
+``(4) Exemptions.--
+``(A) Paperwork reduction act.--Chapter 35 of title 44,
+United States Code (commonly known as the `Paperwork
+Reduction Act'), shall not apply to any rulemaking or
+information collection required under this section.
+``(B) Federal advisory committee act.--The Federal Advisory
+Committee Act (5 U.S.C. App.) shall not apply for the
+purposes of carrying out this section.
+``(b) Clearinghouse Contents.--
+``(1) Consultation.--In identifying the evidence-based
+practices and recommendations for the Clearinghouse, the
+Secretary shall--
+``(A) consult with appropriate Federal, State, local,
+Tribal, private sector, and nongovernmental organizations,
+including civil rights and disability rights organizations;
+and
+``(B) consult with the Secretary of Education to ensure
+that evidence-based practices published by the Clearinghouse
+are aligned with evidence-based practices to support a
+positive and safe learning environment for all students.
+``(2) Criteria for evidence-based practices and
+recommendations.--The evidence-based practices and
+recommendations of the Clearinghouse shall--
+``(A) include comprehensive evidence-based school safety
+measures;
+``(B) include the evidence or research rationale supporting
+the determination of the Clearinghouse that the evidence-
+based practice or recommendation under subparagraph (A) has
+been shown to have a significant effect on improving the
+health, safety, and welfare of persons in school settings,
+including--
+``(i) relevant research that is evidence-based, as defined
+in section 8101 of the Elementary and Secondary Education Act
+of 1965 (20 U.S.C. 7801), supporting the evidence-based
+practice or recommendation;
+``(ii) findings and data from previous Federal or State
+commissions recommending improvements to the safety posture
+of a school; or
+``(iii) other supportive evidence or findings relied upon
+by the Clearinghouse in determining evidence-based practices
+and recommendations, as determined in consultation with the
+officers described in subsection (a)(3)(B);
+``(C) include information on Federal programs for which
+implementation of each evidence-based practice or
+recommendation is an eligible use for the program;
+``(D) be consistent with Federal civil rights laws,
+including title II of the Americans with Disabilities Act of
+1990 (42 U.S.C. 12131 et seq.), the Rehabilitation Act of
+1973 (29 U.S.C. 701 et seq.), and title VI of the Civil
+Rights Act of 1964 (42 U.S.C. 2000d et seq.); and
+``(E) include options for developmentally appropriate
+recommendations for use in educational settings with respect
+to children's ages and physical, social, sensory, and
+emotionally developmental statuses.
+``(3) Past commission recommendations.--The Clearinghouse
+shall present, as determined in consultation with the
+officers described in subsection (a)(3)(B), Federal, State,
+local, Tribal, private sector, and nongovernmental
+organization issued best practices and recommendations and
+identify any best practice or recommendation of the
+Clearinghouse that was previously issued by any such
+organization or commission.
+``(c) Assistance and Training.--The Secretary may produce
+and publish materials on the Clearinghouse to assist and
+train educational agencies and law enforcement agencies on
+the implementation of the evidence-based practices and
+recommendations.
+``(d) Continuous Improvement.--The Secretary shall--
+``(1) collect for the purpose of continuous improvement of
+the Clearinghouse--
+``(A) Clearinghouse data analytics;
+``(B) user feedback on the implementation of resources,
+evidence-based practices, and recommendations identified by
+the Clearinghouse; and
+``(C) any evaluations conducted on implementation of the
+evidence-based practices and recommendations of the
+Clearinghouse; and
+``(2) in coordination with the Secretary of Education, the
+Secretary of Health and Human Services, and the Attorney
+General--
+``(A) regularly assess and identify Clearinghouse evidence-
+based practices and recommendations for which there are no
+resources available through Federal Government programs for
+implementation; and
+``(B) establish an external advisory board, which shall be
+comprised of appropriate State, local, Tribal, private
+sector, and nongovernmental organizations, including
+organizations representing parents of elementary and
+secondary school students, representative from civil rights
+organizations, representatives of disability rights
+organizations, representatives of educators, representatives
+of law enforcement, and nonprofit school safety and security
+organizations, to--
+``(i) provide feedback on the implementation of evidence-
+based practices and recommendations of the Clearinghouse; and
+``(ii) propose additional recommendations for evidence-
+based practices for inclusion in the Clearinghouse that meet
+the requirements described in subsection (b)(2)(B).
+``(e) Parental Assistance.--The Clearinghouse shall produce
+materials in accessible formats to assist parents and legal
+guardians of students with identifying relevant Clearinghouse
+resources related to supporting the implementation of
+Clearinghouse evidence-based practices and
+recommendations.''.
+(b) Technical Amendments.--The table of contents in section
+1(b) of the Homeland Security Act of 2002 (Public Law 107-
+296; 116 Stat. 2135) is amended by adding at the end the
+following:
+``Sec. 2220D. Federal Clearinghouse on School Safety Evidence-based
+Practices.''.
+SEC. 13303. NOTIFICATION OF CLEARINGHOUSE.
+(a) Notification by the Secretary of Education.--The
+Secretary of Education shall provide written notification of
+the publication of the Federal Clearinghouse on School Safety
+Evidence-based Practices (referred to in this section and
+section 13304 as the ``Clearinghouse''), as required to be
+established under section 2220D of the Homeland Security Act
+of 2002, as added by section 13302 of this Act, to--
+(1) every State and local educational agency; and
+(2) other Department of Education partners in the
+implementation of the evidence-based practices and
+recommendations of the Clearinghouse, as determined
+appropriate by the Secretary of Education.
+(b) Notification by the Secretary of Homeland Security.--
+The Secretary of Homeland Security shall provide written
+notification of the publication of the Clearinghouse, as
+required to be established under section 2220D of the
+Homeland Security Act of 2002, as added by section 13302 of
+this Act, to--
+(1) every State homeland security advisor;
+(2) every State department of homeland security; and
+(3) other Department of Homeland Security partners in the
+implementation of the evidence-based practices and
+recommendations of the Clearinghouse, as determined
+appropriate by the Secretary of Homeland Security.
+(c) Notification by the Secretary of Health and Human
+Services.--The Secretary of Health and Human Services shall
+provide written notification of the publication of the
+Clearinghouse, as required to be established under section
+2220D of the Homeland Security Act of 2002, as added by
+section 13302 of this Act, to--
+(1) every State department of public health; and
+(2) other Department of Health and Human Services partners
+in the implementation of the evidence-based practices and
+recommendations of the Clearinghouse, as determined
+appropriate by the Secretary of Health and Human Services.
+(d) Notification by the Attorney General.--The Attorney
+General shall provide written notification of the publication
+of the Clearinghouse, as required to be established under
+section 2220D of the Homeland Security Act of 2002, as added
+by section 13302 of this Act, to--
+(1) every State department of justice; and
+(2) other Department of Justice partners in the
+implementation of the evidence-based practices and
+recommendations of the Clearinghouse, as determined
+appropriate by the Attorney General.
+SEC. 13304. GRANT PROGRAM REVIEW.
+(a) Federal Grants and Resources.--Not later than 1 year
+after the date of enactment of this Act, the Clearinghouse or
+the external advisory board established under section 2220D
+of the Homeland Security Act of 2002, as added by this
+subtitle, shall--
+(1) review grant programs and identify any grant program
+that may be used to implement evidence-based practices and
+recommendations of the Clearinghouse;
+[[Page H5902]]
+(2) identify any evidence-based practices and
+recommendations of the Clearinghouse for which there is not a
+Federal grant program that may be used for the purposes of
+implementing the evidence-based practice or recommendation as
+applicable to the agency; and
+(3) periodically report any findings under paragraph (2) to
+the appropriate committees of Congress.
+(b) State Grants and Resources.--The Clearinghouse shall,
+to the extent practicable, identify, for each State--
+(1) each agency responsible for school safety in the State,
+or any State that does not have such an agency designated;
+(2) any grant program that may be used for the purposes of
+implementing evidence-based practices and recommendations of
+the Clearinghouse; and
+(3) any resources other than grant programs that may be
+used to assist in implementation of evidence-based practices
+and recommendations of the Clearinghouse.
+SEC. 13305. RULES OF CONSTRUCTION.
+(a) Waiver of Requirements.--Nothing in this subtitle or
+the amendments made by this subtitle shall be construed to
+create, satisfy, or waive any requirement under--
+(1) title II of the Americans With Disabilities Act of 1990
+(42 U.S.C. 12131 et seq.);
+(2) the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.);
+(3) title VI of the Civil Rights Act of 1964 (42 U.S.C.
+2000d et seq.);
+(4) title IX of the Education Amendments of 1972 (20 U.S.C.
+1681 et seq.); or
+(5) the Age Discrimination Act of 1975 (42 U.S.C. 6101 et
+seq.).
+(b) Prohibition on Federally Developed, Mandated, or
+Endorsed Curriculum.--Nothing in this subtitle or the
+amendments made by this subtitle shall be construed to
+authorize any officer or employee of the Federal Government
+to engage in an activity otherwise prohibited under section
+103(b) of the Department of Education Organization Act (20
+U.S.C. 3403(b)).
+Subtitle D--Amendment on ESEA Funding
+SEC. 13401. AMENDMENT ON ESEA FUNDING.
+Section 8526 of the Elementary and Secondary Education Act
+of 1965 (20 U.S.C. 7906) is amended--
+(1) in paragraph (5), by striking ``or'' after the
+semicolon;
+(2) in paragraph (6), by striking the period at the end and
+inserting ``; or''; and
+(3) by adding at the end the following:
+``(7) for the provision to any person of a dangerous
+weapon, as defined in section 930(g)(2) of title 18, United
+States Code, or training in the use of a dangerous weapon.''.
+DIVISION B--APPROPRIATIONS
+The following sums are appropriated, out of any money in
+the Treasury not otherwise appropriated, for the fiscal year
+ending September 30, 2022, and for other purposes, namely:
+TITLE I
+DEPARTMENT OF JUSTICE
+Federal Bureau of Investigation
+salaries and expenses
+For an additional amount for ``Salaries and Expenses'',
+$100,000,000, to remain available until expended, to meet
+additional resource needs of the National Instant Criminal
+Background Check System.
+State and Local Law Enforcement Activities
+Office of Justice Programs
+state and local law enforcement assistance
+For an additional amount for ``State and Local Law
+Enforcement Assistance'', $1,400,000,000, to remain available
+until expended, for grants to be administered by the Office
+of Justice Programs:  Provided, That $280,000,000, to remain
+available until expended, shall be made available for fiscal
+year 2022, $280,000,000, to remain available until expended,
+shall be made available for fiscal year 2023, $280,000,000,
+to remain available until expended, shall be made available
+for fiscal year 2024, $280,000,000, to remain available until
+expended, shall be made available for fiscal year 2025, and
+$280,000,000, to remain available until expended, shall be
+made available for fiscal year 2026:  Provided further, That
+of the funds made available under this heading in this Act,
+the following amounts shall be for the following purposes in
+equal amounts for each of fiscal years 2022 through 2026--
+(1) $750,000,000 shall be awarded pursuant to the formula
+allocation (adjusted in proportion to the relative amounts
+statutorily designated therefor) that was used in the fiscal
+year prior to the year for which funds are provided for the
+Edward Byrne Memorial Justice Assistance Grant program, as
+authorized by subpart 1 of part E of title I of the Omnibus
+Crime Control and Safe Streets Acts of 1968 (Public Law 90-
+351) (the ``1968 Act''), and shall be for the purposes
+described in section 501(a)(1)(I) of title I of the 1968 Act,
+as amended by title II of division A of this Act:  Provided
+further, That the allocation provisions under sections 505(a)
+through (e), the special rules for Puerto Rico under section
+505(g), and section 1001(c) of title I of the 1968 Act shall
+not apply to the amount described in this paragraph;
+(2) $200,000,000 shall be for grants administered by the
+Bureau of Justice Assistance for purposes authorized under
+the STOP School Violence Act of 2018 (title V of division S
+of Public Law 115-141);
+(3) $200,000,000 shall be for grants to the States to
+upgrade criminal and mental health records for the National
+Instant Criminal Background Check System, including grants to
+assist States in providing disqualifying juvenile records
+under subsection (g) or (n) of section 922 of title 18,
+United States Code:  Provided further, That the grants
+described in this paragraph shall be available to State
+criminal record repositories and State court systems; and
+(4) $250,000,000 shall be for a community violence
+intervention and prevention initiative.
+Community Oriented Policing Services
+community oriented policing services programs
+For an additional amount for ``Community Oriented Policing
+Services Programs'', $100,000,000, to remain available until
+expended, for competitive grants to be administered by the
+Community Oriented Policing Services Office for purposes
+authorized under the STOP School Violence Act of 2018 (title
+V of division S of Public Law 115-141):  Provided, That
+$20,000,000, to remain available until expended, shall be
+made available for fiscal year 2022, $20,000,000, to remain
+available until expended, shall be made available for fiscal
+year 2023, $20,000,000, to remain available until expended,
+shall be made available for fiscal year 2024, $20,000,000, to
+remain available until expended, shall be made available for
+fiscal year 2025, and $20,000,000, to remain available until
+expended, shall be made available for fiscal year 2026.
+GENERAL PROVISIONS--THIS TITLE
+Sec. 21001.  None of the funds made available by this title
+may be transferred in this or any future fiscal year pursuant
+to the authority in section 205 of the Commerce, Justice,
+Science, and Related Agencies Appropriations Act, 2022, or
+any successor provision in a subsequently enacted
+appropriations Act.
+Sec. 21002. (a) The Department of Justice shall provide a
+detailed spend plan for the fiscal year 2022 and 2023 funds
+made available in this title to the Committees on
+Appropriations of the House of Representatives and the Senate
+within 45 days after the enactment of this Act and, for each
+of fiscal years 2024 through 2026, as part of the annual
+budget submission of the President under section 1105(a) of
+title 31, United States Code, the Attorney General shall
+submit a detailed spend plan for the funds made available in
+this title in that fiscal year.
+(b) The spend plan described in subsection (a) shall
+include a specific and detailed description of the intended
+administration, review processes, allowable purposes,
+eligibility requirements, and priority areas or weightings
+for the grant programs funded in this title.
+TITLE II
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Substance Abuse and Mental Health Services Administration
+health surveillance and program support
+For an additional amount for ``Health Surveillance and
+Program Support'', $800,000,000, to remain available until
+September 30, 2025:  Provided, That $312,500,000, to remain
+available until December 31, 2022, shall be made available
+for fiscal year 2022, $162,500,000, to remain available until
+September 30, 2023, shall be made available for fiscal year
+2023, $162,500,000, to remain available until September 30,
+2024, shall be made available for fiscal year 2024, and
+$162,500,000, to remain available until September 30, 2025,
+shall be made available for fiscal year 2025:  Provided
+further, That of the funds made available under this heading
+in this Act, the following amounts shall be for the following
+purposes in equal amounts for each of fiscal years 2022
+through 2025, unless stated otherwise--
+(1) $250,000,000 shall be for grants for the community
+mental health services block grant program under subpart I of
+part B of title XIX of the Public Health Service Act;
+(2) $40,000,000 shall be for National Child Traumatic
+Stress Network;
+(3) $240,000,000 shall be for activities and services under
+Project AWARE, of which no less than $28,000,000 shall be for
+activities described in section 7134 of Public Law 115-271;
+(4) $120,000,000 shall be for Mental Health Awareness
+Training; and
+(5) $150,000,000 shall be for the National Suicide
+Prevention Lifeline for fiscal year 2022.
+Office of the Secretary
+public health and social services emergency fund
+(including transfer of funds)
+For an additional amount for ``Public Health and Social
+Services Emergency Fund'', $190,000,000, to remain available
+until September 30, 2026:  Provided, That $82,000,000, to
+remain available until December 31, 2022, shall be made
+available for fiscal year 2022, $32,000,000, to remain
+available until September 30, 2023, shall be made available
+for fiscal year 2023, $32,000,000, to remain available until
+September 30, 2024, shall be made available for fiscal year
+2024, $32,000,000, to remain available until September 30,
+2025, shall be made available for fiscal year 2025, and
+$12,000,000, to remain available until September 30, 2026,
+shall be made available for fiscal year 2026:  Provided
+further, That of the funds made available under this heading
+in this Act, the following amounts shall be for the following
+purposes in equal amounts for each of fiscal years 2022
+through 2026, unless stated otherwise--
+(1) $60,000,000 shall be for primary care training and
+enhancement under section 747 of the Public Health Service
+Act (42 U.S.C. 293k) to provide mental and behavioral health
+care training as part of the training of pediatricians and
+other primary care clinicians who plan to provide care for
+pediatric populations and other vulnerable populations, such
+as victims of abuse or trauma, and individuals with mental
+health or substance use disorders:  Provided further, That
+section 747(c)(2) of the Public Health Service Act (42 U.S.C.
+293k(c)(2)) shall not apply to funding made available in this
+paragraph:  Provided further, That such funds shall be
+transferred to ``Health Resources and Services
+Administration--Health Workforce'';
+[[Page H5903]]
+(2) $80,000,000 shall be for pediatric mental health care
+access under section 330M of the Public Health Service Act
+(42 U.S.C. 254c-19), in equal amounts for each of fiscal
+years 2022 through 2025:  Provided further, That such funds
+shall be transferred to ``Health Resources and Services
+Administration--Maternal and Child Health''; and
+(3) $50,000,000, to remain available until expended, shall
+be for carrying out subsection (b) of section 11003 of
+division A of this Act for fiscal year 2022:  Provided
+further, That such funds shall be transferred to ``Centers
+for Medicare & Medicaid Services--Grants to States for
+Medicaid''.
+DEPARTMENT OF EDUCATION
+School Improvement Programs
+For an additional amount for ``School Improvement
+Programs'', $1,050,000,000, to remain available through
+September 30, 2025, for carrying out subpart 1 of part A of
+title IV and part B of title IV of the Elementary and
+Secondary Education of 1965 (referred to in this Act as
+``ESEA''), in addition to amounts otherwise available for
+such purposes:  Provided, That $50,000,000, to remain
+available through September 30, 2023, shall be for carrying
+out part B of title IV of the ESEA:  Provided further, That
+the Secretary shall increase support for the implementation
+of evidence-based practices intended to increase attendance
+and engagement of students in the middle grades and high
+school in community learning centers using funds in the
+preceding proviso:  Provided further, That $1,000,000,000
+shall be for activities under section 4108 of the ESEA and,
+notwithstanding section 4105 of such Act, States shall make
+awards on a competitive basis to high-need local educational
+agencies as determined by the State.
+Safe Schools and Citizenship Education
+For an additional amount for ``Safe Schools and Citizenship
+Education'', $1,000,000,000, to remain available through
+December 31, 2026:  Provided, That $200,000,000, to remain
+available until March 31, 2023, shall be made available for
+fiscal year 2022, $200,000,000, to remain available until
+December 31, 2023, shall be made available for fiscal year
+2023, $200,000,000, to remain available until December 31,
+2024, shall be made available for fiscal year 2024,
+$200,000,000, to remain available until December 31, 2025,
+shall be made available for fiscal year 2025, and
+$200,000,000, to remain available until December 31, 2026,
+shall be made available for fiscal year 2026:  Provided
+further, That not more than two percent of each of such
+amounts may be used for program administration, technical
+assistance, data collection, and dissemination of best
+practices:  Provided further, That of the funds made
+available under this heading in this Act, the following
+amounts shall be available for the following purposes in
+equal amounts for each of fiscal years 2022 through 2026--
+(1) $500,000,000 shall be for carrying out School Based
+Mental Health Services Grants, in addition to amounts
+otherwise available for such purposes; and
+(2) $500,000,000 shall be for carrying out Mental Health
+Services Professional Demonstration Grants, in addition to
+amounts otherwise available for such purposes.
+GENERAL PROVISIONS--THIS TITLE
+Sec. 22001.  None of the funds made available by this title
+may be transferred in this or any future fiscal year pursuant
+to the authority in section 205 or section 302 of the
+Departments of Labor, Health and Human Services, and
+Education, and Related Agencies Appropriations Act, 2022
+(division H of Public Law 117-103), or any successor
+provision in a subsequently enacted appropriations Act, or
+section 241(a) of the Public Health Service Act.
+Sec. 22002.  Not later than 30 days after the date of
+enactment of this Act, the Secretaries of Health and Human
+Services and Education shall each provide a detailed spend
+plan of anticipated uses of funds made available to their
+respective Departments in this title, including estimated
+personnel and administrative costs, to the Committees on
+Appropriations of the House of Representatives and the
+Senate:  Provided, That such plans shall be updated and
+submitted to such Committees every 60 days until all funds
+are expended:  Provided further, That the spend plans shall
+be accompanied by a listing of each contract obligation
+incurred that exceeds $5,000,000 which has not previously
+been reported, including the amount of each such obligation:
+Provided further, That the Committees on Appropriations of
+the House of Representatives and the Senate shall be briefed
+on obligations quarterly until all funds are expended.
+Sec. 22003.  Not later than 60 days after the date of
+enactment of this Act, the Secretaries of Health and Human
+Services and Education shall each provide biweekly obligation
+reports for funds made available to their respective
+Departments in this title, including anticipated uses of
+funds made available in this title, to the Committees on
+Appropriations of the House of Representatives and the
+Senate:  Provided, That such reports shall be updated and
+submitted biweekly to the Committees until all funds are
+expended.
+TITLE III
+GENERAL PROVISIONS--THIS DIVISION
+Sec. 23001.  Each amount appropriated or made available by
+this division is in addition to amounts otherwise
+appropriated for the fiscal year involved.
+Sec. 23002.  No part of any appropriation contained in this
+division shall remain available for obligation beyond the
+current fiscal year unless expressly so provided herein.
+Sec. 23003.  Unless otherwise provided for by this
+division, the additional amounts appropriated by this
+division to appropriations accounts shall be available under
+the authorities and conditions applicable to such
+appropriations accounts for fiscal year 2022.
+Sec. 23004.  Each amount provided by this division is
+designated by the Congress as being for an emergency
+requirement pursuant to section 4001(a)(1) and section
+4001(b) of S. Con. Res. 14 (117th Congress), the concurrent
+resolution on the budget for fiscal year 2022.
+Sec. 23005. (a) Statutory PAYGO Scorecards.--The budgetary
+effects of each division of this Act shall not be entered on
+either PAYGO scorecard maintained pursuant to section 4(d) of
+the Statutory Pay As-You-Go Act of 2010.
+(b) Senate PAYGO Scorecards.--The budgetary effects of each
+division of this Act shall not be entered on any PAYGO
+scorecard maintained for purposes of section 4106 of H. Con.
+Res. 71 (115th Congress).
+(c) Classification of Budgetary Effects.--Notwithstanding
+Rule 3 of the Budget Scorekeeping Guidelines set forth in the
+joint explanatory statement of the committee of conference
+accompanying Conference Report 105-217 and section 250(c)(7)
+and (c)(8) of the Balanced Budget and Emergency Deficit
+Control Act of 1985, the budgetary effects of this division
+shall be estimated for purposes of section 251 of such Act
+and as appropriations for discretionary accounts for purposes
+of the allocation to the Committee on Appropriations pursuant
+to section 302(a) of the Congressional Budget Act of 1974 and
+section 4001 of S. Con. Res. 14 (117th Congress), the
+concurrent resolution on the budget for fiscal year 2022.
+This division may be cited as the ``Bipartisan Safer
+Communities Supplemental Appropriations Act, 2022''.
+Amend the title so as to read: ``An Act to make our
+communities safer.''.
+Motion to Concur
+Mr. NADLER. Mr. Speaker, I have a motion at the desk.
+The SPEAKER pro tempore. The Clerk will designate the motion.
+The text of the motion is as follows:
+Mr. Nadler moves that the House concur in the Senate
+amendments to the House amendment to S. 2938.
+The SPEAKER pro tempore. Pursuant to House Resolution 1204, the
+motion shall be debatable for 1 hour equally divided and controlled by
+the chair and ranking minority member of the Committee on the Judiciary
+or their designees.
+The gentleman from New York (Mr. Nadler) and the gentleman from Ohio
+(Mr. Jordan) each will control 30 minutes.
+The Chair recognizes the gentleman from New York.
+general leave
+Mr. NADLER. Mr. Speaker, I ask unanimous consent that all Members may
+have 5 legislative days in which to revise and extend their remarks and
+insert extraneous material on S. 2938.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from New York?
+There was no objection.
+Mr. NADLER. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I would be remiss if I did not comment on the decision
+of the Supreme Court, just minutes ago, to revoke the constitutional
+right to abortion, a right that millions of Americans have relied upon
+for half a century.
+Worse, Justice Thomas has indicated that this is merely the beginning
+of a radical, rightwing effort to roll back other rights, including the
+right to contraception, the right to marry whomever we choose, and the
+fundamental right to privacy.
+We should observe that the same Justices telling us today that
+questions about reproductive rights must be left to the States, told us
+just yesterday that the States cannot be trusted to regulate modern
+firearms, weapons that were never dreamed of by the Framers of the
+Second Amendment. History will prove these activists wrong on both
+counts.
+But today, Mr. Speaker, we take a historic first step toward ending
+the epidemic of gun violence in this Nation, the only developed Nation
+with this problem.
+We come to this moment after the tragic loss of so many innocent
+lives: 10 African Americans in Buffalo, targeted because of their race;
+19 young students and 2 teachers in Uvalde, just a few days short of
+their summer vacations; scores more lost in other mass shootings too
+numerous to mention; and over 100 more Americans killed every day in
+gun violence that never makes the headlines.
+No piece of legislation can ever bring these lives back. No
+legislation can make their families or their communities whole. But we
+can act to keep others from facing the same trauma they have endured.
+A few weeks ago, I was proud to bring forth the Protecting Our Kids
+Act,
+[[Page H5904]]
+which took a bipartisan and comprehensive approach to ending gun
+violence. I am pleased that the Senate incorporated portions of that
+bill into their own legislation.
+I wish there was more. I wish we could say we were doing everything
+we could to prevent another parent from losing their child to gun
+violence, but I am proud to be making an important start today.
+This cannot be the last step, but we also cannot let another day go
+by without taking action to make our communities safer and to keep even
+one more family whole.
+Recently, I have turned to a particular teaching in the Talmud:
+Whoever takes one life, it is as if he kills the entire
+world; and whoever saves one life, it is as if he saves the
+entire world.
+This legislation includes provisions that will save many lives. Like
+the Protecting Our Kids Act, it includes funding to implement extreme
+risk protection laws and the prohibition on straw purchasing. It also
+strengthens background checks for those under 21, makes more sellers
+responsible for conducting background checks, takes steps to address
+the boyfriend loophole, and provides significant funding for programs
+that will make our communities safer.
+Today, we will send legislation to the President's desk, for the
+first time in decades, that will make progress toward ending the
+scourge of gun violence.
+Mr. Speaker, I urge my colleagues to join me in supporting the
+Bipartisan Safer Communities Act, and I reserve the balance of my time.
+{time}  1130
+Mr. JORDAN. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, let me first say, God bless the United States Supreme
+Court. And God bless President Trump for the people he selected for our
+highest court. Today's decision is a win for the Constitution and a win
+for the sanctity of human life. June 24, 2022, a date that will be
+remembered as a win for the sacredness of human life.
+Now this bill. Mr. Speaker, the rights spelled out in the First
+Amendment and protected by the Second Amendment are why the United
+States is different than every other country. It is why we are special.
+It is why we are the greatest Nation in history.
+For 18 months, the Democrats have attacked our First Amendment
+liberties. Today, they are coming after our Second Amendment liberties.
+And who knows what it will be tomorrow. I can only imagine.
+My guess is, in light of the decision yesterday from Justice Thomas,
+the decision today from the Court, my guess is they are going to look
+to pack the Court. The Democrat chair of the Committee on the Judiciary
+has already introduced legislation to pack the Court.
+It might be amnesty for the 2 million illegal immigrants who have
+come into our country in the Biden administration. They told us they
+want to end the electoral college and the filibuster--and who knows
+what it will be tomorrow. But today, they are coming after law-abiding
+American citizens' Second Amendment liberties.
+Understand what this legislation does. This legislation tells States:
+Someone who doesn't like you can report you to law enforcement or to a
+judge. There will be a hearing, a hearing where you can't be at, your
+lawyer can't be at, you can't confront your accuser. You didn't commit
+any crime, but they can take your property. They can take your guns.
+They can take away your Second Amendment rights. And then you have to
+petition to have a subsequent hearing where you get them back. That is
+what this legislation does.
+And understand this, and this is so important. This is not being done
+in a vacuum. Understand what we have seen from the left and how they
+have weaponized a government against their political enemies.
+Mr. Speaker, 12 years ago, it was the IRS targeting conservatives.
+Mr. Speaker, 6 years ago, it was the FBI spying on President Trump's
+campaign.
+More recently, it was the Department of Justice using
+counterterrorism measures against moms and dads.
+Just a few weeks ago, the Department of Homeland Security set up the
+Disinformation Governance Board; going to chill everyone's speech.
+Today, they are coming after your Second Amendment liberties.
+Here is the good news: Yesterday, the Supreme Court got it right.
+They got it right when it came to the Second Amendment. We should
+celebrate that. I hope that this bill doesn't pass. It seems like it is
+going to, but I hope it doesn't.
+Mr. Speaker, I urge a ``no'' vote, and I reserve the balance of my
+time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the gentlewoman from
+California (Ms. Pelosi), the distinguished Speaker of the House.
+Ms. PELOSI. Mr. Speaker, I thank the gentleman for yielding and for
+his extraordinary leadership in bringing this very important
+legislation to the floor. I commend the chairman, as well as Mr.   Mike
+Thompson, the chair of our Gun Violence Prevention Task Force, and so
+many others who have participated in so many elements of this
+legislation.
+Mr. Speaker, I rise in support of the bipartisan Safer Communities
+Act, a strong step forward to combat America's epidemic of gun violence
+and to protect our precious children.
+As lawmakers, we share a sacred responsibility to keep our kids safe
+from harm. But according to new data from the CDC, guns are the number
+one killer of children in America; more than car accidents or cancer.
+Our hearts remain shattered by the rampage at Robb Elementary School in
+Uvalde, as they do from the massacre at Sandy Hook, and countless other
+communities across the Nation.
+Indeed, we know these schools could have been in any one of our
+districts--and have been in some, those families could have been any
+one of our neighbors--and have been, and those children could have been
+our own.
+All of us who have met with survivors in the wake of the tragedies
+have heard their message loud and clear. We must do something.
+Today, in their honor, we heed their powerful cry, sending a major
+gun violence prevention legislation to President Biden's desk for
+signature. We send it to the President for his signature, with
+gratitude for his leadership on this important issue. He was the author
+of the Brady Law in 1994 and has been a champion ever since.
+This legislation, the bipartisan Safer Communities Act, includes
+several strong steps to save lives not only from horrific mass
+shootings, but also from the daily massacre of gun crime, suicide, and
+tragic accidents.
+Included in this package are two major provisions which we have
+championed here in the House:
+First, this bill includes significant investments to help States
+establish Extreme Risk Protection Order Laws, otherwise known as red
+flag laws.
+Thanks to the leadership of Representative Lucy McBath, who has been
+our inspirational leader on this subject in our caucus and this
+Congress, and Salud Carbajal, these provisions will keep deadly weapons
+away from those who pose a threat to themselves and to others.
+Secondly, this bill takes strong action to combat straw purchases, a
+cause Congresswoman Robin Kelly spearheaded in our Chamber. Although we
+hear about the notorious mass murders every day on our streets and in
+our country, murders take place. Doing so will make it illegal to buy
+guns on behalf of those who cannot legally purchase.
+If I can pass the test, I buy the gun. And then I sell it to you
+because you can't pass the test.
+Straw purchase. Very dangerous. This bill addresses that. That is a
+giant step.
+This package also includes additional initiatives that will help
+reduce the danger of gun violence across our country. We are moving
+toward closing the boyfriend loophole: a victory to help protect
+survivors of domestic violence and to stop known abusers from acquiring
+a gun. This has long been a priority.
+We are strengthening background checks for potential buyers under 21,
+which would have applied to the 18-year-old gunman at Uvalde. And we
+are making enormous investments in mental health programs, school
+safety programs, and community-based violence prevention initiatives.
+I mention all these, Mr. Speaker, because, of course, I have to say
+that this
+[[Page H5905]]
+bill doesn't do everything we would like to do. We need to do more on
+background checks. There is some other language that we would like to
+do in terms of background checks not only on guns, but perhaps on high-
+capacity armament.
+I say to my colleagues, as I frequently do--but it applies here now
+more than ever: Let us not judge this legislation for what is not in it
+but respect it for what it does. And what it does is save lives. And we
+are very, very proud of that.
+Again, I thank Chairman Nadler and Gun Violence Protection Task Force
+chairman,   Mike Thompson, for their determined leadership in bringing
+this legislation to the floor. This package represents the most
+significant action to prevent gun violence in nearly three decades and
+is a necessary step to honor our solemn duty as lawmakers to protect
+and defend the American people.
+Importantly, the bipartisan Safer Communities Act has earned strong
+support from gun owners, gun survivors, and law enforcement alike.
+Gun Owners for Responsible Ownership endorse our bill saying: ``We
+write today as responsible gun owners; but above all else, we are proud
+parents and grandparents of toddlers, students, and young teachers. We
+want them to be safe.''
+Everytown for Gun Safety wrote that this ``commonsense legislation
+addresses every form of gun violence.''
+And the Fraternal Order of Police and the International Association
+of Chiefs of Police applauded our bipartisan agreement, calling it a
+giant step forward and one that will save lives. I repeat: A giant step
+forward and one that will save lives. The statements are from the
+Fraternal Order of Police and the International Association of Chiefs
+of Police.
+Indeed, keeping our children safe is a unifying issue for our
+country, and it must be a unifying issue in this Congress.
+Yesterday, our Nation watched in horror as a radical partisan
+supermajority of the Supreme Court ruled to flood America's streets
+with even more deadly weapons.
+It is unconscionable that as America reaches a fever pitch of gun
+violence, the Court has chosen to create a new right to bring guns into
+public spaces, while hindering the ability of States to stop the
+bloodshed. In doing so, the GOP supermajority, Trump-McConnell Court,
+is implicitly endorsing the tragedy of mass shootings and daily gun
+deaths plaguing our Nation.
+Mr. Speaker, with this bipartisan package, we take the first steps to
+fight back on behalf of the American people who desperately want new
+measures to keep communities safe in the high numbers in the polling.
+Our Democratic House majority has again and again passed landmark
+legislation that would combat the scourge of gun violence, and we will
+never give up in our fight to save lives
+Mr. Speaker, our fight to prevent gun violence is of, by, and for the
+children.
+Of the children, because they are suffering. It is heartbreaking that
+in America more children die from guns than any other cause.
+By the children, because they are leading. We see the children
+marching in the streets, testifying before Congress, demanding action.
+And always for the children, building a future where every child can
+reach his or her fulfillment, free from the fear of gun violence.
+To the Members who lack the courage to join in this work--to those
+who lack the courage to join in this work--I say your political
+survival is insignificant compared to the survival of our children.
+Today, we will prevail for the children.
+Mr. Speaker, I urge a strong bipartisan ``aye'' vote for this
+lifesaving legislation.
+Mr. JORDAN. Mr. Speaker, I will tell you what saves lives. The
+decision we got from the Supreme Court today saves lives. This bill
+takes rights away from law-abiding citizens, their Second Amendment
+liberties. That is the key distinction.
+Mr. Speaker, I yield 2 minutes to my friend, the gentleman from
+Louisiana (Mr. Johnson).
+Mr. JOHNSON of Louisiana. Mr. Speaker, Speaker Pelosi just lectured
+us. She said guns are the number one killer of children in America.
+That is not true. Abortion violence is the number one killer of
+children in America, until today. There is no right to abortion in the
+Constitution. And, thankfully, the Supreme Court finally said that
+decisively. Thanks be to God.
+There is a right, however, a crystal-clear right in the Constitution
+to keep and bear arms. But here we are today. Congress is moving full
+steam ahead to restrict the right to self-defense for law-abiding gun
+owners and the right to due process for all Americans.
+This legislation is the wrong approach, and we ought to oppose it.
+In our Judiciary markup several days ago, some of our Democrat
+colleagues here on the floor today openly said they don't care about
+the Constitution. They don't care about its protections. They want to
+overlook that. This bill does that. It is the perfect example of
+Members of Congress simply ignoring the Constitution.
+President Biden and his administration are already disobeying laws
+that we have on the books to revoke firearm dealer licenses over simple
+clerical errors. This legislation is going to make that worse. This is
+not going to help anything. It is going to lead to more errors, more
+false flags, more backlogs in the NICS system. There is nothing in this
+bill to fix that. There is nothing in this bill to increase school
+safety.
+Mr. Speaker, we want real solutions. We think that we ought to harden
+the schools; real, physical improvements to help protect children, but
+that is not here. They didn't have time for that.
+Two weeks ago, I had a very moving conversation with Pastor YJ
+Jimenez. He is a pastor on the ground ministering to the people of the
+Uvalde community who have suffered such an unspeakable loss. He said
+something that was really clear, and I think it is echoed throughout
+America. People paid a lot of attention to it.
+He said, You know what, we need to address the root causes of all
+this bloodshed. He said America's problem is not guns. America's
+problem is a heart problem. And he is exactly right.
+Today we are seeing the results of decades of decline in the
+secularization of American society and the open assault on our
+institutions: family, religion, morality, the breakdown of law and
+order.
+We see the results of all this on young people--in clinical settings,
+in schools, and everywhere else.
+We want to do things that matter.
+It is not more gun control.
+It is not more Federal laws.
+It is not more intrusive government.
+We need to address the root causes.
+{time}  1145
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from Texas (Ms. Jackson Lee), a member of the Judiciary
+Committee.
+Ms. JACKSON LEE. Mr. Speaker, I stand here in the name of Mr. Garza,
+whose daughter in Uvalde bled out, Buffalo, Tulsa, Parkland, Santa Fe,
+and Sandy Hook. I stand here with the recognition of my chairman, Mr.
+Nadler, and the years and decades--mine, over two decades--of fighting
+for gun laws.
+As I hold up the number of gun laws that I introduced over 27 years--
+pages and pages--I can say to the Senate that in this bill, the
+Bipartisan Safer Communities Act, they have built on our legislation.
+My bill, the Mental Health Access and Gun Violence Prevention Act,
+which will increase access to mental health treatment, is in this bill.
+The Violence Against Women Act, the boyfriend loophole, is in this
+bill. The Protecting Our Kids Act and the issues dealing with raising
+the age, bump stocks, and ghost guns are yet to be done, but we can
+stand on this because it was bipartisan.
+Mr. Speaker, I include in the Record a list of gun violence
+prevention legislation.
+Congresswoman Sheila Jackson Lee of Texas Gun Violence Prevention
+Legislation
+117th Congress
+H.R. 127--Sabika Sheikh Firearm Licensing and Registration
+Act
+H.R. 2585, ``Juvenile Accountability Block Grant
+Reauthorization and the Bullying Prevention and Intervention
+Act''
+H.R. 121--Grin Violence Reduction Resources Act of 2021
+H.R. 125, Gun Safety: Not Sorry Act of 2021
+H.R. 130, Kimberly Vaughan Firearm Safe Storage Act
+H.R. 135, Accidental Firearms Transfers Reporting Act of
+2021
+[[Page H5906]]
+H.R. 137, Mental Health Access and Gun Violence Prevention
+Act of 2021
+H.R. 133, David Ray Hate Crimes Prevention Act of 2021
+116th Congress
+H.R. 49, Santa Fe High School Victims Act
+H.R. 4080, Kimberly Vaughan Firearm Safe Storage Act
+H.R. 4081, Sabika Sheikh Firearm Licensing and Registration
+Act
+H.R. 4082, Accidental Firearms Transfers Reporting Act of
+2019
+115th Congress
+H.R. 57, Accidental Firearms Transfers Reporting Act of
+2017
+H.R. 62, Gun Violence Reduction Resources Act of 2017
+H.R. 1982, Mental Health Access and Gun Violence Prevention
+Act of 2017
+H.R. 1983, David Ray Hate Crimes Prevention Act of 2017
+H.R. 4268, Gun Safety: Not Sorry Act of 2017
+H.R. 5088, No More Atrocities with Guns Act or the No MAGA
+Act
+H.R. 7016, Protect Lives and Stop the Imminent Chaos Act of
+2019--the PLASTIC Act
+114th Congress
+H.R. 4315--Mental Health Access and Gun Violence Prevention
+Act
+H.R. 4316--Gun Violence Reduction Resources Act
+H.R. 47--Gun Storage and Safety Devices for All Firearms
+Act
+H.R. 3125--Accidental Firearms Transfers Reporting Act
+H.R. 5470--Stopping Mass Killings by Violent Terrorists Act
+H. Amdt. 48 to H.R. 5 Student Success Act
+H.R. 68--Tiffany Joslyn Juvenile Accountability Block Grant
+Program Reauthorization Act of 2016
+113th Congress
+H.R. 65, Child Gun Safety and Gun Access Prevention Act of
+2013
+H.R. 2665, To ensure secure gun storage and gun safety
+devices
+H.R. 2585--Juvenile Accountability Block Grant
+Reauthorization and the Bullying Prevention and Intervention
+Act of 2013
+112th Congress
+H.R. 4315, Mental Health Access and Gun Violence Prevention
+Act of 2016
+H.R. 4316, Gun Violence Reduction Resources Act of 2016
+H.R. 65, Child Gun Safety and Gun Access Prevention Act of
+2013
+H.R. 2665, To ensure secure gun storage and gun safety
+devices.
+H.R. 227--Child Gun Safety and Gun Access Prevention Act of
+2011
+H.R. 83--Bullying Prevention and Intervention Act of 2011
+H.R. 5770--Juvenile Accountability Block Grant
+Reauthorization and the Bullying Prevention and Intervention
+Act
+H.R. 6019--Juvenile Accountability Block Grant
+Reauthorization and the Bullying Prevention and Intervention
+Act of 2012
+111th Congress
+H.R. 257--Child Gun Safety and Gun Access Prevention Act of
+2009
+H.R. 6542--Bullying Prevention and Intervention Act of 2010
+110th Congress
+H.R. 256--Child Gun Safety and Gun Access Prevention Act of
+2007
+109th Congress
+H.R. 246--Child Gun Safety and Gun Access Prevention Act of
+2005
+108th Congress
+H.R. 76--Child Gun Safety and Gun Access Prevention Act of
+2003
+107th Congress
+H.R 70--Child Gun Safety and Gun Access Prevention Act of
+2001
+H. Amdt. 187--107th Congress
+106th Congress
+H.R. 3987--Child Gun Safety and Gun Access Prevention Act
+of 2000
+Ms. JACKSON LEE. Mr. Speaker, people are dying every day, and it is
+obvious that through the legislation--The New York Times said here are
+the shootings, pages and pages, that could have been stopped by
+stricter gun laws.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. NADLER. Mr. Speaker, I yield an additional 30 seconds to the
+gentlewoman from Texas.
+Ms. JACKSON LEE. Mr. Speaker, this article has the mass shootings
+where stricter gun laws might have made a difference.
+We understand that this legislation is only the concrete beginning.
+My friends are going to attack that, but the American people are 70
+percent for banning various weapons that are assault weapons. They are
+70 percent and more for extreme risk protection. They are 70 percent
+and more for understanding that we need an extended time for purchase
+of these guns. And, yes, they are supporters of the Kimberly Vaughn
+Safe Storage Act, which is a storage bill that says that we need to get
+people to prevent suicide and to store their guns.
+Mr. Speaker, I rise in support of S. 2938, the ``Bipartisan Safer
+Communities Act.''
+America is experiencing a crisis of gun violence.
+In America, gun violence threatens our sense of safety and security
+everywhere we go: where we shop for groceries; where we worship with
+our families; and where we enjoy movies, dancing, outdoor festivals,
+and concerts with friends.
+I and many other members of Congress have introduced commonsense gun
+safety legislation to make communities safer--over and over, year after
+year, Congress after Congress. Until now, we have been unable to pass
+any meaningful legislation.
+After more than twenty years of drafting and repeatedly introducing
+gun safety legislation, like my bill, the Mental Health Access and Gun
+Violence Prevention Act to increase access to mental health treatment
+and promote reporting of mental health information to the background
+check system, I am encouraged by the steps we are taking today but wish
+we did not have to lose so many lives to reach this point.
+For years, I fought to close the boyfriend loophole--most recently in
+the Violence Against Women Act Reauthorization of 2021, which passed
+the House last year.
+Finally, through the Bipartisan Safer Communities Act, we will ensure
+abusive dating partners convicted of misdemeanor domestic violence
+offenses are prohibited from purchasing or possessing firearms for at
+least five years.
+Two weeks ago, this body proved to the American people that a
+compromise could be reached on sensible gun safety measures when we
+passed the ``Protecting Our Kids Act.'' That legislation, which I
+introduced along with Chairman Jerry Nadler and Representative Mike
+Thompson, encompassed decades of our hard work and proved to be the
+catalyst for the bill we are considering today.
+Like the Protecting Our Kids Act, this bill would establish new
+federal offenses that specifically prohibit gun trafficking and straw
+purchasing to thwart guns moving through the iron pipeline, keeping
+them off the street and out of the hands of criminals.
+While our bill would have raised the age at which a person could
+purchase a semiautomatic rifle from 18 to 21--a concept I proposed in
+my No More Atrocities with Guns Act of 2018--this bill would enhance
+the background check process and investigative period for purchases of
+rifles by anyone under the age of 21 and further strengthen the
+background check process by clarifying who is engaged in the business
+of selling firearms and, as a result, is required to run background
+checks.
+We also passed the Federal Extreme Risk Protection Order Act of 2021
+recently that would give loved ones the ability to seek an extreme risk
+protection order before our federal court when an individual presents a
+serious threat to themselves or others by use of a firearm and provide
+funding to enhance, promote, and implement similar laws at the state-
+level, which Safer Communities will do.
+With the passage of this bill, we make a significant step forward in
+the fight to end gun violence. But we must keep working to find
+reasonable solutions to other problems that contribute to gun violence
+in this country that are not addressed in this bill.
+We must ban deadly bump stocks, ghost guns, and high-capacity
+magazines as we endeavored to do in the Protecting Our Kids Act. We
+must ban assault weapons.
+We must institute a seven-day waiting period for purchases of the
+deadliest of instrumentalities such as silencers and body armor, which
+I have pressed for in my own bill, the Gun Safety: Not Sorry Act of
+2017 and 2021, and assault weapons if we do not ban them.
+We must pass legislation that encourages safe firearm storage
+practices, like my bill the Kimberly Vaughan Firearm Safe Storage Act
+that was included in the Protecting Our Kids Act to expand the
+requirement that safe storage devices be made available at the point of
+sale, which will train new gun owners on the value of safe storage and
+remind seasoned gun owners that safe storage goes hand-in-hand with
+responsible gun ownership.
+23 years after Columbine when I first began introducing gun safety
+legislation, and hundreds of thousands of gun deaths later, we continue
+to mourn the unnecessary loss of life. Enough is enough.
+While this bill may not solve all the problems that contribute to the
+epidemic of gun violence, we must pass it without delay. Far too many
+lives have been lost for us to wait any longer.
+I support this meaningful, bipartisan legislation and urge my
+colleagues to do the same. Let us save lives and protect the children
+of America--together.
+The Bipartisan Safer Communities Act would inject $4.5 billion in
+critical funding into various state agencies and programs through the
+Department of Justice, Department of Health and Human Services, and
+Department of Education to:
+Expand community mental health services for children and families,
+and fund school-based mental health services and supports;
+[[Page H5907]]
+Implement evidence-based school violence prevention efforts; and
+Encourage and support evidence-based, community violence intervention
+programs and crisis intervention services, including the implementation
+of vital Red Flag Laws--which have been proven to reduce the firearm
+suicide rates in states that have already enacted such laws.
+In America, gun violence is the leading cause of death among
+children. In America, an average of 70 women are shot and killed by an
+intimate partner every month. In America, mass shootings occur
+increasingly each year--and every day, 316 people on average are shot.
+In America, 45,979 deaths were by suicide in 2020--more than half of
+those deaths were by firearm.
+Each day parents send their children off to school, from elementary
+age to college, praying now more than ever that they will return to
+them safe and sound.
+19 elementary school-aged children and two teachers in Uvalde, Texas;
+10 people going about their daily lives at a market in Buffalo, New
+York, all killed by 18-year-olds wielding AR-15-style weapons of war.
+And 4 people murdered at a hospital in Tulsa, Oklahoma with another
+assault weapon purchased only hours earlier.
+In my home state of Texas, the El Paso Walmart shooting--22 dead;
+Sutherland Springs--26 dead; Santa Fe High School--10 dead; Fort Hood
+in 2009--13 dead; and the Dallas shooting of police--5 officers dead
+and nine others injured.
+Mr. JORDAN. Mr. Speaker, I yield 2 minutes to the gentleman from
+Arizona (Mr. Biggs).
+Mr. BIGGS. Mr. Speaker, I thank God for the decision that stops the
+heinous practice that has taken more than 60 million lives in this
+country over the last 50 years. I thank God that those voices that have
+been lost, we will not see that anymore. I hope and pray that that is
+the case. I thank them for that.
+There is no right to take that life, but there is a right to defend
+yourself. We have a God-given, constitutionally protected right to
+protect ourselves, and the Supreme Court reaffirmed that yesterday.
+This bill infringes on the constitutionally protected rights of law-
+abiding Americans, and it provides funding for States to infringe on
+Americans' Second Amendment rights and violate their due process
+rights.
+It treats 18-, 19-, and 20-year-old Americans as second-class
+citizens. The Ninth Circuit recently held that the Second Amendment
+applies to 18-, 19-, and 20-year-old Americans just like it does to
+Americans over the age of 21.
+This bill criminalizes routine gun transactions between law-abiding
+Americans.
+Justice Alito, in his concurrence, highlighted the flawed logic used
+by the supporters of this bill. Alito said: ``Does the dissent think
+that laws like New York's prevent or deter such atrocities? Will a
+person bent on carrying out a mass shooting be stopped if he knows that
+it is illegal to carry a handgun outside the home? And how does the
+dissent account for the fact that one of the mass shootings near the
+top of its list took place in Buffalo? The New York law at issue in
+this case obviously did not stop that perpetrator.''
+The essence of this is gun controls do not stop criminals because
+criminals have no regard for the law. That is the definition of a
+criminal.
+This bill will restrict law-abiding Americans' ability to purchase
+firearms and protect themselves and their families. It violates a basic
+God-given right.
+Mr. Speaker, I oppose this bill and urge my colleagues to do the
+same.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from California (Ms. Lofgren), a member of the Judiciary
+Committee.
+Ms. LOFGREN. Mr. Speaker, I rise in support of this bill.
+My State of California has several provisions in law that are
+included in this bill, but it doesn't work as a patchwork because
+individuals can cross State lines and endanger people.
+Everything in this bill is consistent with the Second Amendment. That
+is why it got such bipartisan support in the Senate.
+In the last 3 years alone, my district has had two cities added to
+the long list of communities that have experienced mass shootings.
+America doesn't have to be the only country in the world where mass
+shootings are a near-daily occurrence. There is broad support in the
+country for reform that will prevent this epidemic of gun violence.
+This bill doesn't do everything that I think should happen, but it
+does something. It will make people safer. I strongly urge its support.
+Mr. JORDAN. Mr. Speaker, I yield 2 minutes to the gentleman from
+California (Mr. McClintock).
+Mr. McCLINTOCK. Mr. Speaker, instead of treating law-abiding citizens
+as if they were criminals, maybe we should start treating criminals as
+if they were criminals. Stop the plea bargains, put gun predators
+behind bars until they are old and gray, and execute the murderers.
+Those measures worked until a generation of soft-on-crime judges,
+woke district attorneys, and politically correct police commissioners
+made a mockery of our laws.
+If someone is dangerously mentally ill, then, of course, they should
+not have access to firearms. They shouldn't have access to any kind of
+weapons. We once confined them so we could treat them and prevent them
+from doing harm during the course of their illness. We had a commitment
+process that respected due process. They could come before a judge to
+challenge the findings in open court, submit evidence on their behalf,
+and face their accuser, but not under the red flag laws this bill
+promotes.
+An anonymous accuser can trigger a secret proceeding against you that
+you don't even know is happening until the police bang on your door in
+the dead of night, ransack your house, and strip you of your right of
+self-defense. The burden then falls on you to try to restore it.
+This bill also targets young adults for special restrictions. We
+trust them to vote, to start families, to enter into legally binding
+agreements, but we don't trust them with firearms because of what some
+criminal or madman their age did?
+Just laws hold people accountable for their own actions; unjust laws
+hold them accountable for other people's actions. This is an unjust
+law.
+These atrocities will go on until we get the criminals and madmen off
+our streets. How many more tragedies do we need to go through before
+the Congress understands this self-evident truth?
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the gentleman from
+Maryland (Mr. Hoyer), the distinguished majority leader of the House.
+Mr. HOYER. Mr. Speaker, for years, the gun violence epidemic in our
+country has forced us to cope with immeasurable grief and loss.
+Throughout America, many communities have begun to erect memorials to
+remember those they have lost through gun violence. These monuments are
+not much different than those right outside The National Mall that
+honor Americans killed in war.
+Just last week, people in San Bernardino, California, unveiled the
+Curtain of Courage made of steel and bronze to pay tribute to the 16
+people who were murdered at a mass shooting there in 2015.
+In Newtown, Connecticut, a planned memorial will feature a spiral of
+granite inscribed with the names of 20 children and 6 teachers killed
+at Sandy Hook Elementary in 2012.
+Memorials are being built or planned, as well, to honor those who
+died in shootings in Charleston, Orlando, Las Vegas, El Paso, Buffalo,
+Uvalde, and many others.
+The best way to honor those we have lost to gun violence, however, is
+not with bronze, steel, or granite. Rather, it is with meaningful
+action to prevent others from suffering the same fate.
+The Bipartisan Safer Communities Act, which was overwhelmingly passed
+by the United States Senate, and which I am pleased to bring to the
+floor today, is a step in the right direction to take action.
+This legislation includes measures that will reduce the threat of gun
+violence and save lives across the country. It will help implement red
+flag laws that empower law enforcement officers to keep guns out of the
+hands of people at risk of using them to harm themselves or others.
+Closing the so-called boyfriend loophole in this bill will prevent
+people convicted of domestic abuse in a dating relationship from
+possessing deadly firearms. If they have displayed violence, they ought
+to be prohibited from getting weapons
+[[Page H5908]]
+that will make mass violence more probable and possible. It will also
+require more thorough background checks for Americans under the age of
+21 who seek to purchase a gun.
+We passed expanded background checks through this House, and 85
+percent of the American people say they are for that--and that is the
+minimum--but no action has been taken in the United States Senate. They
+have taken some action, and some action is better than no action.
+Additionally, this legislation includes $250 million in funding for
+community-based violence prevention programs.
+Do we not want to see community violence diminished?
+It will also crack down on those who make straw purchases, purchases
+of guns that otherwise, under the existing system, could not be
+purchased by the ultimate user of those guns.
+Mr. Speaker, I thank Senator Murphy, Judiciary Committee Chairman
+Jerry Nadler, Representative Lucy McBath, Representative Robin Kelly,
+Chairman   Mike Thompson of the Gun Violence Prevention Task Force, and
+those Republicans who said that ``NRA'' does not stand for ``no
+Republican action.'' They took action. They stood up, even in the face
+of boos from their own party.
+This legislation, as I said, is a step forward. That is how we make
+progress in America, a step at a time.
+None of us have had the opportunity ever to vote on a perfect bill in
+this House. We vote on good bills that we feel will move our country
+forward. This is that kind of bill, a step forward but not enough.
+Many of us feel that we need to do more. We need to do comprehensive
+background checks. We need to close the Charleston loophole. We sent
+those bills to the Senate.
+We can and must do more.
+Yesterday, the Supreme Court issued a ruling that will weaken
+commonsense gun safety laws all over the country. Yes, we can return to
+the O.K. Corral and everybody having a six-shooter on their hip.
+Anybody who thinks that would make us a safer, more civil community I
+think is sadly mistaken. That fact ought to disturb all of us very
+deeply.
+The Court's decision to make it even easier for bad actors to carry
+dangerous concealed guns without restrictions should serve as a
+reminder that we need to take additional active steps to protect our
+communities and our kids, actions that are supported by the
+overwhelming majority of the American people.
+If we fail to do that, if we allow this legislation to be the end
+instead of the beginning, parents will continue to receive that
+dreaded, unfathomable call that they will never see their children
+again, and new monuments honoring victims will continue to pop up in
+communities across the country.
+Mr. Speaker, I say to my House colleagues, Republicans and Democrats,
+conservatives and liberals, we don't need additional memorials. We need
+action, and we need new laws.
+If we can follow today's legislation with action on comprehensive
+background checks and further gun safety measures, however, future
+generations--perhaps it is not guaranteed, but it is certainly worth
+the effort to reduce the gun violence and to reduce the need for
+memorials.
+{time}  1200
+If we do not, then those who come after will wonder why their
+forebears allowed such violence to be perpetrated uniquely in America.
+Mr. Speaker, you don't find this in other countries--democratic
+countries and free countries--that protect individual rights.
+Mr. Speaker, today, in just a few minutes, let us begin to end the
+cycle of tragedy and inaction. Let us pass this bill and say: No more.
+Let us pass it and then do more. Vote ``yes.''
+Mr. JORDAN. Mr. Speaker, I yield 2 minutes to the gentleman from
+Texas (Mr. Roy).
+Mr. ROY. Mr. Speaker, I thank the gentleman from Ohio for yielding.
+Today, the United States Supreme Court stood up in defense of the
+Constitution in recognizing that it is the people--the people--who
+should be able to come together and make decisions about life and to be
+able to stand up and protect the God-given right to life.
+Here today on the floor of this body, the people's House--the so-
+called people's House--is taking up legislation that is in direct
+conflict with the United States Constitution, our Bill of Rights, and
+the right to keep and bear arms. It is purposeful.
+Do you know what?
+When our colleagues say things like what the President said, that
+whether it is a 9-millimeter pistol or a rifle, I am going to continue
+to push to eliminate the sale of those things. When it is
+Representative Mondaire Jones saying that semi-automatic weapons would
+qualify as assault weapons and these things should be banned. Or when
+the Democrats tweeted that semi-automatic rifles are weapons of war,
+then we should believe you.
+We should believe you that you want to take those weapons. That is
+what you are saying. That is what my colleagues are saying.
+Here is the thing: my colleagues say, oh, don't worry, this is just
+money for mental health.
+Do you know what my colleagues on the other side of the aisle and
+some academics say?
+They have put out stories talking about how supposedly conservatives
+are suffering from mental health issues and that Republicans have
+become the cult of the mentally ill.
+``Is political conservatism a mild form of insanity?'' writes
+Psychology Today.
+You get article after article.
+What do you think you want to do with the mental health money? What
+do you think you want to do?
+You want to come after our ability to defend ourselves against the
+very tyranny you want to undermine by taking away the weapons we can
+use to defend ourselves against that tyranny. That is the purpose.
+My colleagues on this side of the aisle--the handful who are going
+along with it--should be ashamed of themselves because right now,
+today, we have a duty to stand up here and defend our right to defend
+ourselves against the very tyranny that you ignore.
+The SPEAKER pro tempore. Members are reminded to direct their remarks
+to the Chair.
+Mr. NADLER. Mr. Speaker, when the previous speaker refers to using
+guns to protect tyranny, he is talking--whether he realizes it or not--
+about stopping tyranny by turning those weapons against American
+troops.
+Mr. Speaker, I yield 1\1/2\ minutes to the distinguished gentleman
+from California (Mr. Thompson), who is the chairman of the Gun Violence
+Task Force.
+Mr. THOMPSON of California. Mr. Speaker, I rise in strong support of
+this legislation, the Bipartisan Safer Communities Act.
+While the tragic loss of 19 precious children and 2 teachers in
+Uvalde, Texas, and the disgusting racially motivated slaughter in
+Buffalo, New York, captured the Nation's attention, we know that gun
+violence survivors and their allies across our country have been
+working every day to prevent the gun violence that kills 30 people
+every day and over 100 when you factor in accidents and suicides.
+The Bipartisan Safer Communities Act passes three important tests. It
+is legal, it has the votes, and it saves lives. This bill saves lives
+by targeting convicted domestic abusers and felons coercing someone to
+illegally purchase a gun for them. This bill saves lives by
+strengthening school safety and mental health resources.
+This bill and the millions of gun violence victims and gun violence
+survivors deserve a ``yes'' vote today from every Member in this
+Chamber. A majority of Americans and responsible gun owners know this
+bill is important.
+Mr. Speaker, I urge everyone to vote ``yes.''
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Florida (Mr. Deutch).
+Mr. DEUTCH. Mr. Speaker, on February 14, 2018, my community hit the
+depths of despair when 17 innocent people were slaughtered at Marjory
+Stoneman Douglas High School. The families from Stoneman Douglas who
+lost loved ones have committed themselves in so many ways since to help
+get us to this moment. For them, the families of Uvalde, Buffalo,
+Newtown,
+[[Page H5909]]
+and so many families that we all have had the opportunity to get to
+know, this day is about them.
+But I finish with this: on the day after Parkland, there was a rally
+in the park near the school. The field was covered with high school
+kids who came to express themselves. One of them came up to me, still
+with a look of shock in her eyes. She grabbed my arm, and she said:
+Congressman, my best friend bled out on me. You have to do something.
+Today, we do.
+Mr. Speaker, vote ``yes'' to support this legislation.
+Mr. JORDAN. Mr. Speaker, I yield 2 minutes to the gentleman from
+Wisconsin (Mr. Fitzgerald).
+Mr. FITZGERALD. Mr. Speaker, what a great day for the babies and--as
+the Speaker described it--the Trump-McConnell Supreme Court.
+Mr. Speaker, I rise today in opposition to the House amendment to S.
+2938. This bill could have had strong bipartisan support if it had
+focused solely on mental health and school safety. The Supreme Court
+made it clear yesterday that the Second Amendment includes the right to
+carry a gun for self-defense purposes outside the home.
+This bill flies in the face of that ruling. Specifically, the bill
+fails to define what constitutes a willful violation that would warrant
+a revocation of a Federal firearm license. This is especially important
+given the Department of Justice's zero tolerance policy and the over
+500 percent increase in license revocation proceedings that have
+occurred under this administration.
+Current extreme risk protective orders that exist in 19 States do not
+come close to providing adequate due process protections. We cannot
+support the use of taxpayer funds to implement more such
+unconstitutional laws without specific and ironclad assurances that due
+process rights will be protected.
+In the wake of the tragic shooting at Stoneman Douglas High School in
+February 2018, I worked with my colleagues in the Wisconsin legislature
+to protect against school shootings. We worked to pass Act 143 which
+appropriated $100 million in school safety grants. That is where this
+bill should be going.
+Mr. Speaker, I urge my colleagues to focus on bipartisan solutions
+that will not infringe on our constitutional rights.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from California (Mr. Lieu), who is a member of the Judiciary
+Committee.
+Mr. LIEU. Mr. Speaker, Democrats and Republicans are not the same.
+While Democrats are working to pass this gun safety legislation for the
+people, Republicans have whipped their Members to oppose it.
+Democrats and Republicans are not the same. With the Supreme Court
+handing down radical decisions, you have extreme MAGA Republicans
+working to eliminate gun safety laws, while Democrats are working to
+expand gun safety laws.
+You have extreme MAGA Republicans calling for a nationwide criminal
+abortion ban while Democrats are working to preserve Roe v. Wade.
+Democrats and Republicans are not the same. I urge all Americans to
+remember that this November.
+Mr. JORDAN. We sure aren't the same, Mr. Speaker. We actually think
+you should protect the sanctity of human life, and we so appreciate the
+decision from the Court today. We don't think you should take away
+rights from law-abiding American citizens.
+Mr. Speaker, I yield 1 minute to the gentleman from Wisconsin (Mr.
+Tiffany).
+Mr. TIFFANY. Mr. Speaker, America does not have a gun problem.
+America has a crime problem.
+Mr. Speaker, law-abiding Americans do not want more laws chipping
+away at the Second Amendment. They do not want to see their right to
+bear arms eliminated on the installment plan. They want prosecutors to
+prosecute. They want the police to police. They want dangerous
+criminals off the streets and behind bars.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from California (Mr. Correa), who is a member of the
+Judiciary Committee.
+Mr. CORREA. Mr. Speaker, in Uvalde, Texas, children were killed in an
+elementary school. This is one of 128--128--mass shootings in America
+over the last 40 years.
+It is time to act. This is not perfect legislation. But if we can
+save one, two, three or more lives, then it is our responsibility to
+pass this legislation. Our communities are depending on us.
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Virginia (Mr. Connolly).
+Mr. CONNOLLY. Mr. Speaker, I thank the distinguished chairman who has
+done so much on this issue for yielding.
+Mr. Speaker, I rise today in support of S. 2938, the Bipartisan Safer
+Communities Act.
+More than 15 years ago, I was chairman of Fairfax County when the
+Virginia Tech tragedy occurred. We buried six young people in my
+community that week--six. I am still in touch with those families, and
+the emptiness in their souls will never go away.
+Today, we have an opportunity to choose: will we protect our
+children, or will we continue to persist in an abstract ideological
+commitment to an absolute reading of the Second Amendment which is
+false, and a false reading of the Constitution.
+We can do something finally. America demands we do something. We need
+to disenthrall ourselves from the gun mythology and do the right thing:
+protecting our communities and our children.
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Colorado (Mr. Crow).
+Mr. CROW. Mr. Speaker, today I rise as a father, a combat veteran, a
+gun owner, and the Representative of a community devastated by gun
+violence.
+My constituents are family and friends of those who were killed at
+Columbine, at the Aurora Theater, at STEM School Highlands Ranch, and
+at the Boulder King Soopers. As a community, we consoled each other
+after each one of these terrible shootings, and we demanded commonsense
+reform, but for too long our Nation's leaders refused to act.
+When I came to Congress I promised my constituents that I would fight
+to protect our community from gun violence.
+Today, I am proud to vote for the first comprehensive gun violence
+package in 30 years. This bill is a first step. It doesn't have
+everything we would hope for, but it is a step in the right direction.
+Today's success belongs to every Coloradan who turned their hurt into
+action. This long overdue progress is theirs.
+Mr. Speaker, I plead with my colleagues for a ``yes'' vote.
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, may I ask how much time remains on each
+side.
+The SPEAKER pro tempore. Each side has 16\1/2\ minutes remaining.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from Michigan (Mrs. Dingell).
+Mrs. DINGELL. Mr. Speaker, I rise today in support of the Bipartisan
+Safer Communities Act. It is past time that Congress take action to end
+the gun violence epidemic that is harming communities across the
+Nation. We need to protect all people who are vulnerable to gun
+violence, and this includes survivors of domestic abuse.
+Existing Federal laws allow abusive dating partners to access
+firearms. Known as the ``dating partner loophole,'' this dangerous gap
+in Federal law puts survivors of domestic abuse at risk every day.
+I thank people for including this and acknowledging that this is an
+issue. However, it is critical that the Department of Justice swiftly
+issue regulations and definitions pertaining to the implementation of
+the dating partner provisions.
+The definition of ``dating relationship'' in this act is not intended
+to be overly restrictive, and the definition should be broadly
+constructed to cover dating relationships as commonly understood in the
+Violence Against Women Act.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. NADLER. Mr. Speaker, I yield an additional 30 seconds to the
+gentlewoman from Michigan.
+[[Page H5910]]
+Mrs. DINGELL. Mr. Speaker, intimate partner violence is a serious
+issue, and 50 percent of domestic violence fatalities are caused by
+their intimate partner. I understand this. I lived in it.
+Let's be clear: this is a significant bill. We have made progress,
+but we have more work to do.
+{time}  1215
+Mr. JORDAN. Mr. Speaker, I yield 1 minute to the gentleman from
+Colorado (Mr. Buck).
+Mr. BUCK. Mr. Speaker, it is estimated that legal guns save 162,000
+lives annually and prevent 2.5 million crimes a year, or 6,849 crimes
+every day. By their own admission, criminals fear armed citizens more
+than they fear the police.
+Up to 90 percent of criminals who commit crimes with a gun do not
+acquire that firearm legally.
+We have serious problems in this country involving family, drugs, and
+mental health. Those issues have been going in the wrong direction for
+decades. Instead of addressing these issues head-on, the bill will
+instead jeopardize the right to bear arms for millions of law-abiding
+citizens.
+Decades of Supreme Court precedent prevent the government from
+exercising prior restraint on our First Amendment rights to free
+speech. We should not treat the Second Amendment differently.
+The Court just spoke forcefully in favor of this right. This body
+should do the same. I urge a ``no'' vote.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Rhode Island (Mr. Langevin).
+Mr. LANGEVIN. Mr. Speaker, I rise today in strong support of S. 2938,
+the Bipartisan Safer Communities Act.
+As we speak, our Nation is being wracked by an epidemic of gun
+violence. Every year, 40,000 Americans die from guns, more than 110
+every single day, many of them children. We have the power to prevent
+this carnage, but for decades, Congress refused to act. Well, no more.
+Mr. Speaker, this bill is not perfect. No bill is. But this
+legislation will save lives. Once signed into law, the Bipartisan Safer
+Communities Act will help keep guns out of the wrong hands. It will
+protect survivors of domestic abuse by closing the boyfriend loophole.
+It will crack down on straw purchases and improve background checks for
+people under 21. It will deliver hundreds of millions of dollars for
+improved mental health services, community-based violence prevention
+initiatives, and school safety.
+The issue of gun safety is personal to me. It is about time that
+Congress takes action. Let us pass this historic, bipartisan bill and
+send it to the President's desk today.
+Mr. JORDAN. Mr. Speaker, I yield 1 minute to the gentleman from
+Tennessee (Mr. Green).
+Mr. GREEN of Tennessee. Mr. Speaker, I rise in opposition to this
+flagrantly unconstitutional gun control act. This bill is yet another
+attack on our God-given rights to self-defense.
+For instance, the bill would provide taxpayer dollars for State-level
+gun confiscations without due process.
+We constantly hear this constant theme from the left on how you can't
+be pro-life and pro-gun, which I think is poignant to point out today.
+For those who say you can't be pro-life and pro-gun, why did you send
+billions of dollars of guns to Ukraine to help them save their lives
+against the Russians?
+You sent billions of dollars of guns over there so that our soldiers
+wouldn't have to go over there and fight a war to save their lives.
+Guns save lives, or you wouldn't have been sending the money over
+there.
+Our Founding Father, George Mason, who wrote the Virginia Declaration
+of Rights on which our Constitution's Bill of Rights is based, once
+said: To disarm the people is the most effectual way to enslave them.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from Illinois (Ms. Kelly).
+Ms. KELLY of Illinois. Mr. Speaker, I rise today in support of the
+Bipartisan Safer Communities Act.
+We are here today to protect our constituents and save lives. We have
+waited far too long for this day.
+Elements of my bill, the Prevent Gun Trafficking Act, are included in
+this legislation to crack down on the illegal gun trafficking and straw
+purchasing that is bringing guns into communities across the country.
+I know just how detrimental trafficking can be to a community. Last
+year, in Chicago, a single stolen gun was linked to at least 27
+separate shootings before it was taken off the street. Two dozen people
+were shot during its use and two of them killed.
+More than half of guns used in Chicago shootings are brought into the
+city by trafficking. Thank you, Wisconsin and Indiana.
+We have lost so many people and traumatized countless others.
+Mr. Speaker, I urge my colleagues to vote in favor of this
+legislation to help make Chicagoland a safer place.
+Mr. JORDAN. Mr. Speaker, I yield 1 minute to the gentleman from
+Virginia (Mr. Cline).
+Mr. CLINE. Mr. Speaker, I thank the gentleman for yielding.
+I rise in defense of our Constitution today, in defense of law-
+abiding American citizens, and against this Senate gun control bill.
+This legislation takes the wrong approach in attempting to curb
+violent crimes. It turns our system of due process on its head. You
+will now be found guilty and your guns taken away until you can prove
+your innocence.
+It has vague language containing insufficient guardrails to keep guns
+out of the hands of criminals or prevent mass violence.
+It creates a de facto waiting period for up to 10 business days for
+legal, law-abiding citizens' firearm purchases and the consideration of
+whether an adult purchaser's juvenile record should prohibit an
+individual from buying a firearm.
+We are committed to identifying and solving the causes of violent
+crimes and mental health crises, putting officers in our schools, and
+reinforcing our school buildings, but we must not infringe upon the
+Second Amendment rights of law-abiding citizens while doing so.
+I cannot support this misguided legislation, and I urge my colleagues
+to vote ``no.''
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from New Jersey (Ms. Sherrill).
+Ms. SHERRILL. Mr. Speaker, today has been a tough day as we watch an
+extremist and politicized Supreme Court roll back protections Americans
+have relied on for decades. But there is good news coming out of
+Congress. We have come together to pass the most comprehensive gun
+safety package in almost three decades.
+In New Jersey, we have already passed a large number of these
+proposals, including extreme risk protections, assault weapons
+safeguards, and high-capacity magazine prohibitions, and we have seen
+the results.
+New Jersey has made major progress in combating gun violence. As of
+2020, my State has the third lowest level of firearm mortality,
+according to the CDC. Think about that. The most densely populated
+State in the Nation has one of the lowest levels of gun violence in the
+Nation. As the rate of gun deaths has increased by 33 percent
+nationwide, in New Jersey, it actually fell by 10 percent.
+Of course, as a mother, I am focused on keeping our kids safe. This
+law would have prevented the shooter in Uvalde from getting a firearm
+without an enhanced background check.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. NADLER. Mr. Speaker, I yield an additional 30 seconds to the
+gentlewoman from New Jersey.
+Ms. SHERRILL. This law gives States the support they need to act when
+a mom worries that her child is contemplating suicide.
+It is why everyone from the American Society of Pediatrics to the
+Fraternal Order of Police has endorsed this bipartisan bill.
+It is time for my Republican colleagues to put our Nation's kids
+ahead of the gun lobby.
+Mr. JORDAN. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman from
+Georgia (Mr. Clyde).
+Mr. CLYDE. Mr. Speaker, I thank my colleague from Ohio, soon to be
+the Judiciary chair, for yielding.
+First, thank you to the Supreme Court for removing the curse of
+abortion sanctioned by a Federal Court ruling back in 1973. Six Supreme
+Court Justices have stood for life, and that is a beautiful thing.
+[[Page H5911]]
+Now, regarding this gun control bill before us today, this bill would
+have done nothing to curb the actions of illegal-minded criminals
+intent on harming our children. But it will harm the law-abiding
+citizens of this great Nation by violating their Second, Fourth, Fifth,
+and 14th Amendments, specifically, their due process rights. Let me
+refresh our collective memories.
+The Fourth Amendment: ``The right of the people to be secure in their
+persons, houses, papers, and effects, against unreasonable searches and
+seizures, shall not be violated.''
+The Fifth Amendment: ``No person shall be . . . deprived of life,
+liberty, or property, without due process of law.''
+The 14th Amendment: ``Nor shall any State deprive any person of life,
+liberty, or property, without due process of law.''
+Then, of course, my favorite, the Second Amendment: ``The right of
+the people to keep and bear arms shall not be infringed.''
+These red flag laws enable one-sided ex parte hearings, and though
+they don't take some of the guns from all of the people, they take all
+of the guns from some of the people. This is completely unacceptable.
+I stand against it, and I encourage all Members of the House to vote
+against it.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Nevada (Mr. Horsford).
+Mr. HORSFORD. Mr. Speaker, today, June 24, 2022, marks 30 years to
+the day that my father was shot and killed by senseless gun violence.
+So, I stand here emotional as I prepare to cast a vote in favor of the
+Bipartisan Safer Communities Act, historic legislation that will reduce
+crime and break the cycle of violence that so many people throughout
+our country have unfortunately experienced.
+One of the most important provisions in this bill is $2 billion in
+funding for antiviolence programs, including $250 million for community
+violence intervention from my Break the Cycle of Violence legislation.
+Every day, 110 Americans are killed with guns, and over 200 are shot
+and wounded. Amid the global pandemic, homicides by gun increased by 35
+percent.
+Today, gun violence remains the leading cause of premature death for
+Black men, as well as the number two cause of premature death for
+Latino men and Black women.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. NADLER. Mr. Speaker, I yield an additional 30 seconds to the
+gentleman from Nevada.
+Mr. HORSFORD. Today, I am casting my vote for my father; the 58
+victims who lost their lives during the 1 October shooting in Las
+Vegas; Sean'Jerrion Coleman, a constituent and a Las Vegas youth
+leader; and so many other Americans who are victims and survivors of
+gun violence.
+I urge this body to pass the Bipartisan Safer Communities Act.
+Mr. JORDAN. Mr. Speaker, I yield 3 minutes to the gentleman from
+North Carolina (Mr. Bishop), my friend.
+Mr. BISHOP of North Carolina. Mr. Speaker, in Dobbs earlier this
+great morning, and in the New York State RPA decision yesterday, the
+Supreme Court declared something astonishing, which has electrified the
+country and left radicals seething: The Constitution means what it
+says.
+In New York State RPA, the Court reiterated what Heller decided in
+2008. To paraphrase, the decision said: Like we told you the first
+time, the Second Amendment protects an individual, fundamental right
+weighed and decided upon by the people at the founding.
+But just as most of the courts of appeals flouted Heller by
+reweighing that right over and over for more than a decade, the Senate
+again flouts the new decision before the ink is dry.
+What is the historical analog from the founding era under which the
+right to bear arms could be targeted for complete deprivation upon less
+than complete process rights? Name it. Name the historical analog. That
+is Congress' burden.
+The renewed assault on the Second Amendment is more than sufficient
+grounds to oppose this bill, but even the constitutionally permissible
+components repeat the terrible misjudgment that has afflicted this type
+of legislation for far too long.
+I have said before that you are not grappling with the issue: 60
+years of targeted destruction of the American culture by the secular
+and postmodernist left. Foremost in that destruction has been the
+unrelenting assault on the family.
+So what does this ``do something'' bill do?
+It displaces families further by building a massive new mental health
+delivery bureaucracy into public school agencies; it connects Medicaid
+and CHIP directly to schools for early and periodic screening,
+diagnostic, and treatment services in schools; and it supports the
+provision of culturally competent and trauma-informed care in school
+settings.
+{time}  1230
+Americans who have been watching will hear a familiar refrain in that
+jargon. It means beyond the reach of parents and the reach of common
+sense.
+Who is it that is delivering this double down on woke to your child
+at school? Republican Senators.
+Moms and dads across the country, if you thought that Washington has
+heard you loud and clear, you are sorely mistaken.
+Washington has yet to recognize that it is the author of the
+devastation we confront, and Washington is still failing to grapple
+with the core issue. They are taking another step down the long path we
+have trod that has transformed America just as they want.
+The SPEAKER pro tempore. The gentleman's time has expired.
+Mr. JORDAN. Mr. Speaker, I yield an additional 30 seconds to the
+gentleman.
+Mr. BISHOP of North Carolina. Mr. Speaker, this bill is, at the same
+time, an attack on constitutional rights and a dangerous, poorly
+thought out, ill-defined improvisation.
+Wringing your hands and doing something instead of the right thing
+will continue having the same result it has had since the 1960s.
+Show that honesty and courage does not reside only in the Supreme
+Court building across the street. Defeat this bill.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the gentlewoman from New
+York (Ms. Clarke), from the great Empire State.
+Ms. CLARKE of New York. Mr. Speaker, I rise today as a proud New
+Yorker deeply troubled by the epidemic of gun violence that has plagued
+our Nation for too long, leaving a wake of sorrow and grief that
+extends from generation to generation.
+I cannot overstate how yesterday's reckless and detrimental Supreme
+Court ruling that struck down a 100-year-old New York State law puts
+innocent Brooklynite lives at risk.
+What is more, there are no gun manufacturers in New York City. Yet,
+despite removing thousands of guns from our streets, illegal guns are
+arriving by car, train, and bus every single day through the Iron
+Pipeline.
+That is why today's vote on the Safer Communities Act is an
+imperative. It addresses the issue of straw purchasing and the gun
+trafficking that is prevalent across New York City.
+Let me take this opportunity to thank and give honorable mention to
+Congresswoman Robin Kelly and Congresswoman Lucy McBath for their
+courageous and unwavering fight to stop this sea of gun violence in our
+Nation.
+Mr. Speaker, we must pass commonsense gun legislation, and I am proud
+to vote ``yes.''
+Mr. JORDAN. Mr. Speaker, I yield 1\1/2\ minutes to the gentleman from
+Illinois (Mr. Rodney Davis).
+Mr. RODNEY DAVIS of Illinois. Mr. Speaker, I thank my good friend,
+Mr. Jordan, for yielding.
+Mr. Speaker, I rise today in opposition to this anti-Second Amendment
+legislation. I know firsthand how important firearm ownership and the
+Second Amendment are for self-defense.
+Mr. Speaker, 5 years ago, I was in the batter's box at a baseball
+field in Virginia, practicing for our Congressional Baseball Game, when
+a deranged gunman tried to kill us because we were Republicans.
+The attack would have been a massacre if not for the armed U.S.
+Capitol Police Officers, my heroes, David Bailey and Crystal Griner,
+who were there.
+The actions on that field that day solidified my support for the
+Second Amendment. Remember, Mr. Speaker,
+[[Page H5912]]
+this gunman wanted to settle his political differences with us, who
+were trying to fix a broken healthcare system, with bullets on a
+baseball field.
+It is not what we do in the United States of America, but that day,
+my thought was, I wish I had my firearm to protect myself.
+We don't need more laws and restrictions that make it more difficult
+for law-abiding, gun-owning citizens to exercise their constitutional
+rights and protect their families.
+We need to support law enforcement and get tough on criminals who
+steal guns and commit violent crimes and further improve mental health
+programs.
+I am a proud gun owner. I am a concealed carry licensee and a strong
+supporter of our Second Amendment. I always have and always will work
+to preserve the Second Amendment for law-abiding, American citizens. I
+urge my colleagues to vote ``no'' on this attack to undermine the
+Second Amendment.
+Mr. NADLER. Mr. Speaker, how much time remains on each side, please?
+The SPEAKER pro tempore. The gentleman from New York has 9 minutes.
+The gentleman from Ohio has 7 minutes.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from Ohio (Mrs. Beatty).
+Mrs. BEATTY. Mr. Speaker, I rise in support of this gun bill today.
+After decades of inaction and too many innocent lives lost to senseless
+gun violence, this is a step we must all take.
+It will provide needed resources for violence intervention, school
+safety, mental health funding, community violence intervention and
+prevention initiatives, school safety, and yes, enhanced background
+checks to make it harder for 18- to 21-year-olds to get guns, and it
+will close the boyfriend loop.
+To everybody who is saying no, go tell that to the children and
+families that lost lives. This bill will keep dangerous weapons out of
+the hands of people. Go tell your ``no'' vote to the families and the
+children who lost lives.
+The compromise bill today, it is not perfect, but it will help us
+save lives. I am proud that the Congressional Black Caucus had a large
+role to play in this. I thank Congresswomen McBath and Kelly and
+Congressman Horsford for their support. Our power, our message.
+The SPEAKER pro tempore. The Chair reminds Members to direct their
+remarks to the Chair.
+Mr. JORDAN. Mr. Speaker, I yield 1 minute to my friend, the gentleman
+from Pennsylvania (Mr. Perry).
+Mr. PERRY. Mr. Speaker, no one on that side of the aisle cares more
+about the lives lost than the people on this side of the aisle. We are
+as heartbroken as anyone is. We are trying to find a balance between
+the thing that we have all agreed and swore an oath to uphold and
+defend, the rights granted by God enshrined in our Constitution and
+weigh that--and weigh that--with keeping our community safe.
+Ladies and gentlemen, our society has a sickness. That is for sure.
+The laws passed in this House to restrict people from their
+constitutional, God-given rights that criminals disobey is not going to
+change that. It is not going to change that.
+We can do something great here today. We could. We could do something
+great in this body, Mr. Speaker, but we are not going to.
+We are going to infringe on the rights of the law-abiding who want to
+defend themselves for the sake of the criminals who refuse to follow
+the law.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from New York (Mr. Meeks).
+Mr. MEEKS. Mr. Speaker, I am prayerful today, and finally today, that
+I can come on the floor of the House and say to the victims of gun
+violence and say to those who lost their lives, and to their families,
+that I can be on the floor of the House today, not just saying, I give
+you my thoughts and my prayers; not just saying, I want to send to you
+my sympathies.
+I can't tell you how tired I have been coming to the floor, feeling
+hurt in my heart, and all I could say is thoughts and prayers.
+Today I can vote on something that is going to make a meaningful
+difference to each and every one of them.
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from New Mexico (Ms. Leger Fernandez).
+Ms. LEGER FERNANDEZ. Mr. Speaker, I thank the chairman for yielding
+time.
+Across this country, we shed tears for the children who are killed,
+for the parents who are killed, for the girlfriends who are killed.
+In this Chamber, we shed tears for the parents and the fathers who
+are killed, for the children and the sons who are killed.
+But we cannot only grieve. We cannot only give our tears. We must
+act, and today we get to act. Today is the first step toward addressing
+the pandemic of violence and suffering at the loss of life to guns, to
+gun violence.
+New Mexico already has passed similar laws. We believe in protecting
+our children. We believe in protecting our women. Those who oppose this
+law clearly do not.
+The Congressional Hispanic Caucus understands that Latinos are too
+often killed by guns, but today, today, we act. I stand up in support
+of this action because not acting is an insult to the vast majority of
+our constituents who want this.
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from New York (Mr. Higgins).
+Mr. HIGGINS of New York. Mr. Speaker, the leading cause of death of
+kids in America is now gun violence.
+Mr. Speaker, 110 Americans die every day in America because of gun
+violence.
+Five weeks ago, ten people from my community of Buffalo, New York,
+were shot dead by a white supremacist who planned an attack, drove 300
+miles to Buffalo and a Black community of our city.
+There was a retired police officer by the name of Aaron Salter. A 30-
+year veteran of the Buffalo Police Department, he was working security
+that day.
+Someone once said that the best way to stop a bad guy with a gun is a
+good guy with a gun. Officer Aaron Salter was a good guy with a gun,
+but he didn't stand a chance. He didn't stand a chance because he was
+outgunned and outequipped.
+Our police officers in America, in Buffalo, and throughout the
+country are outgunned by the bad guys. They are outprotected by the bad
+guys.
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Illinois (Mr. Foster).
+Mr. FOSTER. Mr. Speaker, when I first took office in March of 2008,
+one of my first official acts was to attend memorial services for the
+17 students killed and injured in the mass shootings at Northern
+Illinois University.
+In the 14 years since, I have attempted to comfort families in my
+communities again and again, suffering from gun violence like incidents
+of the shooting at Henry Pratt.
+But until today, we had nothing to offer them but our thoughts and
+prayers. What we are going to pass today may not be enough, but it is a
+start.
+Mr. JORDAN. Mr. Speaker, I yield 3 minutes to the gentleman from
+Kentucky (Mr. Massie), the co-chair of the Second Amendment Caucus.
+Mr. MASSIE. Mr. Speaker, I thank the gentleman from Ohio for yielding
+time.
+The Democrats today describe this Senate bill as a step forward. If
+you are saving lives, it is a step backward, folks. If you are banning
+guns, it is a small step forward. Yes, in fact, it is.
+Almost everybody on the other side of the aisle today said, it
+doesn't go far enough. What do they mean? Well, it is a red flag law
+bill, and they want to take all of the guns from some of the people.
+It doesn't go far enough for them because it doesn't yet take all of
+the guns from all of the people. That is their goal.
+Who has taken a step forward, which institution, which branch of
+government? Well, actually, if you are counting how many lives are
+going to be saved, you have to consider that the Supreme Court is the
+institution, the branch of government, that has taken two steps forward
+in the last 48 hours to save lives.
+One of those steps was to reaffirm the Heller decision that men and
+[[Page H5913]]
+women in this country have the right to defend their own lives.
+The second step taken today was to affirm that the State legislatures
+have the right to defend the lives of the unborn.
+This bill is ineffective, unconstitutional, and ill-conceived without
+consideration for the dangerous unintended consequences.
+Did the drafters consider that changing the definition of ``gun
+dealer'' to be more ambiguous is going to make every American a gun
+dealer when they transfer a gun to a friend or a family member?
+Did the Senators consider in their sleep deprivation when they
+drafted this bill hurriedly, late at night, that using childhood mental
+health records as a basis for denying adults their basic rights to
+self-defense is going to discourage many parents from seeking mental
+health care for their children?
+If children who need it go without mental health care and early
+intervention, their conditions will grow worse. We will see more
+suicides, and we will see more mass shootings. Unfortunately and
+inevitably, this bill will cost more lives than it will save.
+Red flag laws are going to have the same effect that considering
+mental health care for children will have. People will not seek mental
+health care, and we will see more damage to the American public.
+If politicians here were serious--and they are not serious. They are
+going to come back. They will be back.
+You will be back here in 6 months, a year. You will want another bite
+at the apple to ban guns because this bill won't do it. This bill won't
+do what you say.
+If you were serious, you would acknowledge that 96 percent of mass
+public shootings happen in an area where guns are banned, and they
+would repeal the prohibitions that keep law-abiding citizens from
+exercising their God-given rights enshrined in the Second Amendment.
+The SPEAKER pro tempore. Members are reminded to direct their remarks
+to the Chair.
+{time}  1245
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from California (Mr. Gomez).
+Mr. GOMEZ. Mr. Speaker, I rise in support of the Bipartisan Safer
+Communities Act in honor and memory of one of my constituents who was
+killed in the Las Vegas mass shooting in October 2017, Michelle Vo.
+I also rise in the memory of the kids who were killed in Uvalde,
+Texas, in Parkland, in Sandy Hook.
+I rise in their memories, and I also rise due to the fact that I will
+have a newborn child on August 8. That child, in a few years, will be
+going off to school, and I will be worried about that child being put
+in danger because he is going off to school when there are mass
+shootings across this country.
+I rise in support of this because it is a small step forward to
+prevent the loss of life.
+In the end, it comes down to one simple question, as my colleague
+from northern California posed: Are you with the kids, or are you with
+the killers? Are you with the victims, or are you with the killers?
+I choose the victims; I choose the kids; and I choose the countless
+lives we will save because we will pass this law.
+Mr. JORDAN. Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Colorado (Mr. Perlmutter).
+Mr. PERLMUTTER. Mr. Speaker, let's start with the beginning of the
+Constitution: ``We the people of the United States, in order to form a
+more perfect Union, establish justice, ensure domestic tranquility,
+provide for the common defense, promote the general welfare . . .''
+That is how our Constitution starts, to uphold the premise of the
+Declaration of Independence, of freedom to life, liberty, and the
+pursuit of happiness.
+This bill helps us move forward because it helps us with life,
+liberty, and the pursuit of happiness.
+My friend complains about the red flag rule. It helps us with those
+individuals who suffer from domestic violence and who have suicidal
+ideation, but it also helps the families destroyed at Columbine in my
+area and at the Aurora movie theater.
+This bill that I am so happy to advance today is pro-Constitution,
+pro-freedom, and pro-liberty.
+Mr. JORDAN. Mr. Speaker, experience has taught me when you have to
+say a bill is constitutional, it is probably not. When you have to say
+a bill adheres to due process, it probably doesn't. And this bill
+certainly doesn't.
+Mr. Speaker, I reserve the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield 1 minute to the distinguished
+gentlewoman from California (Ms. Chu).
+Ms. CHU. Mr. Speaker, I stand here in strong support of the
+Bipartisan Safer Communities Act.
+It was just 1 year ago when a young man went into the store, bought a
+gun, and, just hours later, went to an Asian spa in the Atlanta,
+Georgia area to murder Asian women. Then, he drove 27 miles away to two
+more Asian spas to kill more Asian women. In all, he killed eight
+people, including six Asian women.
+They were mothers, grandmothers, daughters, and I will never forget
+the tears and sobs of their loved ones when we went down to Georgia to
+visit.
+To see that again in Buffalo and Uvalde, where families had their
+lives ripped apart in an instant, is more heartache than our country
+can bear.
+The Bipartisan Safer Communities Act is an important step forward.
+There will be enhanced background checks for gun purchasers under 21.
+It provides funds for States for red flag laws. It closes the boyfriend
+loophole.
+This bill will save lives.
+Mr. JORDAN. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, again, I urge a ``no'' vote on this legislation.
+Proponents say that this bill doesn't violate due process. Nothing
+could be further from the truth.
+You haven't been charged with a crime, but there is a hearing, a
+hearing that you are not allowed to be at. You can't be present at a
+hearing where you don't have a lawyer and a hearing where a judge can
+take your property.
+Again, just to underscore this, you haven't been charged with a
+crime, but there is a hearing where your property and your rights are
+at stake.
+You are not allowed to be there; your lawyer is not allowed to be
+there; and you can't confront your accuser. But they can take your gun;
+they can take your property; and they can take your Second Amendment
+liberty.
+Here is the scariest part of all: As my friend from Kentucky just
+pointed out, the Democrats say this is just the first step, that this
+doesn't go far enough. Holy cow. So that kind of proceeding doesn't go
+far enough when it comes to your Second Amendment liberties?
+One of the key things that separates this great Nation from all other
+countries is how we have due process in our justice system. This bill
+takes it away. No other way to put it.
+You can say all day long that it doesn't violate due process, but as
+I said just a few minutes ago, every time I hear that, experience has
+taught me that it most certainly does. When you have to say it, it
+probably does. In this case, it is certainly violating due process.
+There are other problems, but for that reason alone, we should vote
+``no.''
+Again, the scariest thing of all is that they are saying: ``Oh, this
+is just the first step. This doesn't go far enough.'' Imagine where
+they want to take us.
+Their beef is with the Second Amendment. They want it to go away.
+Don't let it happen. I urge a ``no'' vote.
+Mr. Speaker, I yield back the balance of my time.
+Mr. NADLER. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, the difference between this country and other countries
+is only that in this country do we have mass shootings and mass murders
+of children. No other country has them.
+We know from the experience in New Jersey, as Ms. Sherrill told us,
+that when we pass strong gun control legislation, we can greatly reduce
+the number of children and adults shot.
+We hear from the other side of the aisle, ``No, we don't want to do
+that.'' They are right: This legislation is the beginning.
+This legislation is not perfect. It is a bipartisan compromise. It is
+not nearly what we should do. It is not nearly what the House did, but
+it is a beginning. It is a beginning in saving lives in this country.
+[[Page H5914]]
+Anyone who stands in its way is standing in the way of saving lives
+in this country. I will not allow myself or anyone I associate with to
+stand in the way of saving lives, many lives.
+Again, I remind you, this is the only country that has it, and it is
+not because we have more mentally ill than other countries. It is
+because we do not have the gun control laws that other countries do.
+Mr. Speaker, I urge everyone to vote for this bill as a good
+beginning, and I yield back the balance of my time.
+Ms. BONAMICI. Mr, Speaker, I rise today in support of the Bipartisan
+Safer Communities Act, long overdue legislation to address gun violence
+in our schools and neighborhoods. Although this legislation is far from
+perfect, it is an important step forward in solving the epidemic of gun
+violence that has gripped our Nation for decades.
+In the weeks following the tragedy in Uvalde at Robb Elementary and
+the racist attack at a grocery store in Buffalo, I spoke with many
+constituents who continue to urge action. Teachers, parents, and
+concerned community members from Northwest Oregon shared pleas for
+Congress to follow through on our responsibility to our children and
+our Nation by immediately passing bold policies to implement gun safety
+reform. An educator I know told me that after Uvalde, she sat down with
+her students and told them she would take a bullet for them.
+Conversations like this are happening in classrooms across the country,
+but they shouldn't have to. Congress must provide all students with
+safe learning environments free from the threat of gun violence. The
+House already passed a comprehensive slate of gun violence prevention
+legislation, and I look forward to building on that by voting for this
+legislation that came out of the bipartisan Senate negotiations.
+The Bipartisan Safer Communities Act will help to protect Americans
+and make gun sales safer. The most effective way to protect communities
+from gun violence is to keep guns out of the hands of individuals who
+are a danger to themselves and others. This legislation will
+incentivize states to establish extreme risk protection order laws,
+enhance background checks for people under the age of 21, end straw
+purchasing, and penalize gun traffickers. It will also safeguard
+survivors of domestic violence by closing the so-called ``boyfriend
+loophole,'' prohibiting people convicted of domestic violence crimes
+from possessing firearms.
+Additionally, this bill makes a robust investment in Student Support
+and Academic Enrichment Grants under Title IV-A of the Every Student
+Succeeds Act. Fully funding this important grant program will help to
+close the opportunity and resource gaps in our Nation's public schools,
+and I'm pleased this bill recognizes the importance of this program in
+providing students of all backgrounds with a well-rounded, safe, and
+healthy education.
+Although these actions to address gun violence in our communities and
+fund critical school improvement programs are important, I am concerned
+about how various provisions in the bill could harm Black and brown
+students and students with disabilities in our Nation's schools. The
+Bipartisan Safer Communities Act increases funding for school resource
+officers (SROs) and codifies further involvement of the Department of
+Homeland Security in education through threat assessments. Research and
+practice show that both SROs and threat assessments are ineffective in
+keeping students safe in schools. As Chair of the Civil Rights and
+Human Services Subcommittee, I remain committed to protecting students'
+civil rights and delivering on the promise of an equitable, world-class
+public education for each and every student in this country. I will
+closely monitor the implementation of this legislation to make sure our
+most marginalized and vulnerable students are not subject to further
+disproportionate discipline and discriminatory targeting in schools.
+As a member of the Gun Violence Prevention Taskforce, I again want to
+recognize how crucial the Bipartisan Safer Communities Act is to our
+schools, communities, and country. This bill will be the first
+substantive action on gun violence prevention since the passage of the
+Brady Handgun Violence Prevention Act in 1994. In the last 30 years,
+our Nation has been devastated over and over again by horrific
+tragedies like we saw in recent weeks at Robb Elementary in Uvalde,
+Texas. We cannot bring back those who have been murdered, but we can
+enact meaningful laws that will prevent more senseless deaths.
+I urge swift passage of the legislation.
+Mrs. DINGELL. Mr. Speaker, I rise to enter into a colloquy with my
+esteemed colleague from California, Congressman Mike Thompson,
+regarding the S. 2938, Bipartisan Safer Communities Act.
+Mr. Thompson, is it your understanding and intent in supporting this
+bill that the Department of Justice promulgate regulations pertaining
+to Section 12005?
+Is it further your understanding and intent in supporting this bill
+that the Department of Justice in those regulations define the meaning
+of the terms `serious,' `continuing,' `recent,' and `recently?'
+Mr. THOMPSON of California. Mr. Speaker, the Congresswoman from
+Michigan, Debbie Dingell, is correct. It is the intent that the
+Department of Justice promulgate regulations to govern the application
+of Section 12005, including defining the terms `serious,' `continuing,'
+`recent,' and `recently.' It is the intent that this law capture dating
+relationships in the way they happen in the lives of victims of dating
+violence.
+Mrs. DINGELL. Mr. Speaker, I am glad for the clarification from the
+gentleman from California and pleased to know it is the legislative
+intent that the Department of Justice promulgate regulations to govern
+the application of section 12005, including defining the terms
+`serious,' `recent,' and `recently.' A consistent and authoritative
+interpretation of these terms that is reflective of the lived
+experiences of survivors of dating violence is critical to the
+successful implementation of this section.
+Rulemaking is necessary to both ensure that in its application, the
+law actually protects victims of dating violence and to stave off
+chaos. A lack of clearly defined terms will encourage trial level
+litigation into the specifics of the intimate relationship. State
+judges who are adjudicating these cases will be determining the
+relationship between the victim and the perpetrator based on the laws
+of their state. The introduction of `serious,' `continuing,' and
+`recent' should not be read to require judges to include specific
+findings of seriousness or continuity. Instead, the existence of a
+dating relationship must be determined based on the enumerated factors
+set forth in subparagraph (B) of this section, with the acknowledgment
+that a finding of a dating relationship under a state law with a
+definition that is substantially similar to federal law constitutes a
+finding of `dating relationship' for the purpose of this section.
+For example, in my state of Michigan, the term `dating relationship'
+means `frequent, intimate associations primarily characterized by the
+expectation of affectional involvement. This term does not include a
+casual relationship or an ordinary fraternization between two
+individuals in a business or social context.' This very clearly
+parallels the definition of `dating relationship' in the Bipartisan
+Safer Communities Act, and a finding of a `dating relationship' under
+Michigan law must constitute a finding of a `dating relationship' for
+the purposes of this section.
+The Bipartisan Safe Communities Act shrinks the dating loophole, but
+it does not eliminate it. I will keep leading the fight to fully close
+it in future legislation. No dating abuser who has shown by his actions
+that he poses a danger to his victim, whose actions led to the issuance
+of a protective order after a hearing, should be legally allowed to
+possess firearms for the duration of the order.
+Mr. THOMPSON of California. Mr. Speaker, I associate myself with the
+comments of my esteemed colleague from Michigan. Under California law,
+`dating relationship' means frequent, intimate associations primarily
+characterized by the expectation of affectional or sexual involvement
+independent of financial considerations. Similar to the law in
+Michigan, the law in California very clearly parallels the definition
+of `dating relationship' in the Bipartisan Safer Communities Act, and
+it is my intent and understand in voting for this bill that a
+conviction for a misdemeanor crime of domestic violence against a
+dating partner under California law is sufficient to trigger the
+expanded dating violence prohibitor.
+The SPEAKER pro tempore. All time for debate has expired.
+Pursuant to House Resolution 1204, the previous question is ordered.
+The question is on the motion by the gentleman from New York (Mr.
+Nadler).
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Mr. JORDAN. Mr. Speaker, on that I demand the yeas and nays.
+The SPEAKER pro tempore. Pursuant to section 3(s) of House Resolution
+8, the yeas and nays are ordered.
+The vote was taken by electronic device, and there were--yeas 234,
+nays 193, not voting 3, as follows:
+[Roll No. 299]
+YEAS--234
+Adams
+Aguilar
+Allred
+Auchincloss
+Axne
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bourdeaux
+Bowman
+Boyle, Brendan F.
+Brown (MD)
+Brown (OH)
+Brownley
+Bush
+Bustos
+Butterfield
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Chabot
+Cheney
+Cherfilus-McCormick
+Chu
+Cicilline
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+[[Page H5915]]
+Cooper
+Correa
+Costa
+Courtney
+Craig
+Crist
+Crow
+Cuellar
+Davids (KS)
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Escobar
+Eshoo
+Espaillat
+Evans
+Fitzpatrick
+Fletcher
+Foster
+Frankel, Lois
+Gallego
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Golden
+Gomez
+Gonzales, Tony
+Gonzalez (OH)
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyer
+Huffman
+Jackson Lee
+Jacobs (CA)
+Jacobs (NY)
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (TX)
+Jones
+Joyce (OH)
+Kahele
+Kaptur
+Katko
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Kind
+Kinzinger
+Kirkpatrick
+Krishnamoorthi
+Kuster
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Leger Fernandez
+Levin (CA)
+Levin (MI)
+Lieu
+Lofgren
+Lowenthal
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Manning
+Matsui
+McBath
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meijer
+Meng
+Mfume
+Moore (WI)
+Morelle
+Moulton
+Mrvan
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Neguse
+Newman
+Norcross
+O'Halleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Rice (SC)
+Ross
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Salazar
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrader
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sherrill
+Sires
+Slotkin
+Smith (WA)
+Soto
+Spanberger
+Speier
+Stansbury
+Stanton
+Stevens
+Strickland
+Suozzi
+Swalwell
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres (NY)
+Trahan
+Trone
+Turner
+Underwood
+Upton
+Vargas
+Veasey
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Welch
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+Yarmuth
+NAYS--193
+Aderholt
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bentz
+Bergman
+Bice (OK)
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brady
+Brooks
+Buchanan
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Calvert
+Cammack
+Carey
+Carl
+Carter (GA)
+Carter (TX)
+Cawthorn
+Cline
+Cloud
+Clyde
+Cole
+Comer
+Crawford
+Crenshaw
+Curtis
+Davidson
+Davis, Rodney
+DesJarlais
+Diaz-Balart
+Donalds
+Duncan
+Dunn
+Ellzey
+Emmer
+Estes
+Fallon
+Feenstra
+Ferguson
+Fischbach
+Fitzgerald
+Fleischmann
+Flores
+Foxx
+Franklin, C. Scott
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia (CA)
+Gibbs
+Gimenez
+Gohmert
+Good (VA)
+Gooden (TX)
+Gosar
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Harris
+Harshbarger
+Hartzler
+Hern
+Herrell
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill
+Hinson
+Hollingsworth
+Hudson
+Huizenga
+Issa
+Jackson
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (PA)
+Keller
+Kelly (MS)
+Kelly (PA)
+Kim (CA)
+Kustoff
+LaHood
+LaMalfa
+Lamborn
+Latta
+LaTurner
+Lesko
+Letlow
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Mace
+Malliotakis
+Mann
+Massie
+Mast
+McCarthy
+McCaul
+McClain
+McClintock
+McHenry
+McKinley
+Meuser
+Miller (IL)
+Miller (WV)
+Miller-Meeks
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Mullin
+Murphy (NC)
+Nehls
+Newhouse
+Norman
+Obernolte
+Owens
+Palazzo
+Palmer
+Perry
+Pfluger
+Posey
+Reschenthaler
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Scalise
+Schweikert
+Scott, Austin
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Taylor
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Valadao
+Van Drew
+Van Duyne
+Wagner
+Walberg
+Walorski
+Waltz
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams (TX)
+Wilson (SC)
+Wittman
+Womack
+NOT VOTING--3
+Conway
+Pence
+Zeldin
+{time}  1326
+So the motion to concur was agreed to.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+____________________
