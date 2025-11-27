@@ -1,0 +1,1217 @@
+[Congressional Record Volume 171, Number 170 (Wednesday, October 15, 2025)]
+[Senate]
+[Pages S7129-S7137]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+CONTINUING APPROPRIATIONS AND EXTENSIONS ACT, 2026--Motion to Proceed--
+Continued
+The PRESIDING OFFICER. The Senator from Alaska.
+Vote on Motion
+Ms. MURKOWSKI. Mr. President, I move to proceed to the motion to
+reconsider the cloture motion on the motion to proceed to H.R. 5371.
+The PRESIDING OFFICER. The question is on agreeing to the motion.
+The motion was agreed to.
+Motion to Reconsider
+Ms. MURKOWSKI. Mr. President, I move to reconsider the cloture vote
+on the motion to proceed to H.R. 5371.
+The PRESIDING OFFICER. The question is on agreeing to the motion.
+The motion was agreed to.
+Cloture Motion
+The PRESIDING OFFICER. Pursuant to rule XXII, the Chair lays before
+the Senate the pending cloture motion, which the clerk will state.
+The senior assistant legislative clerk read as follows:
+Cloture Motion
+We, the undersigned Senators, in accordance with the
+provisions of rule XXII of the Standing Rules of the Senate,
+do hereby move to bring to a close debate on the motion to
+proceed to Calendar No. 168, H.R. 5371, a bill making
+continuing appropriations and extensions for fiscal year
+2026, and for other purposes.
+John Thune, Eric Schmitt, Jim Justice, James E. Risch,
+Tom Cotton, Steve Daines, Ted Budd, John R. Curtis,
+John Boozman, Mike Rounds, Kevin Cramer, Bernie Moreno,
+Ron Johnson, John Barrasso, Markwayne Mullin, James
+Lankford, Tim Sheehy.
+The PRESIDING OFFICER. The question is, Is it the sense of the Senate
+that debate on the motion to proceed to H.R. 5371, a bill making
+continuing appropriations and extensions for fiscal year 2026, and for
+other purposes, shall be brought to a close, upon reconsideration?
+The yeas and nays are mandatory under the rule.
+The clerk will call the roll.
+The senior assistant legislative clerk called the roll.
+Mr. BARRASSO. The following Senators are necessarily absent: the
+Senator from Tennessee (Mrs. Blackburn), the Senator from Tennessee
+(Mr. Hagerty), the Senator from Kansas (Mr. Marshall), and the Senator
+from North Carolina (Mr. Tillis).
+Further, if present and voting, the Senator from North Carolina (Mr.
+Tillis) would have voted ``yea'' and the Senator from Tennessee (Mr.
+Hagerty) would have voted ``yea.''
+Mr. DURBIN. I announce that the Senator from Illinois (Ms. Duckworth)
+is necessarily absent.
+The yeas and nays resulted--yeas 51, nays 44, as follows:
+[Rollcall Vote No. 572 Leg.]
+YEAS--51
+Banks
+Barrasso
+Boozman
+Britt
+Budd
+Capito
+Cassidy
+Collins
+Cornyn
+Cortez Masto
+Cotton
+Cramer
+Crapo
+Cruz
+Curtis
+Daines
+Ernst
+Fetterman
+Fischer
+Graham
+Grassley
+Hawley
+Hoeven
+Husted
+Hyde-Smith
+Johnson
+Justice
+Kennedy
+King
+Lankford
+Lee
+Lummis
+McConnell
+McCormick
+Moody
+Moran
+Moreno
+Mullin
+Murkowski
+Ricketts
+Risch
+Rounds
+Schmitt
+Scott (FL)
+Scott (SC)
+Sheehy
+Sullivan
+Thune
+Tuberville
+Wicker
+Young
+NAYS--44
+Alsobrooks
+Baldwin
+Bennet
+Blumenthal
+Blunt Rochester
+Booker
+Cantwell
+Coons
+Durbin
+Gallego
+Gillibrand
+Hassan
+Heinrich
+Hickenlooper
+Hirono
+Kaine
+Kelly
+Kim
+Klobuchar
+Lujan
+Markey
+Merkley
+Murphy
+Murray
+Ossoff
+Padilla
+Paul
+Peters
+Reed
+Rosen
+Sanders
+Schatz
+Schiff
+Schumer
+Shaheen
+Slotkin
+Smith
+Van Hollen
+Warner
+Warnock
+Warren
+Welch
+Whitehouse
+Wyden
+NOT VOTING--5
+Blackburn
+Duckworth
+Hagerty
+Marshall
+Tillis
+The PRESIDING OFFICER. On this vote, the yeas are 51, the nays are
+44.
+Three-fifths of the Senators duly chosen and sworn not having voted
+in the affirmative, the motion is not agreed to.
+The motion was rejected.
+The PRESIDING OFFICER. The Senator from Louisiana.
+Cryptocurrency
+Mr. KENNEDY. Mr. President, with me today is one of my colleagues
+from my office, Mr. Will Pietri, who has helped me immensely on this
+issue.
+I want to talk, just for a few minutes, about digital assets. Some
+people refer to them as crypto or cryptocurrency.
+The Senate Banking Committee is in the process, as we should be, of
+considering market structure legislation for digital assets, for
+Bitcoin, for crypto. And it is important because there is an enormous
+amount of confusion out there.
+[[Page S7130]]
+I remember when blockchain technology started--many of us do. Today,
+one in five Americans is on cryptocurrency. Its growth has been nothing
+short of breathtaking.
+But as oftentimes happens when you have an innovation, it creates
+enormous confusion on the way that the subject of that innovation
+integrates with the Federal Government, and that is the case here.
+Those who are in the cryptocurrency business and in the blockchain
+technology business don't know whom to talk to in the Federal
+Government.
+The Securities and Exchange Commission has announced, under President
+Biden, that it has jurisdiction over digital assets, and so did the
+Commodity Futures Trading Commission, the CFTC. There has been a lot of
+litigation, and there have been a lot of court cases, and it has been
+enormously confusing.
+And those in the crypto business, understandably, have the reaction:
+Look, we don't mind being regulated. We have nothing to hide. But we
+would like to know whom to talk to. Is it the CFTC? Is it the SEC? What
+do we do?
+And that is why we need legislation. That is why we need market
+structure legislation, not because the government needs to stick its
+nose in everything, but because there has to be some certainty here.
+Clearly, there is a turf war between the CFTC and the SEC, and it is
+Congress's role to delineate who has jurisdiction over what.
+Now, we did pass one piece of what you might call crypto legislation.
+We passed the GENIUS Act, as the Presiding Officer knows. That was an
+important piece of legislation, but it was really just a baby step. It
+regulates stablecoins, which is only one part of the digital assets
+business.
+I am certainly not denigrating the act. I voted for the bill. I sat
+on the Banking Committee. The Congress passed the bill. It was a good
+bill. It was necessary. I congratulate everybody who worked so hard on
+it. But it is only a small portion of the digital assets market.
+Now, we need to turn to the rest. The House has already acted. The
+House has passed a bill called the CLARITY Act, which does just what I
+have been talking about, providing some market structural legislation
+for the crypto industry, the digital assets industry.
+But the Senate--this is above my pay grade. But the Senate has
+decided not to take up the CLARITY Act. I don't know that it has been
+decided definitively, because obviously if enough Senators want to, we
+can take up anything we want to take up. But the thinking seems to be
+that the Senate needs to start over and draft our own digital assets
+market structure bill that complements the CLARITY Act, which is
+already passed by the House.
+The Banking Committee, chaired by a very able chairman, Tim Scott, is
+going to be taking up this legislation soon. It has got to be written
+first. It is still being written. We need to hold hearings.
+This is a complicated piece of legislation. I have spent a lot of
+time on it, and it is one of the most complicated pieces of legislation
+I have ever seen.
+This is just one person's opinion. As a member of Banking, I think it
+is going to take at least two hearings for us to be able to understand
+the pros and the cons of this legislation and understand the
+legislation itself.
+We have to be sure, in this legislation, given that one in five
+Americans owns cryptocurrency--we have to make sure, in this
+legislation, that we are striking the right balance in jurisdiction
+between the CFTC and the SEC.
+We have to make sure, in this legislation, that we are coordinating
+closely with another Senate committee, the Senate Agriculture
+Committee, because it has jurisdiction of the CFTC and will play just
+as important, if not a more important, role in this legislation as the
+Banking Committee.
+We are going to have to address in this legislation some concerns of
+the banking community. The banking community, after we passed the
+GENIUS Act--remember the GENIUS Act was just about stablecoins. The
+Banking Committee is arguing--rather, the banking community, our banks,
+are arguing, very persuasively, that there were some mistakes made in
+the GENIUS Act, which, as I just said, regulates stablecoins.
+Frankly, I don't know if that is accurate or not. That is what we
+need a hearing for. But I think the banks--the banking community--need
+to be heard on this issue. If we did make some mistakes in the GENIUS
+Act with respect to American banks, I want us to correct it. I am not
+saying we did or we didn't; I have heard both sides of the argument.
+But my point is that we are going to have to take up that issue as well
+in the hearing because the banking community would like us to amend the
+larger digital asset market structure legislation to accommodate their
+concerns about the mistakes, if any, that we made in the GENIUS Act.
+We are going to have to spend a lot of time in these hearings and in
+drafting the legislation making sure that we are addressing things like
+tokenized securities. This is complicated stuff. It is a way,
+basically, to trade a stock using blockchain technology without owning
+stock. We have got to make sure that we get that right.
+An issue will be raised, I am sure, about deposit insurance.
+Cryptocurrency is--well, it is currency in the eyes of many people. And
+I can see the day when the American people will ask us to address the
+issues: Should deposit insurance cover cryptocurrency and digital
+assets?
+I am not suggesting to you that it should; I am not suggesting to you
+that it shouldn't. I am suggesting to you that, likely, will be a topic
+we would want to consider in one of these hearings that we need to have
+about this topic.
+I also think it would be appropriate in a hearing on this topic
+before we draft or vote on legislation to talk about the Clarity Act.
+That is the digital market structure and legislation that I just
+referred to that was passed by the House.
+No one is suggesting this, but I certainly would disagree if they
+suggested we just ignore that legislation. A lot of work went into it.
+I spent a lot of time reading it, and I am going to have to spend more
+time reading it--it is very interesting--but there is some good work
+there. And I want to be able to compare the Clarity Act passed by the
+House with the Senate's market structure legislation. So perhaps we can
+pick the best of each, and that would be an appropriate topic of a
+hearing as well.
+And these issues I am addressing are illustrative; they are not
+exhaustive.
+But we also need to address the issue of what, if any, fiduciary
+responsibility those who participate in the digital assets markets
+have. I am talking about commodity brokers, digital commodity brokers.
+I am talking about digital commodity dealers. Should they have a
+fiduciary obligation to their customers, to their clients? I am talking
+about the digital commodity exchanges. What should their duty to their
+clients be? Should it be a fiduciary obligation? Should it be something
+less?
+These are weighty issues. These are important issues. These are not
+issues that you raise and solve over a weekend.
+But I wanted to start talking about this bill because it is one of
+the most important pieces of legislation that this body will consider.
+It may not be the sexiest. It may not be the most interesting to some.
+But when one in five Americans own cryptocurrency, it is certainly
+important. So I will probably be talking about this issue several more
+times on the floor as the Senate moves forward with our digital assets
+market structure legislation.
+I hope we will move it quickly, but I hope we will move deliberately.
+I hope we will take the time to hold the hearings. And, again, I think
+it is going to take more than one hearing to address these weighty
+topics and then an additional time, once we get a bill, to mark it up,
+as we say, to amend it and make sure that we do the job for the
+American people.
+And with that, I suggest the absence of a quorum.
+The PRESIDING OFFICER. The clerk will call the roll.
+The senior assistant legislative clerk proceeded to call the roll.
+Mr. KIM. Mr. President, I ask unanimous consent that the order for
+the quorum call be rescinded.
+The PRESIDING OFFICER. Without objection, it is so ordered.
+Government Funding
+Mr. KIM. Mr. President, I rise today as Federal servants, civil
+servants, will check their mail or check their bank
+[[Page S7131]]
+accounts and not see the money that they have earned, the money that
+they have earned for doing the work of the American people because
+hundreds of thousands of civil servants--including roughly three
+quarters of a million furloughed government workers--will sit down at
+the kitchen table tonight and ask some hard questions: Which bills do
+we pay? What do we do to cut back? How long can we go without a
+paycheck?
+These are tough questions, but they are only being asked because
+President Trump and Speaker Johnson and others have decided that they
+would rather plunge our government into a shutdown rather than address
+the healthcare costs crisis for millions of Americans that are facing,
+right now, these incredibly challenging debates.
+Now, there are a lot of stories of our public servants struggling in
+this moment, and I understand that some of my colleagues haven't had a
+chance to hear them. So I wanted to come to the floor today to share my
+own story.
+I started my career as a public servant, as a State Department
+officer. I worked for the Federal Government. It was the honor of my
+lifetime. I emphasize that I was career, not a political, appointee. I
+swore an oath to the Constitution, and I remember how proud I was to be
+able to raise my hand and recite that oath.
+I remember very clearly and vividly, in 2013, I was working on
+counterterrorism trying to keep our Nation safe. And while I was doing
+that work of national security, political leaders on the Hill, at that
+time, hit an impasse, and our government went into a shutdown.
+I remember how distant that felt for me with the work that I was
+doing. I am just trying to show up and do work every day to be able to
+keep our country safe, to be able to watch out for terrorist groups
+that try to do us and our allies and our partners harm.
+Why was it that now I was being asked to show up to work every single
+day and not receive a paycheck? And, particularly, I was very early in
+my career, not making very much money, turned down high-paying jobs so
+I could serve my country. I did it because I was proud to be a public
+servant, proud to be amongst the many others that are willing to put
+our country before our own families; that we are part of something
+bigger than all of us.
+But through that period, when we were going through that shutdown--
+and to remind people, that one lasted 16 days. At the time, that was
+the second longest shutdown in American history. Hundreds of thousands
+of Federal employees did not receive their full paychecks during that
+shutdown. And at the time, we didn't have a guarantee and promise that
+we would actually get backpay for the work that we were doing.
+It was challenging. I remember having to call my own family and ask
+them what I should be doing, try to think through what I can be doing
+to make sure that I can pay the bills when it comes up. I had no idea
+how long the shutdown would go for and felt so distant. I had no way,
+as a civil servant, to influence the discussions on the Hill and the
+leaders that were making this decision.
+I remember reading afterward, the Office of Management and Budget
+would put together a report following the shutdown, and in that report
+they quoted an EPA employee who spoke with the Washington Post. That
+employee said:
+We love public service. We're very committed to our jobs
+and the mission of our agency. But it's just too unstable.
+And I remember that instability. My story is not unique. And that is
+why, when I was actually sworn into Congress in January 2019--now,
+again, I was sworn into Congress in the middle of a government
+shutdown, a shutdown that is still, to this day, recognized as the
+longest shutdown.
+And I remember I was sworn into the government shutdown, and I found
+out something that just shocked me, which is that the President and
+Members of Congress continue to get paid during a shutdown. I just
+could not believe it; that after what I had gone through as a career
+public servant, doing the work of the country, continuing to show up to
+work each and every day, not receiving the paycheck, then realizing
+that 435 people in the House, 100 people in the Senate, and the
+President of the United States continue to get a paycheck. They are the
+only ones in the entire government that continue to get paid.
+I remember, at that point, I decided I was going to refuse my pay
+until the shutdown was over, and I am continuing to do that with this
+shutdown because I still believe in those old sayings that officers eat
+last, that leaders eat last, and that by taking our pay during this
+crisis, especially on this day when so many others are not, we are
+showing that we are fine having a full plate while others go without.
+That is not leadership. That is not acceptable.
+If leaders are being paid while others are not, you can see why so
+many Americans believe that politicians are playing with other people's
+chips; that they don't feel the impact of their actions. And that is
+dangerous because it is easy to then think about all of this as a game
+and to lose sight of the actual impacts on American families.
+It is something I talked about with two public servants in New Jersey
+during the first week of the shutdown. These are Federal workers who
+have so much on the line in this fight. But it is important to remember
+that, for them, this fight didn't begin with the shutdown. The stresses
+that Federal workers are facing didn't start on October 1; it started
+on January 20. It started with Russell Vought, the scribe of Project
+2025 and the Director of the Office of Management and Budget, saying
+that he wants Federal workers to be ``in trauma,'' saying that he wants
+our public servants--the people that help educate our kids, pave your
+roads, keep you safe--to ``not want to go to work because they are
+increasingly viewed as villains.'' That is what the current OMB
+Director, the mastermind of this shutdown, has said; that he wants our
+public servants to be ``viewed as villains.''
+And let me tell you something, that is something I heard from those
+Federal workers that I sat down with.
+So congratulations, Russell Vought. Your dream has come true. These
+Federal public servants I talked to said that they wake up every day
+feeling like they have been made to be like the enemy, be viewed in
+that way by the American people. They talked about the shooting at the
+Centers for Disease Control, the attacks upon public servants.
+That word ``enemy'' is something we have seen from President Trump
+himself. He has repeatedly used the phrase ``enemy from within'' when
+talking about people whom he perceives as his enemies, fellow Americans
+who he thinks are engaged in a war from within.
+I want to be clear. The people I sat down with earlier this month--
+they are not the enemy. They are not showing up to work every day to go
+to war against Donald Trump. They are showing up to work every day
+because they believe in service. They are showing up to work every day
+because they believe they have an obligation as Americans to work for
+something bigger than themselves. We owe them better than what they are
+seeing right now and how they are being treated. We owe them better
+than a politics that demonizes them and their work.
+What we see right now, though, is that we don't even have--while our
+public servants are not getting paid through this shutdown even though
+so many of them are showing up for work, I can tell you, they are
+furious that we have a House of Representatives that doesn't even show
+up, that we have Speaker Johnson continuing to give House Republicans a
+paid vacation even though they are not even showing up to work and do
+their job.
+We also see the President and his mob boss-like cronies, like Russell
+Vought and Stephen Miller, continuing to step up and use our
+government, weaponizing it as a tool for political retribution and
+political extortion.
+We owe our public servants better. We owe them not just an end to the
+shutdown but an end to the politics that makes our public servants an
+enemy or a tool.
+Next year is the 250th anniversary of our Nation's independence. It
+is a chance to reaffirm who we are as Americans and what we believe in.
+I believe in service. I believe in public servants. I believe that the
+way out of this tailspin we are in as a country is to try to reignite a
+new era of public service
+[[Page S7132]]
+in this country, have a new ``ask not what this country can do for
+you'' kind of moment.
+I believe that we must do everything we can right now to support our
+public servants. First of all, have the House of Representatives get
+back to work so we can have the negotiations, so we can have the
+discussions needed to address the healthcare crisis impacting American
+families and reopen our government so that every public servant can
+have the peace of mind and dignity of knowing that their service has
+been recognized.
+It is time to support our public servants. It is time that we work to
+end this shutdown.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from California.
+Unanimous Consent Request--S. 2983
+Mr. PADILLA. Mr. President, I rise today to join my colleagues--the
+ranking member of the Homeland Security Committee, Senator Peters;
+along with Senators King, Gallego, and Slotkin--in support of the
+immediate passage of a clean and bipartisan reauthorization of the
+Cybersecurity Information Sharing Act of 2015, which has been
+introduced by Ranking Member Peters, along with Senator Rounds, this
+session.
+This law is critical for public-private information sharing and cyber
+threat mitigation. But due to the objections of a couple of Republican
+Senators, this essential tool has now expired, leaving our private
+sector partners in a lurch.
+I want to come to this debate with a very, very specific focus. I
+also serve as ranking member of the Senate Rules Committee, with
+oversight of Federal elections administration issues. I am also
+California's former secretary of state. So I have seen firsthand how
+this cyber security law and the resulting public-private partnership
+provide State and local elections officials with the crucial support
+they need to mitigate threats to election administration, including the
+combating of misinformation and disinformation.
+It is timely because voting is already under way in this country in
+several important State elections, as we speak, including in my home
+State of California; and voting will soon begin in several other key
+elections in 10 days.
+Private sector partners will be more hesitant to report cyber
+security threats to our elections if they are left exposed or feel like
+they are left exposed during this lapse in the authority provided by
+the law.
+It is especially dangerous that this law has expired, as President
+Trump and many members of his administration, for that matter, continue
+to try to sow doubt about the integrity of our elections, including
+undermining the cyber security of our election systems.
+Now, following the original passage of this law in 2015, Congress
+actually went a step further to provide better Federal coordination by
+establishing the Cybersecurity and Infrastructure Security Agency,
+better known as CISA. This was coupled with the Department of Homeland
+Security's designation at the time of election infrastructure as
+critical infrastructure, which has helped ensure that elections offices
+received security assistance. And I should specifically point out that
+these elections offices are not just State offices; they are local
+elections offices throughout the country.
+Now, CISA has been the leading Agency to fight against cyber threats
+that can impact key industries and infrastructure, and I know that
+State and local election officials appreciate and use the resources and
+support that CISA provides in fending off bad actors. But instead of
+prioritizing the reauthorization of the law and supporting CISA's
+important election security work, the administration has actually been
+undermining it.
+Secretary Noem, DOGE, and Elon Musk have permanently cut over 1,300
+staff at CISA--not added capacity; they have cut staff at CISA--while
+halting all election security activity and terminating funding for the
+election infrastructure center at CISA.
+Colleagues, that is not government efficiency; that is government
+negligence.
+For those who are still, by the way, on CISA's payroll--still
+employed, still staff at CISA--who joined the Federal Government with
+the aim of helping to protect the homeland from cyber threats, many of
+them are now being reassigned to support the President's mass
+deportation efforts. And those who don't agree to that assignment--what
+happens to them? They are being terminated from their jobs as we speak
+during President Trump's government shutdown.
+Now, I know that since day one, this administration has not even
+tried to hide their contempt for CISA, and it is using any opportunity
+it can to gut the pivotal Agency and, in doing so, leaving our cyber
+defenses exposed.
+As with many other areas where the Trump administration is pursuing
+dangerous and unpopular policies, they are ignoring our legitimate
+oversight requests. Since we first heard about the first round of job
+cuts back in March, several of us have requested a briefing on CISA's
+election-related activity, without any real answers or substantive
+response from CISA. Meanwhile, the Director of National Intelligence,
+Director Tulsi Gabbard, has spread baseless claims of election systems
+vulnerability and vote manipulation, including at a White House Cabinet
+meeting.
+The vice chairman of the Senate Intelligence Committee, Senator Mark
+Warner, and I have requested that Director Gabbard provide Senators
+with an intelligence briefing to clarify her remarks on voting systems
+security--so far, to no avail.
+This reckless spread of election conspiracy theories--from the head
+of the intelligence community, no less--demonstrates that this
+administration is not serious about election security and instead
+embraces and spreads misinformation to undermine public confidence in
+elections and in election results.
+So why has this law been allowed to lapse? Because a few Senate
+Republicans agree with Trump and want to ban CISA from doing its
+important election security work on disinformation and misinformation.
+It is a position I personally find very, very hard to believe, and I
+hope they will reconsider and move off of that dangerous position.
+No, colleagues, we should not codify the Trump administration's
+approach to election security, and we certainly should not codify it
+permanently. We have a responsibility, an obligation, to support
+election officials and provide all the resources we can to keep U.S.
+elections secure and allow Americans to vote both freely and securely,
+including the disbursement of election security grants, as Congress has
+approved on a bipartisan basis, and including the clean reauthorization
+of this critical cyber security law.
+Mr. President, it is for these reasons that I ask unanimous consent
+that the Senate proceed to the immediate consideration of Calendar No.
+182, S. 2983; that the Peters substitute amendment, which is at the
+desk, be considered and agreed to; that the bill, as amended, be
+considered read a third time and passed; and that the motion to
+reconsider be considered made and laid upon the table.
+The PRESIDING OFFICER. Is there objection?
+The Senator from Kentucky.
+Mr. PAUL. I object.
+The PRESIDING OFFICER. The objection is heard.
+The Senator from California.
+Mr. PADILLA. Mr. President, disappointing but not surprising. And I
+hope, as the days go on, and not just next year's midterm elections and
+not just next year's midterm primary elections but elections in
+numerous States this November--literally, just a few weeks away--will
+be a reminder of the urgency to revisit this topic, address it,
+reauthorize the law, and provide CISA with the funding and proper
+guidance, as we have over the last decade. The work is simply too
+important.
+The PRESIDING OFFICER. The Senator from Rhode Island.
+Health Insurance Premiums
+Mr. REED. Mr. President, millions of Americans are starting to get
+notices that their monthly health insurance premiums will be going up
+by $100 or much more because President Trump and congressional
+Republicans are letting critical health insurance tax credits expire.
+Donald Trump likes to put his signature on things, and to be fair, he
+should be putting his name on each of these premium increases because--
+there is no other way to describe it--this is a
+[[Page S7133]]
+Trump health tax on working families. It is part of the Trump plan.
+Think about it. Trump demanded $4.5 trillion--and just to be clear,
+that is trillion with a ``t''--in tax giveaways in his deeply unpopular
+budget, but in all those tax cuts for billionaires, for gun
+manufacturers, for wealthy oil and gas companies, Trump and
+congressional Republicans couldn't find any room to extend the tax
+credits that help 22 million Americans keep their health insurance.
+In fact, to add insult to injury, they also cut $990 billion from
+Medicaid for the 70 million Americans who rely on it. Let's take a
+second to put Trump and Republican priorities in perspective.
+They passed a massive tax giveaway for approximately 902
+billionaires. They slashed $990 billion from Medicaid, which covers 70
+million Americans. And they decided to let health insurance help for 22
+million working Americans just go away.
+Trump and GOP leaders are so committed to blocking anything good for
+Americans' healthcare that they are shutting down the government to
+prevent us from fixing the problem. That is where we are today.
+We all know that shutdowns are costly, wasteful, and needlessly
+disruptive. But not having health coverage because Republicans ended
+it, that is devastating.
+I want to be very clear: This is about the healthcare of 22 million
+Americans, not undocumented immigrants, as some Republicans have
+misleadingly claimed. Those in the U.S. illegally are not eligible for
+these tax credits or for Medicaid or Medicare, for that matter.
+This is about the healthcare of American families. There is a simple
+path forward: fund the government and help Americans keep their
+healthcare. While my colleagues on the other side of the aisle say that
+we can wait to address this issue, the American people can't wait.
+Open enrollment for people who purchase health insurance for
+themselves or their families through the State marketplaces starts on
+November 1. That is less than a month away, and notices are already
+going out the door.
+In Rhode Island, these notices start to go out on October 17. If the
+Republicans keep us from acting now, premiums will more than double--a
+114-percent increase. The new premiums will be so high that many people
+will forgo coverage.
+Indeed, it is likely that younger and healthier people will forgo
+coverage, leaving those under coverage with more complicated and more
+expensive healthcare needs, also driving up the costs of healthcare.
+In Rhode Island alone, roughly 13,000 people will likely lose their
+healthcare coverage for next year because of these price increases. We
+need to act.
+Last Friday, I met with small business owners in Warren, RI. They
+stressed the need for this tax credit. Even with this credit, it is
+difficult for them to afford health coverage and keep their businesses
+open.
+One of these businesspeople made a profound point. I call it the
+Uriah Principle after the first name of its proponent. What is the
+Uriah Principle? Simply, the most serious side effect or one of the
+most serious side effects of the lack of healthcare insurance is
+poverty.
+Yes. When you have no healthcare coverage and you get ill, you can't
+work. When you have no healthcare insurance you are in a very difficult
+position, and you are scrambling just to get by.
+That is not conducive to the initiative it takes for small businesses
+to thrive in this country. And my colleagues are always proclaiming
+their devotion and dedication to small businesses everywhere. This is a
+blow to small businesses everywhere.
+Now, it is unfortunate but Donald Trump and his handlers don't want
+to solve this problem, and congressional Republicans seem only to be
+interested in what Trump wants.
+Since August, right after congressional Republicans rammed through
+their $1 trillion in cuts to Medicaid and other healthcare programs,
+the Democratic leaders of the House and Senate have been asking to sit
+down and negotiate to resolve this problem. But at President Trump's
+direction, Republican leaders ignored the request.
+Trump said:
+Don't even bother dealing with [Democrats].
+And Republican leaders have listened.
+At one point, the President agreed to meet but reversed course,
+apparently, at the direction of Speaker Johnson, who has kept the House
+in recess for the last month.
+Finally, the day before the shutdown--the day before the shutdown--
+the President finally agreed to meet, not negotiate, just meet. Since
+then, nothing. Apparently, he has plenty of time to host the President
+of Argentina and has no problem sending him home with 20 billion of
+U.S. taxpayer dollars, but he has no time to talk about helping the
+American people with their skyrocketing healthcare costs.
+While President Trump is ignoring this issue, he is demanding a blank
+check so he can run the government exactly how he wants to.
+Unfortunately, GOP leaders are willing to hand it to him and not for
+the first time.
+Late last year, shortly before President Trump took office, Democrats
+and Republicans reached a bipartisan agreement on a full-year funding
+bill for fiscal year 2025. It would have funded the government for the
+entire year, and it would have provided critical disaster relief,
+funding for national defense, childcare, the healthcare system,
+transportation infrastructure, and much more.
+But Donald Trump insisted that Republicans walk away from the
+agreement until he came into office so he could call all the shots.
+They delivered, and he took advantage.
+I didn't vote for the year-long CR that Trump eventually backed last
+March because even then, his excesses were already on full display. His
+wanton claims of Executive powers, his firing of thousands,
+cancellation of grants, misuse of law enforcement, politicalization of
+the military, and general lawlessness were apparent.
+And true to his nature, under the fiscal year 2025 continuing
+resolution he signed into law in March, Trump has illegally--
+illegally--delayed or withheld Federal funds for medical research,
+including for childhood cancer; for Head Start; for Job Corps; for
+disaster recovery and mitigation; for foreign assistance, including
+lifesaving therapeutic nutrition for starving children in the world;
+for the Emergency Food and Shelter Program, which provides food and
+shelter throughout the country under the auspices of Catholic
+Charities, the Jewish Federation, and the United Way.
+He has used the so-called pocket rescission to illegally cancel $4.9
+billion foreign aid, and he has even tried to close entire Departments
+and Agencies without congressional approval.
+To have the President sign a bill into law and simply flout its
+requirements like this is irksome, to say the least, particularly for
+members of the Appropriations Committee on both sides of the aisle.
+Indeed, as a member of the committee, I know how hard we work to
+prepare bipartisan bills every year. Some of my Republican colleagues
+have been privately outraged by the President's actions. A few of them
+have had the courage to speak up publicly. But President Trump's
+campaign of petty vindictiveness and hard partisan ideology continues.
+Trump and his Budget Director Russ Vought say the shutdown will force
+them to fire Federal workers.
+That is nonsense.
+From day one, President Trump, Mr. Vought, along with Elon Musk and
+his minions, have tried to fire Federal workers by the thousands
+without cause and without thought. They have terminated experts in
+national security and intelligence, and in some cases, they have had to
+beg them to return to their jobs because they were, in fact,
+irreplaceable.
+Just this past Friday, the administration fired hundreds of workers
+at the Centers for Disease Control and Prevention. But before the
+weekend was over, they were scrambling to reinstate an estimated 700
+employees who work on critical issues like measles response and
+containing the spread of Ebola.
+The administration has also fired many other Federal workers
+precisely because they have done their jobs with professionalism,
+honesty, and integrity, replacing them with loyalists with little
+background or expertise to
+[[Page S7134]]
+do the jobs they have been appointed to do.
+Trump has allowed his political appointees to rifle through the
+personal data of nearly every American. I asked the FBI Director, after
+DOGE had gone through all this data, can he assure us that that data is
+not in the hands of anyone unauthorized to have it. He mumbled a
+response that was really nonresponsive.
+If you stop and step back, DOGE has pilfered the data in every major
+Federal Agency, and no one can tell you where it is; who has it. That
+could be the greatest crime committed against the American people in
+the history of this country.
+Trump's tariff taxes are driving up costs for food, electricity,
+clothing, and nearly every basic necessity for American families. Small
+businesses are facing these same cost increases too. As I said, when
+talking to small businesspeople in Warren, RI, they are looking at a
+very difficult challenge, and it is not being helped by Trump.
+This list goes on and on as does the list of lawsuits against the
+administration. And for 9 months, congressional Republicans have had
+the chance to show some true independence--to say no to Trump on his
+price-rising tariffs, to say no to Trump's misuse of Federal funds, to
+stand up to the administration's abuse of the personal data of
+Americans, to reject some of the least qualified and most dangerous
+Cabinet members in history, to conduct even the most basic taxpayer
+oversight of the numerous conflicts of interest and money-making
+ventures of the President, his family, and his allies.
+But when their votes have mattered, they have gone along with every
+bad decision this President has made.
+If this capitulation to the executive branch continues, the Senate
+will be rendered a hollow, powerless body, with Senators powerless to
+represent their constituents and States.
+And I would remind everyone that the iron law of the Senate is: What
+goes around, comes around. And my colleagues should ask themselves: Do
+they want their States and constituents treated this way, the way that
+Trump is treating his perceived political enemies, cutting off valuable
+public assistance to blue cities, putting U.S. forces into blue cities,
+the military, in violation of the Posse Comitatus Act?
+I think the answer would be no. And what is good for one side has to
+be good for the other side.
+The President is not popular. What he is doing on every issue now is
+not popular. Costs matter to Americans in every State of this country,
+and this healthcare debate is all about costs.
+One of the ironies is that some of the biggest impacts of these
+healthcare changes will be on the red States. Everyone suffers across
+the country, but there is significant suffering in places that are
+prominently Republican. So why are my colleagues on the other side of
+the aisle saying, ``Oh, we don't care''?
+They should think long and hard about that and remember why they
+wanted to be Senators in the first place: to improve the lives of their
+constituents, to help, to serve. And that requires compromise here.
+We saw that last week when we passed the National Defense
+Authorization bill with overwhelming bipartisan support in very
+efficient and rapid procedures.
+When you get compromise--bipartisan compromise--you get results. When
+you get a body that seeks only to carry out the will of one person, you
+get what we have now: stalemate, suffering by poor people who can't get
+healthcare, but great benefits to the wealthy.
+For the last several months, appropriators have been working on bills
+to protect and invest in the American people. Together, we passed eight
+appropriations bills out of the committee, most on overwhelmingly
+bipartisan votes. Three of those bills have been passed by the full
+Senate. Throughout this process, Democrats have shown our commitment to
+doing the hard work of government.
+We have been flexible and willing to compromise. And, frankly, if it
+was in the Senate's power, both Republicans and Democrats, we would
+have legislation--appropriations legislation--before the President
+today, but we have been unable to because of the roadblocks he has
+established using his leverage over my Republican colleagues.
+In fact, I think it is fair to say that President Trump and Speaker
+Johnson don't really want compromise and don't really want Congress to
+pass appropriations bills. They want Democrats to go away and give them
+another blank check, another CR.
+But forget whether it is a CR or an appropriations bill. If the
+President doesn't like the program, he just takes the money away, which
+is contrary to the Constitution, but that is just a detail.
+It takes 60 votes to pass a law here in the Senate. So Democrats are
+here, ready to reach a principled agreement on spending and protect the
+healthcare of 22 million Americans.
+We are ready. We just need the President and the Speaker and the
+majority leader to sit down and talk, not about their partisan
+interests but the welfare of their constituents.
+I yield the floor.
+The PRESIDING OFFICER (Mr. Schmitt). The Senator from Vermont.
+Mr. WELCH. Mr. President, first of all, I want to thank my colleague
+from Rhode Island, and I join him in his advocacy for healthcare.
+We are going into day 15 of the shutdown. No one likes shutdowns. And
+people ask me, Peter, why are you shut down? And my answer to them is
+that I don't like shutdowns, but things are worth fighting for. Some
+things we must fight for. And one of the things that are most essential
+to the well-being of the people we represent, whether it is a
+Republican State or a Democratic State, is access to affordable
+healthcare.
+We have a date that is looming--November 1--where people are going to
+be getting, across this country, notifications about how much of an
+increase they will have to pay if they are getting tax support, tax
+credits, for them to buy their own insurance in the private
+marketplace. That is the urgency of the moment and why we must resolve
+this now. We must resolve this now.
+On November 1, everyone will be getting the notice, but in many
+States, including Vermont, those notices are going out now, in October,
+and I want to show you what is going to happen to a Vermont family.
+Keep in mind, this is a family of four where you have two parents
+that earn $130,000. They purchase healthcare through the private
+marketplace. Right now, that Vermont family pays $1,195, about $1,200 a
+month for their healthcare premium. That doesn't include copays and
+deductibles.
+That is a big expense for that family, who has utility bills, who has
+rent or a mortgage, who is facing the inflation we see in the cost of
+food, groceries. They have kids in school, and always, some unexpected
+expense comes up when you have kids in school--a broken wrist, braces,
+a school trip.
+That premium of $1,195 is going to increase to $3,035--$3,035--in
+2026. That family can't afford it. Where does the money come from to
+pay for that healthcare?
+You know, the poignancy of this was exemplified when a Vermonter was
+with me to talk about this. She has a family of four, two kids, and she
+asked herself: If there is this huge spike in premiums, as a mother,
+where I am responsible for the well-being of my two children, and it
+would be ``irresponsible''--her word--not to have healthcare for my
+kids, what do I do if I get a $2,000-a-month increase and I simply
+don't have the money to pay for it?
+That is not a decision we should be imposing on the people in
+Missouri or the people in Vermont.
+All of us who have the authority of being in the U.S. Senate and
+representing the people who sent us here should not allow that rate
+premium shock to crush that family.
+By the way, this is not just this family in Vermont; this is families
+all across our country.
+You know, if these tax premiums, these tax credits expire--and that
+is what they do--then we are going to see nearly 5 million people
+across this country, in the Presiding Officer's State and mine, lose
+their coverage. Twenty-four million Americans will face higher costs.
+By the way, that includes about 17 million people in States that
+voted for President Trump. Families in red
+[[Page S7135]]
+States are going to see significant premium increases.
+But, you know, this is not about red State-blue State for me; this is
+about American families, American small businesses, and whether they
+can have access to affordable healthcare. These tax credits are across
+the board for people who are eligible and qualify for them, who are
+working, who are struggling to pay their bills, and there is no way
+they are going to be able to afford these rate shocks.
+I will give you another example. Alex from Essex, VT, works in a
+small, independent physical therapy practice. He makes $65,000 a year.
+With the tax credits, his premium costs $5,500 bucks a year--about 8.5
+percent of his annual income. Without the tax credit, Alex's plan is
+going to increase by $15,500 next year to $24,000 a year--two grand a
+month. It is not possible.
+So we have this real-world situation.
+You know, the question is, Why are you in a shutdown? It is because
+we are fighting for healthcare. The question is, Why can't we do that
+after we vote for a continuing resolution? It is because that date of
+November 1 is going to be the date where everybody across this country
+gets the shocking news about how much their healthcare premiums have
+gone up.
+So, you know, the question I have is, Why don't we, all of us,
+Republicans and Democrats, who care deeply about the people we
+represent, really come to their rescue by acting and acting now? There
+is absolutely no excuse for us to delay. This is the urgency of now.
+I stand before the Presiding Officer knowing that right now in my
+State of Vermont, from Bennington to Derby Line, from Brattleboro to
+Swanton, people are going to their mailboxes and fainting as they get
+the news of these rate shocks.
+It is not right, but most importantly for us, it is not necessary
+because we, the U.S. Senate, have the power to act and to be fair to
+the folks that are working hard in all of our States and are entitled
+to have some confidence that the healthcare they have this year, they
+will continue to be able to afford next year.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from Kansas.
+Domestic Violence Awareness Month
+Mr. MORAN. Mr. President, the month we are in, the month of October,
+is Domestic Violence Awareness Month--the time that we should recognize
+the devastating impact domestic violence continues to have on
+individuals, families, and communities across our States and the
+Nation.
+The issue of domestic violence often remains hidden behind closed
+doors. It is a reality that affects millions of Americans every year,
+both in communities large and small, urban and rural, and unfortunately
+across my own home State of Kansas.
+While national headlines may briefly focus attention on this issue
+when a tragedy occurs or a public figure is involved, our commitment to
+ending abuse must remain constant after the news cycle.
+The statistics regarding domestic violence are staggering. Domestic
+violence that occurs between partners--girlfriends and boyfriends,
+husbands and wives--affects more than 12 million--12 million--people
+every year. On a typical day, every 9 seconds, a woman is assaulted in
+the United States. In Kansas, law enforcement reports nearly 22,000
+incidents of domestic violence annually. These aren't statistics from
+faraway places; they reflect our friends, neighbors, coworkers, and
+family members.
+We have a responsibility to bring hope to those who feel afraid to
+speak out. I want to recognize the Kansans who dedicate their lives to
+that mission, those who work and volunteer in shelters, crisis centers,
+advocacy organizations, and law enforcement across the country. Their
+compassion and courage make a difference every single day.
+In Iola, KS, Hope Unlimited provides a lifeline for victims seeking
+safety and support. Working hand in hand with local law enforcement and
+first responders, Hope Unlimited's advocates and trained volunteers
+deliver services for victims of domestic violence, sexual assault, and
+human trafficking. Their coordinated response models ensure survivors
+are met with care the moment they reach out.
+We know that when victims are turned away or forced to travel long
+distances for help, 90 percent return to their abuser--a reminder why
+access to local support is critical.
+Across Kansas, similar organizations, like Safehome in Johnson
+County, StepStone in Wichita, and the Crisis Center, Inc., in
+Manhattan, are helping survivors rebuild their lives with dignity and
+safety.
+What happens in Washington, DC, matters, but we change the world one
+person--in fact, one soul--at a time. In communities across Kansas and
+across America, that is exactly what is happening.
+The Federal Government plays a meaningful role in supporting these
+efforts. Through programs like the legal assistance for victims grant,
+Kansans have access to legal representation that helps survivors
+navigate the justice system and reclaim their sense of safety and
+stability.
+The work is far from over. Domestic violence is more than a law
+enforcement or a policy issue; each of us can and must play a role in
+ending it. This month and every month, let us recommit ourselves to
+breaking the cycle of abuse. Let's do our part to speak out against
+violence in all its forms and to stand with those who have been
+silenced for too long. Let's raise awareness of this silent and
+devastating issue and bring hope to those who need it most.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from Texas.
+Unanimous Consent Request--S. 218
+Mr. CRUZ. Mr. President, I rise today to speak about Oswaldo Paya
+and, as I have done before, to urge this body to honor his legacy.
+Paya was a Cuban dissident who fought against the communist regime
+and who stood up and fought for free speech, for democracy, and for
+human rights. He was a thorn in the side of the Cuban communist regime
+his entire life.
+Oswaldo Paya was the only person at his school who refused to join
+the Communist Youth. Later, at the age of 35, he founded the Christian
+Liberation Movement, which called for nonviolent disobedience against
+the rule of the Cuban Communist Party. He then founded the Varela
+Project, which sought a referendum on Cuba's communist system.
+Throughout, he fought for democratic governance, religious liberty,
+freedom of suppression, and the freedom to start businesses.
+For over three decades, Paya put pressure on the communist regime to
+free its political prisoners, to allow for genuine elections, and to
+uphold basic human rights. In retaliation, the regime harassed him.
+They arrested him repeatedly and, ultimately, in 2012, they killed him.
+But in life and in death, they never succeeded in silencing his
+message.
+Growing up, I heard countless stories from my father about life in
+Cuba, and they instilled in me, from a very young age, the desire to
+fight for change, to fight for truth, to fight for freedom. The
+yearning for liberty and the courage to fight for it is universal and
+deeply felt in every Cuban heart.
+Since 2015, in every Congress, I have introduced legislation to
+rename the street outside the Cuban Embassy the ``Oswaldo Paya Way.''
+This body has passed it before, rightly and unanimously. Oswaldo's
+legacy matters deeply to Cuba and to the United States. And it matters
+to his family, with whom I have worked closely on this resolution.
+Over the years, I met many times with his daughter Rosa Maria Paya.
+Rosa Maria is herself a formidable and courageous dissident and warrior
+for human rights. Renaming the street in front of the Cuban Embassy
+would help preserve that legacy.
+During the Cold War, President Reagan renamed the street in front of
+the Soviet Embassy ``Sakharov Plaza'' after the famed human rights
+dissident in the Soviet Union. It was part of a broader strategy to
+shine a light on the abuses of the evil empire.
+My strategy here is the same. Some might think a street name is not
+that big a deal. Well, it is. Anyone who wants to write to the Cuban
+Embassy will have to write Oswaldo Paya's name. Anyone who wants to go
+there has to look up the address and see his name. The operatives of
+the Cuban regime will have to say or write his name.
+[[Page S7136]]
+Saying his name has power.
+In just a moment, I would propound a unanimous consent request to
+take up and pass the Oswaldo Paya Way resolution.
+I want to point out this is bipartisan legislation. Indeed, I am
+joined by Senator Durbin, the Democrat whip, in this legislation. In a
+previous Senate, this passed the Senate 100 to nothing. That means
+every Republican voted for it, and every Democrat voted for it. I am
+hopeful this Congress can demonstrate the same unity and the same
+resolve to stand up in support of democracy and in support of human
+rights. Right now, we will find out if that is the case.
+Mr. President, I ask unanimous consent that the Committee on Homeland
+Security and Governmental Affairs be discharged from further
+consideration of S. 218 and the Senate proceed to its immediate
+consideration; I further ask that the bill be considered read a third
+time and passed and that the motion to reconsider be considered made
+and laid upon the table.
+The PRESIDING OFFICER. Is there objection? The Senator from New
+Jersey.
+Mr. BOOKER. Mr. President, reserving the right to object, I stand in
+agreement with my colleague. Mr. Oswaldo Paya is an extraordinary hero,
+not just to the Cuban people but to millions of Americans, including
+millions of New Jerseyans and especially to the Cuban American
+community in my State. He is a freedom fighter who stands for our most
+treasured and sacrosanct ideals.
+I want to work with my colleague to find a way to honor him. I would
+be willing to partner with him in doing something to elevate this cause
+and this principle and the noble ideals that my colleague speaks to.
+The challenge right now is that we are in different times. This bill
+would permit Congress to rename a DC-owned intersection, but the
+District of Columbia has the right to self-governance.
+When I was mayor of the city of Newark, if my State came in against
+my objections to rename streets in my city, I would have objected. The
+people of the District of Columbia have the right to control their own
+local affairs. Their rights are enshrined in home rule. It is critical
+that we reject attempts that infringe upon those rights.
+The locally elected DC Council alone has the right to rename DC
+streets. And there is no dispute that the intersection in question is
+DC owned. Since the beginning of home rule, the council has opposed
+congressional efforts to rename its streets. Recently, Representative
+Holmes Norton strongly has made her views known that she opposes this
+bill on those grounds.
+Washington, DC, has no representation in this body. We must respect
+the wishes of the locally and democratically elected council and DC
+representatives in Congress. Indeed, these democratic ideals are what
+we are talking about right now.
+This objection is not about recognizing the courageous work of
+Oswaldo Paya. I will tell you, I have a deep reverence and respect and
+I will offer again that I will do anything I can to support the
+elevation of this hero, of this democratic light. Mr. Paya bravely
+fought for freedom and democracy in Cuba. He was killed due to his
+heroic work.
+I hope, perhaps, our Congress can appropriate resources to do
+something to honor this noble man and his ideals. I hope we can think
+constructively about what else we can do. His work should be recognized
+more by our Nation. And I would support the DC Council, their elected
+representatives, if it decided, through their democratic process, to
+work with the Senator and the Democratic sponsor to rename the street.
+My objection is simply right now about Washington, DC's right to
+control their own local affairs. This objection is about home rule and
+self-governance. It is true, as my colleague said, this has passed
+through this Chamber multiple times. But you would understand, DC is
+pushing for us not to do it this time because the current
+administration in the White House has stepped up their efforts to
+undermine home rule. It is looking to DC as a testing ground for
+extreme policies.
+The fact that DC has been deprived of statehood makes the people of
+the District feel even more vulnerable under this President to the
+policies of the administration. They are asserting an even stronger way
+with me and others who feel a fidelity to the home rule ideals, that we
+should take a stand now. We cannot make DC and its residents more
+vulnerable still by further eroding and encroaching upon the District
+of Columbia's right to self-governance. That is a sacrosanct ideal that
+our country has stood for.
+``No taxation without representation,'' the ability to elect your
+governing officials and entrust upon them to make decisions for your
+community.
+It is under these principles and ideals, Mr. President, that I
+object. And it is with a sincere heart that I offer my colleague the
+willingness to work with him on other ways we might be able to bestow
+an honor on this extraordinary hero.
+The PRESIDING OFFICER (Mr. Moreno). Objection is heard.
+The Senator from Texas.
+Mr. CRUZ. I must say, the objection from my friend from New Jersey is
+deeply unfortunate. The remarks that he gave were unfortunately
+seriously in error.
+The Senator from New Jersey suggested that it is only the DC City
+Council that has the power to do this. This is objectively false. DC is
+a city unlike any city in America because DC--the Constitution
+explicitly gives the authority to govern DC to the Congress of the
+United States. That is written into the Constitution.
+My friend from New Jersey said he would object if this were done in
+Newark, NJ. Well, Newark, NJ, is not in the Federal District of
+Columbia, which the Constitution gives to Congress to govern.
+It is also objectively disproven by the example I gave. We have done
+this before. When Ronald Reagan was President, he signed into law
+legislation renaming the street in front of the Soviet Union ``Sakharov
+Plaza.'' The author of that legislation is someone you and I still
+serve with. He is the senior most serving Member of this body. Senator
+Chuck Grassley, then a brandnew Senator, introduced the legislation to
+rename the street in front of the Soviet Embassy. It was part of
+shining a light on communist oppression.
+The legislation that the Senator from New Jersey just objected to is
+Cruz-Durbin. Its lead Democrat author is Senator Dick Durbin, the whip
+for the Democrat party. This is not partisan legislation.
+Indeed, this exact legislation--Senator Booker, who just objected,
+voted for it just 2 years ago in this Congress. It passed 100 to
+nothing, and 1 of those 100 was my friend Senator Booker. He voted yes.
+By the way, one of the most vocal advocates of this legislation was
+Senator Booker's former colleague Senator Bob Menendez, another Cuban-
+American. And there is a rich irony because, after Florida, the State
+of New Jersey has a massive Cuban-American population.
+To see a Senator from New Jersey objecting--I know this is not his
+intent, but the communist Government of Cuba is cheering right now
+because they do not want to acknowledge Oswaldo Paya. They murdered
+him, and they don't want to have to say his name. They don't want
+anyone to say his name.
+I know there are Cuban-American residents of New Jersey whose hearts
+are heavy right now. They are hurting to see their elected Senator
+object over not just honoring Oswaldo Paya but calling out the regime.
+Senator Booker suggests, oh, some other general statement; Paya is a
+nice guy; we should do that. That is not the purpose here. I am happy
+to support any resolution praising Oswaldo Paya. I have done so many
+times. The purpose here is to put pressure on the Cuban communist
+regime, and naming the street does that.
+As I pointed out, Senator Booker voted for this identical legislation
+just 2 years ago, this bipartisan legislation. That leads to the
+obvious question: What has changed?
+One thing has changed: the resident of 1600 Pennsylvania Avenue. When
+Senator Booker voted for this bipartisan legislation, Joe Biden was the
+President. Today, Donald J. Trump is the President. Unfortunately, our
+Democrat colleagues have decided that bipartisan cooperation is no
+longer something they are interested in. Their party is instead unified
+behind one principle, which is that they hate Donald J. Trump.
+[[Page S7137]]
+We are on day 15 of a government shutdown because the Democrats are
+unwilling to fund the Federal Government, unwilling to pass a clean
+continuing resolution.
+By the way, every one of them, including the Senator from New Jersey,
+has given speeches about how it is reckless and irresponsible to shut
+the government down, not to pass a clean continuing resolution. Yet,
+earlier today, almost every single Democrat voted, for the ninth time
+in the last 2 weeks, to shut the government down, whereas Republicans
+are unified to reopen it.
+This weekend, there will be a rally in DC of leftwing radicals, the
+so-called No Kings rally. Many, if not most, of us on the Republican
+side of the Chamber believe that the reason the government is still
+shut down is because Democrat Senators are terrified for that rally to
+occur and those leftwing radicals to see that the government is open
+because they have to demonstrate that they hate President Trump.
+Just this week, President Trump announced a historic Middle East
+peace deal. Yet virtually zero Democrats could bring themselves even to
+say his name.
+Bill Clinton praised President Trump for the Middle East peace deal.
+Hillary Clinton praised President Trump for the Middle East peace deal.
+I commend Bill and Hillary Clinton. I will say that in my time in the
+Senate, that is the first time that sentence has ever come out of my
+mouth: I commend Bill and Hillary Clinton. But why is it--indeed,
+Senator Booker put out a statement about the Middle East peace deal,
+but nowhere in it was President Trump's name to be found.
+I mentioned at the beginning of my remarks that there is power in
+saying his name. Just as the Democrats are terrified of saying the name
+``Donald J. Trump'' in any way connected to anything positive, so, too,
+are the Cuban communists terrified of saying the name ``Oswaldo Paya.''
+I am hopeful that my friend the Senator from New Jersey will put
+aside the partisan rancor that characterizes the Democrats in this body
+and will say: Let's come together and stand for the Cuban people. Let's
+stand for Cuban-Americans in this country. Let's stand for freedom.
+Let's stand for democracy. Let's stand for human rights.
+That ought to be bipartisan. Time will tell whether it continues to
+be at the U.S. Senate.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from Iowa.
+Pentagon Audits
+Mr. GRASSLEY. Mr. President, I come to the floor to speak about the
+Pentagon's unending audit failures and to once again call for
+corrective action.
+People who have been in the Senate a while know that I have been
+continually talking about this issue, many times--so many; I don't know
+how many--but I think it is something I need to keep beating the drum
+about.
+The fact is that the Pentagon is the only Government Agency that
+can't get what is called a certified audit or sometimes referred to as
+a clean audit--the only Agency of the Federal Government.
+I have been conducting oversight on this issue since the audit began
+in 1993 and have spoken about it many times. Today, I provide my
+colleagues with a new update.
+Recent Government Accountability Office testimony may have pinpointed
+the root cause audit problem. It is called the universe of
+transactions. It is a special bucket of transactions manually
+transferred from several hundred systems. It should play a pivotal role
+in the audit process.
+In theory, the universe of transactions is an accurate record of
+every transaction in financial statement balances. Auditors should be
+able to follow audit trails to verify samples taken from those
+balances.
+In practice, it doesn't work. The data is inaccurate and incomplete.
+Transactions can't be matched. Audit trails don't exist, so audits
+fail.
+I found essentially the same disconnect in the inspector general's
+first audits 30 years ago. Those audits contain these telling words:
+``No audit trail found.'' It is the same old problem--no controls over
+transactions then; none today.
+The Marine Corps recently developed a workaround for the no-audit-
+trail. It is a predicament that needed attention, and they gave it some
+attention. As a result of giving it some attention, the Marine Corps
+earned two clean opinions, but they did it the hard way.
+The marines had to create missing audit trails with labor-intensive,
+pick-and-shovel work. They dug up, ran down, matched, and verified each
+transaction. Obviously, the marines deserve credit for a job done well.
+But manual audit trail reconstruction is not a very cost-efficient
+alternative to modern accounting systems. Fully integrated systems are
+the solution. They are called for in the Chief Financial Officers Act
+that mandated the audits that I am talking about.
+Instead of investing in modern systems, Pentagon bureaucrats keep
+pouring millions year after year into ancient systems that belong in
+the junk heap.
+Thirty-five years and billions of dollars down the rat hole, and the
+DOD is still scratching their heads, wondering how to control
+transactions. Surely, they know traders solved that problem thousands
+of years ago when records were first kept on clay tablets.
+So why is the Pentagon still in the stone age? It is due to
+incompetence or deliberate bureaucratic foot-dragging or whatever.
+Getting a handle on every transaction is the key to success, and
+therein lies the rub. Integrated systems are needed, but there is
+relentless resistance to acquiring them.
+I call on Secretary of War Hegseth to create a team of independent
+system experts to examine and resolve this problem. Controlling
+transactions is the heart and soul of every accounting system--except,
+as you see, at the Pentagon. Until that truth is accepted, clean
+opinions will remain nothing but a pipe dream.
+I yield the floor.
+The PRESIDING OFFICER (Mr. Justice). The majority leader.
+____________________

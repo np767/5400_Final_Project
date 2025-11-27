@@ -1,0 +1,29 @@
+[Congressional Record Volume 164, Number 62 (Tuesday, April 17, 2018)]
+[House]
+[Page H3352]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+MARKET DATA PROTECTION
+(Mr. DAVIDSON asked and was given permission to address the House for
+1 minute and to revise and extend his remarks.)
+Mr. DAVIDSON. Mr. Speaker, the Consolidated Audit Trail stands as the
+largest financial database in the world and ranks second in size only
+to the NSA's database.
+The value of the sensitive information housed within this database
+includes Social Security numbers, broker numbers, account numbers. In
+fact, it is comparable to nine times the wealth that is in Fort Knox--
+far more sensitive than the Equifax data, whose breach affects 143
+million Americans.
+Despite the enormity of wealth within this database, the unfortunate
+reality is that its cybersecurity is not yet adequate. The Government
+Accountability Office report found the SEC's systems ``at unnecessary
+risk of compromise.'' The CAT operator recently delayed the issuing of
+technical specifications, which means that industry will have just 1
+month to transmit all of this market data.
+Mr. Speaker, I introduced the Market Data Protection Act, which
+passed this House with unanimous support, to guarantee the private
+information of hundreds of millions of Americans transmits securely and
+without risk. Mr. Speaker, I strongly urge my colleagues in the Senate
+to send this bill to the President's desk.
+____________________

@@ -1,0 +1,1207 @@
+[Congressional Record Volume 166, Number 52 (Wednesday, March 18, 2020)]
+[Senate]
+[Pages S1790-S1796]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+LEGISLATIVE SESSION
+______
+FAMILIES FIRST CORONAVIRUS RESPONSE ACT
+The PRESIDING OFFICER. The clerk will report the bill by title.
+The senior assistant legislative clerk read as follows:
+A bill (H.R. 6201) making emergency supplemental
+appropriations for the fiscal year ending September 30, 2020,
+and for other purposes.
+The PRESIDING OFFICER. The Senator from Kentucky.
+Amendment No. 1556
+Mr. PAUL. Mr. President, I call up my amendment No. 1556 and ask that
+be it reported by number.
+The PRESIDING OFFICER. The clerk will report the amendment by number.
+The legislative clerk read as follows:
+The Senator from Kentucky [Mr. Paul] proposes an amendment
+numbered 1556.
+The amendment is as follows
+(Purpose: To amend the Internal Revenue Code of 1986 to require a
+social security number for purposes of the child tax credit, to provide
+the President the authority to transfer funds as necessary, and to
+terminate United States military operations and reconstruction
+activities in Afghanistan)
+At the appropriate place, insert the following:
+SEC. ___. SOCIAL SECURITY NUMBER REQUIREMENT FOR CHILD TAX
+CREDIT.
+(a) In General.--Paragraph (1) of section 24(e) of the
+Internal Revenue Code of 1986 is amended to read as follows:
+``(1) Social security number required.--No credit shall be
+allowed under this section to a taxpayer with respect to any
+qualifying child unless the taxpayer includes the social
+security number of such child on the return of tax for the
+taxable year. For purposes of the preceding sentence, the
+term `social security number' means a social security number
+issued to an individual by the Social Security
+Administration, but only if the social security number is
+issued--
+``(A) to a citizen of the United States or pursuant to
+subclause (I) (or that portion of subclause (III) that
+relates to subclause (I)) of section 205(c)(2)(B)(i) of the
+Social Security Act, and
+``(B) before the due date for such return.''.
+(b) Conforming Amendments.--
+(1) Subsection (h) of section 24 of such Code is amended--
+(A) by striking ``paragraph (7)'' in paragraph (4)(C) and
+inserting ``subsection (e)(1)'',
+(B) by striking paragraph (7), and
+(C) by striking ``(2) through (7)'' in paragraph (1) and
+inserting ``(2) through (6)''.
+(2) Section 6213(g)(2)(I) of such Code is amended by
+striking ``TIN'' and inserting ``social security number''.
+(c) Effective Date.--The amendments made by this section
+shall apply to taxable years beginning after the date of the
+enactment of this Act.
+SEC. ___. TRANSFER AUTHORITY.
+(a) In General.--Notwithstanding any other provision of
+law, the President may transfer, as necessary and without
+limitation, amounts from any account in the Treasury to any
+other account in the Treasury being used for the purpose of
+combating, addressing, or ameliorating the coronavirus
+pandemic.
+(b) Congressional Notification.--The President shall submit
+to Congress, on each of the following dates, a notification
+detailing each transfer made under subsection (a) during the
+time period preceding the notification:
+(1) July 1, 2020.
+(2) October 1, 2020.
+(3) January 1, 2021.
+(c) Expiration.--The transfer authority in subsection (a)
+shall expire on December 31, 2020.
+SEC. ___. TERMINATION OF UNITED STATES MILITARY OPERATIONS
+AND RECONSTRUCTION ACTIVITIES IN AFGHANISTAN.
+(a) Termination.--Military operations of the United States
+Armed Forces and reconstruction activities of the United
+States Government in Afghanistan are hereby terminated.
+(b) Deadline for Complete Cessation.--Not later than
+December 31, 2020--
+(1) all United States Armed Forces shall be removed from
+Afghanistan; and
+(2) all reconstruction activities of the United States
+Government in Afghanistan shall be wound up.
+[[Page S1791]]
+(c) Prohibition on Use of Funds.--Appropriated funds may
+not be obligated or expended in connection with military
+operations and reconstruction activities described in
+subsection (a) after December 31, 2020.
+Mr. PAUL. I ask for the yeas and nays.
+The PRESIDING OFFICER. Is there a sufficient second?
+There appears to be a sufficient second.
+The yeas and nays were ordered.
+The PRESIDING OFFICER (Mrs. Loeffler). The Senator from Kentucky is
+recognized.
+Mr. PAUL. Madam President, I ask unanimous consent that the votes
+scheduled at 12:10 p.m. be allowed to begin now.
+The PRESIDING OFFICER. Is there objection?
+Without objection, it is so ordered.
+The question is on agreeing to the Paul amendment.
+The yeas and nays were ordered.
+The clerk will call the roll.
+The senior assistant legislative clerk called the roll.
+Mr. THUNE. The following Senators are necessarily absent: the Senator
+from Colorado (Mr. Gardner) and the Senator from Florida (Mr. Scott).
+The PRESIDING OFFICER (Mr. Romney). Are there any other Senators in
+the Chamber desiring to vote?
+The result was announced--yeas 3, nays 95, as follows:
+[Rollcall Vote No. 73 Leg.]
+YEAS--3
+Braun
+Lee
+Paul
+NAYS--95
+Alexander
+Baldwin
+Barrasso
+Bennet
+Blackburn
+Blumenthal
+Blunt
+Booker
+Boozman
+Brown
+Burr
+Cantwell
+Capito
+Cardin
+Carper
+Casey
+Cassidy
+Collins
+Coons
+Cornyn
+Cortez Masto
+Cotton
+Cramer
+Crapo
+Cruz
+Daines
+Duckworth
+Durbin
+Enzi
+Ernst
+Feinstein
+Fischer
+Gillibrand
+Graham
+Grassley
+Harris
+Hassan
+Hawley
+Heinrich
+Hirono
+Hoeven
+Hyde-Smith
+Inhofe
+Johnson
+Jones
+Kaine
+Kennedy
+King
+Klobuchar
+Lankford
+Leahy
+Loeffler
+Manchin
+Markey
+McConnell
+McSally
+Menendez
+Merkley
+Moran
+Murkowski
+Murphy
+Murray
+Perdue
+Peters
+Portman
+Reed
+Risch
+Roberts
+Romney
+Rosen
+Rounds
+Rubio
+Sanders
+Sasse
+Schatz
+Schumer
+Scott (SC)
+Shaheen
+Shelby
+Sinema
+Smith
+Stabenow
+Sullivan
+Tester
+Thune
+Tillis
+Toomey
+Udall
+Van Hollen
+Warner
+Warren
+Whitehouse
+Wicker
+Wyden
+Young
+NOT VOTING--2
+Gardner
+Scott (FL)
+The PRESIDING OFFICER. Under the previous order requiring 60 votes
+for the adoption of this amendment, the amendment was rejected.
+The amendment (No. 1556) was rejected.
+The PRESIDING OFFICER. The Senator from New Hampshire.
+Coronavirus
+Ms. HASSAN. Mr. President, Granite Staters are known for our all-
+hands-on-deck spirit--coming together in difficult times to support our
+friends and neighbors.
+The COVID-19 pandemic has forced us all to change our daily routines
+and adjust to new challenges; however, one thing that has not changed
+throughout this public health emergency is the compassion and empathy
+we are seeing from people all across our State.
+Every month, I recognize a person or a group of people in New
+Hampshire who have gone above and beyond to help their community. I
+recognize them as the Granite Stater of the Month. But this month, I
+couldn't choose just one person and, instead, wish to recognize all
+Granite Staters for coming together to try to slow the spread of this
+virus and to help those in need.
+All across New Hampshire, people are taking commonsense steps, both
+to keep themselves healthy and to avoid unknowingly passing along the
+virus to others, particularly those who are at high risk. This includes
+washing your hands thoroughly and for at least 20 seconds and wiping
+down frequently touched surfaces, like cell phones and door handles. It
+also means practicing social distancing by going out in public only
+when absolutely necessary and keeping at least 6 feet between you and
+another person.
+We have also seen that events people look forward to all year, like
+the Boston Marathon or St. Patrick's Day festivities, have been
+canceled or postponed. People are following public health officials'
+guidelines by staying at home and canceling long-awaited travel plans.
+Taking these necessary measures is hard and unpleasant, but it has
+been inspiring to see how many people are willing to make these
+sacrifices to protect the public health.
+Additionally, many people might contract only mild symptoms from
+COVID-19, especially those who are younger and in good health; however,
+it is heartening that so many of those individuals recognize how
+important it is to protect others who might be at higher risk, like
+those over 60 or people living with chronic health conditions.
+As many Americans know, it is also crucial that we don't overwhelm
+our healthcare system and prevent an influx of patients from crowding
+hospitals, which could lead to a shortage of critical medical equipment
+and personal protective gear. Collective actions, like staying home and
+minimizing interactions with others, will be crucial in combating this
+public health emergency.
+As people's lives continue to experience disruption, I have been
+inspired to see such a tremendous outpouring of support from people all
+across New Hampshire in an effort to help one another during this very
+difficult time. For instance, nonprofits, food pantries, and volunteers
+are partnering with local schools in New Hampshire to combat food
+insecurity in their communities. One school district held a food drive
+over the weekend with a local nonprofit. They were concerned that given
+the last-minute nature of the event, there would be low participation.
+To their surprise, the school reported that the community came out in
+droves to donate goods.
+Stories like this are abundant in communities across my State, and I
+am immensely proud of how people across New Hampshire have come
+together to respond to this public health emergency.
+In the coming weeks and months, it will be even more important that
+Granite Staters and all Americans lean on one another for support. I
+encourage everyone to reach out to your neighbors, especially those at
+higher risk, to see what you can do to help. If you have an older
+neighbor, see if they need help picking up their groceries. If you know
+someone who is a medical professional with young kids at home, ask if
+you can babysit.
+Right now, it is important for people to remember what we can all do
+to help contain the spread of this virus and that we all have a role to
+play in doing so. In New Hampshire, we pull together, and we help one
+another to get through challenging times, and I know we can come
+together to slow the spread of this virus.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from Texas.
+Mr. CORNYN. Mr. President, as healthcare professionals, first
+responders, and communities across our country work around the clock to
+fight the spread of the coronavirus, our televisions and news feeds
+have been filled with a lot of numbers--the number of new cases
+reported each day, the rising number of fatalities, unfortunately, and
+the volatile ups and downs of the stock market. All of this data paints
+a picture of the widening scope of this outbreak on a national scale,
+but it fails to represent the impact it is having on individuals and on
+small businesses in our communities.
+I think of people like Joe Kenney, who opened Cobbleheads Bar & Grill
+in Brownsville, TX, nearly 25 years ago. Like other restaurant owners
+around the country, he is trying to adapt so he can keep his doors open
+while he follows guidelines from the Centers for Disease Control and
+Prevention. He canceled the restaurant's popular St. Patrick's Day
+celebration and, instead, offered corned beef and cabbage as a takeout
+option, but he is nervous about just how long he can hold on and how he
+will be able to stay afloat.
+Joe said: ``Shutting down two, three, four weeks, you can leave 25
+years on the table with what we put into this place.''
+Joe, to his credit, is especially, worried about his more than 30
+employees and what will happen to them.
+[[Page S1792]]
+This is a familiar story for countless small businesses and their
+employees--small businesses that are losing customers through no fault
+of their own.
+Erin Willis owns RM 12:20 Bistro in northeast Dallas. When she heard
+Mayor Johnson's announcement of limiting restaurants to takeout
+service, she said: ``I just hope we can survive this.''
+Like Joe, Erin is mostly concerned about the well-being of her staff.
+Hourly workers, particularly those who rely on tips, are seeing fewer
+and fewer opportunities to collect paychecks. Erin is rotating
+employees so that everyone can have some work, but the fears about how
+long this could last are really settling in.
+She said:
+The service industry is their livelihood. If we all close,
+they literally have nothing.
+As more and more Americans are staying home, small businesses and
+their employees are the hardest hit, but the impact does not end with
+them. The hard stop on large gatherings doesn't just mean businesses,
+schools, and workplaces are shutting down; it means vital community
+events, including things like blood drives, are being canceled.
+Officials from the South Texas Blood & Tissue Center said this has
+put their community blood supply at risk of collapse, and while this
+isn't related to treating those who have been diagnosed with the
+coronavirus, it is vital to the ongoing, everyday work of our
+healthcare system. Blood donations help people who lose blood during
+major surgeries or after having suffered traumatic injuries. They also
+help those who have chronic conditions and require occasional blood
+transfusions.
+Hospitals and donation centers are taking every precaution to protect
+donors while they are fulfilling the need of blood donations, and I
+encourage all Texans who are healthy and at low risk of contracting the
+coronavirus to consider donating blood. During times like these, when
+it is, perhaps, easy to feel that circumstances are beyond your
+control, this is one small step each of us can take to support our
+communities.
+I know this is a time of serious uncertainty for both the physical
+and financial health of our families and our country, but I want to
+assure my constituents--the 29 million people I am privileged to
+represent in the State of Texas--that the Senate is working to provide
+them with the relief that we can.
+Less than 2 weeks ago, the President signed a bill we passed that
+provided $8.3 billion in emergency funding to combat the virus, which
+has sent vital funding toward treating and preventing the spread of the
+virus, including toward the purchase of masks and personal protective
+equipment, as well as in supporting the development of a vaccine,
+possible treatments, and more diagnostics. This was an important first
+step toward bolstering our response in the early phases of community
+spread, and now we are working to address the larger impact this virus
+is having on American workers, families, and our economy.
+Soon, the Senate will take another bipartisan step of providing
+support by passing the Families First Coronavirus Response Act. This
+legislation will go a long way in providing immediate relief for those
+who are struggling to make ends meet during this challenging time.
+It creates a new Federal emergency paid sick leave program for those
+who are impacted by the coronavirus. Whether workers are diagnosed with
+the virus or are caring for dependents who are affected, they will be
+able to take up to 10 days of paid sick leave, and many Texas workers
+will have access to 12 weeks of paid leave in order to care for
+dependents because of coronavirus-related school closures.
+This legislation makes important changes to unemployment insurance to
+ensure that Texans can take advantage of these benefits during this
+time of uncertainty.
+It also provides food security for Americans of all ages, from
+schoolchildren who rely on free lunches at school to seniors who are
+unable to leave their homes, for every American deserves access to
+basic nutrition.
+This bill also makes coronavirus testing free of charge for all
+Americans, and it includes a range of measures to support the
+healthcare professionals who are literally on the frontlines of this
+fight.
+I proudly support the bill, and I am eager to get it to the President
+for his signature. We shouldn't delay in sending it to his desk. We
+have been able to come together and move two bills through Congress
+that support healthcare workers, neighbors, and communities that are
+being impacted by the coronavirus. I hope this trend of bipartisanship
+will continue in the coming weeks and months as we work to build on the
+actions we have already taken.
+I echo the comment made by the majority leader that this is only the
+beginning of our efforts to support our country. We will keep working
+this week and next and for however long it takes in order to assist
+American workers and families, to support our local businesses, and to
+secure both the immediate and long-term viability of our economy. Via
+three task forces, the Senate has already begun the work of putting
+together the next economic recovery legislation, and we will not leave
+until we get that bill passed, too.
+While most Americans' daily lives have been upended by the spread of
+the coronavirus, there are countless men and women who continue to go
+to work and fill critical needs in our society. We owe a debt of
+gratitude to the dedicated healthcare professionals who are on the
+frontlines of this pandemic; to the scientists who are working
+diligently to develop a vaccine; to the first responders who are
+continuing to expose their own health for our safety; to the farmers
+and ranchers and producers who are keeping us fed; to the grocery store
+employees who are restocking shelves; and to the countless others who
+are leaving their homes and their families each morning to keep us safe
+and healthy. We need to say thank you to each of them. As these men and
+women continue doing everything they can to respond to the spread of
+the coronavirus, the Senate will do the same.
+I yield the floor.
+I suggest the absence of a quorum.
+The PRESIDING OFFICER. The clerk will call the roll.
+The legislative clerk proceeded to call the roll.
+Mrs. MURRAY. Madam President, I ask unanimous consent that the order
+for the quorum call be rescinded.
+The PRESIDING OFFICER (Mrs. Loeffler). Without objection, it is so
+ordered.
+Amendment No. 1559
+Mrs. MURRAY. Madam President, I call up amendment No. 1559, as
+provided for under the previous order.
+The PRESIDING OFFICER. The clerk will report.
+The legislative clerk read as follows:
+The Senator from Washington [Mrs. Murray] proposes an
+amendment numbered 1559.
+Mrs. MURRAY. Madam President, I ask unanimous consent that the
+reading be dispensed with.
+The PRESIDING OFFICER. Without objection, it is so ordered.
+(The amendment is printed in today's Record under ``Text of
+Amendments.'')
+Mrs. MURRAY. Madam President, I have been in the Senate during 9/11,
+for Hurricane Katrina, for the 2008 financial crisis, and I still have
+never experienced anything like what we are seeing today. These are
+truly extraordinary circumstances, and the stories I am hearing from my
+constituents and from people across the country are crushing. Some of
+the most heartbreaking stories are the ones about people who want to do
+the right thing in this moment but are having to choose between staying
+home, as public health experts say we must, and paying the rent or
+putting food on the table.
+I am hearing from workers like Cristal Westwood from Auburn, WA. She
+and her husband just welcomed their first child on February 7 of this
+year. They both have autoimmune diseases, but her husband's job is not
+allowing him to work from home. And she says:
+This is an extremely stressful situation for our family. We
+have the option for my husband to take leave without pay for
+the next month or so, but that would mean we wouldn't have
+any income coming in to support our family. He could use up
+all of his sick and vacation time, but that would mean he
+doesn't have any left for the rest of the year in case
+something happens. Both of those options don't seem right.
+I agree. That is not right. A pastor in Tukwila, WA, shared similar
+concerns
+[[Page S1793]]
+from a parent in their congregation with school-aged children who
+worries:
+What if they call off school? I don't have anyone to care
+for the kids. Then, without a paycheck, we will get evicted.
+As it is, we already run close to eviction every month.
+Since that time, all of our schools in Washington State are closed.
+And then there is Chris, who lives in Seattle, works in a grocery
+store, and is at high risk for coronavirus. She writes:
+It's an awful decision: Go to work and put your life at
+risk, or lose your job, lose your income, and lose your
+insurance. I haven't committed either way at this point. I'm
+trying to find a way to stay home.
+I am not just hearing from workers but from small business owners, as
+well, across our State, people who own restaurants and shops. Everyone
+from farmers to fishers who are used to the spring being a time when
+the phones are ringing off the hook. Now no one is coming in the door.
+No one is calling. They want to do the right thing for their workers,
+but they don't have the cashflow to keep them on.
+People are scared. They feel they have gotten the rug pulled out from
+under them, and they need our help. Unfortunately, here is what the
+Senator from Wisconsin wants to do. After the House overwhelmingly
+passed a bipartisan agreement that includes an important step forward
+to provide workers the paid sick leave they need in this crisis, his
+amendment would undo that bipartisan work by stripping any paid sick
+leave progress out of the bill we are voting on today.
+Instead of helping people keep their jobs and their paychecks by
+providing sick leave, Senator Johnson's amendment would force workers
+to seek compensation through their State unemployment system, meaning
+they would be on their own until they were compensated by the State,
+and the unemployment system in each State would be drastically
+overburdened at a time when workers are going to need it in the event
+they are laid off.
+Democrats are pushing for solutions through the unemployment
+insurance to support families and workers in the months ahead, but
+simply using this program now as a replacement for paid sick leave
+workers is unacceptable, and it is shameful. We have to do better than
+that.
+At a time when families are facing impossible decisions, my fellow
+Senators face a glaringly simple one. We need to be doing as much as we
+can as fast as we can, and his amendment would set us backward at the
+worst possible time.
+That is why I am here on the floor to offer our amendment, based on
+legislation I have worked on with Senator Gillibrand and Representative
+DeLauro, introduced yesterday. Our legislation would simply provide
+workers with 7 days of accrued paid sick leave, 2 weeks of paid
+emergency days, and 12 weeks of paid emergency leave, and it would make
+sure that their employers can be quickly and fully reimbursed by the
+Treasury Department for providing that leave.
+For those who may not be ready just yet to agree we need paid sick
+days and paid leave going forward permanently, the amended version of
+this bill that we are introducing today and asking for a vote on
+shortly would only provide this support through December 2021.
+My No. 1 priority right now is getting people the support they need
+right now for this emergency that is at hand, and this is a commonsense
+step. It is good for workers who need to stay home if they are sick or
+to take care of their family without losing a job or their paycheck,
+and it is good for small businesses that want to keep their workers and
+communities safe and that are struggling to stay afloat during this
+crisis.
+It is the right thing to do for our economy, for our public health,
+and we should get it done as soon as possible. If we don't do this, if
+we let this opportunity slip by, we are sending a message to scared
+people across the country that we are still not willing to acknowledge
+the scope of the tragedy we are seeing unfold and not listening to the
+stories like the ones I just shared, stories that I know my colleagues
+have heard as well.
+We must not and we cannot send that message. People need help; they
+need hope; and they need to see that we are willing to do the right
+thing and pass big solutions. So I hope all of our colleagues join us
+in supporting our amendment. I want to see this passed and sent to the
+President's desk as part of this response, and by the way, I am not
+going to stop fighting until that happens.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from New York is recognized
+Mrs. GILLIBRAND. Madam President, across New York State and around
+the country, schools are closing and businesses are shutting their
+doors as we face this unprecedented crisis. This public health
+emergency has exposed the weakness in our economy and in our system. We
+are not doing nearly enough for workers, for their families, and those
+who need to deal with medical and financial emergencies that this virus
+has caused.
+Congress has a duty to look out for families who are staring down
+uncertainty, fear, and financial ruin. Our top priority must be
+strengthening our public health system and ensuring that hard-working
+Americans, who are facing this crisis due to no fault of their own, can
+keep their jobs while taking care of themselves and their loved ones.
+We must also ensure that businesses, many of which have been forced
+to close their doors in the name of the public good, do not have to
+cover these unexpected costs alone. The PAID Leave Act ensures that
+every worker in America has full paid sick and family leave. It
+strengthens their financial footing. It gives certainty and confidence
+to businesses. Congress has a responsibility to pass this legislation.
+It is not only a health imperative but a financial one too.
+Unfortunately, our colleague, Senator Johnson--his amendment is
+cynical and counterproductive. This amendment would eliminate paid sick
+and family leave provisions in favor of providing coronavirus-infected
+people with unemployment compensation. So what he is saying is you have
+to actually lose your job if you need to stay home to care for a loved
+one or because you are sick yourself, and that is just wrongheaded
+because, the truth is, we want people to keep their jobs. We want
+people to have their jobs be there when they get better or when their
+family member gets better. We want them to have their jobs after they
+recover themselves. This is why paid leave and sick leave is such a
+better solution than just straight-up unemployment insurance.
+Workers deserve protections so they don't lose their job just because
+their kids' school closed, and they need to be home to look after them.
+Wouldn't any employee in America today prefer to keep their job and
+have paid sick leave rather than having to quit and take unemployment
+insurance? Wouldn't every Member of this body and President Trump
+himself want to keep unemployment numbers from exploding any further
+than they are already?
+While the unemployment system will continue to play a very important
+role for those who have lost their jobs, it cannot be the only answer.
+I thank Senator Murray for her leadership and her steadfast advocacy
+for family and medical leave and paid sick days. This amendment is
+crafted to provide extraordinary economic stimulus and support to our
+businesses when they need it absolutely the most, and most of all, it
+is giving certainty because people are afraid. They don't want to have
+to spread coronavirus to every person they work with. They don't want
+to have to leave their children unattended at home. They would love to
+stay at work, but under the circumstances, they cannot.
+Allow them to keep their jobs. Allow them to draw down on paid leave
+while their child is at home for a week, a month, or 3 months. If they
+themselves are sick, God forbid, make sure they are not in the
+community spreading this virus, make sure they can be home getting
+better and reemerging to do their work when they are well.
+Democrats stand ready to work with Senate Republicans to pass this
+important bill. We need to meet the needs of the American people today.
+This is our duty in this grave time of need.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from Wisconsin is recognized.
+Amendment No. 1558
+Mr. JOHNSON. Madam President, I call up my amendment No. 1558 and ask
+it be reported by number.
+[[Page S1794]]
+The PRESIDING OFFICER. Without objection, the clerk will report the
+amendment by number.
+The bill clerk read as follows:
+The Senator from Wisconsin [Mr. Johnson] proposes an
+amendment numbered 1558.
+The amendment is as follows
+(Purpose: To strike Federally mandated sick pay and paid family leave
+and replace it with financial support provided through State
+administered unemployment insurance systems and funds)
+Strike divisions C, E, and G.
+At the end of division D, add the following:
+SEC. __. SENSE OF CONGRESS.
+It is the sense of Congress that--
+(1) it is the intention of Congress and the administration
+to provide immediate financial support to workers who will be
+idled and lose pay and benefits because of COVID-19;
+(2) Federally mandated sick pay and paid family leave will
+prompt some employers who cannot afford this mandate to
+preemptively terminate the employment of workers they no
+longer have work for due to circumstances surrounding COVID-
+19;
+(3) even without that negative incentive, the COVID-19 will
+cause many Americans to lose their jobs, and not be eligible
+for Federally mandated sick pay or family and medical leave,
+so the only income support will be unemployment insurance;
+and
+(4) it would be more efficient to administer this Federal
+financial support for workers using only one, rather than two
+or more programs.
+SEC. __. TEMPORARY EMERGENCY FEDERAL CORONAVIRUS UNEMPLOYMENT
+INSURANCE BENEFIT PROGRAM.
+(a) In General.--In order to receive the credit against the
+Federal Unemployment Tax Act (26 U.S.C. 23), States shall
+provide temporary emergency Federal coronavirus unemployment
+insurance benefits to any individual who has worked for pay
+at any time in the last 30 days and who for any calendar day
+is not able to engage in employment due to any of the
+following reasons:
+(1) The individual is subject to a Federal, State, or local
+quarantine or isolation order related to COVID-19.
+(2) The individual has been advised by a health care
+provider to self-quarantine due to concerns related to COVID-
+19.
+(3) The individual is experiencing symptoms of COVID-19 and
+seeking medical diagnosis;
+(4) The individual is caring for an individual who is
+subject to an order as described in paragraph (1) or has been
+advised as described in paragraph (2);
+(5) The individual is caring for a son or daughter under
+the age of 18 years of such individual if the school or place
+of care of the son or daughter has been closed, or the child
+care provider of such son of daughter is unavailable, due to
+COVID-19 precautions.
+(6) The individual is subject to a temporary lay-off under
+section 604.5(a)(3) of title 20, Code of Federal Regulations,
+due to COVID-19.
+(b) Waiting Period.--States shall not require any waiting
+period in order to receive benefits for those individuals
+described in subsection (a).
+(c) Benefits.--
+(1) In general.--States shall pay benefits to those
+individuals described in subsection (a) on a weekly basis for
+each calendar day an individual is not able to engage in
+employment for up to 14 weeks.
+(2) Calculation.--
+(A) Amount.--The weekly benefit shall be the lesser of--
+(i) two-thirds of the individual's average weekly earnings;
+or
+(ii) $1,000.
+(B) Determinations.--The amount of an individual's average
+weekly earnings shall be determined by the State.
+(d) Retroactive Application.--States shall make temporary
+emergency Federal coronavirus unemployment insurance benefits
+under this section retroactively available to March 1, 2020.
+(e) Work Requirements.--Individuals receiving temporary
+emergency Federal coronavirus unemployment insurance benefits
+under this section shall not be required to search for work.
+(f) Federal Reimbursements.--The Federal government shall--
+(1) reimburse States for the full cost of complying with
+the requirements under this section that are above and beyond
+the benefits currently provided under each State's current
+unemployment insurance law for benefits paid under this
+program; and
+(2) reimburse any employer who employs fewer than 500
+employees and who voluntarily provides paid leave to an
+employee for the reasons described in subsection (a) an
+amount equal to two-thirds of the actual payment made up to
+$1,000 per week and not to exceed $10,000 per employee.
+(g) National Unemployment Rate.--For purposes of
+calculating the National unemployment rate, the Bureau of
+Labor Statistics of the Department of Labor shall not include
+workers obtaining temporary emergency Federal coronavirus
+unemployment insurance benefits.
+(h) Regulatory Authorities.--
+(1) Labor.--The Secretary of Labor (or the Secretary's
+delegate) shall prescribe such regulations or other guidance
+as may be necessary to carry out the purposes of this
+section.
+(2) Treasury.--The Secretary of Treasury (or the
+Secretary's delegate) shall prescribe such regulations or
+other guidance as may be necessary to carry out the purpose
+of this section.
+(i) Sunset.--The temporary emergency Federal coronavirus
+unemployment insurance benefit program under this section
+shall expire on the earlier of the date of the termination of
+the national emergency declared by the President under the
+National Emergencies Act (50 U.S.C. 1601 et seq.) with
+respect to the Coronavirus Disease 2019 (COVID-19) or
+December 31, 2020.
+Additional Cosponsors
+Mr. JOHNSON. Madam President, I ask unanimous consent that Senator
+Blackburn, Senator Cotton, Senator Cruz, Senator Loeffler, and Senator
+Perdue be added as cosponsors to my amendment No. 1558 to H.R. 6201.
+The PRESIDING OFFICER. Without objection, it is so ordered.
+Mr. JOHNSON. Madam President, I ask unanimous consent that I be
+allowed and the Senator from Pennsylvania be allowed to finish our
+comments before we start the vote.
+The PRESIDING OFFICER. Is there objection?
+Without objection, it is so ordered.
+Mr. JOHNSON. Madam President, we are facing, with the coronavirus, an
+unprecedented situation, certainly in my lifetime. These are
+extraordinary times we are living in and trying to live through, and
+there is no doubt that extraordinary times require extraordinary
+measures.
+The good news is that there is a lot of agreement in terms of what we
+need to do. We all recognize that Americans and American businesses are
+suffering, through no fault of their own, and they need help. We all
+want to provide that help. Hopefully, we want to provide that
+effectively and efficiently with as few negative, unintended
+consequences as possible.
+What I would suggest is, this is really no time, though, to follow
+Rahm Emanuel's famous dictate that you should never let a crisis go to
+waste. From my viewpoint, I think one of the reasons we have had a more
+successful economy--certainly far more successful than the economy, the
+slow recovery we had out of the 2009 recession--is that this
+administration has focused on reducing the regulatory burden. First we
+stopped adding to it, and then we actually reduced it. That brought a
+fair amount of optimism and animate spirits to our economy because
+businesspeople could actually concentrate on their products and their
+services rather than looking over their shoulders to find out what new
+government regulation was going to cause them to hire a new compliance
+officer, increase their cost, and possibly put them out of business.
+What I am suggesting is, when we provide that help--and we need to
+provide that help to both hard-working American workers as well as
+American businesses--that we do it in the most efficient and effective
+manner, and we do more good than harm. Now, I would argue that a new
+mandate on business is going to do a great deal of economic harm. It
+may sound good, but it is not the right way to go.
+We will eventually come out of this. We will be recovering from
+economic woes. We need to learn the lesson from 2009, where
+overregulation hampered our recovery. So let's not add a new mandate. I
+know the House bill is only temporary, but temporary becomes permanent
+around this place pretty good. As Ronald Reagan once said, the closest
+thing to eternal life in our lifetime is a government program.
+I will also say that my office has been flooded with businesses
+calling in also not believing this is only going to be temporary and
+not really having confidence in the Rube Goldberg financing mechanism
+for this, again, temporary mandate for paid sick and family leave.
+The good news is, there is a better way, and that is what my
+amendment does. It creates a temporary emergency Federal unemployment
+insurance program sitting on top of what already exists. Rather than
+having two or three or more programs trying to provide that funding to
+workers for whom we all want to provide that support, we would have
+basically a single program, a single method for doing that using State
+unemployment offices. They are already set up to do this. With some
+slight modifications, they would be able to handle this, and here would
+be the slight modifications.
+[[Page S1795]]
+First of all, our bill waives any waiting periods, but then, we also
+reimburse the States for paying unemployment during that waiting
+period. We have the exact same eligibility as the House bill. It is
+focused on those individuals affected by the coronavirus, the exact
+same definition. The benefits are identical as well. We would provide
+support. We would plus-up the State unemployment benefits up to two-
+thirds of employee's wages, not to exceed $1,000 a week.
+We also recognize those companies that are willing to voluntarily
+offer sick pay and paid family leave by reimbursing them up to that
+same level--two-thirds of actual wages, up to $1,000 per week, no more
+than $10,000 per employee. They are the exact same benefits as the
+House bill. And, of course, we actually make ours temporary.
+There will be a great deal of pressure on the part of State
+unemployment programs to get out of this as soon as they possibly can.
+But they can accept it, accept that Federal help, while they need it.
+So our bill sunsets; the earliest would be either at the expiration
+of the national declared emergency or on December 31, 2020.
+This is a commonsense piece of legislation. It does not saddle small
+businesses, American businesses, with a new mandate that they don't
+have a great deal of confidence in. It would actually be funded 100
+percent by the Federal Government. By the way, the House bill does not
+fund this 100 percent. It leaves gaps. And it would definitely be
+temporary in utilizing the existing programs in the States that are
+sitting on top of it, providing Federal support for the workers who are
+going to actually need it as we go through this unprecedented event in
+our Nation's history.
+With that, I yield the floor to the Senator from Pennsylvania.
+The PRESIDING OFFICER (Mr. Perdue). The Senator from Pennsylvania.
+Mr. TOOMEY. Mr. President, I thank the Senator from Wisconsin for
+leading on this effort.
+I rise in strong support of this amendment. The two of us--and I
+suspect almost everybody in this Chamber--fully support the idea, the
+goal, and the need to provide relief to workers who have been affected
+by this pandemic. That is not what is in dispute here. There is a
+legitimate and serious concern about the mechanism by which that is
+provided.
+The House bill imposes a very significant administrative burden on
+the very small businesses struggling to survive. We are all taking
+these phone calls from all across our States--men and women who are
+operating a business. They are on the edge, and they are trying to
+figure out: How do we stay alive? How do we keep this business alive
+until we can come out on the other side? They are struggling with all
+kinds of very, very tough decisions that they are having to make for
+the first time ever in completely unchartered waters.
+Then this legislation comes along and says: Now, by the way, you are
+going to have to figure out and navigate your way through a whole new
+system you have never heard of before, and you are going to have to go
+through all the books and the rules and regulations and consult your
+lawyer and figure out exactly how you comply with this complex, new
+mechanism so that you comply with the law and get the reimbursement
+that is intended. That is a huge problem for these folks who are
+struggling to stay alive.
+So what Senator Johnson's amendment does is this: It just shifts the
+substantial administrative costs and burdens off the back of the
+business owner and operator and allows it to be managed by the State
+unemployment systems that are in the business of providing
+compensation. We plus it up, and we waive the waiting periods so that
+the individual workers who are adversely affected by this COVID-19
+pandemic will still get the benefits that we all want them to get. It
+is just a better way to deliver this.
+So I hope my colleagues will vote in favor of it.
+I yield the floor.
+The PRESIDING OFFICER. The Senator from New York.
+Mrs. GILLIBRAND. Mr. President, I strongly disagree with both of my
+colleagues' statements because, in fact, there is no administrative
+burden given to the small businesses.
+In fact, our bill is doing exactly what the small businesses want,
+which is to provide direct payments to the businesses--not a tax credit
+that they get many months in the future but direct payments to them.
+I don't think unemployment insurance given to the States is going to
+result in immediate relief for the employees who need it. Again, you
+are creating a false structure. Requiring people to quit their jobs so
+they can care for a child who has been sent from school is absurd. It
+is far better to have a national paid leave program in this country.
+And unlike what my colleague said, it is not permanent; it is
+temporary, and there is no administrative burden.
+I yield the floor.
+Vote on Amendment No. 1559
+The PRESIDING OFFICER. All time has expired.
+The question is on agreeing to the Murray amendment.
+Mrs. MURRAY. I ask for the yeas and nays.
+The PRESIDING OFFICER. Is there a sufficient second?
+There appears to be a sufficient second.
+The clerk will call the roll.
+The bill clerk called the roll.
+Mr. THUNE. The following Senators are necessarily absent: the Senator
+from Colorado (Mr. Gardner) and the Senator from Florida (Mr. Scott).
+The PRESIDING OFFICER. Are there any other Senators in the Chamber
+desiring to vote?
+The result was announced--yeas 47, nays 51, as follows:
+[Rollcall Vote No. 74 Leg.]
+YEAS--47
+Baldwin
+Bennet
+Blumenthal
+Booker
+Brown
+Cantwell
+Cardin
+Carper
+Casey
+Coons
+Cortez Masto
+Duckworth
+Durbin
+Feinstein
+Gillibrand
+Harris
+Hassan
+Heinrich
+Hirono
+Jones
+Kaine
+King
+Klobuchar
+Leahy
+Manchin
+Markey
+Menendez
+Merkley
+Murphy
+Murray
+Peters
+Reed
+Rosen
+Sanders
+Schatz
+Schumer
+Shaheen
+Sinema
+Smith
+Stabenow
+Tester
+Udall
+Van Hollen
+Warner
+Warren
+Whitehouse
+Wyden
+NAYS--51
+Alexander
+Barrasso
+Blackburn
+Blunt
+Boozman
+Braun
+Burr
+Capito
+Cassidy
+Collins
+Cornyn
+Cotton
+Cramer
+Crapo
+Cruz
+Daines
+Enzi
+Ernst
+Fischer
+Graham
+Grassley
+Hawley
+Hoeven
+Hyde-Smith
+Inhofe
+Johnson
+Kennedy
+Lankford
+Lee
+Loeffler
+McConnell
+McSally
+Moran
+Murkowski
+Paul
+Perdue
+Portman
+Risch
+Roberts
+Romney
+Rounds
+Rubio
+Sasse
+Scott (SC)
+Shelby
+Sullivan
+Thune
+Tillis
+Toomey
+Wicker
+Young
+NOT VOTING--2
+Gardner
+Scott (FL)
+The PRESIDING OFFICER (Mr. Cotton). Under the previous order
+requiring 60 votes for the adoption of this amendment, the amendment
+was rejected.
+The amendment (No. 1559) was rejected.
+Vote on Amendment No. 1558
+The PRESIDING OFFICER. The question occurs on agreeing to amendment
+No. 1558.
+Ms. DUCKWORTH. I ask for the yeas and nays.
+The PRESIDING OFFICER. Is there a sufficient second?
+There appears to be a sufficient second.
+The clerk will call the roll.
+The senior assistant legislative clerk called the roll.
+Mr. THUNE. The following Senators are necessarily absent: the Senator
+from Colorado (Mr. Gardner) and the Senator from Florida (Mr. Scott).
+The PRESIDING OFFICER (Mr. Boozman). Are there any other Senators in
+the Chamber desiring to vote?
+The result was announced--yeas 50, nays 48, as follows:
+[Rollcall Vote No. 75 Leg.]
+YEAS--50
+Alexander
+Barrasso
+Blackburn
+Blunt
+Boozman
+Braun
+Burr
+Capito
+Cassidy
+Cornyn
+Cotton
+Cramer
+Crapo
+Cruz
+Daines
+Enzi
+Ernst
+Fischer
+Graham
+Grassley
+Hawley
+Hoeven
+Hyde-Smith
+Inhofe
+Johnson
+Kennedy
+Lankford
+Lee
+Loeffler
+Manchin
+[[Page S1796]]
+McConnell
+McSally
+Moran
+Paul
+Perdue
+Portman
+Risch
+Roberts
+Rounds
+Rubio
+Sasse
+Scott (SC)
+Shelby
+Sinema
+Sullivan
+Thune
+Tillis
+Toomey
+Wicker
+Young
+NAYS--48
+Baldwin
+Bennet
+Blumenthal
+Booker
+Brown
+Cantwell
+Cardin
+Carper
+Casey
+Collins
+Coons
+Cortez Masto
+Duckworth
+Durbin
+Feinstein
+Gillibrand
+Harris
+Hassan
+Heinrich
+Hirono
+Jones
+Kaine
+King
+Klobuchar
+Leahy
+Markey
+Menendez
+Merkley
+Murkowski
+Murphy
+Murray
+Peters
+Reed
+Romney
+Rosen
+Sanders
+Schatz
+Schumer
+Shaheen
+Smith
+Stabenow
+Tester
+Udall
+Van Hollen
+Warner
+Warren
+Whitehouse
+Wyden
+NOT VOTING--2
+Gardner
+Scott (FL)
+The PRESIDING OFFICER. On this vote, the yeas are 50, and the nays
+are 48. Under the previous order requiring 60 votes for adoption of
+this amendment, the amendment is rejected.
+The amendment (No. 1558) was rejected.
+The PRESIDING OFFICER. The clerk will read the title of the bill for
+the third time.
+The bill was ordered to a third reading and was read the third time.
+The PRESIDING OFFICER. The bill having been read the third time, the
+question is, Shall the bill pass?
+Mr. LEE. Mr. President, I ask for the yeas and nays.
+The PRESIDING OFFICER. Is there a sufficient second?
+There appears to be a sufficient second.
+The clerk will call the roll.
+The legislative clerk called the roll.
+Mr. THUNE. The following Senators are necessarily absent: the Senator
+from Colorado (Mr. Gardner) and the Senator from Florida (Mr. Scott).
+The PRESIDING OFFICER (Mrs. Blackburn). Are there any other Senators
+in the Chamber desiring to vote?
+The result was announced--yeas 90, nays 8, as follows:
+[Rollcall Vote No. 76 Leg.]
+YEAS--90
+Alexander
+Baldwin
+Barrasso
+Bennet
+Blumenthal
+Blunt
+Booker
+Boozman
+Braun
+Brown
+Burr
+Cantwell
+Capito
+Cardin
+Carper
+Casey
+Cassidy
+Collins
+Coons
+Cornyn
+Cortez Masto
+Cotton
+Cramer
+Crapo
+Cruz
+Daines
+Duckworth
+Durbin
+Enzi
+Ernst
+Feinstein
+Fischer
+Gillibrand
+Graham
+Grassley
+Harris
+Hassan
+Hawley
+Heinrich
+Hirono
+Hoeven
+Hyde-Smith
+Jones
+Kaine
+Kennedy
+King
+Klobuchar
+Leahy
+Loeffler
+Manchin
+Markey
+McConnell
+McSally
+Menendez
+Merkley
+Moran
+Murkowski
+Murphy
+Murray
+Perdue
+Peters
+Portman
+Reed
+Risch
+Roberts
+Romney
+Rosen
+Rounds
+Rubio
+Sanders
+Schatz
+Schumer
+Shaheen
+Shelby
+Sinema
+Smith
+Stabenow
+Sullivan
+Tester
+Thune
+Tillis
+Toomey
+Udall
+Van Hollen
+Warner
+Warren
+Whitehouse
+Wicker
+Wyden
+Young
+NAYS--8
+Blackburn
+Inhofe
+Johnson
+Lankford
+Lee
+Paul
+Sasse
+Scott (SC)
+NOT VOTING--2
+Gardner
+Scott (FL)
+The bill (H.R. 6201) was passed.
+The PRESIDING OFFICER. Under the previous order, the motion to
+reconsider is considered made and laid upon the table.
+The majority leader.
+Mr. McCONNELL. Madam President, we just passed the bill that came
+over from the House, and it is on its way to the President. It is a
+very important first step, which we are calling phase 2.
+We continue to work on the next bill to respond to the crisis. I want
+to repeat again that the Senate is going to stay in session until we
+finish phase 3, the next bill, and send it over to the House.
+Now, Republicans hope, shortly, to have a consolidated position along
+with the administration. Then we intend to sit down with our Democratic
+colleagues to see what we can agree to.
+I would recommend that Senators stay around, close. Just how long it
+will take to get through these steps is unclear, but as everyone knows,
+we are moving rapidly because the situation demands it.
+The PRESIDING OFFICER. The Senator from Oklahoma.
+____________________

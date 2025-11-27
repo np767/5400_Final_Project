@@ -1,0 +1,5563 @@
+[Congressional Record Volume 162, Number 5 (Friday, January 8, 2016)]
+[House]
+[Pages H200-H210]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+FAIRNESS IN CLASS ACTION LITIGATION ACT OF 2015
+The Committee resumed its sitting.
+Amendment No. 10 Offered by Mr. Nadler
+The Acting CHAIR. It is now in order to consider amendment No. 10
+printed in House Report 114-389.
+Mr. NADLER. Madam Chair, I have an amendment at the desk.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Beginning on page 2, strike line 5 and all that follows
+through line 2 on page 3, and insert the following:
+``(8) A trust described in paragraph (2) shall file with
+the bankruptcy court, not later than 60 days after the end of
+every quarter, a report that shall be made available on the
+court's public docket and with respect to each such reporting
+period contains an aggregate list of demands received and an
+aggregate list of payments made.''.
+The Acting CHAIR. Pursuant to House Resolution 581, the gentleman
+from New York (Mr. Nadler) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentleman from New York.
+Mr. NADLER. Madam Chair, my amendment would address the bill's
+serious violation of the privacy of asbestos victims. Instead of
+requiring asbestos trusts to disclose detailed personal information
+about asbestos victims, as the bill would do, my amendment would
+require aggregate reporting of the demands received and payments made
+by those trusts. This would ensure transparency of the trusts without
+jeopardizing the privacy of the victims.
+Let's remember why these asbestos trusts are established in the first
+place. Corporations that knowingly produced a toxic substance that
+killed or seriously injured unsuspecting American consumers and workers
+have since been held accountable for their practices through
+litigation. Asbestos companies that enter bankruptcy have the option of
+establishing a trust to satisfy the obligations to their victims while
+shielding themselves from future claims when they emerge from
+bankruptcy.
+As if contracting a painful and life-threatening disease like lung
+cancer or mesothelioma from exposure to asbestos is not bad enough,
+this bill would further victimize claimants by putting their personal
+information on the Internet, available to anyone who may seek to take
+advantage of them. The bill would require each asbestos trust to list
+the payment demands it has received, the amounts demanded, as well as
+the names and exposure histories of each claimant, along with the basis
+for any payment from the trust of such claimant. This information would
+be posted on the public docket of the court that established the trust,
+a docket that is easily accessible on the Internet through paying a
+nominal fee.
+Now, it is true that the reports required under this bill would not
+include any ``confidential medical record''--a term that is undefined--
+or a claimant's full Social Security number, but with just the
+information that the bill requires to be provided, one can still learn
+a tremendous amount of sensitive health information about a victim.
+Releasing such information is an invitation to scam artists, to
+identity thieves, as well as to data brokers who may use the
+information collected to deny employment or credit or insurance to the
+victims.
+To prevent this totally unnecessary and wrong invasion of privacy, my
+amendment would say, okay, we will release aggregate data from the
+trust sufficient to ensure transparency and to combat the imagined
+fraud claimed by supporters of the bill, but we won't expose the
+personal information of asbestos victims and make them vulnerable to
+further victimization.
+Rather than standing with the corporations supporting this
+legislation, which spent decades poisoning Americans with asbestos, I
+urge my colleagues to stand with Susan Vento, a fierce opponent of this
+bill and the widow of our former colleague Bruce Vento, who lost his
+life due to asbestos exposure.
+Stand with the many organizations opposing this bill that do not wish
+to see asbestos victims' personal information compromised. Stand with
+the victims who have suffered enough.
+If you believe there is fraud, fine. The amendment would say present
+the aggregate information which would prevent or reveal the fraud, but
+don't further victimize the victims by putting their personal
+information on the Internet so that they can be further victimized in
+their privacy, and in reality they can be victimized by scam artists or
+employers or others.
+I urge adoption of the Nadler amendment.
+Madam Chair, I reserve the balance of my time.
+Mr. FARENTHOLD. Madam Chair, I claim the time in opposition to the
+gentleman's amendment.
+The Acting CHAIR. The gentleman from Texas is recognized for 5
+minutes.
+Mr. FARENTHOLD. Madam Chair, the FACT Act requires increased
+transparency to combat fraud committed against the asbestos trusts.
+This amendment strikes the requirement that the asbestos trusts publish
+the very data that would be necessary to detect the fraud between the
+trusts and State court tort proceedings.
+In its place, the amendment calls for quarterly reports under the
+bill to publish only aggregate lists of demands received and aggregate
+lists of payments made by the trusts. Simple aggregation of information
+is not enough to allow defendants and State court parties and sister
+asbestos trusts to make meaningful inquiry into whether or not they are
+being defrauded.
+The amendment also removes the requirement that the asbestos trusts
+respond to information requests from parties subject to asbestos-
+related suits and imposes the cost of such requests on the inquiring
+parties. The cost-shifting element of this provision is significant. In
+fact, a GAO report found that one asbestos trust had to pay over $1
+million to respond to a discovery request. Rather than have asbestos
+trust money used to comply with discovery requests, they should be
+preserved for the payment to the victims of asbestos-related illnesses.
+This amendment not only guts the transparency requirements and
+elements of the bill, it also removes meaningful cost-saving measures.
+In fact, the bill is carefully crafted to protect folks' privacy. Here
+is what happens: The legislation ensures that claimants' confidential
+medical records and full Social Security numbers will not be made
+public.
+Trust reports are also subject to the Bankruptcy Code's existing
+privacy protections. Section 107 of the code, for example, allows
+courts to protect any information that would present an undue risk of
+identity theft or injure a claimant if disclosed. Rule 9037 of the
+Federal Rules of Bankruptcy Procedure, Privacy Protection for Filings
+Made with the Court, would also apply to these public reports. The rule
+would allow the courts to require redactions of personal and private
+information. Finally, rule 9037 will allow the courts to limit or
+prohibit electronic access to the trust reports.
+Courts throughout the country already use these rules to protect the
+personal information of individuals who file claims during asbestos
+bankruptcies. For example, the court, in overseeing a Garlock
+bankruptcy, redacted trust claims information that was introduced into
+a hearing record and later released to the public. Other courts have
+required anyone reviewing bankruptcy claims to agree to strict
+protective ordinances.
+Witnesses at the House Committee on the Judiciary on the FACT Act
+have explained that the bill does not threaten asbestos victims'
+privacy and that asbestos claimants routinely disclose more information
+than the trust would be required to report in the course of tort
+litigation and bankruptcy proceedings.
+[[Page H201]]
+For these and other reasons, I urge my colleagues to oppose the
+Nadler amendment.
+Madam Chair, I reserve the balance of my time.
+Mr. NADLER. Madam Chair, we should realize that the Bankruptcy Code
+sections cited by the distinguished gentleman from Texas are
+permissive, not mandatory. Bankruptcy Code section 107(c), for example,
+permits, but does not require, the bankruptcy court to issue an order
+prohibiting the disclosure of certain information pertaining to an
+individual's for cause if the court finds that disclosure of such
+information would create undue risk of identity theft or other unlawful
+injury to the individual or the individual's property.
+In other words, the victim here, who has been victimized by the
+people who produced the asbestos, would now have to go into court and
+request the protective order. The burden would be on the victim.
+Why are we putting the burden on the victim instead of on the
+tortfeasor? The bill would do that. The Bankruptcy Code's section 107
+so-called privacy protection is not automatic. As a result, the
+asbestos victim would have to retain counsel and go to court to prove
+cause to obtain relief. Again, you are shifting the burden further to
+the victim from the tortfeasor. That is not a very good idea, and there
+is no great necessity for it.
+If the court finds or if a trust believes that it is being defrauded,
+it can request the court to get this information. It can ask for
+discovery. Yes, discovery is expensive, but you want to shift the
+expense to the victim. That is highly unfair.
+This bill shifts tremendous burden to the victim. If he doesn't pick
+up that burden and go in for protective orders, it puts personal
+information that can be used to further victimize him open to anyone
+who wants to get it on the Internet.
+My amendment would say no, to publish aggregate data that will help
+prevent fraud--I am not sure that there is much fraud--but publish
+aggregate data that would help prevent fraud; and if you have a reason,
+then you can go and ask the court for more, instead of the other way
+around.
+The question is: Should the burden be on the tortfeasor or on the
+victim? I side with the victim.
+I urge the adoption of this amendment.
+Madam Chair, I yield back the balance of my time.
+Mr. FARENTHOLD. Madam Chair, I think we are going down a rabbit trail
+here. I agree with Mr. Nadler. This bill is designed to protect
+victims. It is not intended to increase the burdens or the cost on the
+victim. It does require the trusts to publish the name and the basis of
+the claim of folks who claim trust so that they are not double-dipped
+and pay more than one claim for the same person. That is what we are
+trying to do here.
+As we start to get into the additional information, that is further
+down the road. That is not part of the disclosure requirements of the
+FACT Act. But once the litigation proceeds and we have determined that
+somebody has filed a claim and they are in another court, the further
+information requested would normally be part of that proceeding and
+then would fall under the Bankruptcy Code rules.
+The disclosures of the FACT Act requirements from the asbestos trust
+are very limited: name and the nature of the claim and where they were
+exposed. That is less information than you have to release when you
+file any sort of tort case in a State court. It is basically what we
+consider to be the bare minimum in order to allow defendants to sniff
+out the possibility of double-dipping and fraudulent claims.
+Madam Chair, I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentleman from New York (Mr. Nadler).
+The question was taken; and the Acting Chair announced that the noes
+appeared to have it.
+Mr. NADLER. Madam Chair, I demand a recorded vote.
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, further
+proceedings on the amendment offered by the gentleman from New York
+will be postponed.
+Announcement by the Acting Chair
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, proceedings
+will now resume on those amendments printed in House Report 114-389 on
+which further proceedings were postponed, in the following order:
+Amendment No. 1 by Mr. Cohen of Tennessee.
+Amendment No. 3 by Mr. Conyers of Michigan.
+Amendment No. 4 by Mr. Deutch of Florida.
+Amendment No. 5 by Ms. Moore of Wisconsin.
+Amendment No. 6 by Ms. Moore of Wisconsin.
+Amendment No. 7 by Ms. Maxine Waters of California.
+Amendment No. 8 by Mr. Johnson of Georgia.
+Amendment No. 9 by Ms. Jackson Lee of Texas.
+Amendment No. 10 by Mr. Nadler of New York.
+The Chair will reduce to 2 minutes the minimum time for any
+electronic vote after the first vote in this series.
+Amendment No. 1 Offered by Mr. Cohen
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentleman from Tennessee
+(Mr. Cohen) on which further proceedings were postponed and on which
+the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The vote was taken by electronic device, and there were--ayes 158,
+noes 211, not voting 64, as follows:
+[Roll No. 23]
+AYES--158
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+Deutch
+Dingell
+Doyle, Michael F.
+Duckworth
+Duncan (TN)
+Edwards
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gibson
+Graham
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Israel
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Katko
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Massie
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meehan
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruppersberger
+Sanchez, Linda T.
+Schiff
+Scott, David
+Serrano
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Stefanik
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Waters, Maxine
+Watson Coleman
+Wilson (FL)
+Yarmuth
+NOES--211
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jordan
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+[[Page H202]]
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Scalise
+Schrader
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--64
+Beyer
+Black
+Brady (TX)
+Brown (FL)
+Buck
+Capuano
+Cardenas
+Chaffetz
+Chu, Judy
+Cleaver
+Costa
+Culberson
+DeLauro
+DeSaulnier
+Doggett
+Ellison
+Engel
+Farr
+Fincher
+Gohmert
+Grayson
+Harper
+Huffman
+Hurt (VA)
+Issa
+Jackson Lee
+Johnson, E. B.
+Joyce
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+McCaul
+Meeks
+Messer
+Miller (MI)
+Nugent
+Pingree
+Pocan
+Price, Tom
+Reed
+Ros-Lehtinen
+Ruiz
+Rush
+Russell
+Ryan (OH)
+Sanchez, Loretta
+Sanford
+Sarbanes
+Schakowsky
+Scott (VA)
+Sewell (AL)
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Wasserman Schultz
+Webster (FL)
+Welch
+Westerman
+Young (AK)
+{time}  1203
+Messrs. PETERSON, BRIDENSTINE, HENSARLING, and STEWART changed their
+vote from ``aye'' to ``no.''
+Ms. STEFANIK and Mr. MEEHAN changed their vote from ``no'' to
+``aye.''
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Ms. SEWELL of Alabama. Madam Chair, during rollcall vote number 23 on
+January 8, 2016, I was unavoidably detained. Had I been present, I
+would have voted ``yea.''
+Stated against:
+Mr. HURT of Virginia. Madam Chair, I was not present for rollcall
+vote No. 23 on the Cohen of Tennessee Amendment No. 1 on H.R. 1927. Had
+I been present, I would have voted ``no.''
+Amendment No. 3 Offered by Mr. Conyers
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentleman from Michigan
+(Mr. Conyers) on which further proceedings were postponed and on which
+the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 163,
+noes 221, not voting 49, as follows:
+[Roll No. 24]
+AYES--163
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Carney
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Edwards
+Ellison
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gibson
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jeffries
+Johnson (GA)
+Kaptur
+Katko
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Sean
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Scott (VA)
+Scott, David
+Serrano
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--221
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jones
+Jordan
+Joyce
+Kelly (MS)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+Massie
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schrader
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--49
+Black
+Brady (TX)
+Brown (FL)
+Capuano
+Cardenas
+Carson (IN)
+Chaffetz
+Chu, Judy
+Clark (MA)
+Cleaver
+DeLauro
+Engel
+Farr
+Fincher
+Grothman
+Harper
+Issa
+Jackson Lee
+Johnson, E. B.
+Kelly (PA)
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+Lee
+Maloney, Carolyn
+McCarthy
+Miller (MI)
+Moulton
+Nolan
+Nugent
+Pingree
+Pocan
+Price, Tom
+Ribble
+Rohrabacher
+Ros-Lehtinen
+Rush
+Sewell (AL)
+Shuster
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Wilson (SC)
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1207
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Ms. SEWELL of Alabama. Madam Chair, during rollcall vote number 24 on
+January 8, 2016, I was unavoidably detained. Had I been present, I
+would have voted ``yea.''
+Amendment No. 4 Offered by Mr. Deutch
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentleman from Florida
+(Mr. Deutch) on which further proceedings were postponed and on which
+the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+[[Page H203]]
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 163,
+noes 232, not voting 38, as follows:
+[Roll No. 25]
+AYES--163
+Adams
+Aguilar
+Ashford
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Courtney
+Crowley
+Cuellar
+Cummings
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Edwards
+Ellison
+Engel
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Graham
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Kaptur
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--232
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Cooper
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Curbelo (FL)
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gibson
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jones
+Jordan
+Joyce
+Katko
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+Massie
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Russell
+Salmon
+Sanford
+Scalise
+Schrader
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--38
+Bass
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Clark (MA)
+Cleaver
+DeLauro
+DeSaulnier
+Eshoo
+Farr
+Fincher
+Grayson
+Grothman
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+Miller (MI)
+Nolan
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1210
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Ms. ESHOO. Madam Chair, I was not present during rollcall vote number
+25 on January 8, 2016. Had I been present, I would have voted ``yes.''
+personal explanation
+Ms. CLARK of Massachusetts. Madam Chair, I was unavoidably detained
+during rollcall votes 24 and 25. Had I been present, I would have voted
+``yea'' on Conyers Amendment to H.R. 1927, and ``yea'' on the Deutch
+Amendment to H.R. 1927.
+Amendment No. 5 Offered by Ms. Moore
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentlewoman from
+Wisconsin (Ms. Moore) on which further proceedings were postponed and
+on which the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 172,
+noes 229, not voting 32, as follows:
+[Roll No. 26]
+AYES--172
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Graham
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Kaptur
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--229
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+[[Page H204]]
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gibson
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jones
+Jordan
+Joyce
+Katko
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+Massie
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--32
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Cleaver
+DeLauro
+Farr
+Fincher
+Grayson
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+{time}  1214
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Amendment No. 6 Offered by Ms. Moore
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentlewoman from
+Wisconsin (Ms. Moore) on which further proceedings were postponed and
+on which the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 177,
+noes 224, not voting 32, as follows:
+[Roll No. 27]
+AYES--177
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Dold
+Doyle, Michael F.
+Duckworth
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gibson
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Katko
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Peterson
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--224
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jordan
+Joyce
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+Massie
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--32
+Black
+Brown (FL)
+Capuano
+Cardenas
+Chaffetz
+Chu, Judy
+Cleaver
+DeLauro
+Farr
+Fincher
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1218
+Mr. DOLD changed his vote from ``no'' to ``aye.''
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Amendment No. 7 Offered by Ms. Maxine Waters of California
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentlewoman from
+California (Ms. Maxine Waters) on which further proceedings were
+postponed and on which the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+[[Page H205]]
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 177,
+noes 223, not voting 33, as follows:
+[Roll No. 28]
+AYES--177
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gibson
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Katko
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Massie
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meehan
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--223
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Joyce
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schrader
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--33
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Cleaver
+Davis, Rodney
+DeLauro
+Farr
+Fincher
+Harper
+Issa
+Johnson, E. B.
+Jordan
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1222
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Amendment No. 8 Offered by Mr. Johnson of Georgia
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentleman from Georgia
+(Mr. Johnson) on which further proceedings were postponed and on which
+the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 177,
+noes 223, answered ``present'' 1, not voting 32, as follows:
+[Roll No. 29]
+AYES--177
+Adams
+Aguilar
+Amash
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Duncan (TN)
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Massie
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--223
+Abraham
+Aderholt
+Allen
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+[[Page H206]]
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gibson
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jordan
+Joyce
+Katko
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+ANSWERED ``PRESENT''--1
+Griffith
+NOT VOTING--32
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Cleaver
+DeLauro
+Farr
+Fincher
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Rooney (FL)
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1225
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Amendment No. 9 Offered by Ms. Jackson Lee
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentlewoman from Texas
+(Ms. Jackson Lee) on which further proceedings were postponed and on
+which the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 174,
+noes 228, not voting 31, as follows:
+[Roll No. 30]
+AYES--174
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Kaptur
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Matsui
+McCollum
+McDermott
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Peterson
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--228
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gibson
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jones
+Jordan
+Joyce
+Katko
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+Massie
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--31
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Cleaver
+DeLauro
+Farr
+Fincher
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1228
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Amendment No. 10 Offered by Mr. Nadler
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentleman from New York
+(Mr. Nadler) on which further proceedings were postponed and on which
+the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+[[Page H207]]
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 179,
+noes 222, not voting 32, as follows:
+[Roll No. 31]
+AYES--179
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Duncan (TN)
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Massie
+Matsui
+McCollum
+McDermott
+McGovern
+McKinley
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Peterson
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+Zinke
+NOES--222
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comstock
+Conaway
+Cook
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gibson
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jordan
+Joyce
+Katko
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+McCaul
+McClintock
+McHenry
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+NOT VOTING--32
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Cleaver
+DeLauro
+Farr
+Fincher
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (TX)
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1232
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+The Acting CHAIR. The question is on the amendment in the nature of a
+substitute.
+The amendment was agreed to.
+The Acting CHAIR. Under the rule, the Committee rises.
+Accordingly, the Committee rose; and the Speaker pro tempore (Mr.
+Hultgren) having assumed the chair, Ms. Foxx, Acting Chair of the
+Committee of the Whole House on the state of the Union, reported that
+that Committee, having had under consideration the bill (H.R. 1927) to
+amend title 28, United States Code, to improve fairness in class action
+litigation, and, pursuant to House Resolution 581, she reported the
+bill back to the House with an amendment adopted in the Committee of
+the Whole.
+The SPEAKER pro tempore. Under the rule, the previous question is
+ordered.
+The question is on the amendment in the nature of a substitute.
+The amendment was agreed to.
+The SPEAKER pro tempore. The question is on the engrossment and third
+reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+Motion to Recommit
+Ms. McCOLLUM. Mr. Speaker, I have a motion to recommit at the desk.
+The SPEAKER pro tempore. Is the gentlewoman opposed to the bill?
+Ms. McCOLLUM. Very much so, I am opposed.
+The SPEAKER pro tempore. The Clerk will report the motion to
+recommit.
+The Clerk read as follows:
+Ms. McCollum moves to recommit the bill (H.R. 1927) to the
+Committee on the Judiciary, with instructions to report the
+bill back to the House forthwith with the following
+amendment:
+At the end of section 3 of the bill, add the following:
+(c) Protecting the Privacy of Children Injured by Asbestos
+in a School.--Paragraph (8) of section 524(g) of title 11 of
+the United States Code, as added by subsection (a), shall not
+apply with respect to a claimant whose claim is filed by or
+on behalf of an individual exposed to asbestos as a child in
+a school environment.
+The SPEAKER pro tempore. The gentlewoman from Minnesota is recognized
+for 5 minutes.
+Ms. McCOLLUM. Mr. Speaker, this is the final amendment to the bill,
+which will not kill the bill or send it back to committee. If adopted,
+the bill will immediately proceed to final passage as amended.
+Mr. Speaker, asbestos is a known carcinogen. Asbestos wreaks havoc on
+the health and livelihoods of the people exposed to it, killing
+approximately 10,000 Americans each year.
+This deadly poison can cause lung cancer and mesothelioma, an
+aggressive cancer that an estimated 3,000 Americans are diagnosed with
+each year.
+Once detected, mesothelioma victims may only survive 8 to 14 months.
+This was true for my predecessor, the late Congressman Bruce Vento.
+Bruce proudly served Minnesota's Fourth District for more than 20 years
+in this House, and many of you served with him in this Chamber.
+Bruce died from mesothelioma in 2000, only months--only months--after
+he was diagnosed. I lost a friend and a mentor. His family lost a
+husband, a father, a son, and a brother. Since then, I have worked with
+mesothelioma patients and their families to fight this awful disease,
+and to hold those responsible for asbestos exposure accountable.
+I can tell you, this legislation does not support the victims of
+asbestos. Asbestos trusts would be forced--forced--to release the
+private information of
+[[Page H208]]
+patients and their families on a public Web site. Listing a patient's
+name, their address, health and financial information, and the last
+four digits of their Social Security number exposes these patients to
+identity theft.
+H.R. 1927 would also delay any compensation victims could receive
+with new, cumbersome, and unnecessary procedural hurdles, meaning many
+victims will not live long enough to get the justice they deserve or
+know that their families will not be burdened with medical costs.
+This legislation is unacceptable for those seeking justice from
+asbestos exposure. It is especially outrageous when we know this
+legislation does not provide basic protection for children.
+This amendment would protect children. This amendment will ensure
+that children exposed to asbestos will not have their personal
+information disclosed--children exposed to asbestos from the walls, the
+ceilings, and the floors of their classrooms, or even the possible
+exposure from crayons that they used that were manufactured in China.
+Our children deserve protection. Their parents should have the peace
+of mind that their child's privacy is secure.
+As a mother, I cannot imagine the anguish of worrying about my
+child's health as they suffer from asbestos exposure, and then add the
+burden of worrying that my child's private information was exposed on a
+Web site.
+Without this amendment to the current bill, you will be voting to
+deliver sensitive information about children to criminals who could
+exploit them. Let me be clear: This information will be available to
+identity thieves and to sexual predators.
+Congressman Vento was a dedicated public servant and an asbestos
+victim. I know Bruce would be horrified that this House would allow a
+child's personal information to be exposed in this incredibly
+irresponsible manner, and we should stop it from happening. We can stop
+it from happening.
+Congress has a responsibility to find real solutions to help and
+support victims, especially children of asbestos exposure and their
+families. This bill falls far short of it.
+The least we can do here today is to protect the privacy of innocent
+children who have already suffered enough. I urge my colleagues to pass
+this amendment and to protect the privacy of vulnerable children.
+Mr. Speaker, I yield back the balance of my time.
+Mr. FARENTHOLD. Mr. Speaker, I rise in opposition to the motion to
+recommit.
+The SPEAKER pro tempore. The gentleman from Texas is recognized for 5
+minutes.
+Mr. FARENTHOLD. Mr. Speaker, I am stunned by how many people
+apparently have not read this 3-page bill. Nowhere in the bill does it
+say we are going to release addresses. Nowhere does it say we are going
+to release medical records. It is simply the name, the basis of the
+claim, and exposure.
+Furthermore, this is designed to protect victims, especially
+children. There needs to be money in these trusts for future claims. We
+want to help the children, not the plaintiffs' attorneys.
+This amendment is wholly unnecessary. If you look at rule 9037 of the
+Bankruptcy Code, by default, unless the court orders otherwise,
+information about a minor is restricted to only releasing, in any case,
+the last 4 digits of the Social Security number, the year of the
+individual's birth, the minor's initials, not the minor's name, and the
+last four digits of the financial account number.
+This motion to recommit is just a waste of time and it is
+unnecessary. It is already covered by the Bankruptcy Code.
+I yield back the balance of my time.
+The SPEAKER pro tempore. Without objection, the previous question is
+ordered on the motion to recommit.
+There was no objection.
+The SPEAKER pro tempore. The question is on the motion to recommit.
+The question was taken; and the Speaker pro tempore announced that
+the noes appeared to have it.
+Recorded Vote
+Ms. McCOLLUM. Mr. Speaker, I demand a recorded vote.
+A recorded vote was ordered.
+The SPEAKER pro tempore. Pursuant to clause 9 of rule XX, the Chair
+will reduce to 5 minutes the minimum time for any electronic vote on
+the question of passage.
+This is a 5-minute vote.
+The vote was taken by electronic device, and there were--ayes 173,
+noes 227, not voting 33, as follows:
+[Roll No. 32]
+AYES--173
+Adams
+Aguilar
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Costa
+Courtney
+Crowley
+Cuellar
+Cummings
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Matsui
+McCollum
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Peterson
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Roybal-Allard
+Ruiz
+Ruppersberger
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--227
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Comstock
+Conaway
+Cook
+Costello (PA)
+Cramer
+Crawford
+Crenshaw
+Culberson
+Curbelo (FL)
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fitzpatrick
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gibson
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jordan
+Joyce
+Katko
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+Massie
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Russell
+Salmon
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+[[Page H209]]
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+Zinke
+NOT VOTING--33
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Cleaver
+Collins (NY)
+DeLauro
+Farr
+Fincher
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+McDermott
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+Announcement by the Speaker Pro Tempore
+The SPEAKER pro tempore (during the vote). There are 2 minutes
+remaining.
+{time}  1247
+Mr. HURT of Virginia changed his vote from ``aye'' to ``no.''
+So the motion to recommit was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Mr. McDERMOTT. Mr. Speaker, on rollcall vote 32 (On Motion to
+Recommit with Instructions related to H.R. 1927), had I been present, I
+would have voted ``yea.''
+(By unanimous consent, Ms. McSally was allowed to speak out of
+order.)
+Moment of Silence Commemorating Fifth Anniversary of Shooting in
+Tucson, Arizona
+Ms. McSALLY. Mr. Speaker, I rise today with my colleagues from
+Arizona and around the country to commemorate the fifth anniversary of
+the shooting that took place on January 8, 2011, in Tucson, Arizona.
+On that sunny, chilly Saturday morning, six people were killed and 13
+were wounded at a Congress on Your Corner event, hosted by
+Congresswoman Gabrielle Giffords. The Congresswoman was among the
+injured, along with the member of her staff who would succeed her,
+Congressman Ron Barber.
+For many, the pain of that day will always be with us, but Tucson has
+not languished in grief. As we remember the victims, we also remember
+how our community rose up with courage and unity to support those
+grieving and to honor their loved ones.
+Signs of that courage are all around us. The January 8th Memorial
+Foundation is working to build a permanent tribute to the victims as
+well as to our community's response. Just feet below us in this
+building is the Gabriel Zimmerman Meeting Room, a lasting tribute to
+the congressional staffer who died while serving the men and women of
+southern Arizona.
+Today and this weekend people around southern Arizona will be coming
+together to celebrate the lives of our friends and loved ones who were
+taken too soon and to celebrate the difference they made and continue
+to make. There are hikes, bike rides, runs, storytelling, discussions,
+gatherings, and much more.
+While we know some wounds may never fully heal, by carrying on the
+legacy of those who died, we ensure their memories are never forgotten:
+Christina-Taylor Green, Dorothy Morris, Judge John Roll, Phyllis
+Schneck, Dorwan Stoddard, and Gabe Zimmerman.
+Mr. Speaker, I ask that the House observe a moment of silence in
+remembrance of those we lost.
+The SPEAKER pro tempore. Without objection, 5-minute voting will
+continue.
+There was no objection.
+The SPEAKER pro tempore. The question is on the passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Recorded Vote
+Mr. FARENTHOLD. Mr. Speaker, I demand a recorded vote.
+A recorded vote was ordered.
+The SPEAKER pro tempore. This is a 5-minute vote.
+The vote was taken by electronic device, and there were--ayes 211,
+noes 188, answered ``present'' 1, not voting 33, as follows:
+[Roll No. 33]
+AYES--211
+Abraham
+Aderholt
+Allen
+Amodei
+Babin
+Barletta
+Barr
+Barton
+Benishek
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Blackburn
+Blum
+Bost
+Boustany
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Clawson (FL)
+Coffman
+Cole
+Collins (GA)
+Comstock
+Conaway
+Cook
+Cramer
+Crawford
+Crenshaw
+Culberson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Dold
+Donovan
+Duffy
+Duncan (SC)
+Ellmers (NC)
+Emmer (MN)
+Farenthold
+Fleischmann
+Fleming
+Flores
+Forbes
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Grothman
+Guinta
+Guthrie
+Hanna
+Hardy
+Harris
+Hartzler
+Heck (NV)
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Hill
+Holding
+Hudson
+Huelskamp
+Huizenga (MI)
+Hultgren
+Hunter
+Hurd (TX)
+Hurt (VA)
+Jenkins (KS)
+Jenkins (WV)
+Johnson (OH)
+Johnson, Sam
+Jolly
+Jordan
+Joyce
+Katko
+Kelly (MS)
+Kelly (PA)
+King (NY)
+Kinzinger (IL)
+Kline
+Knight
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+Lummis
+MacArthur
+Marchant
+Marino
+McCaul
+McClintock
+McHenry
+McMorris Rodgers
+McSally
+Meadows
+Messer
+Mica
+Miller (FL)
+Moolenaar
+Mooney (WV)
+Mullin
+Mulvaney
+Murphy (PA)
+Neugebauer
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Pittenger
+Pitts
+Poe (TX)
+Poliquin
+Pompeo
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Ribble
+Rice (SC)
+Rigell
+Roby
+Roe (TN)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney (FL)
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce
+Salmon
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Stefanik
+Stewart
+Stutzman
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Walberg
+Walden
+Walorski
+Walters, Mimi
+Weber (TX)
+Wenstrup
+Westerman
+Westmoreland
+Whitfield
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Young (IN)
+Zeldin
+NOES--188
+Adams
+Aguilar
+Amash
+Ashford
+Bass
+Beatty
+Becerra
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brownley (CA)
+Burgess
+Bustos
+Butterfield
+Capps
+Cardenas
+Carney
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Costa
+Costello (PA)
+Courtney
+Crowley
+Cuellar
+Cummings
+Curbelo (FL)
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DelBene
+DeSaulnier
+Deutch
+Diaz-Balart
+Dingell
+Doggett
+Doyle, Michael F.
+Duckworth
+Duncan (TN)
+Edwards
+Ellison
+Engel
+Eshoo
+Esty
+Fattah
+Fitzpatrick
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gibson
+Graham
+Grayson
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hahn
+Hastings
+Heck (WA)
+Higgins
+Himes
+Hinojosa
+Honda
+Hoyer
+Huffman
+Israel
+Jackson Lee
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Keating
+Kelly (IL)
+Kildee
+Kilmer
+Kirkpatrick
+Kuster
+Langevin
+Larsen (WA)
+Lawrence
+Lee
+Levin
+Lewis
+Lieu, Ted
+Lipinski
+LoBiondo
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham (NM)
+Lujan, Ben Ray (NM)
+Lynch
+Maloney, Carolyn
+Maloney, Sean
+Massie
+Matsui
+McCollum
+McGovern
+McKinley
+McNerney
+Meehan
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Peterson
+Pingree
+Polis
+Price (NC)
+Quigley
+Rangel
+Rice (NY)
+Richmond
+Rogers (AL)
+Roybal-Allard
+Ruiz
+Ruppersberger
+Russell
+Ryan (OH)
+Sanchez, Linda T.
+Sanchez, Loretta
+Sarbanes
+Schakowsky
+Schiff
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Sherman
+Sinema
+Sires
+Slaughter
+Speier
+Swalwell (CA)
+Takai
+Takano
+Thompson (CA)
+Tonko
+Torres
+Tsongas
+Van Hollen
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+Zinke
+ANSWERED ``PRESENT''--1
+Griffith
+NOT VOTING--33
+Black
+Brown (FL)
+Capuano
+Chaffetz
+Chu, Judy
+Cleaver
+Collins (NY)
+DeLauro
+Farr
+Fincher
+Harper
+Issa
+Johnson, E. B.
+Kennedy
+Kind
+King (IA)
+Larson (CT)
+McCarthy
+McDermott
+Miller (MI)
+Nugent
+Pocan
+Price, Tom
+Ros-Lehtinen
+Rush
+Smith (WA)
+Stivers
+Thompson (MS)
+Titus
+Wagner
+Walker
+Webster (FL)
+Young (AK)
+{time}  1256
+Mr. CLAWSON of Florida changed his vote from ``no'' to ``aye.''
+[[Page H210]]
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+Stated against:
+Mr. McDERMOTT. Mr. Speaker, on rollcall vote 33 (On Passage related
+to H.R. 1927), had I been present, I would have voted ``nay.''
+Personal Explanation
+Mr. LARSON of Connecticut. Mr. Speaker, on January 8, 2016, I was not
+present for rollcall votes 23 through 33. If I had been present for
+these votes, I would have voted: ``aye'' on rollcall vote 23, ``aye''
+on rollcall vote 24, ``aye'' on rollcall vote 25, ``aye'' on rollcall
+vote 26, ``aye'' on rollcall vote 27, ``aye'' on rollcall vote 28,
+``aye'' on rollcall vote 29, ``aye'' on rollcall vote 30, ``aye'' on
+rollcall vote 31, ``aye'' on rollcall vote 32, and ``nay'' on rollcall
+vote 33.
+Personal Explanation
+Mr. KING of Iowa, Mr. Speaker, I was unable to vote on Friday,
+January 8, 2016. Had I been present, I would have voted as follows:
+``no'' on rollcall No. 23 (Cohen Amendment); ``no'' on rollcall No. 24
+(Conyers Amendment); ``no'' on rollcall No. 25 (Deutch Amendment);
+``no'' on rollcall No. 26 (Moore Amendment); ``no'' on rollcall No. 27
+(Moore Amendment); ``no'' on rollcall No. 28 (Waters Amendment); ``no''
+on rollcall No. 29 (Johnson Amendment); ``no'' on rollcall No. 30
+(Jackson Lee Amendment); ``no'' on rollcall No. 31 (Nadler Amendment);
+``no'' on rollcall No. 32 (Democrat Motion to Recommit); ``yes'' on
+rollcall No. 33 (Passage of H.R. 1927).
+personal explanation
+Ms. EDDIE BERNICE JOHNSON of Texas. Mr. Speaker, I was unable to vote
+on the following rollcall votes.
+Had I been present, I would have voted as follows: on rollcall vote
+2, Motion on Ordering the Previous Question on the Rule providing for
+consideration of the Senate Amendment to H.R. 3762, I would have voted
+``no.''
+On rollcall vote 3, H. Res. 579--Rule providing for consideration of
+the Senate Amendment to H.R. 3762, Restoring Americans' Healthcare
+Freedom Reconciliation Act of 2015, I would have voted ``no.''
+On rollcall vote 4, Motion on Ordering the Previous Question on the
+Rule providing for consideration of both H.R. 1155 and H.R. 712, I
+would have voted ``no.''
+On rollcall vote 5, H. Res. 580--Rule providing for consideration of
+both H.R. 1155--SCRUB Act of 2015 and H.R. 712--Sunshine for Regulatory
+Decrees and Settlements Act of 2015, I would have voted ``yes.''
+On rollcall vote 6, Motion to Concur in the Senate Amendment to H.R.
+3762--Restoring Americans' Healthcare Freedom Reconciliation Act of
+2015, I would have voted ``no.''
+On rollcall vote 7, Rep. Johnson (GA) Amendment 2 to H.R. 712,
+Sunshine for Regulatory Decrees and Settlements Act of 2015, I would
+have voted ``yes.''
+On rollcall vote 8, Reps. Cummings/Connolly Amendment to H.R. 712,
+Sunshine for Regulatory Decrees and Settlements Act of 2015, I would
+have voted ``yes.''
+On rollcall vote 9, Rep. Lynch Amendment to H.R. 712, Sunshine for
+Regulatory Decrees and Settlements Act of 2015, I would have voted
+``yes.''
+On rollcall vote 10, Reps. Johnson (GA)/Jackson-Lee Amendment 6 to
+H.R. 712, Sunshine for Regulatory Decrees and Settlements Act of 2015,
+I would have voted ``yes.''
+On rollcall vote 11, Democratic Motion to Recommit, H.R. 712,
+Sunshine for Regulatory Decrees and Settlements Act of 2015, I would
+have voted ``yes.''
+On rollcall vote 12, Final Passage of H.R. 712, Sunshine for
+Regulatory Decrees and Settlements Act of 2015, I would have voted
+``no.''
+On rollcall vote 13, Rep. Johnson (GA) Amendment to H.R. 1155,
+Searching for and Cutting Regulations that are Unnecessarily Burdensome
+Act of 2015, I would have voted ``yes.''
+On rollcall vote 14, Reps. Cummings/Connolly Amendment to H.R. 1155,
+Searching for and Cutting Regulations that are Unnecessarily Burdensome
+Act of 2015, I would have voted ``yes.''
+On rollcall vote 15, Rep. Cicilline Amendment, Searching for and
+Cutting Regulations that are Unnecessarily Burdensome Act of 2015, I
+would have voted ``yes.''
+On rollcall vote 16, Rep. DelBene Amendment, Searching for and
+Cutting Regulations that are Unnecessarily Burdensome Act of 2015, I
+would have voted ``yes.''
+On rollcall vote 17, Rep. Cicilline Amendment, Searching for and
+Cutting Regulations that are Unnecessarily Burdensome Act of 2015, I
+would have voted ``yes.''
+On rollcall vote 18, Rep. Pocan Amendment, Searching for and Cutting
+Regulations that are Unnecessarily Burdensome Act of 2015, I would have
+voted ``yes.''
+On rollcall vote 19, Democratic Motion to Recommit, Searching for and
+Cutting Regulations that are Unnecessarily Burdensome Act of 2015, I
+would have voted ``yes.''
+On rollcall vote 20, Final Passage of H.R. 1155, Searching for and
+Cutting Regulations that are Unnecessarily Burdensome Act of 2015, I
+would have voted ``no.''
+On rollcall vote 21, Motion on Ordering the Previous Question on the
+Rule providing for consideration of H.R. 1927, Fairness in Class Action
+Litigation Act of 2015, I would have voted ``no.''
+On rollcall vote 22, H. Res. 581, Rule providing for consideration of
+H.R. 1927, Fairness in Class Action Litigation Act of 2015, I would
+have voted ``no.''
+On rollcall vote 23, Rep. Cohen Amendment, H.R. 1927, Fairness in
+Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 24, Rep. Conyers Amendment, H.R. 1927, Fairness in
+Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 25, Rep. Deutch Amendment, H.R. 1927, Fairness in
+Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 26, Rep. Moore Amendment 5, H.R. 1927, Fairness in
+Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 27, Rep. Moore Amendment 6, H.R. 1927, Fairness in
+Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 28, Rep. Waters Amendment, H.R. 1927, Fairness in
+Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 29, Rep. Johnson (GA) Amendment, H.R. 1927, Fairness
+in Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 30, Rep. Jackson-Lee Amendment, H.R. 1927, Fairness
+in Class Action Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 31, Rep. Nadler, H.R. 1927, Fairness in Class Action
+Litigation Act of 2015, I would have voted ``yes.''
+On rollcall vote 32, Democratic Motion to Recommit, H.R. 1927,
+Fairness in Class Action Litigation Act of 2015, I would have voted
+``yes.''
+On rollcall vote 33, Final Passage of H.R. 1927, Fairness in Class
+Action Litigation Act of 2015, I would have voted ``no.''
+Personal Explanation
+Mr. CLEAVER. Mr. Speaker, I regrettably missed votes on January 6,
+2016, January 7, 2016, and January 8, 2016. Had I been present I would
+have voted ``no'' on rollcall vote 2, ``no'' on vote 3, ``no'' on vote
+4, ``no'' on vote 5, ``no'' on vote 6, ``yes'' on vote 7, ``yes'' on
+vote 8, ``yes'' on vote 9, ``yes'' on vote 10, ``yes'' on vote 11,
+``no'' on vote 12, ``yes'' on vote 13, ``yes'' on vote 14, ``yes'' on
+vote 15, ``yes'' on vote 16, ``yes'' on vote 17, ``yes'' on vote 18,
+``yes'' on vote 19, ``no'' on vote 20, ``no'' on vote 21, ``no'' on
+vote 22, ``yes'' on vote 23, ``yes'' on vote 24, ``yes'' on vote 25,
+``yes'' on vote 26, ``yes'' on vote 27, ``yes'' on vote 28, ``yes'' on
+vote 29, ``yes'' on vote 30, ``yes'' on vote 31, ``yes'' on vote 32,
+``no'' on vote 33.
+PERSONAL EXPLANATION
+Ms. DeLAURO. Mr. Speaker, I was unavoidably detained so I missed
+rollcall vote No. 23 regarding ``On Agreeing to the Cohen Amendment''.
+Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 24 regarding ``On Agreeing to the Conyers
+Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 25 regarding ``On Agreeing to the Deutch
+Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 26 regarding ``On Agreeing to the Moore
+Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 27 regarding ``On Agreeing to the Moore
+Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 28 regarding ``On Agreeing to the Waters,
+Maxine Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 29 regarding ``On Agreeing to the Johnson
+(GA) Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 30 regarding ``On Agreeing to the Jackson
+Lee Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 31 regarding ``On Agreeing to the Nadler
+Amendment''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 32 regarding ``On Motion to Recommit with
+Instructions''. Had I been present, I would have voted ``yea.''
+I missed rollcall vote No. 33 regarding ``To amend title 28, United
+States Code, to improve fairness in class action litigation'' (H.R.
+1927). Had I been present, I would have voted ``no.''
+____________________

@@ -1,0 +1,283 @@
+[Congressional Record Volume 163, Number 185 (Monday, November 13, 2017)]
+[House]
+[Pages H9140-H9142]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+MARKET DATA PROTECTION ACT OF 2017
+Mr. HUIZENGA. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 3973) to amend the Securities Exchange Act of 1934 to
+require certain entities to develop internal risk control mechanisms to
+safeguard and govern the storage of market data.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 3973
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Market Data Protection Act
+of 2017''.
+SEC. 2. INTERNAL RISK CONTROLS.
+The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
+is amended--
+(1) by inserting after section 4E the following:
+``SEC. 4F. INTERNAL RISK CONTROLS.
+``(a) In General.--Each of the following entities, in
+consultation with the Chief Economist, shall develop
+comprehensive internal risk control mechanisms to safeguard
+and govern the storage of all market data by such entity, all
+market data sharing agreements of such entity, and all
+academic research performed at such entity using market data:
+``(1) The Commission.
+``(2) Each national securities association registered
+pursuant to section 15A.
+``(3) The operator of the consolidated audit trail created
+by a national market system plan approved pursuant to section
+242.613 of title 17, Code of Federal Regulations (or any
+successor regulation).
+``(b) Consolidated Audit Trail Prohibited From Accepting
+Market Data Until Mechanisms Developed.--The operator
+described in paragraph (3) of subsection (a) may not accept
+market data (or shall cease accepting market data) until the
+operator has developed the mechanisms required by such
+subsection. Any requirement for a person to provide market
+data to the operator shall not apply during any time when the
+operator is prohibited by this subsection from accepting such
+data.
+``(c) Treatment of Previously Developed Mechanisms.--The
+development of comprehensive internal risk control mechanisms
+required by subsection (a) may occur, in whole or in part,
+before the date of the enactment of this section, if such
+development and such mechanisms meet the requirements of such
+subsection (including consultation with the Chief
+Economist).''; and
+(2) in section 3(a)--
+(A) by redesignating the second paragraph (80) (relating to
+funding portals) as paragraph (81); and
+(B) by adding at the end the following:
+``(82) Chief economist.--The term `Chief Economist' means
+the Director of the Division of Economic and Risk Analysis,
+or an employee of the Commission with comparable authority,
+as determined by the Commission.''.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Michigan (Mr. Huizenga) and the gentleman from California (Mr. Sherman)
+each will control 20 minutes.
+The Chair recognizes the gentleman from Michigan.
+General Leave
+Mr. HUIZENGA. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days within which to revise and extend their
+remarks and to include extraneous material on this bill.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Michigan?
+There was no objection.
+Mr. HUIZENGA. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, cybersecurity is critical to consumers, investors,
+market participants and, frankly, the very markets themselves. However,
+in April of 2016, the GAO--the Government Accountability Office--
+identified weaknesses regarding information security protocols at the
+Securities and Exchange Commission, and noted that the SEC's failure to
+implement an agencywide data security program had occurred.
+Once confirmed in May of this year, SEC Chairman Jay Clayton
+initiated an assessment of the SEC's internal cybersecurity risk
+profile and their approach to cybersecurity from a regulatory and
+oversight perspective. The SEC's internal assessment found that the
+agency had inadequate controls and that there were serious cyber and
+data risks.
+Unfortunately, in September of this year, Chairman Clayton issued a
+statement on cybersecurity in which he revealed that a cyber breach
+``previously detected in 2016 may have provided illicit gain through
+trading.''
+Specifically, a software vulnerability existed in the test filing
+component of the SEC's Electronic Data Gathering, Analysis, and
+Retrieval--also known as the EDGAR system--which resulted in access to
+nonpublic information. While this breach provided hackers access to
+highly sensitive material, at the time, the SEC believed ``the
+intrusion did not result in unauthorized access to personally
+identifiable information''--or PII, as we commonly refer to it--
+therefore, ``jeopardize the operations of the SEC, or result in a
+systemic risk.'' And that was a quote from the SEC's report.
+However, unfortunately, in a follow-up disclosure shortly after that,
+Chairman Clayton revealed that personally identifiable information,
+including names, birth dates, Social Security numbers, were actually
+compromised for two individuals in that particular breach.
+The GAO report and the EDGAR data breach underscore what is now even
+of greater concern, the sufficiency of risk control mechanisms for the
+SEC-approved consolidated audit trail, or also known as the CAT system.
+The CAT will be the most comprehensive repository of market data we
+have seen, and it will collect and identify every order, cancellation,
+and trade execution for all exchange-listed equities and options across
+all U.S. markets. It will also collect personally identifiable
+information beginning 1 year after it begins accepting market data.
+Thesys Technologies, which was selected to be the plan processor for
+the CAT, is scheduled to begin accepting data from self-regulatory
+organizations who must provide data to CAT on Wednesday, November 15,
+just merely days from today.
+Many of my colleagues, as well as market participants, have voiced
+concerns about the cost of building and implementing such a system and
+the amount of PII that will be required to be collected by the CAT.
+Last Congress, several Members wrote to former SEC Chair Mary Jo
+White expressing serious concerns
+[[Page H9141]]
+about the security of such sensitive information held within that CAT
+system, as well as those who will have access to such information.
+As I mentioned, the deadline for the SROs to begin reporting to this
+CAT system is just 2 days away. It is paramount that the SEC has
+adequate data security controls in place before that implementation.
+Previously, in committee, I had put it this way: That is a repository
+of the information of gold. Gold is the equivalent of information
+today. What they are doing is they are putting more gold into that data
+vault, and we don't have the security to support it.
+So while the CAT may be a helpful resource for the SEC, and even the
+self-regulatory agencies or organizations--SROs--once fully
+implemented, insufficient data security controls will undermine
+confidence in our markets and may very well result in the CAT being
+counterproductive.
+Thus, I joined with Financial Services Committee Chairman Hensarling
+in writing Chairman Clayton to ``encourage the SEC to delay
+implementation of the CAT system until the SEC can implement
+information security safeguards and internal controls to ensure the
+security of confidential and sensitive data.''
+No assurances for a delay in implementing the CAT have been provided,
+and even if they have, it is appropriate for Congress to set baseline
+standards to ensure that controls are in place. In other words, Mr.
+Speaker, we are trying to do our job.
+H.R. 3973, the Market Data Protection Act, introduced by
+Representatives Davidson and Sherman, is necessary to ensure that the
+SEC is properly securing critical data that supports our financial
+markets as well as the personal information of millions of customers
+with broker-dealer accounts.
+Specifically, the bipartisan legislation would mandate that the SEC,
+FINRA, and the operator of the consolidated audit trail, in
+consultation with the SEC's chief economist, develop comprehensive
+internal risk control mechanisms to safeguard and govern the storage of
+market data, all market data-sharing agreements, and all academic
+research using that market data.
+The bill also halts market data reporting to the consolidated audit
+trail until the operator of the CAT system develops such internal risk
+control mechanisms that they are deemed satisfactory.
+The EDGAR security breach and the recent massive Equifax data
+breach--and I might add, Mr. Speaker, we just saw a report of an NSA
+breach that had just happened, our largest database--well, this would
+become the second largest database in the country.
+Those breaches--in which the sensitive information of nearly 150
+million Americans have been compromised, in the Equifax breach--only
+underscore the importance of proactively ensuring that any highly
+sensitive data being collected by the Securities and Exchange
+Commission or at the SEC's discretion, subject to their oversight, is
+protected with appropriate safeguards. We owe that to the American
+people.
+The importance of cybersecurity at the SEC cannot be overstated. The
+SEC's ability to safeguard nonpublic financial information and other
+highly sensitive data instills confidence in the markets.
+SEC Commissioner Michael Piwowar recently commented regarding CAT
+that ``deadlines are important, but the SEC has one chance to get this
+right. We have to make sure that we have everything locked down. We can
+get it done, or we can get it done right. We need to get it done
+right.''
+I couldn't agree more with Commissioner Piwowar. That is why this
+legislation is so urgently needed. I commend the bipartisan work of
+Representatives Davidson and Sherman, and I urge my colleagues to vote
+in favor of this very important bill.
+Mr. Speaker, I reserve the balance of my time.
+Mr. SHERMAN. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I want to commend the sponsor of this legislation, the
+gentleman from Ohio (Mr. Davidson). It was a pleasure working with him,
+and I am pleased that he and I introduced this legislation.
+This legislation deals with a broader issue of cybersecurity. From
+Equifax to Moscow, worldwide, people are concerned with cybersecurity.
+One particular part of cybersecurity that is important is the SEC's
+accumulation of very sensitive data, whether it be about individuals
+and their trading, or about the overall market.
+In September, the SEC disclosed that hackers had breached the SEC
+EDGAR database, which is the home to millions of public and nonpublic
+filings, and that that breach had occurred in 2016. The breach, which
+was not discovered until August of this year, may have led to some
+illicit trading activities.
+This bill requires the SEC to develop and implement cybersecurity
+risk controls to ensure that market data is protected. This will help
+protect our markets from harmful disruptions and manipulative trading.
+In addition, this bill requires that FINRA--the Financial Industry
+Regulatory Authority--and the operator of the new consolidated audit
+trail develop and implement risk controls to protect the data they
+store. The new consolidated audit trail system will not accept data
+until they have the cybersecurity risk controls necessary to protect
+it.
+Once the CAT, or consolidated audit trail, is operational, it will
+serve an important purpose in assisting the SEC in identifying issues
+that deserve investigation. But it will also store a large amount of
+data, and it is important that this data be secure. We must ensure that
+there are proper controls in place.
+Now, this bill passed our committee by a vote of 59-1 in its present
+form. There was an effort after the bill passed committee to try to
+broaden the bill, and it may very well be that other related issues
+need to be dealt with by this House. But I think we made the right
+decision in bringing to the floor today the bill that passed our
+committee 59-1.
+We should then have hearings and perhaps work on additional
+legislation that will add to our ability to provide for cybersecurity
+in this area. I look forward to working with the chairman of the
+subcommittee, and Mr. Davidson, and so many others, on additional
+legislation designed to ensure our cybersecurity is as good as it can
+be, and to make sure that we are not putting information into systems
+unless we are sure that everything has been done so the systems can
+protect that information.
+Mr. Speaker, I call upon all of our colleagues to support this
+legislation that had 59-1 support in our committee, and I reserve the
+balance of my time.
+Mr. HUIZENGA. Mr. Speaker, I yield such time as he may consume to the
+gentleman from Ohio (Mr. Davidson), the sponsor of this legislation and
+a member of the Financial Services Committee.
+Mr. DAVIDSON. Mr. Speaker, I appreciate the opportunity to work with
+Mr. Sherman and the rest of the committee on this bill. It is indeed
+impressive that it was 59-1 in our committee in its present form. It
+does do some really good things, and I think the message that it really
+sends is that it is important for our government agency to lead by
+example.
+The SEC holds people that they oversee accountable for maintaining
+cybersecurity and protecting personally identifiable information.
+What we know: on September 20, Chairman Clayton highlighted that they
+had had a breach of the EDGAR system. This follows on an April 2016
+report by the GAO that highlighted some concerns with their
+cybersecurity program with SEC. The concerning thing is that when
+Chairman Clayton took over the SEC, he found this so much time
+afterwards. It wasn't part of his in-briefing. So there is a real
+concern that there could be some systemic cybersecurity risks there.
+I think it is great that our committee came together to provide SEC a
+mandate to get their own house in order in quick fashion, and to do
+that with not just their existing products, but with products that are
+on the cusp of launching: notably, the consolidated audit trail.
+{time}  1615
+The consolidated audit trail became the subject of some additional
+concerns because it is so close to launching.
+[[Page H9142]]
+What we are trusting here is that Chairman Clayton does the right
+thing--takes the message from this vote that we are about to take, and
+then begins to work with our committee to get this cybersecurity risk
+under control to provide the assurances that the American people want
+and that the markets need in order to trust that no more data is
+collected and made vulnerable than is necessary to accomplish the
+mission, but that whatever data is made available is secure.
+Mr. Speaker, I urge all of our colleagues to support the passage of
+this bill.
+Mr. SHERMAN. Mr. Speaker, I urge an ``aye'' vote. Since I have no
+speakers seeking time on my side, I yield back the balance of my time.
+Mr. HUIZENGA. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, as I had said before, when information is the equivalent
+of modern-day gold, we need to make sure that whatever vaults that
+information, that gold, is going into are properly protected--properly
+protected for consumers and their personally identifiable information.
+We have an obligation, as the government, to make sure that their
+information is protected as best as possible, and doubly so when it is
+going into government-run systems. That is the reason why H.R. 3973 is
+so imperative that it be passed.
+Mr. Speaker, I again commend my friend from Ohio (Mr. Davidson) and
+my friend from California (Mr. Sherman) on their bipartisan work on
+that.
+Mr. Speaker, I urge passage, and I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Michigan (Mr. Huizenga) that the House suspend the rules
+and pass the bill, H.R. 3973.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill was passed.
+A motion to reconsider was laid on the table.
+____________________

@@ -1,0 +1,1489 @@
+[Congressional Record Volume 167, Number 74 (Thursday, April 29, 2021)]
+[Senate]
+[Pages S2314-S2323]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+DRINKING WATER AND WASTEWATER INFRASTRUCTURE ACT OF 2021--Resumed
+The PRESIDING OFFICER. Under the previous order, the Senate will
+resume consideration of S. 914, which the clerk will report.
+The senior assistant legislative clerk read as follows:
+A bill (S. 914) to amend the Safe Drinking Water Act and
+the Federal Water Pollution Control Act to reauthorize
+programs under those Acts, and for other purposes.
+Pending:
+Duckworth (for Carper/Capito) amendment No. 1460, in the
+nature of a substitute.
+Amendment Nos. 1471, As Modified; 1461; 1469; and 1472 to Amendment No.
+1460
+The PRESIDING OFFICER. Under the previous order, the following
+amendments are the only amendments in order to S. 914, which the clerk
+will report by number.
+The senior assistant legislative clerk read as follows:
+The Senator from Florida [Mr. Rubio] proposes amendment
+numbered 1471, as modified, to amendment No. 1460.
+The amendment, as modified, is as follows
+(Purpose: To modify a provision relating to allotments under the
+Federal Water Pollution Control Act)
+At the end of section 210 (relating to clean water State
+revolving funds), add the following:
+(c) Federal Water Pollution Control Act Allotments.--
+Section 205 of the Federal Water Pollution Control Act (33
+U.S.C. 1285) is amended--
+(1) by striking the section designation and heading and all
+that follows through the end of subsection (a) and inserting
+the following:
+``SEC. 205. ALLOTMENTS.
+``(a) Fiscal Years 2022 and Thereafter.--
+``(1) Definitions.--In this subsection:
+``(A) Buy american oversight.--The term `Buy American
+oversight' means any activity carried out by the
+Administrator for the management or oversight of the
+requirements of section 608.
+``(B) United states territory.--The term `United States
+territory' means--
+``(i) American Samoa;
+``(ii) the Commonwealth of the Northern Mariana Islands;
+``(iii) the United States Virgin Islands; and
+``(iv) Guam.
+``(2) Initial allotments.--
+``(A) In general.--For each of fiscal years 2022 through
+2026, of the amounts made available to carry out this section
+for the fiscal year, the Administrator shall provide for each
+of the 50 States, the District of Columbia, the Commonwealth
+of Puerto Rico, any other territory or possession of the
+United States, United States territories, Indian Tribes, and
+Buy American oversight an allotment equal to not less than
+the allotment described in the following table:
+------------------------------------------------------------------------
+``Recipient                           Allotment
+------------------------------------------------------------------------
+Alabama....................................................       0.005
+Alaska....................................................       0.005
+Arizona....................................................       0.005
+Arkansas...................................................       0.005
+California.................................................       0.005
+Colorado...................................................       0.005
+Connecticut................................................       0.005
+Delaware...................................................       0.005
+District of Columbia.......................................       0.005
+Florida....................................................       0.005
+Georgia....................................................       0.005
+Hawaii.....................................................       0.005
+Idaho......................................................       0.005
+Illinois...................................................       0.005
+Indiana....................................................       0.005
+Iowa.......................................................       0.005
+Kansas.....................................................       0.005
+Kentucky...................................................       0.005
+Louisiana..................................................       0.005
+Maine......................................................       0.005
+Maryland...................................................       0.005
+Massachusetts..............................................       0.005
+Michigan...................................................       0.005
+Minnesota..................................................       0.005
+Mississippi................................................       0.005
+Missouri...................................................       0.005
+Montana....................................................       0.005
+Nebraska...................................................       0.005
+Nevada.....................................................       0.005
+New Hampshire..............................................       0.005
+New Jersey.................................................       0.005
+New Mexico.................................................       0.005
+New York...................................................       0.005
+North Carolina.............................................       0.005
+North Dakota...............................................       0.005
+Ohio.......................................................       0.005
+Oklahoma...................................................       0.005
+Oregon.....................................................       0.005
+Pennsylvania...............................................       0.005
+Puerto Rico................................................       0.005
+Rhode Island...............................................       0.005
+South Carolina.............................................       0.005
+South Dakota...............................................       0.005
+Tennessee..................................................       0.005
+Texas......................................................       0.005
+Utah.......................................................       0.005
+[[Page S2315]]
+Vermont....................................................       0.005
+United States territories..................................       0.015
+Virginia...................................................       0.005
+Washington.................................................       0.005
+West Virginia..............................................       0.005
+Wisconsin..................................................       0.005
+Wyoming....................................................       0.005
+Indian Tribes..............................................      0.0025
+Buy American oversight.....................................       0.001.
+------------------------------------------------------------------------
+``(B) Additional allotments to states, district of
+columbia, and puerto rico.--Notwithstanding any other
+provision of this section, for each of fiscal years 2022
+through 2026, of the amounts made available to carry out this
+section for the fiscal year remaining after all allotments
+under subparagraph (A) are provided for that fiscal year, the
+Administrator shall provide an additional allotment to each
+of the 50 States, the District of Columbia, and the
+Commonwealth of Puerto Rico in an amount based on the
+proportion that, as determined in the most recently published
+annual estimate of the Bureau of the Census--
+``(i) the population of the State, District of Columbia, or
+Commonwealth of Puerto Rico, respectively; bears to
+``(ii) the total population of all States, the District of
+Columbia, and the Commonwealth of Puerto Rico.
+The Senator from New Hampshire [Mrs. Shaheen] proposes an
+amendment numbered 1461 to amendment No. 1460.
+The amendment is as follows:
+(Purpose: To expand the eligibility under the State response to
+contaminants program)
+At the appropriate place in title I, insert the following:
+SEC. 1__. STATE RESPONSE TO CONTAMINANTS.
+Section 1459A(j)(1) of the Safe Drinking Water Act (42
+U.S.C. 300j-19a(j)(1)) is amended--
+(1) in the matter preceding subparagraph (A), by striking
+``an underserved community'' and inserting ``a community
+described in subsection (c)(2)''; and
+(2) in subparagraph (A)(i), by striking ``such
+underserved'' and inserting ``that''.
+The Senator from Louisiana [Mr. Kennedy] proposes amendment
+numbered 1469 to amendment No. 1460.
+The amendment is as follows
+(Purpose: To require the Administrator of the Environmental Protection
+Agency to carry out an annual study on the prevalence of boil water
+advisories)
+At the appropriate place, insert the following:
+SEC. ___. ANNUAL STUDY ON BOIL WATER ADVISORIES.
+(a) In General.--Not later than 1 year after the date of
+enactment of this Act, and annually thereafter, the
+Administrator shall conduct a study on the prevalence of boil
+water advisories issued in the United States.
+(b) Report.--
+(1) In general.--The Administrator shall submit to Congress
+a report describing the results of the most recent study
+conducted under subsection (a) as part of the annual budget
+request transmitted to Congress under section 1105(a) of
+title 31, United States Code.
+(2) Requirement.--In the annual report required under
+paragraph (1), the Administrator shall include a description
+of the reasons for which boil water advisories were issued
+during the year covered by the report.
+The Senator from Utah [Mr. Lee] proposes amendment numbered
+1472 to amendment No. 1460.
+The amendment is as follows
+(Purpose: To limit the authority to reserve water rights in designating
+a national monument)
+At the end, add the following:
+TITLE III--MISCELLANEOUS
+SEC. 301. RESERVATION OF WATER RIGHTS AT NATIONAL MONUMENTS.
+Section 320301 of title 54, United States Code, is amended
+by adding at the end the following:
+``(e) Water Rights.--
+``(1) No reservation of water rights.--In designating a
+national monument under subsection (a), the President may not
+reserve any implied or expressed water rights associated with
+the national monument.
+``(2) Applicable law.--Water rights associated with a
+national monument designated under subsection (a) may be
+acquired for the national monument only in accordance with
+the laws of the State in which the water rights are
+located.''.
+The PRESIDING OFFICER. The Senator from Delaware.
+S. 914
+Mr. CARPER. Madam President, the Senator is now considering S. 914,
+the Drinking Water and Wastewater Infrastructure Act of 2021. This
+legislation was reported unanimously last month by the Committee on
+Environment and Public Works on a vote of 20 to 0.
+I rise today to join Senator Capito to urge our colleagues to join us
+in voting for the adoption of this legislation. The legislation will
+help upgrade our Nation's drinking water and wastewater
+infrastructure--investments that are sorely needed.
+So that our colleagues understand the real need for drinking water
+and wastewater investments, let me just begin today by sharing a bit of
+my own personal history on these issues and invite our colleagues to
+maybe recall a bit of their own history.
+My sister Sheila and I were born in Beckley, WV, a coal mining town
+in the southern part of the State. For 2 of the 6 years that our family
+resided in the Mountain State, we lived outside of Beckley, a coal
+mining town, and we lived alongside a stream known as Beaver Creek. We
+lived outside of Beckley by a couple of miles.
+Sometimes, my sister and I, along with other kids in our tiny
+community, would play on the banks of Beaver Creek, chasing frogs,
+trying to catch the small fish that swam there. We were never allowed
+to eat fish caught in Beaver Creek, though, and our neighbors didn't
+eat them either. Why? Because we were told in no uncertain terms by our
+parents that it wasn't safe to eat those fish.
+In time, we learned some of the reasons why it wasn't safe. Some of
+the septic tanks that nearby residents relied upon were not well
+maintained, and as a result, raw sewage and other pollution would
+sometimes end up seeping into Beaver Creek.
+My sister Sheila and I would go on to grow up in Danville, VA,
+located right along the border with North Carolina. Danville, VA, had
+once been the last capital of the Confederacy. By the time we got
+there, it had become the home of Dan River Cotton Mills, as well as the
+world's biggest tobacco market. Even our radio station was WBTM,
+World's Biggest Tobacco Market. We lived in what I suppose was a
+middle-class neighborhood just outside of town, and we drank water from
+a well in our own backyard that was located less than 100 feet from our
+septic tank.
+My senior year in high school, I was fortunate enough to win a Navy
+ROTC scholarship and attended Ohio State University. There, in
+Columbus, OH, we drank water provided by the city of Columbus, which
+also treated the sewage of the city's close to half a million
+inhabitants.
+Several years after graduating from Ohio State in 1968 and while
+deployed to Southeast Asia as a naval flight officer fighting during
+the Vietnam war, I would learn that the Cuyahoga River, which flowed
+through Cleveland, OH, had actually caught on fire. I dubbed it ``the
+fire heard around the world.'' It served as a wake-up call to our
+Nation to get serious and begin addressing the air and water pollution
+that were all too prevalent in much of our country.
+Spurred by this wake-up call, our President at the time, Richard
+Nixon, by Executive order and affirmed by the Congress, created the
+Environmental Protection Agency in 1970.
+Inspired in part by the burning Cuyahoga River and outrage at the
+indiscriminate dumping of pollution into rivers, streams, and wetlands
+around this country, Congress enacted the Clean Water Act in 1972 over
+the veto of then-President Richard Nixon.
+The goals of the Clean Water Act are at the same time simple and
+profound. These are the words: to ``restore and maintain the chemical,
+physical, and biological integrity of the Nation's waters.''
+[[Page S2316]]
+Let me repeat this: to ``restore and maintain the chemical, physical,
+and biological integrity of the Nation's waters.''
+In the Clean Water Act, Congress ambitiously declared that the waters
+of the United States would be fishable and swimmable by 1983 and that
+there would be no more pollution discharged into our waters by 1985.
+Two years later, in 1974, then-President Gerald Ford signed the Safe
+Drinking Water Act into law.
+In the years that followed, cities and communities across our country
+applied to EPA for grant funding to help build new drinking water
+systems and improve existing ones. Similarly, with the help of EPA
+grants, communities across America built or upgraded wastewater
+treatment systems to clean up the wastewater being discharged into
+rivers and streams.
+Over time, grant requests greatly exceeded the funding available
+through EPA grants. During the Reagan administration, a controversial
+new approach was proposed--the creation of revolving loan funds
+administered and managed by each State. After considerable debate and
+compromise, this proposal was enacted into law. I was serving in the
+House of Representatives at the time and ended up supporting that
+proposal. Thus, the concept of State revolving funds was born in 1987.
+The Clean Water Program was an alternative financing mechanism for the
+construction of wastewater facilities. Congress extended the same
+revolving loan fund concept to Federal drinking water programs in 1996.
+Federal funds seeded revolving funds in all 50 States and in Puerto
+Rico and provided support for projects in the other territories and in
+the District of Columbia, right here. This Federal support leveraged
+State and local funding, along with revenues generated by utilities.
+In the years immediately following the creation of these funds,
+Congress periodically modified them to meet the changing needs in
+cities and communities across our country and inspire the use of new
+technologies.
+In more recent years, however, the programs languished, and the
+authorizations for the State revolving funds were in dire need of
+updating.
+In 2018, for the first time in 22 years--22 years--Congress
+reauthorized the Drinking Water State Revolving Fund. It did so for 3
+years. The Clean Water State Revolving Loan Fund, used for wastewater
+and other vital needs, has not been reauthorized in nearly--get this--
+35 years, and now the Drinking Water State Revolving Fund is set to
+expire at the end of this year.
+Somebody should do something, and that somebody is us. Needless to
+say, we have fallen woefully short of Congress's lofty ambitions to
+create fishable and swimmable waters by 1983 and to eliminate the
+discharge of pollution in navigable waters by 1985. It is also clear
+that the system we have now, despite our best efforts, isn't enough to
+meet the needs of our communities, particularly those who cannot afford
+to participate in loan programs to upgrade increasingly inadequate
+drinking water and wastewater facilities.
+For far too many families in this Nation, access to safe, clean
+drinking water and a healthy environment is, frankly, a dream, just a
+dream, and a lot of folks, too many folks, face a real crisis.
+All too often, we see headlines telling of the poor state of water
+infrastructure in our country and its lack of resilience in the face of
+severe weather. Not that long ago in Texas, earlier this year, nearly
+15 million people--15 million people--lost access to clean water when
+plummeting temperatures broke water mains and brought power down at
+drinking water facilities across that State. In Jackson, MS, that same
+harsh weather caused over 80 water main breaks and left tens of
+thousands of people without water, particularly in predominantly
+African-American neighborhoods.
+But, as we all know, this goes well beyond a few isolated cases. The
+problem of water in our Nation runs much deeper. Millions of Americans
+still lack consistent access to clean drinking water today.
+The American Society of Civil Engineers' 2021 report this year
+reported that America's infrastructure--they give out grades: A, B, C,
+D, E, F. They gave our water systems a grade of C-minus.
+I don't know about my colleagues, but I never got much of a pat on
+the back when I brought home a C-minus on my report card, and neither
+did my sister. C-minus is not satisfactory in my family or, I think,
+for our country.
+That same report early this year also revealed that there is a water
+main break every 2 minutes--every 2 minutes--in the United States and
+that 6 billion gallons of treated, drinkable water are lost each day to
+leaks and crumbling water supply systems. That begs the question: How
+much is 6 billion gallons, anyway? Well, it is enough lost water to
+fill 9,000 swimming pools. Let me repeat that. It is enough water to
+fill 9,000 swimming pools--not each year, not each month, not each
+week--every day. Some communities report losing a quarter or even half
+of their drinking water to leaking pipes.
+In my own State of Delaware, where Senator Coons and I come from,
+communities like Ellendale, DE, in the southern part of our State,
+struggled for years to find and afford safe alternatives for
+increasingly polluted drinking water wells. Ellendale is not alone.
+Thousands in communities of color and Tribal communities, rural
+communities, and others struggle, not only with access to clean water
+and wastewater treatment, but also with the capacity to afford the
+infrastructure necessary to provide and meet those services.
+Let me emphasize: Clean water is an essential part of our healthy
+lives, healthy economics, and a healthy environment. But for those
+communities who simply cannot afford to pay back loans for needed water
+infrastructure, we have to find a better way.
+I think by working across the aisle and working hard, our committee--
+the Environment and Public Works Committee--is suggesting that by way
+of this legislation before us today.
+I am pleased to report that these are the challenges that we have
+sought to address head-on with this legislation. This bipartisan
+legislation that we consider today authorizes more than $35 billion for
+drinking water and wastewater infrastructure programs at the
+Environmental Protection Agency over the next 5 years. These programs
+will create jobs and make our communities healthier by building, by
+repairing, by upgrading, and by modernizing our Nation's aging drinking
+water and wastewater infrastructure systems.
+Here is how.
+First, the measure takes the historic step of reauthorizing the Clean
+Water State Revolving Fund for the first time in 35 years--35 years.
+And it does so by increased funding levels for the first time since
+1987. This legislation also reauthorizes the Drinking Water State
+Revolving Fund, a program whose authorization expires, I mentioned
+earlier, at the end of this year. This fund helps to ensure that clean
+water flows whenever we turn on our faucet--that clean water comes out
+of it.
+Next, this bill makes sure we are helping our fellow Americans most
+in need--the least of these, the most in need--by boosting funding for
+programs that fund projects in low-income areas, rural communities and
+Tribal lands, and communities of color that have historically been left
+behind by investments in our water infrastructure. According to a
+recent analysis, water systems with multiyear Safe Drinking Water Act
+violations are 40 percent more likely to be in places with higher
+proportions of people of color. Drinking water quality violations are
+by far the most frequent in low-income rural communities, where local
+governments struggle to finance the most basic water infrastructure
+needs.
+To help resolve this historic injustice, more than 40 percent of this
+bill's investments are targeted to help disadvantaged communities. Our
+bill authorizes more than a billion in new funding to reduce lead in
+drinking water. And particularly for our country's rural areas, Tribal
+populations and low-income neighborhoods, our bill invests another
+billion into programs to connect households to drinking water and
+wastewater systems and services.
+Wide disparities in opportunity and investment are also present in
+Tribal communities. Our legislation grows the Tribal Drinking Water
+Program by 20 percent and reforms programs to help
+[[Page S2317]]
+Tribal education agencies remove lead from their drinking water
+systems, too.
+This legislation does far more than just fix what is broken. To
+borrow a phrase from our President, Joe Biden, this legislation
+actually does ``build back better'' by fortifying water infrastructure
+for new and worsening climate realities.
+I will be honest with you, Madam President and colleagues. In this
+country, ours is a future that promises more severe weather events like
+hurricanes, like floods, droughts, and bitterly cold weather. It is a
+future, like it or not, with more and more people living on the
+frontlines of sea level rise, like my home State of Delaware, the
+lowest lying State in our Nation.
+To that end, the bill provides a combined $500 million to make our
+water infrastructure systems more resilient and adaptable in the face
+of extreme weather events. Within that historic investment is a new
+$125 million program which will, for the first time, provide grants to
+communities seeking to fortify their wastewater systems against climate
+change's impact.
+Finally, with our eyes focused on the future, our bill expands
+government's role in researching and developing the water technologies
+for tomorrow, by investing in technologies to improve, for example,
+storm water control and waste management. By doing so, we can help
+American companies export innovation while not exporting jobs, rather
+by creating them right here. This is not just a bill to spend and build
+on but legislation that would direct our Agencies to build and spend
+more wisely. We know that investment in innovation, as envisioned in
+the bill before us, can have a profound positive impact on our economy,
+creating jobs and fostering growth for our entire Nation. We can, in
+short, seize the opportunity in the face of so much adversity. As we
+say in Delaware, ``Carpe diem. Seize the day.'' Actually, we say:
+``Carper diem. Seize the day.''
+There is an old African proverb that comes to mind that goes
+something like this: If you want to go fast, travel alone. If you want
+to go far, travel together. On this bill, I can proudly say Senator
+Capito and our colleagues on the Environment and Public Works Committee
+have chosen to travel together. The Drinking Water and Wastewater
+Infrastructure Act of 2021 passed out of the Environment and Public
+Works Committee with a resounding vote of 20 to 0.
+And from outside the Halls of Congress, this bill has earned praise
+from across the political spectrum, from big cities to small
+communities. A group of government officials that includes the U.S.
+Conference of Mayors wrote that this measure will ``help address the
+many water infrastructure challenges that communities face. Local
+leaders support the Drinking Water and Wastewater Infrastructure Act as
+a reliable, long-term and increased federal investment in water
+infrastructure.''
+Representing our less-populated areas of the country, there are
+places like Raleigh County in West Virginia. Raleigh County is where I
+was born, where my sister and I were born. Senator Capito knows it
+well. Senator Manchin knows it well. His wife is from there.
+Representing places like Sussex County in southern Delaware, the Rural
+Community Assistance Partnership says this about our legislation:
+``Proud to support this bill because Americans deserve clean, safe,
+reliable, and affordable drinking water, regardless of the community's
+size or zip code.'' I could not agree more.
+We know that access to safe, reliable and healthful water isn't a
+blue State or red State issue. It is an issue that goes to the core of
+the promise afforded to every American in Thomas Jefferson's
+Declaration of Independence--largely penned by Thomas Jefferson--with
+these words: a promise of ``Life, Liberty, and the pursuit of
+Happiness.'' If we would be honest with ourselves, none of us can
+expect to pursue, much less enjoy, this American ideal if we don't have
+access to clean water to drink, because without water we have no life.
+The need for action on this issue is clear. To that end, I have been
+grateful to the partnership of our ranking member, Senator Capito. I am
+proud this measure is the very first piece of infrastructure
+legislation, I believe, to be reported out of a Senate committee in
+this the 117th Congress. The Environmental and Public Works Committee
+has a long tradition, as some know, for working across the aisle to get
+significant legislation over the finish line. This bill is the latest
+example of the kind of work that we do.
+I would like to say we are work horses, not show horses.
+This is the first one that Senator Capito and I have been able to
+work on together, and I am grateful for all that she and her staff have
+done to help get us here to this day. I oftentimes say that bipartisan
+solutions are lasting solutions. Think about that: Bipartisan solutions
+are lasting solutions. That is how I think we should approach almost
+all of our work here in the Senate--by reaching out to our colleagues
+across the aisle, where we can, creating lasting solutions to problems
+and challenges facing our Nation. This bill before us today is a
+product of that kind of partnership.
+The legislation is the result of tireless, dedicated work by the
+ranking member, Senator Capito, by her staff, and by my own. I want to
+thank them and every member of our committee for all their outstanding,
+bipartisan work and for all their contributions to helping us craft
+this legislation over the last several months.
+I especially want to note on my staff: John Kane, sitting behind me;
+Margaret McIntosh, known as ``Mackie''; Tyler Hofmann-Reardon; and our
+fearless staff director, Mary Frances Repko. And I want to thank
+another member of our team, who used to be a part of our EPW team and
+is now leaving our staff. This is her last day--Ashley Morgan. We want
+to thank her for all her help in the last couple of years. I also want
+to thank Adam Tomlinson for his leadership with Ranking Member Capito
+and her EPW team, including Jess Kramer and Travis Cone. We thank them
+all very, very much.
+Finally, a big shout out to our Water Subcommittee chair, Senator
+Duckworth, for taking the lead to introduce this excellent measure,
+along with Senator Cardin and EPW subcommittee ranking members, Senator
+Lummis of Wyoming and Senator Cramer. It has been a pleasure to work
+with each of you and your staffs. I would go so far as to say that it
+was a labor of love.
+With this bill's level of support, it is my hope that we can seize
+this momentum and pass this measure quickly this week. I urge all my
+colleagues to join Senator Capito and me in supporting this excellent
+bill.
+Before I yield the floor, I want to reflect on last night and the
+address that was brought to us by our President from Delaware, Joe
+Biden, a long-time friend and colleague. I was encouraged by his
+remarks. He is not a very partisan person, and I think he reached out a
+hand of friendship to the other side of the aisle, in both the House
+and the Senate, to try to work together.
+I am a retired Navy captain, a Vietnam veteran, and a big believer in
+leadership by example. In our committee, the Environmental and Public
+Works Committee, Democrats and Republicans--Senator Capito and, before
+that, John Barrasso; before that, Barbara Boxer and, gosh, Jim Inhofe,
+as chairs of our committee--we have sought to provide bipartisan
+leadership and show by example, and we are trying to do that again here
+today.
+My hope is that, God willing, about a month from now, we will bring
+another bill up for a vote for debate in our committee on surface
+transportation, roads, highways, and bridges, and maybe continue to set
+a good example for this body and for the administration and the House,
+too.
+With that in mind, I am looking for Senator Capito. I don't see her
+on the floor, but I do see the whip, my friend Senator Thune. I think
+maybe I should yield to him.
+I should tell you guys that Senator Thune and I, almost every
+Thursday, are joined with the Chaplain of the U.S. Senate, Barry Black,
+a retired admiral who is Chaplain of the Senate now. He is good enough
+to host a Bible study in his office space. We usually end up sitting
+there. It is one of my favorite parts of the week.
+Almost every week he reminds us of Matthew 25. Senator Thune knows
+the Bible better than most pastors. It is true. Senate Chaplain Barry
+Black will oftentimes remind us of Matthew 25. It starts like this:
+``When I was thirsty, you would give me to drink.''
+[[Page S2318]]
+We have, I think, a moral imperative to act on this legislation, to
+make it better, and to be able to hammer out a compromise with the
+House and the administration. There is a moral imperative to pass
+legislation of this nature.
+There is also a fiscal imperative. I spoke about filling up how many
+thousands of swimming pools from one water leakage a day.
+There is a health imperative here in the middle of the worst health
+crisis in 200 years.
+There is an economic imperative, as well. It is hard to foster
+economic growth and development in communities where wastewater is not
+treated and there is drinking water you can't drink. Who wants to set
+up a business and go into business in places like that?
+There are a lot of reasons we need to embrace this legislation, make
+it better if we can, and send it off to the House and get it to
+conference.
+We have been joined by a new Presiding Officer. He has just joined us
+straight from New Jersey. For many years, he, Senator Booker, has
+joined us in our Bible study. He, Senator Duckworth, and I formed a
+caucus that is designed to make sure we don't overlook the least of
+these, and I salute him for his leadership and good work in that
+regard.
+With that, I see Senator Capito here. I am not sure if I should yield
+to the whip, Senator Thune, or yield to her.
+I yield the floor.
+The PRESIDING OFFICER (Mr. Booker). The Senator from South Dakota.
+Mr. THUNE. Mr. President, I would echo what my colleague from
+Delaware has said about the Chaplain's Bible study on a weekly basis.
+That, I think, is the highlight for many of us throughout the week.
+I would also say that the Senator from Delaware also has a very good
+command of the Holy Scriptures, and I appreciate the opportunity that
+he and I and others have, on a weekly basis, to participate in that
+study and would encourage other Members to join us. It is truly an
+inspirational time and is something that, I think, we all need with the
+busyness that we have on a weekly basis here in the Senate.
+(The remarks of Senator Thune pertaining to the introduction of S.
+1458 and S. 1475 are printed in today's Record under ``Statements on
+Introduced Bills and Joint Resolutions.'')
+Mr. THUNE. I yield the floor.
+The PRESIDING OFFICER. The Senator from Utah.
+State Water Rights Amendment
+Mr. LEE. Mr. President, water is one of our most precious resources,
+and it is vital to life. It is necessary for agriculture, industry,
+recreation, conservation, the development and growth of cities, and so
+many aspects of our day-to-day lives. Unfortunately, for States like
+Utah--States with a lot of Federal land and States that are dry in many
+areas--our supply for this critical resource, water, is threatened
+under the Antiquities Act.
+Why is this the case? Well, let's review the background.
+Back in 1908, the Supreme Court concluded that, when the Federal
+Government reserves land for an Indian reservation, it also implicitly
+reserves sufficient water on that land to fulfill the purposes of the
+reservation, creating the ``Federal reserved water rights'' doctrine.
+In later cases, the Court expanded that doctrine to apply to other
+Federal properties--other Federal properties like national forests and
+recreation areas.
+Then, in 1976, the Supreme Court held that the doctrine applied to
+national monuments created by the President. In other words, it
+affirmed the President's authority unilaterally to change the legal
+water rights within a State simply by designating a monument under the
+Antiquities Act
+Now, under the Antiquities Act, the President has the authority and
+the discretion to create a monument, as long as there is Federal land.
+So it makes a State like mine, 67 percent of which is owned by the
+Federal Government, a sitting duck for abuse.
+Now, we have talked about Antiquities Act abuses in other contexts.
+Here, I am focusing in on a very narrow ramification of Antiquities Act
+abuse, which relates to water rights. It is only that narrow
+ramification that I am trying to address with this amendment.
+Monument designations can be and often are made without the approval
+of the State and its inhabitants. And, unfortunately, in recent years,
+these designations have grown rather significantly in size and in
+scope.
+The result for public land States, like Utah, is involved in access
+and use to the water supply being significantly curtailed. In some
+cases, privately held water rights are even terminated altogether, and
+it opens up the door to even greater abuse under the Antiquities Act
+down the road.
+Imagine for a moment if a proposal for a national monument were
+designated in just one river basin, such as the Grand Canyon. In order
+to preserve the flow of water on the Colorado River through the Grand
+Canyon, water rights--legally established, longstanding, long-
+established water rights--could be eliminated, completely eliminated in
+Colorado, in Utah, in Arizona, in Nevada, in California through the
+stroke of the executive pen.
+A reservation of water could reduce or eliminate drinking water for
+communities across the West. It could eliminate irrigation water for
+almonds or grapes in California or Sudan grass in Utah. The perils are
+endless.
+That is why I am introducing an amendment that would prevent the
+President from unilaterally creating reserved water rights when
+designating a national monument.
+Now, it is important for me to mention--now that I have explained
+what this amendment would do, I want to talk about what it would not
+do.
+My amendment would not prevent the President from creating a national
+monument itself. And, furthermore, it would still allow for water
+rights to be acquired for a monument through the State system in which
+the water rights themselves reside.
+It would simply and fairly give States a say in the process,
+regardless of how you feel about national monuments or about the
+Antiquities Act. I have made clear in the past I have got grave
+concerns with the Antiquities Act, and I believe it needs to be
+repealed. This bill does not do that. This bill simply cabins off water
+rights and says that water rights need to be handled through the legal
+process to which they would otherwise be handled, to which they would
+otherwise be subjected.
+This is a simple, commonsense solution to ensure that Utah and other
+States where there is a lot of Federal public land are guaranteed the
+protection of their existing water rights and a reliable water supply.
+It would be easy to dismiss or denigrate or downplay the importance of
+this if you live in a State where there is not much Federal land. But
+if you live in a State like mine, where most of the land is owned by
+the Federal Government, you can understand how quickly this could
+become destructive, if abused, and that is exactly why we need this
+amendment.
+I urge all my colleagues to support it.
+The PRESIDING OFFICER. The Senator from Delaware
+Mr. CARPER. Mr. President, my neighbor, I want to take a few minutes
+this morning--additional minutes this morning to discuss the water
+issues facing rural America, and the Presiding Officer comes from the
+Garden State, and a lot of people who have heard Senator Coons and me
+talk about our State think of us as the poultry State. We think, for
+about every person who lives in Delaware, we have got about 300
+chickens. We raise a lot of the corn and soybeans to feed those
+chickens. So almost every State is a rural State in one way or the
+other.
+But the issues facing rural America often do not get the same level
+of attention or assistance with drinking water and wastewater programs
+that larger, more urban or suburban areas receive.
+As our Committee on Environment and Public Works was drafting the
+Drinking Water and Wastewater Infrastructure Act of 2021, the
+legislation before us today, many of us focused on the need to invest
+in small, rural, and disadvantaged communities because they often--to
+be honest with you, often get left behind.
+These communities are overlooked or overburdened when it comes to
+addressing the drinking water and wastewater needs of their residents
+too often.
+[[Page S2319]]
+Most of our country's drinking water and wastewater utilities are
+small. Approximately, 80 percent of the country's almost 17,000
+wastewater utilities serve a population of fewer than 10,000 people.
+More than 90 percent of the country's 43,000 community water systems
+serve a population of fewer than 10,000 people.
+Small and rural communities have more difficulty affording public
+water service. These communities lack the population density needed to
+financially support a public drinking water system, and if they have
+managed to build a system, they often lack the people to properly staff
+it.
+In fact--I was shocked to hear this, but 43 percent of small water
+systems are operated and staffed by one person, by one single person.
+Forty-three percent of small water systems are operated and staffed by
+one person.
+These rural towns' and villages' drinking systems face the same
+challenges as large systems, larger systems, in making sure that water
+is safe, making sure the water is clean, making sure that the water is
+reliable.
+Complicating matters, these communities have to do it with far fewer
+resources, in many instances.
+I want to share just a couple of examples of challenges facing these
+communities just from my own home State, and I am sure every Member of
+this body can provide examples in their own States.
+For example, there is a town called Selbyville. It is right on the
+Delaware-Maryland line, not too far from Rehoboth Beach and Dewey and
+Bethany Beaches. But Selbyville is currently operating without a fully
+licensed water treatment operator due to the death of a longtime
+operator who passed away after a long battle with cancer. The only
+other licensed operator for the town is currently out on disability,
+and the remaining two operators are not fully licensed.
+Through the Technical Assistance Program that this bill would
+reauthorize, the town has been able to obtain the required training to
+prepare the two partially licensed operators for the State licensing
+exam.
+This program has helped to train these individuals in areas like
+disinfection control, filtration, provide the onsite technical
+assistance for leak detection and hydrant maintenance.
+Another example, the Pepper Ridge Mobile Park in Frankford, DE--not
+too far away--suffered many years of waterline breakage, low water
+pressure, no hydrants, valves, levers, and inadequate distribution
+lines.
+The Delaware Rural Water Association, through our State revolving
+fund, was able to obtain funds to do a full water line upgrade.
+And incidentally, we will also reauthorize this program at an
+increased level of funding.
+This legislation before us today specifically helps rural and
+smalltown America by reauthorizing critical programs like the ones I
+just mentioned in my own State and by adjusting the cost share for
+these communities to make these infrastructure upgrades more affordable
+to ratepayers.
+Passing this legislation will be an important step toward addressing
+the overwhelming infrastructure needs of 43,000 water systems in rural
+communities, many of which have one person operating that system.
+According to the most recent EPA drinking water infrastructure
+assessment, rural drinking water needs are currently estimated at $74
+billion over the next 20 years, including $3.3 billion just for Indian
+Country.
+To help rural communities, this bill expands drinking water technical
+assistance opportunities for rural communities by authorizing more than
+$75 million in technical assistance grants.
+We have been joined on the floor by the prime author of this
+legislation, the Senator from Illinois, and I am just going to stop
+where I am in my discourse on rural American water needs of a lot of
+our rural communities and to yield the floor, unless Senator Capito--
+no. Senator Duckworth.
+I just want to thank Senator Duckworth for being the prime sponsor of
+this legislation, for allowing the rest of us--we have a big racetrack,
+Dover Downs NASCAR track, we use the term ``drafting,'' when one car
+gets really close behind the other and kind of holds on, but we want to
+thank Senator Duckworth for allowing the rest of us to draft on her
+legislation that she and Senator Lummis from Wyoming have introduced,
+and we are grateful for her leadership
+I yield the floor.
+The PRESIDING OFFICER. The Senator from Illinois.
+Ms. DUCKWORTH. Mr. President, I remember sitting in a House Oversight
+Committee hearing years ago on the Flint water crisis. At the time, my
+oldest daughter Abigail was just a year old.
+I remember looking out into the audience and seeing just a hand
+holding a baby bottle up from the middle of a crowd in that hearing
+room. That baby bottle looked exactly like the one that my own baby
+drank out of. It was a little bottle with a pink top.
+But unlike my daughter's bottle, the water in this one was brown, a
+muddy, murky brown.
+I couldn't, and all these years later I still can't, begin to imagine
+what it would have been like to have to drink that water while I was
+pregnant or to have no choice but to give it to my baby because the
+system that I trusted to provide my family with clean, safe drinking
+water had failed me.
+But that kind of nightmare remains the everyday reality for far, far
+too many parents across this country.
+It has been 7 years since the leaders of the city of Flint tried to
+save a few dollars by swapping out its drinking water supply from
+Detroit's system to the Flint River, setting off a chain of events that
+poisoned nearly 9,000 kids in just 18 months.
+But the damage inflicted on that community will never go away, and
+while Flint was a tragedy, it was not an anomaly. According to both the
+EPA and CDC, there is no known safe level of lead in a child's blood.
+Yet more than 6 million homes continue to get water from lead service
+lines, including in my own home State of Illinois, which has more known
+lead service lines than any other State in the country.
+And despite lead service lines being banned nearly 35 years ago, as
+of 2019, roughly half a million children under the age of 6 still had
+elevated levels of lead in their blood--something that can cause
+permanent brain damage.
+And lead is just one of the many issues that communities struggle
+with every day due to our outdated and dilapidated water systems.
+But instead of working to address these known issues, the Federal
+Government's share of capital spending in the water sector fell from 63
+percent in 1977 to a meager 9 percent in 2017.
+And now, our dwindling Federal and State investments into our water
+infrastructure are allowing countless Americans to be exposed to
+pollutants, whether it is from taking a sip from their kitchen faucets
+or even just living near an outdated stormwater system.
+Part of the problem with water infrastructure is that it is expensive
+and no one sees it--out of sight, out of mind. But that only lasts
+until there is a major problem, like in Texas, where over 15 million
+people were temporarily left without access to clean water.
+Well, we have to stop waiting for our infrastructure to fail before
+we invest in it. We cannot wait around for another crisis to sicken our
+families before we decide to put real State and Federal dollars into
+rebuilding our drinking water and wastewater systems.
+Imagine if your child was one of those who had gotten sick because
+legislators refused to take action on such an obvious crisis. Imagine
+if you had to be the one to get your newborn to sip on water too opaque
+to see through.
+We should not let even one more parent suffer through that worst-case
+scenario. Access to clean water is a human right, and every American
+deserves access to clean water, no matter their ZIP Code, the color of
+their skin, or the size of their income.
+It is long, long past time that we turn that right into a reality by
+investing in the kinds of projects that would put Americans back to
+work rebuilding our crumbling water infrastructure. We must
+dramatically increase Federal investments to provide every family
+access to the most basic human needs--clean water.
+That is one reason why I introduced the Drinking Water and Wastewater
+Infrastructure Act of 2021. If our Nation
+[[Page S2320]]
+truly wants to build back better, we can't only pour money into fixing
+our roads while failing to repair the pipes beneath them.
+Because water infrastructure is infrastructure, everyone needs it in
+every corner of this country.
+My bipartisan bill would invest significant Federal dollars to help
+States, communities, and schools fix and upgrade aging water systems to
+improve water quality, while fostering economic growth throughout the
+country.
+Our legislation seeks to reauthorize and enhance State revolving loan
+funds, which are the most effective tools we have to provide States
+with Federal investments that empower local leaders to modernize water
+systems, implement lead reduction projects, and rebuild stormwater
+overflow infrastructure.
+Our bill would also continue getting shovels into the ground and
+support quality jobs by reauthorizing the WIFIA financing program, an
+initiative that already helped finance nearly $20 billion for water
+infrastructure projects and created 49,000 jobs in just under 7 years.
+It would provide more than $700 million in lead testing and reduction
+programs, in part through a program very close to my heart, the
+voluntary lead testing in schools and childcare facilities program,
+expanding it to go beyond testing to include lead reduction
+Of course, it is not sufficient to simply increase investment
+levels--we must enact policies that effectively distribute critical
+dollars in a fair and just manner that prioritizes the most vulnerable
+Americans, and the most pressing public health and safety needs.
+That is why my bipartisan legislation prioritizes environmental
+justice by providing direct help to small, disadvantaged, rural and
+tribal communities that have been ignored for far too long.
+By lowering non-Federal cost-shares, creating new grants and allowing
+for debt forgiveness, we can help communities that typically struggle
+to afford traditional loans. This includes Centerville, IL, a community
+that needs resources to kick start projects that will rebuild their
+catastrophically failing systems that allow sewage to seep into my
+constituents' homes whenever it rains.
+Look, we must face the awful reality that a community's racial and
+economic composition are the top predictors of waste facility
+locations--and we should be outraged that these environmental justice
+communities are often neglected in favor of wealthy areas that are home
+to rate payers that can cover the cost of safe water.
+Congress cannot abandon American communities simply because they
+cannot afford to update their water infrastructure . . . especially
+when we know that the Federal Government failed to prevent this crisis
+from happening.
+Concerns about the health effects of lead pipes date back all the way
+back to the late 1800's--yet Congress didn't ban the use of lead
+service lines until 1986! And even then, the Federal Government allowed
+lead pipes already in the ground to remain . . . forcing too many of
+our communities to essentially drink through a ``lead straw'' to this
+very day.
+We helped create this problem. Now, it's on us to help fix it.
+Our mission lies right before us: work together to protect the health
+of our most vulnerable neighbors and achieve a reality where: no
+elementary-schooler is scared to use their school's drinking fountain;
+no parent questions whether it's safe to give their child a glass of
+water before bedtime; and
+no family comes to expect that their house will be flooded by sewage
+every time it rains.
+At the end of the day, it's simple the condition of our water
+infrastructure is a crisis. It is a crisis that is daunting, yes, and
+devastating, certainly--yet it's a crisis that is solvable. Every
+dollar we spend improving our water systems can help save the health of
+our future generations. And that is why I hope my colleagues will join
+me in voting yes on the Drinking Water and Wastewater Infrastructure
+Act of 2021.
+Amendment No. 1471, as Modified, to Amendment No. 1460
+The PRESIDING OFFICER. Under the previous order, there will be 2
+minutes for remarks equally divided prior to a vote on amendment No.
+1471, as modified.
+The Senator from Florida.
+Mr. RUBIO. Mr. President, this amendment No. 1471 is our amendment,
+and it would modernize the formula by which this money is distributed.
+This formula is 34 years old. It privileges a handful of States over
+the vast majority--I think the number is 15 over the other 35. And it
+is not just me saying it; the EPA issued a report that stated that the
+current formula does not meet the wastewater needs of all of the States
+and recommended that it be updated regularly. Notably, from the EPA's
+report, it says that the EPA does not know how the current allotment
+formula was developed. It says:
+The weighting and factors that were used to establish the
+formula for the original allotment are not known.
+My home State of Florida is one of many that are disadvantaged under
+the current formula, and the result has been obvious over the years.
+I think most of my colleagues would agree that distributing funds--
+let alone $14.4 billion--to States without rhyme or reason is not
+beneficial and isn't fair.
+It is not just States, by the way. This amendment, if passed, would
+secure more equitable allotments to Native American Tribes and
+territories.
+Unfortunately, I made--in our drafting of this amendment, there was a
+small technical error in which, instead of stating that it should be
+0.025 in the distribution for Native American Tribes, it says .0025.
+So I ask unanimous consent to further modify amendment No. 1471 with
+the changes that are at the desk so that the right number is on there.
+The PRESIDING OFFICER. Is there objection?
+The Senator from Delaware.
+Mr. CARPER. Reserving the right to object, I cannot agree to this
+unanimous consent request because this is the exact reason why we don't
+amend complicated formulas on the floor with limited oversight.
+This bill was hotlined last night, I think, with the current language
+from Senator Rubio, and now he would like to change it here literally
+at the last moment. With all due respect, I just cannot agree to that.
+I said to him in a conversation on the floor that I think he knows me
+well enough that I am willing to work with him and others who would
+like to see some modifications in this formula going forward. This is
+not the end of the trail. We will have a conference with the House. We
+will have negotiations with the White House.
+I just want to say to Senator Rubio that I look forward to working
+with him and Senator Capito to consider the changes that he is
+proposing but not to do it at the last minute here on the floor. I am
+unable to do that.
+I reluctantly object, but I am going to have to do that. I object
+The PRESIDING OFFICER. Objection is heard.
+Mr. RUBIO. Mr. President, in my remaining time--
+The PRESIDING OFFICER. The Senator has no time remaining.
+Mr. RUBIO. I ask unanimous consent for an additional 30 seconds.
+The PRESIDING OFFICER. Is there objection?
+Without objection.
+Mr. RUBIO. Mr. President, I just want to state that we are not
+changing the formula. There is an extra zero, and it is literally a
+typo, the kind of typo people make every single day in the Senate.
+Instead of saying ``.025,'' it says ``.0025.'' Everyone knows what it
+was intended to do. That is the way we talked about it. That has been
+objected to. The Senate is now a place where you cannot amend a typo by
+unanimous consent. That is unbelievable. It is unreal. I, frankly, find
+it unacceptable.
+The PRESIDING OFFICER. The Senator from Delaware.
+Mr. CARPER. Mr. President, our committee has worked on this
+legislation all year. We have had hearings. We have had meetings,
+discussions at the staff level and Member level to try to come to an
+agreement on all kinds of provisions to the bill, and we are prepared
+to do more of that once this legislation is adopted.
+But we reported this bill unanimously because it will benefit
+citizens across our Nation, better ensuring that, no matter where they
+live, they will have access to clean and safe water.
+[[Page S2321]]
+Our bill ensures that every State, territory, and Tribe will receive
+more funding to make critical investments in clean water projects. But
+by proposing a formula that only takes population growth into account--
+only takes population growth into account--Senator Rubio and Senator
+Scott's amendment will ensure that many States, including rural States,
+territories, and Indian Tribes, will lose water infrastructure funding,
+in some cases as much as 80 percent.
+We cannot afford to take money away from these governments when their
+needs are so great, especially in communities that have historically
+been underfunded and underserved. That is why more than 50 different
+organizations, from the U.S. Chamber of Commerce to the League of
+Conservation Voters and a whole lot of others in between, oppose this
+amendment.
+As a result, I ask unanimous consent to have printed in the Record a
+list of those organizations--a growing list of those organizations.
+There being no objection, the material was ordered to be printed in
+the Record, as follows:
+Organization
+AFL-CIO,
+Advocates for a Clean Lake Erie,
+Alliance for the Great Lakes,
+American Council of Engineering Companies,
+American Littoral Society,
+American Rivers,
+American Sustainable Business Council,
+Anthropocene Alliance,
+Associated General Contractors of America,
+Black Women's Health Imperative,
+Cahaba River Society,
+Clean Water Action,
+Clean Water Action Minnesota,
+Ducks Unlimited,
+Earthjustice,
+Endangered Habitats League,
+Environment America,
+Environmental Defense Fund,
+Environmental Law & Policy Center,
+For Love of Water (FLOW),
+Grasslands Water District,
+Great Egg Harbor Watershed Association,
+GreenLatinos,
+Healthy Gulf,
+Holy Spirit Missionary Sisters, USA-JPIC,
+Hydraulic Institute,
+Ilinois Council of Trout Unlimited,
+International Union of Operating Engineers,
+International Union of Operating Engineers (Also in WIN
+Joint Letter),
+Laborers' International Union of North America,
+Leadership Team, U.S. Province of the School Sisters of St.
+Francisisters of St. Francis United,
+League of Conservation Voters,
+Milwaukee Metropolitan Sewer District,
+Milwaukee Riverkeeper,
+National Association of Clean Water Agencies,
+National Association of Counties,
+National Association of Regional Councils,
+National Coalition for Legislation on Affordable Water
+(NCLA-WATER),
+National Conference of State Legislatures,
+National Electrical Contractors Association,
+National Latino Farmers & Ranchers Trade Association,
+National League of Cities,
+National Parks Conservation Association,
+National Wildlife Federation,
+Natural Resources Defense Council,
+Natural Resources Defense Council (Also in LCV Joint
+Letter),
+North America's Building Trades Union,
+Ohio Environmental Council,
+Onondaga Audubon,
+Religious Coalition for the Great Lakes,
+Rural Water,
+Sierra Club,
+Southern Environmental Law Center,
+Surfrider Foundation,
+United Association of Plumbers and Pipefitters,
+United States Chamber of Commerce,
+United States Conference of Mayors,
+United Steelworkers,
+Vinyl Institute,
+Water Infrastructure Network,
+Water Systems Council,
+Waterkeeper Alliance.
+Mr. CARPER. I urge my colleagues to join me and Senator Capito in
+voting no on this amendment--again, looking forward to subsequently
+working with Senators Rubio and Scott to see if we can come to a
+consensus on these changes.
+The PRESIDING OFFICER. The Senator from West Virginia.
+Mrs. CAPITO. Mr. President, I ask unanimous consent to address this
+for a minute.
+The PRESIDING OFFICER. Without objection, it is so ordered.
+Mrs. CAPITO. I just want to join with Senator Carper in opposition to
+this amendment. While I think it is well-meaning for the State of
+Florida, and I think that both Senator Rubio and Senator Scott have
+made us aware of this issue, I think that in order to update these
+formulas, we should have hearings. We should actually do this in a more
+studied, more detailed way than this amendment presents for us to do.
+With that, I join my colleague and my chair in opposition to this
+amendment.
+Vote on Amendment No. 1471, as Modified
+The PRESIDING OFFICER. The question is on agreeing to amendment No.
+1471, as modified.
+Mr. RUBIO. I ask for the yeas and nays.
+The PRESIDING OFFICER. Is there a sufficient second?
+There appears to be a sufficient second.
+The clerk will call the roll.
+The bill clerk called the roll.
+Mr. DURBIN. I announce that the Senator from Washington (Ms.
+Cantwell) is necessarily absent.
+Mr. THUNE. The following Senators are necessarily absent: the Senator
+from North Dakota (Mr. Cramer), the Senator from Kentucky (Mr. Paul),
+the Senator from South Dakota (Mr. Rounds), and the Senator from
+Alabama (Mr. Shelby).
+The PRESIDING OFFICER (Mr. Schatz). Are there any other Senators in
+the Chamber desiring to vote?
+The result was announced--yeas 14, nays 81, as follows:
+[Rollcall Vote No. 176 Leg.]
+YEAS--14
+Burr
+Cornyn
+Crapo
+Cruz
+Kelly
+Lee
+Ossoff
+Risch
+Romney
+Rubio
+Scott (FL)
+Sinema
+Tillis
+Warnock
+NAYS--81
+Baldwin
+Barrasso
+Bennet
+Blackburn
+Blumenthal
+Blunt
+Booker
+Boozman
+Braun
+Brown
+Capito
+Cardin
+Carper
+Casey
+Cassidy
+Collins
+Coons
+Cortez Masto
+Cotton
+Daines
+Duckworth
+Durbin
+Ernst
+Feinstein
+Fischer
+Gillibrand
+Graham
+Grassley
+Hagerty
+Hassan
+Hawley
+Heinrich
+Hickenlooper
+Hirono
+Hoeven
+Hyde-Smith
+Inhofe
+Johnson
+Kaine
+Kennedy
+King
+Klobuchar
+Lankford
+Leahy
+Lujan
+Lummis
+Manchin
+Markey
+Marshall
+McConnell
+Menendez
+Merkley
+Moran
+Murkowski
+Murphy
+Murray
+Padilla
+Peters
+Portman
+Reed
+Rosen
+Sanders
+Sasse
+Schatz
+Schumer
+Scott (SC)
+Shaheen
+Smith
+Stabenow
+Sullivan
+Tester
+Thune
+Toomey
+Tuberville
+Van Hollen
+Warner
+Warren
+Whitehouse
+Wicker
+Wyden
+Young
+NOT VOTING--5
+Cantwell
+Cramer
+Paul
+Rounds
+Shelby
+The amendment (No. 1471), as modified, was rejected
+Amendment No. 1461 to Amendment No. 1460
+The PRESIDING OFFICER. Under the previous order, there will be 2
+minutes of debate equally divided prior to the vote in relation to
+amendment No. 1461.
+Who yields time?
+Mr. CARPER. I yield time.
+The PRESIDING OFFICER. The Senator from New Hampshire.
+Mrs. SHAHEEN. Mr. President, I call up amendment 1461, and I want to
+thank Senators Collins, Gillibrand, King, Rounds, and Peters for
+cosponsoring this amendment and also thank Chairman Carper and Ranking
+Member Capito for their support for the amendment.
+As we all know, you can't put a price on safe drinking water, but for
+too many communities and too many households in this country, costs are
+a real barrier to contamination.
+This bipartisan amendment will help States address pollution not just
+from regulated contaminants like arsenic but also from unregulated
+contaminants like PFAS. It does this by expanding an existing grant
+program to help small and disadvantaged communities, not just those
+defined as underserved. It would also help households with private
+wells.
+We have to provide more tools to ensure that all Americans have
+access to clean, safe drinking water. My amendment would do just that.
+I urge its adoption, and I would be very happy to have this done by
+voice vote.
+The PRESIDING OFFICER. The Senator from Maine.
+Ms. COLLINS. Mr. President, I am pleased to be a cosponsor of Senator
+[[Page S2322]]
+Shaheen's amendment. I urge its adoption.
+Representing, as I do, a State where there are a great number of
+people who receive their drinking water from wells, it is really
+important that we extend this program to identify contaminants there.
+The PRESIDING OFFICER. The Senator from Delaware.
+Mr. CARPER. Mr. President, the Shaheen-Collins amendment makes
+changes to the State Response to Contaminants Program. Specifically,
+the amendment expands the provisions for the State Response to
+Contaminants Program from covering just underserved communities to also
+small and disadvantaged communities, to allow communities that are
+financially unstable, which cannot afford to address contaminants, or
+small, which means less than 10,000 people in population, to qualify
+for grants to address contaminants in the drinking water.
+This is a good amendment, and we thank the sponsor and also join here
+in cosponsoring. I urge a ``yes'' vote and a voice vote.
+The PRESIDING OFFICER. The Senator from West Virginia.
+Mrs. CAPITO. Mr. President, I would also join in the positive
+comments to say this meets two issues that I care deeply about and
+certainly hit my State, which is the PFAS issue and also small and
+disadvantaged communities. It very much helps with safe and clean
+drinking water
+Mrs. SHAHEEN. Mr. President, I rise today to speak in support of
+Senate amendment No. 1461, which I have offered to expand a key program
+that helps address contaminated drinking water. But before I do, I
+would like to commend Senator Duckworth, Chairman Carper, and Ranking
+Member Capito for developing the bipartisan legislation currently
+before the Senate, the Drinking Water and Wastewater Infrastructure
+Act. This bipartisan bill will invest more than $35 billion for water
+infrastructure across the country. This can't come soon enough for
+States like New Hampshire.
+Like most States, New Hampshire is suffering from aging
+infrastructure, much of it is between 50-100 years old. And
+unfortunately, our State government and municipalities simply do not
+have the ability to fully fund the hundreds of millions of dollars
+needed to address the rising costs of failing infrastructure,
+population growth, and changes in regulation. Communities across the
+country are facing similar financial challenges.
+That is why Congress must pass sweeping legislation to tackle our
+Nation's water infrastructure problems, build climate-resilient
+systems, and ensure that all Americans have access to clean and safe
+water. The Drinking Water and Wastewater Infrastructure Act is a good
+first step, and I look forward to working with my colleagues on both
+sides of the aisle to do more.
+The amendment I am offering today with Senators Collins, Gillibrand,
+King, Rounds, and Peters will help more people impacted by drinking
+water contaminants, including those who rely on wells. While America's
+drinking water is among the safest in the world, unregulated
+contaminants, such as PFAS, are increasingly being detected in drinking
+water across the country. This is a problem in particular for New
+Hampshire's southern cities and towns, including Merrimack,
+Londonderry, Portsmouth, and Dover.
+It is not just unregulated contaminants. Pollutants and known
+carcinogens like arsenic, radon, iron, and manganese have been found in
+New Hampshire groundwater sources at levels that threaten public
+health. According to the New Hampshire Department of Environmental
+Services, approximately 98,000 Granite Staters who utilize private
+wells have unsafe levels of arsenic in their water.
+As I have heard again and again, discovering that you have been
+drinking contaminated water can produce a range of emotions, from anger
+and fear to guilt. It is heartbreaking to hear stories of parents
+worried about what their kids' exposure will mean for their health. I
+am committed to finding every opportunity to improve this situation.
+That is why I am proposing to expand a key part of the Environmental
+Protection Agency's Assistance for Small and Disadvantaged Communities
+Program to help States respond to water contamination in more places.
+I want to make clear that States have flexibility to support a range
+of projects to address contaminants including in underground sources of
+drinking water, which will help households relying on well water. In
+New Hampshire, a little over half of our population gets its drinking
+water from public water systems that provide water from lakes, rivers,
+and wells. The remainder get their water from residential wells. All of
+them deserve healthy and safe drinking water. My amendment will help do
+just that. And I urge my colleagues to support it.
+As I said at the outset, this bill we have before us today is a good
+step in addressing our water infrastructure needs, but there is more to
+be done. For instance, Congress must address outstanding issues
+affecting water infrastructure financing. The 2017 tax law repealed a
+longstanding incentive under section 118 of the Internal Revenue Code
+known as the Contributions in Aid of Construction exemption, or CIAC.
+Communities across New Hampshire have been planning projects for years
+that are now threatened by these tax changes. For example, the
+Hampstead Area Water Company reports that it is facing a $1.5 million
+tax bill on an infrastructure project aimed at providing more customers
+access to clean drinking water. And what is worse, these tax increase
+may be passed on to utility customers, increasing their water bills.
+That is why I have filed an amendment to undo these harmful changes, so
+that our Tax Code once again encourages these critical investments. I
+look forward to working with my colleagues to fix this.
+We must also provide increased support for water systems in small
+rural communities across the country that are struggling as a result of
+this pandemic. The financial impacts of COVID-19 on systems serving
+10,000 people or fewer is estimated to be at least $3.6 billion. Yet no
+support for small rural water and wastewater systems has been included
+in COVID relief legislation to date. That is why I have joined with
+Senator Tillis to introduce the Emergency Assistance for Rural Water
+Systems Act, legislation that would provide critical funding to small
+and rural communities during this challenging time.
+Finally, we must address PFAS contamination and its effects on our
+communities. As many of us know, PFAS chemicals impact drinking water
+sources in and around military bases, manufacturing sites, airports,
+and other places across the country due to their widespread use in
+firefighting foam and consumer products. In my State of New Hampshire,
+the city of Portsmouth closed a major water supply well at the former
+Pease Air Force Base due to PFAS in the drinking water. And several
+communities in southern New Hampshire are struggling with groundwater
+PFAS contamination near the Saint-Gobain plant in Merrimack. Residents
+near the Coakley Landfill Superfund site in North Hampton and Greenland
+are concerned about high levels of PFAS found in nearby surface waters.
+We owe it to the American families in New Hampshire and across the
+country who live and work near sites contaminated by these materials to
+invest at the scale necessary to fix the problem. That is why I have
+championed legislation, the PFAS Testing and Treatment Act, which would
+deliver robust Federal resources to support State efforts to address
+PFAS through remediation and clean up. I hope to work with the chairman
+and ranking member, as well as House and Senate leaders, to move this
+proposal forward.
+Access to safe, clean drinking water is essential. While I am only
+seeking a vote on amendment No. 1461 today, I will continue to work on
+all of these issues. I look forward to passage of the Drinking Water
+and Wastewater Infrastructure Act and continuing to work to address
+these outstanding issues in future infrastructure bills.
+Vote on Amendment No. 1461
+The PRESIDING OFFICER. The question is on agreeing to the amendment.
+The amendment (No. 1461) was agreed to.
+Amendment No. 1469 to Amendment No. 1460
+The PRESIDING OFFICER. Under the previous order, there will now be 2
+minutes of debate equally divided prior to a vote in relation to
+amendment No. 1469.
+The Senator from Louisiana.
+[[Page S2323]]
+Mr. KENNEDY. Mr. President, I want to talk briefly about boil water
+advisories. They are more than just frustrating. They are more than
+just inconvenient. They can be dangerous.
+I don't know about the Presiding Officer's community or my
+colleagues' communities, but they have been happening more and more
+frequently in Louisiana. Since 2005, we have had 9,661 boil water
+advisories. We had 1,600 of them last year alone.
+I thank the EPW Committee for working with me and all of my
+colleagues. My amendment would require the EPA to provide us an annual
+study on the prevalence of these boil water advisories and the reasons
+therefor so we can decide whether to take action, if any.
+I would appreciate my colleagues' support.
+The PRESIDING OFFICER. The Senator from Delaware.
+Mr. CARPER. Mr. President, I rise in support of Senator Kennedy's
+amendment because we need to know more about boil orders, something
+that I, frankly, hadn't heard a lot about. I thank the Senator for
+bringing it to our attention.
+We are in support of this amendment. These are frequently used, and
+transparency is needed on them.
+I yield to the gentlewoman from West Virginia.
+Mrs. CAPITO. Mr. President, I thank Senator Kennedy for this. I pull
+up my local newspaper, and the first thing that comes up is listing the
+boil water advisories. This is absolutely needed. I think it is a great
+idea. I am very much in support of this.
+Vote on Amendment No. 1469
+The PRESIDING OFFICER. The question is on agreeing to the amendment.
+The amendment (No. 1469) was agreed to.
+Amendment No. 1472 to Amendment No. 1460
+The PRESIDING OFFICER. Under the previous order, there will now be 2
+minutes of debate equally divided prior to the vote in relation to
+amendment No. 1472.
+The PRESIDING OFFICER. The Senator from West Virginia.
+Mr. MANCHIN. Mr. President, I rise in opposition to this amendment by
+Senator Lee. His amendment would amend the Antiquities Act to prohibit
+the President from reserving water when designating a national
+monument.
+The amendment states that any water rights associated with a national
+monument may only be acquired under State law. The Lee amendment
+overturns decades of Supreme Court precedent that when a President
+designates a national monument under the Antiquities Act, the
+designation reserves the right to use enough water to fulfill the
+purpose of the monument.
+But the water infrastructure bill is not the appropriate place for
+this amendment. I urge my colleagues to oppose this amendment.
+Mrs. CAPITO. Mr. President, we yield back our time.
+Vote on Amendment No. 1472
+The PRESIDING OFFICER. The question is on agreeing to the amendment.
+Mrs. CAPITO. I ask for the yeas and nays.
+The PRESIDING OFFICER. Is there a sufficient second?
+There appears to be a sufficient second.
+The clerk will call the roll.
+The senior assistant legislative clerk called the roll.
+Mr. DURBIN. I announce that the Senator from Washington (Ms.
+Cantwell) is necessarily absent.
+Mr. THUNE. The following Senators are necessarily absent: the Senator
+from North Dakota (Mr. Cramer), the Senator from Kentucky (Mr. Paul),
+the Senator from South Dakota (Mr. Rounds), and the Senator from
+Alabama (Mr. Shelby).
+The result was announced--yeas 41, nays 54, as follows:
+[Rollcall Vote No. 177 Leg.]
+YEAS--41
+Barrasso
+Blackburn
+Boozman
+Braun
+Burr
+Cassidy
+Cornyn
+Cotton
+Crapo
+Cruz
+Daines
+Ernst
+Fischer
+Grassley
+Hagerty
+Hawley
+Hoeven
+Hyde-Smith
+Inhofe
+Johnson
+Kennedy
+Lankford
+Lee
+Lummis
+Marshall
+McConnell
+Moran
+Murkowski
+Portman
+Risch
+Romney
+Rubio
+Sasse
+Scott (FL)
+Scott (SC)
+Sullivan
+Thune
+Tillis
+Toomey
+Wicker
+Young
+NAYS--54
+Baldwin
+Bennet
+Blumenthal
+Blunt
+Booker
+Brown
+Capito
+Cardin
+Carper
+Casey
+Collins
+Coons
+Cortez Masto
+Duckworth
+Durbin
+Feinstein
+Gillibrand
+Graham
+Hassan
+Heinrich
+Hickenlooper
+Hirono
+Kaine
+Kelly
+King
+Klobuchar
+Leahy
+Lujan
+Manchin
+Markey
+Menendez
+Merkley
+Murphy
+Murray
+Ossoff
+Padilla
+Peters
+Reed
+Rosen
+Sanders
+Schatz
+Schumer
+Shaheen
+Sinema
+Smith
+Stabenow
+Tester
+Tuberville
+Van Hollen
+Warner
+Warnock
+Warren
+Whitehouse
+Wyden
+NOT VOTING--5
+Cantwell
+Cramer
+Paul
+Rounds
+Shelby
+The amendment (No. 1472) was rejected
+The PRESIDING OFFICER (Mr. King). On this vote, the yeas are 41, the
+nays are 54.
+Under the previous order requiring 60 votes for the adoption of this
+amendment, the amendment is not agreed to.
+The amendment (No. 1472) was rejected.
+The PRESIDING OFFICER. Under the previous order, amendment No. 1460,
+as amended, is agreed to.
+The amendment (No. 1460), as amended, was agreed to.
+The PRESIDING OFFICER. The clerk will read the bill by title for a
+third time.
+The bill was ordered to be engrossed for a third reading and was read
+the third time.
+The PRESIDING OFFICER. The majority whip.
+Mr. DURBIN. Mr. President, I am going to raise an issue at this point
+that is not relevant to the water bill. I ask unanimous consent to be
+given that opportunity.
+The PRESIDING OFFICER. Without objection, it is so ordered.
+____________________
