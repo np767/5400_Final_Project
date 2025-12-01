@@ -1,0 +1,200 @@
+[Congressional Record Volume 170, Number 39 (Tuesday, March 5, 2024)]
+[House]
+[Pages H791-H792]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+DHS BIODETECTION IMPROVEMENT ACT
+Mr. GREEN of Tennessee. Mr. Speaker, I move to suspend the rules and
+pass the bill (H.R. 6174) to improve the biodetection functions of the
+Department of Homeland Security, and for other purposes.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 6174
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``DHS Biodetection Improvement
+Act''.
+SEC. 2. DHS UTILIZATION OF DEPARTMENT OF ENERGY NATIONAL
+LABORATORIES AND SITES FOR CERTAIN BIODETECTION
+RESEARCH AND DEVELOPMENT RELATING TO THE
+MISSIONS OF THE DHS.
+(a) In General.--The Secretary of Homeland Security shall
+conduct an assessment of how the Department of Homeland
+Security has utilized Department of Energy national
+laboratories and sites regarding research and development in
+carrying out the missions of the Department of Homeland
+Security, in accordance with section 309 of the Homeland
+Security Act of 2002 (6 U.S.C. 189).
+(b) Strategy on Biodetection Research and Development.--Not
+later than 180 days after the date of the enactment of this
+Act, the Secretary of Homeland Security shall submit to the
+Committee on Homeland Security of the House of
+Representatives and the Committee on Homeland Security and
+Governmental Affairs of the Senate the assessment required
+under subsection (a), together with a strategy for how the
+Department of Homeland Security will conduct research and
+development in coordination with Department of Energy
+national laboratories and sites to address biodetection
+research and development of the Department of Homeland
+Security, including the following:
+(1) Identifying biodetection technologies that can, either
+individually or together, meet the biodetection mission needs
+as outlined in Department of Homeland Security capabilities
+analysis and requirements documents and informed by studies
+produced by the Comptroller General of the United States,
+such as the National Re-Assessment of the BioWatch Collector
+Network to Increase the Fraction of Population Covered, as
+developed by the Countering Weapons of Mass Destruction
+Office of the Department in November 2021, and other such
+future studies as applicable.
+(2) Developing an acquisition and procurement plan to
+acquire and provide, in accordance with Federal law, the
+Federal Acquisition Regulation, and Department of Homeland
+Security acquisition and procurement management directives,
+the biodetection technologies referred to in paragraph (1) to
+existing BioWatch jurisdictions.
+(3) Conducting periodic external evaluations to identify
+gaps and potential failure points with respect to such
+biodetection technologies, and recommending contingency plans
+in the event such biodetection technologies do not perform as
+expected or intended.
+(4) Assisting, as appropriate and in partnership with
+Federal, State, local, and Tribal governments, institutions
+of higher education (as such term is defined in section 101
+of the Higher Education Act of 1965 (20 U.S.C. 1001)), and
+the private sector, with the development of clearly defined
+program and technical requirements for future Department of
+Homeland Security environmental biodetection programs,
+including any related transformational program of research
+and development.
+(c) Reports to Congress.--Not later than one year after the
+date of the enactment of this Act, the Secretary of Homeland
+Security shall provide to the Committee on Homeland Security
+of the House of Representatives and the Committee on Homeland
+Security and Governmental Affairs of the Senate an update of
+the assessment and strategy required under this section,
+including any challenges to implementing such strategy.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from
+Tennessee (Mr. Green) and the gentleman from Louisiana (Mr. Carter)
+each will control 20 minutes.
+The Chair recognizes the gentleman from Tennessee.
+General Leave
+Mr. GREEN of Tennessee. Mr. Speaker, I ask unanimous consent that all
+Members may have 5 legislative days in which to revise and extend their
+remarks and include extraneous material on H.R. 6174.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Tennessee?
+There was no objection.
+Mr. GREEN of Tennessee. Mr. Speaker, I yield myself such time as I
+may consume.
+Mr. Speaker, I rise in support of H.R. 6174. The Department of
+Homeland Security established the BioWatch program to collect and test
+air samples for biological agents likely to be used in a bioterrorism
+attack. However, there have been ample criticisms and questions about
+the effectiveness of the BioWatch program.
+As such, in 2019, DHS launched a new acquisition program to move into
+the next generation of detection of biothreats and to replace the
+BioWatch program with new and more reliable technology.
+However, DHS has not used all the resources at its disposal,
+including the national laboratories housed within the Department of
+Energy.
+H.R. 6174, the DHS Biodetection Improvement Act, would ensure that
+DHS is doing everything it can to improve biodetection research and
+development, including requiring DHS to explain how it plans to utilize
+the expertise of the Department of Energy national labs.
+I thank Congressman Strong for his work on this bill, and I hope all
+Members will support this legislation today.
+Mr. Speaker, I urge my colleagues to support H.R. 6174, and I reserve
+the balance of my time.
+Mr. CARTER of Louisiana. Mr. Speaker, I yield myself such time as I
+may consume.
+Mr. Speaker, I rise today in support of H.R. 6174, the DHS
+Biodetection Improvement Act. This bill seeks to enhance biodetection
+capabilities at the Department of Homeland Security by leveraging
+resources at the Department of Energy's national laboratories.
+Currently, DHS' Office of Countering Weapons of Mass Destruction, or
+CWMD, leads DHS' biodetection work. The premier biodetection program is
+BioWatch, which is outdated, expensive, and labor-intensive. CWMD's
+more recent efforts to advance biodetection technologies have been
+delayed because of this.
+H.R. 6174 would move DHS' biodetection programs forward by requiring
+the Department to complete an assessment of how it is utilizing the
+Department of Energy's national laboratories for biodetection. The bill
+would require DHS to create the defined program and technical
+requirements necessary to advance biodetection programs, including
+critical research and development.
+Further, the bill requires the Secretary of Homeland Security to
+provide Congress with a strategy for conducting regular external
+evaluations to identify capability gaps and recommend contingency plans
+if biodetection technologies underperform.
+As foreign and domestic security threats evolve, Congress' support
+for advancements in biodetection programs is key.
+Mr. Speaker, I encourage my colleagues to support this bill, and I
+reserve the balance of my time.
+Mr. GREEN of Tennessee. Mr. Speaker, I yield 3 minutes to the
+gentleman from Alabama (Mr. Strong), the sponsor of this bill.
+Mr. STRONG. Mr. Speaker, I thank Chairman Green for his support, as
+well as that of my colleagues who join me in introducing this
+legislation, H.R. 6174, the DHS Biodetection Improvement Act.
+Threats from America's enemies have continued to evolve and become
+more complex. The anthrax attack of 2001 opened our eyes to a new
+threat landscape that includes acts of bioterrorism. In the wake of the
+2001 attacks, the Department of Homeland Security established the
+BioWatch program, which monitors, collects, and tests air samples for
+biological agents likely to be used in a terrorist attack.
+This technology is vital in protecting Americans against bioweapons,
+and we must have full confidence that it will deliver timely, accurate,
+and comprehensive information to our partners that operate this system.
+As a first responder myself, I know the difference that early
+detection makes. This becomes more vital when responding to an act of
+bioterrorism, which could have catastrophic consequences.
+We have worked across all levels of government to improve prevention,
+detection, and response capabilities, but there remains work to be
+done.
+[[Page H792]]
+DHS has faced continuous challenges in developing and acquiring new
+technologies to move toward the next generation of national
+biodetection. This legislation would ensure that DHS is fully
+leveraging every tool and resource to accomplish this goal, to include
+utilizing the Department of Energy's national labs to develop new
+technologies related to biodefense, developing a plan to acquire
+existing technologies that can meet the Department's biodetection
+mission needs, conducting external evaluations to identify gaps and
+potential failure points, and reporting to Congress a defined plan for
+the future of biodetection.
+As our adversaries watch on, we cannot afford to fall behind.
+America's security depends on it.
+I was proud to introduce this legislation, the DHS Biodetection
+Improvement Act, to ensure DHS is prepared to protect Americans against
+bioweapons.
+Mr. Speaker, I urge my colleagues to support this legislation.
+Mr. CARTER of Louisiana. Mr. Speaker, I yield myself the balance of
+my time.
+Mr. Speaker, while DHS has worked to improve its biodetection
+capabilities, many challenges remain, and the current technologies are
+aging.
+H.R. 6174 pairs DHS and the Department of Energy's national
+laboratories, which would improve biodetection innovation and,
+ultimately, keep our communities safe from biological threats.
+Mr. Speaker, I hope my colleagues will join me in supporting this
+critical bill, and I yield back the balance of my time.
+Mr. GREEN of Tennessee. Mr. Speaker, I yield myself the balance of my
+time.
+Mr. Speaker, again, I urge my colleagues to support H.R. 6174, and I
+appreciate and thank Mr. Strong for his hard work on this bill. I yield
+back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from Tennessee (Mr. Green) that the House suspend the rules
+and pass the bill, H.R. 6174.
+The question was taken.
+The SPEAKER pro tempore. In the opinion of the Chair, two-thirds
+being in the affirmative, the ayes have it.
+Mr. GREEN of Tennessee. Mr. Speaker, I object to the vote on the
+ground that a quorum is not present and make the point of order that a
+quorum is not present.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further
+proceedings on this question will be postponed.
+The point of no quorum is considered withdrawn.
+____________________

@@ -1,0 +1,3179 @@
+[Congressional Record Volume 169, Number 110 (Friday, June 23, 2023)]
+[House]
+[Pages H3115-H3128]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+MIDDLE CLASS BORROWER PROTECTION ACT OF 2023
+General Leave
+Mr. DAVIDSON. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days in which to revise and extend their remarks
+and submit extraneous material on the bill, H.R. 3564.
+The SPEAKER pro tempore (Mr. LaMalfa). Is there objection to the
+request of the gentleman from Ohio?
+There was no objection.
+The SPEAKER pro tempore. Pursuant to House Resolution 524 and rule
+XVIII, the Chair declares the House in the Committee of the Whole House
+on the state of the Union for the consideration of the bill, H.R. 3564.
+The Chair appoints the gentleman from Washington (Mr. Newhouse) to
+preside over the Committee of the Whole.
+{time}  0916
+In the Committee of the Whole
+Accordingly, the House resolved itself into the Committee of the
+Whole House on the state of the Union for the consideration of the bill
+(H.R. 3564) to cancel recent changes made by the Federal Housing
+Finance Agency to the up-front loan level pricing adjustments charged
+by Fannie Mae and Freddie Mac for guarantee of single-family mortgages,
+and for other purposes, with Mr. Newhouse in the chair.
+The Clerk read the title of the bill.
+The CHAIR. Pursuant to the rule, the bill is considered read the
+first time.
+General debate shall be confined to the bill and amendments specified
+in the first section of House Resolution 524, and shall not exceed 1
+hour equally divided and controlled by the Chair and ranking minority
+member of the Committee on Financial Services or their respective
+designees.
+The gentleman from Ohio (Mr. Davidson) and the gentlewoman from
+California (Ms. Waters) each will control 30 minutes.
+The Chair recognizes the gentleman from Ohio (Mr. Davidson).
+Mr. DAVIDSON. Mr. Chairman, I yield myself such time as I may
+consume.
+H.R. 3564, the Middle Class Borrower Protection Act, will undo a bad
+policy implemented at the worst time. Americans are struggling to
+afford housing. I am talking about the loan level price adjustments
+that the Federal Housing Finance Agency, FHFA, put into effect on May 1
+of this year. This policy essentially implemented a cross-subsidy to
+individuals with lower down payments and lower credit scores.
+Loan level pricing adjustments are up-front fees which adjust the
+final interest rate charged on mortgage loans based on different risk
+characteristics associated with individual loans. The most notable
+characteristics would be the mortgage's underlying loan-to-value ratio
+and the buyer's credit score.
+While such fees may be necessary for Fannie and Freddie Mac,
+collectively known as the GSEs, to raise capital and adequately hedge
+against credit risk, the adjustments announced by FHFA would
+disproportionately hurt individuals with credit scores of 680 or
+greater.
+To put that into perspective, the average credit score is around 710,
+and nearly 19 out of 20 Americans have credit scores above 680. The
+other thing is credit scores alone aren't a proxy for wealth or income.
+Therefore, most Americans would likely be hurt by these fees.
+However, those with a credit score below 680 will benefit from lower
+rates than the prior LLPA assessments. This fee change violates the
+fundamental principle of risk-based pricing: Lower-risk borrowers
+should pay lower prices than higher-risk borrowers for access to the
+same credit.
+Despite the FHFA's opaque approach to assessing LLPAs, the result of
+their new policies speak for themselves. The Middle Class Borrower
+Protection Act would reinstate the old LLPA prices that were in effect
+prior to May 1, while also directing the Government Accounting Office
+to complete an independent study of the processes and data used by FHFA
+to change the prices, including the impact of those changes on the
+safety and soundness of the GSEs, which, I will add, have been in
+conservatorship under the Federal Government for 15 years. Then GAO
+would report to Congress within 1 year of the study.
+FHFA would be prohibited from changing the LLPAs until 90 days after
+the report, after which it would be required to: one, follow the basic
+agency notice-and-comment procedure for making any new changes to the
+LLPA fee; and two, ensure that future fee adjustments be made based on
+the actual risk posed by the mortgage.
+FHFA would also be prohibited from imposing any new fee on borrowers
+based on their debt-to-income ratio, which was an idea they considered
+implementing effective August 1.
+Finally, I will acknowledge that over the past weekend, the
+Congressional Budget Office scored this bill, and they assessed a cost
+of $1.8 billion for implementing this bill. I believe the fact that CBO
+says this bill costs a single penny is absurd and exposes a glaring
+flaw within our legislative process.
+Perhaps CBO has a rebuttal, but that would require them to show their
+work, which they have not. This is why I have long advocated for
+another bill of mine, the CBO Show Your Work Act.
+This past week exemplified just why we need transparent processes
+when legislating. The reality is these fees aren't even going directly
+to the Treasury. While the GSEs are in conservatorship, the money is
+supposed to go to the balance sheet of Freddie and Fannie so that they
+can accumulate capital.
+As this rule is announced, the explicit purpose was to grow capital
+on the balance sheets of Fannie and Freddie. These were taken over by
+the Federal Government in the wake of the 2008 financial crisis. They
+have remained in the conservatorship of the Federal Government. The
+revenue isn't coming in directly to the Treasury, it is meant to
+actually free the GSEs from control of the Federal Government.
+These revenues were not imposed by Congress, so there really isn't a
+need
+[[Page H3116]]
+for us to replace the revenue that the administration imposed with a
+really misguided rule. There was no revenue coming in on April 30. On
+May 1, they implement this policy change, and somehow, we are supposed
+to come up with the revenue to offset it.
+Now, I argued against doing that. I asked the Rules Committee to
+ignore the misguided advice of the Congressional Budget Office and to
+not implement a pay-for because it is not our--we didn't cause this
+expense to occur. Frankly, it is not even a real expense. It is
+essentially a tax imposed by the administration.
+Because of the rules, we offered a manager's amendment which was
+ultimately incorporated into this bill. We add 1 year to a 10-basis
+point fee that is assessed on every Fannie and Freddie loan, regardless
+of your credit, just as a cover. That rule has been in place since the
+bill passed in 1992. It was set to expire in 2032. Now it will expire
+in 2033.
+I hope between now and then we can change that, and we can also
+liberate Fannie and Freddie from their ongoing conservatorship which, I
+will note, has lasted longer than Britney Spears' conservatorship. The
+only way that it would cost the Federal Government money is if the
+conservator is actually raking money out of it and funding their own
+operation, which is not what is supposed to happen. It is supposed to
+stay with Fannie and Freddie, so it shouldn't be costing the Federal
+Government a dime to implement the Middle Class Borrower Protection
+Act.
+Nevertheless, Fannie and Freddie will benefit from one extra year of
+money being collected under this manager's amendment that was adopted
+and incorporated in the bill.
+Let me return and focus on the bill at hand, the Middle Class
+Borrowers Protection Act. Let's think about this: A Federal agency
+acting under its own purview and not subject to the Administrative
+Procedure Act implemented a politically motivated cross-subsidy through
+a clear money grab on unsuspecting credit-worthy borrowers. This wasn't
+a decision by Congress. This was simply the FHFA using its position as
+conservator of the GSEs to increase the government's baseline.
+Now Congress is trying to undo the changes and re-implement a policy
+that was in place just 8 weeks ago.
+However, Congress, as I said, had to pay for this fake shortfall.
+Like we see time and again, only in Washington, D.C., would math like
+this make sense.
+It is imperative for this body to protect the cornerstone of the
+American Dream by promoting housing affordability, and H.R. 3564 does
+just that.
+Mr. Chair, I urge all of my colleagues to support this bill, and I
+reserve the balance of my time.
+Ms. WATERS. Mr. Chairman, I yield myself such time as I may consume.
+I rise in strong opposition to H.R. 3564, the MAGA housing scam act,
+which follows the blueprint of the GOP tax scam by helping the wealthy
+at the expense of the middle class.
+Homeownership is a quintessential part of the American Dream, and it
+is the single most important way that households today can build
+wealth. That is why expanding access to homeownership is one of the
+best ways that we can grow the middle class.
+Unfortunately, the dream of homeownership is becoming further out of
+reach for a growing number of households due to a worsening storm of
+rising interest rates and home prices, fueled by an undersupply of new
+housing.
+In fact, house prices have skyrocketed by 40 percent since 2020, and
+first-time homeownership rates have plummeted to an all-time low.
+Moreover, housing costs are a primary driver of inflation, which is
+hurting every household in America. It is against this backdrop that
+Republicans are actually working to make homeownership more expensive
+for everyone, especially the middle class.
+The MAGA housing scam act would affect two different types of fees
+that apply to mortgages backed by Fannie Mae and Freddie Mac, which
+make up the vast majority of mortgages today.
+First, this bill would extend a guarantee fee of 10 basis points for
+another year, costing all future home buyers an additional $5 billion.
+Second, this bill would reverse recent changes to loan level price
+adjustments, better known as LLPAs, which are another type of fee on
+mortgages backed by Fannie and Freddie. The amount of this fee is risk-
+based, meaning that it varies depending on characteristics of the
+borrower and loan, such as income and downpayment; whether the loan has
+a fixed or a variable rate of interest; and whether the loan is a cash-
+out refinance.
+FHFA, which is the agency that regulates Fannie and Freddie, is
+responsible for determining the amount of the LLPAs and recently made
+changes to this fee to help middle-class borrowers.
+To illustrate, a middle-class borrower, say, with excellent credit,
+who makes maybe a 5 percent downpayment on a median-priced home would
+have their LLPA reduced by nearly half under FHFA's changes.
+This bill would reverse the recent changes made by FHFA, resulting in
+higher fees for middle-class borrowers. Again, the LLPAs, are only one
+of two fees affected by this bill. Altogether, this bill would hit
+middle-class borrowers with a double whammy of both an extension of a
+10-basis point guarantee fee, and an increase in the LLPAs.
+During the debate in the Rules Committee on this bill, I pointed out
+how this bill hurts middle-class borrowers who have worked hard to
+build excellent credit but can't afford a 20 percent downpayment.
+Republicans doubled down, insisting that those with lower
+downpayments are riskier borrowers and deserve to pay more. What they
+failed to understand is that middle-class borrowers who can't afford a
+20 percent downpayment are already required to purchase private
+mortgage insurance, which can add hundreds of dollars to a borrower's
+monthly mortgage cost. Private mortgage insurance protects Fannie and
+Freddie from the risks associated with the lower downpayment.
+{time}  0930
+Charging a higher LLPA for risks that are already covered by an
+insurance policy is simply unfair.
+During the Rules Committee debate, Republicans called FHFA's changes
+redistributive. Let's be clear: FHFA made changes to ensure that
+middle-class home buyers are not unfairly charged more for risks that
+are already covered by private mortgage insurance.
+This is hardly redistribution. It is ensuring that middle-class
+borrowers have a fair shot at homeownership. Mr. Davidson's bill, on
+the other hand, would absolutely redistribute costs from the middle
+class to the wealthy.
+Let me break this down for the Record.
+The nonpartisan Congressional Budget Office determined that this bill
+would cost $1.8 billion before the addition of the manager's amendment.
+That represents $1.8 billion in fees that otherwise would have
+primarily affected the wealthiest home buyers who could barely notice
+such a nominal fee increase.
+In order to pay for this cost, Republicans added a 10-basis point
+guarantee fee that would increase costs for all home buyers to the tune
+of $5 billion.
+Mr. Chairman, for all these reasons and more, I urge my colleagues to
+oppose H.R. 3564, and I reserve the balance of my time.
+Mr. DAVIDSON. Mr. Chairman, I yield myself such time as I may
+consume.
+Mr. Chairman, the gentlewoman points out things that just aren't so.
+The idea that a loan that has less equity in it isn't riskier than a
+loan with more equity in it is completely false.
+Every business school in the country will teach it, but most people
+don't need to go to business school to understand that a loan with a
+lot of equity in it is at much less risk of default. It is rational to
+price risk, and that is what the market should be doing. Plus, people
+who have low income and have high credit scores are punished by this
+foolish policy. This simply will undo it.
+The last thing I will say is, right now, there is money that is being
+taken away from consumers in the marketplace--$1.8 billion over the
+next 2 years. Once this bill passes, that stops getting taken away. The
+10-basis point pay-for that is in this bill is still in effect right
+now.
+In fact, it is scheduled to go out in 2032. In the near term, nothing
+changes in this bill. It is in 2033 that the pay-for comes in, again,
+only with the false accounting at the Congressional Budget Office would
+that even be necessary.
+[[Page H3117]]
+Mr. Chairman, I yield 3 minutes to the gentleman from North Carolina
+(Mr. McHenry), the chairman of the full committee.
+Mr. McHENRY. Mr. Chairman, I thank my colleague and the chair of the
+Subcommittee on Housing and Insurance (Mr. Davidson) for his fine work
+here legislating and the great work that he has put in this Congress on
+the Housing and Insurance Subcommittee.
+Mr. Chairman, I rise in support of Mr. Davidson's bill, the Middle
+Class Borrower Protection Act. What I would say to my colleagues is: Is
+it right to raise the costs of borrowing for families that have worked
+hard and saved up to buy a home in order to subsidize those who are
+less creditworthy? I don't think so.
+This bill would ensure that doesn't happen under this new Biden
+administration rule set. What we have before us today is a bill that
+would say to the 95 percent of Americans nationwide that have a credit
+score over 680 that you are going to pay more, and those that are less
+creditworthy, under 680, the 5 percent of Americans who are under a 680
+credit score will pay less under this new Biden administration
+proposal.
+If we don't act with this bill, almost half of those borrowers will
+face an extra $1.8 billion in new fees over the next 2 years. That is a
+tax on more creditworthy people when they access a mortgage. I don't
+think that is proper. I don't think that is just.
+Those are middle-class borrowers in each of our districts, Republican
+and Democrat, Independent, rural and urban, young and old. They are
+across the country, and we are trying to stand up for them. For some
+reason, the Biden administration wants to put their finger on the
+scales and decide who gets to pay more and who gets to pay less.
+That is inherently unfair, whether that is in my district in western
+North Carolina or districts on the other side of the country. It will
+make housing less affordable, not more. It puts taxpayers at risk by
+threatening the safety and soundness of our housing finance system, and
+we have a chance to change that today and do the right thing.
+If you want to protect middle-class borrowers in your district from a
+new tax, you will support this bill. If you want to take action to
+address housing affordability, you will support this bill. If you want
+more Americans to achieve the dream of homeownership, you will vote for
+this bill.
+Mr. Chairman, I thank my colleagues on the House Financial Services
+Committee, on both sides of the aisle, for the good work they do in
+this Congress. I also thank my colleague, Mr. Davidson, for his
+leadership here on this important housing issue that touches all of us
+across the country, and I urge a ``yes'' vote.
+Ms. WATERS. Mr. Chairman, I yield 3 minutes to the gentleman from
+Missouri (Mr. Cleaver).
+Mr. CLEAVER. Mr. Chairman, I rise in opposition to H.R. 3564, the so-
+called Middle Class Borrowers Protection Act of 2023. The reason for my
+position is because this legislation does the exact opposite of what it
+purports.
+The reality is this: The Financial Services Committee held a
+subcommittee hearing on this legislation on May 17, titled:
+``Undermining Housing Affordability With Politics.''
+My uncle used to say: ``I would kill for a Nobel Peace Prize.'' It is
+called irony, but that irony did not match the irony of the hearing on
+housing issues that had been hyper-politicized.
+In my remarks, I mentioned that stations like FOX News have been
+providing a narrative of FHFA changes that almost all the experts in
+the field, and all that I have personally talked to, will tell you is
+untrue, but the complexity of housing finance lends itself to a lack of
+understanding.
+Referring to FHFA pricing changes, which were largely required due to
+changes in GSE capital requirements and had not been addressed in many
+years as a socialist scheme, is simply wrong and is transparently
+political.
+The committee then marked up legislation in a partisan way, and what
+was most surprising to me was the number of industry groups who have
+expressed issues with the politicization of FHFA loan-level price
+adjustment changes.
+The FHFA in this process has been willing to provide information to
+Congress and much more information than would have been received by
+private entities before conservatorship.
+I was pleased when FHFA listened to the concerns of Congress and
+outside organizations in rescinding a debt-to-income-based loan-level
+price adjustment that would have led to several problems. The bill we
+are debating today affirms that decision.
+However, the bill we are debating today, if we look at what the CBO
+has said about the bill, is potentially expensive and not in the best
+interest of the American people. Given the politics of the issue, the
+American public should have no confidence that the end result would be
+any less politicized.
+For example, requiring notice and comment process in all pricing
+matters and adjustments would reduce the GSE's ability to quickly
+respond to changing market conditions, thereby undermining safety and
+soundness objectives in times of market issues.
+This would require the agency to delay implementation of pricing
+changes for an extended period. There are several alternatives that
+could be required that would complement the annual guarantee fee report
+FHFA is already required to publish.
+Mr. DAVIDSON. Mr. Chairman, the gentleman from Missouri is accurate.
+This does cost money. It costs the 19 out of 20 Americans with 680
+credit scores or better who choose to get a Fannie or Freddie mortgage,
+it costs them money. It takes it out of their hard-earned dollars and
+transfers it to the GSEs.
+Mr. Chairman, I yield 2 minutes to the gentlewoman from Oklahoma
+(Mrs. Bice).
+Mrs. BICE. Mr. Chairman, I thank my colleague from Ohio (Mr.
+Davidson) for yielding.
+When this news broke that the FHFA organization had passed a rule to
+change how this particular policy was put in place, I immediately went
+to him and I said: We need to fix this, and here we are.
+I am proud to stand in support of this legislation, which I am
+collating with Congressman Davidson. Under the rule from the Federal
+Housing Finance Agency, home buyers with good credit scores will be
+forced to pay more for their mortgages to subsidize loans to higher
+risk borrowers, and that is why the Middle Class Borrower Protection
+Act is so important.
+It will roll back this administration's senseless rule and stop the
+anticapitalist agenda. Similar to the student loan scam, the President
+is, once again, trying to bypass Congress and centralize more power in
+the hands of the executive branch.
+Since President Biden took office, he has increased the role of the
+Federal Government in the lives of everyday Americans, and this is a
+perfect example.
+With sky-high mortgage rates, the last thing we need is to add more
+fees and burdens on hardworking Americans and certainly hardworking
+Oklahomans in my district. I stand in support of this legislation, and
+I urge my colleagues to support the bill.
+Ms. WATERS. Mr. Chairman, I yield myself such time as I may consume.
+Mr. Chairman, before I delve into additional remarks, the
+Congressional Budget Office deemed this bill to cost $1.8 billion. Why
+then would Mr. Davidson, with his amendments, create more money than
+even the Congressional Budget Office said his bill would cost?
+He has raised it $5 billion more. Who pays for that? I don't care how
+you put it. Whether it is paid for tomorrow, next month, next year, 10
+years from now, who pays for that? The home buyers pay for that and
+that must be noted.
+The bill is increased by $5 billion by Mr. Davidson, even more than
+the Congressional Budget Office said the bill would cost at $1.8
+billion. Why would he do that? Why would he charge home buyers more
+money than even the Congressional Budget Office said the bill would
+cost?
+Accordingly, I will explain further. Currently, middle-class
+borrowers who cannot make a 20 percent downpayment are charged higher
+LLPAs and must purchase private mortgage insurance.
+I am going to say it again. If you are paying less than 20 percent,
+you have to get private mortgage insurance to
+[[Page H3118]]
+cover the risks that may be posed to the enterprises.
+This is an unfair double charge on middle-class borrowers for the
+same risks. Don't forget, they have paid their g-fees. Everybody has to
+pay the g-fees to help write the undercosts of the operation of FHFA.
+They pay those, and it is determined on each individual loan. It
+depends on the characteristics of that loan.
+You build in the question of risk in those fees and then you pay
+private mortgage insurance, which means the middle-class borrowers are
+paying more than the wealthy borrowers.
+{time}  0945
+In fact, borrowers with PMI also have excellent credit, with median
+FICO scores of 754 as of December 2020, and are more likely to be
+first-time home buyers. They also pose less loss severity to the
+enterprises than borrowers who have the means to make a downpayment of
+20 percent or more.
+FHFA's mortgage pricing changes that reduce this unfair double charge
+on borrowers with PMI is a critical step to making the dream of
+homeownership attainable for the middle class in America.
+I oppose this bill, and I oppose my Republican colleague, who is part
+of the message going out from FOX News.
+I oppose this bill because, first of all, the $5 billion is an
+increase. The Republicans are forever saying that they are trying to
+cut budgets. They don't want to increase the amount of taxes. Yet, here
+he is increasing the amount that he claims he is charging homeowners,
+when even the Congressional Budget Office says it costs $1.8 billion,
+and now, he is asking for $5 billion. Well, I don't quite understand
+that, and nobody else should understand that. It is not needed.
+Again, they keep talking about credit scores. These middle-class
+homeowners, who could not afford to pay maybe 20 percent down, have
+good credit scores, equal credit scores to the wealthy home buyers. I
+don't get why he keeps talking about these credit scores.
+Mr. Chair, I reserve the balance of my time.
+Mr. DAVIDSON. Mr. Chair, I yield myself such time as I may consume.
+Mr. Chair, I thank the ranking member for recognizing that low-income
+people do have high credit scores. That is why it is unjust to
+implement this rule and charge them a higher fee than maybe wealthy
+people who have low credit scores.
+This is an interesting observation. The ranking member on the
+Subcommittee on Housing and Insurance, Mr. Cleaver, just pointed out
+that it would be dangerous to require the FHFA to use the
+Administrative Procedure Act, i.e., to give notice and get comment,
+before they implement policies that impose costs on the American
+public. In July 2020, Ms. Waters and the majority at the time sent a
+letter to Director Calabria--at the time the Director of FHFA--saying:
+``Moreover, we urge you to use your powers under title 5 U.S.C. 551-
+559, the Administrative Procedure Act, to engage meaningfully with all
+stakeholders.''
+It seems they are not opposed to FHFA using the Administrative
+Procedure Act. In fact, they asked them to do it, so I wonder why it is
+selectively.
+Mr. Chair, I yield 2 minutes to the gentlewoman from Arizona (Mrs.
+Lesko).
+Mrs. LESKO. Mr. Chair, I thank Mr. Davidson for sponsoring this bill
+and allowing me to talk.
+The Biden administration's mortgage rule is the most recent in a long
+line of upside-down, absolutely crazy policies by this administration.
+Recently, the Federal Housing Finance Agency increased loan-level
+pricing adjustments for Americans with good credit scores and decreased
+the fees for the majority of Americans who have poor credit scores.
+That makes no sense. It is upside down, and it incentivizes people not
+to have good credit scores.
+Americans who have good credit scores and have been fiscally
+responsible should not be forced to effectively subsidize the loans of
+people with bad credit, especially in the middle of a cost-of-living
+crisis with still-high inflation rates and rising home prices.
+The Middle Class Borrower Protection Act repeals this terrible policy
+and ensures that Americans are not unfairly punished for being fiscally
+responsible.
+I have young adult children, and they struggle. They are not wealthy,
+as some of my Democratic colleagues have said, but they have struggled.
+They live paycheck to paycheck, but they try to have good credit
+scores.
+One of them said to me: Jeez, with this crazy Biden policy of wanting
+to punish people with good credit scores so that they have to pay more
+to subsidize people with poor credit scores, why the heck should I work
+to have good credit scores?
+That is what this administration is doing. This is like socialism.
+This is insane. That is why I support Mr. Davidson's bill. That is why
+I support Americans who strive to be fiscally responsible.
+Ms. WATERS. Mr. Chair, I yield myself such time as I may consume.
+Mr. Chair, I will take a minute to say that the representation that
+middle-class home buyers who may not have 20 percent down also have bad
+credit is not true. The record should reflect that that is not true.
+That is made up by someone who would like to throw credit scores into
+this argument and argue that these middle-class buyers, who can't pay
+20 percent down, all have bad credit. They do not. They have good
+credit, and they are eligible for a loan. The only thing they don't
+have is 20 percent down, and they get mortgage insurance in order to
+cover that.
+Mr. Chair, I yield 1 minute to the gentleman from Missouri (Mr.
+Cleaver).
+Mr. CLEAVER. Mr. Chair, I missed something because I didn't know that
+the Biden administration was involved in this debate or had any
+involvement at all with this discussion.
+At the appropriate time, I will offer a motion to recommit this bill
+back to committee. If House rules permitted, I would have offered the
+motion with an important amendment to the bill.
+My amendment would make the $3.2 billion surplus this bill generates
+available for Federal programs to assist homeless individuals and
+families. Instead of making housing more expensive for our
+constituents, we should be ensuring that every single American is able
+to live with dignity and comfort.
+Mr. Chair, I include in the Record the text of the amendment.
+At the end, add the following new section:
+SEC. 8. USE OF EXCESS AMOUNTS.
+Any amount of budget authority resulting from the enactment
+of section 7 (relating to enterprise guarantee fees) in
+excess of the amount necessary to offset mandatory spending
+increases under the other provisions of this Act so as to
+comply with clause 10.(a)(1) of rule XXI of the Rules of the
+House of Representatives of the 118th Congress are hereby
+made available for assistance under Federal programs to
+assist homeless individuals and families.
+Mr. CLEAVER. Mr. Chair, I hope my colleagues will join me in voting
+for the motion to recommit and opposing this sham bill.
+Mr. DAVIDSON. Mr. Chair, I yield 2 minutes to the gentleman from
+Virginia (Mr. Good).
+Mr. GOOD of Virginia. Mr. Chair, I thank Mr. Davidson for his
+leadership on trying to correct this egregious policy coming from the
+Biden administration.
+The American people are suffering today. They are suffering from
+Bidenflation, 40-year high inflation. They are suffering under higher
+grocery prices. They are suffering under high gas prices, higher
+utility energy prices, all as a result of this President's policies.
+They are suffering under the massive inflation that has caused
+housing prices to rise, and then we have complicated that with raising
+interest rates to make homeownership out of reach for most Americans.
+Here comes the Biden administration to the rescue. They are going to
+charge most Americans higher mortgage fees when they go to borrow to
+buy a home as a result of having good credit.
+I worked in the lending industry for 17 years. Lending prices and
+fees are based on credit. They are based on stability. They are based
+on ability. They are based on the loan to value, the amount of loan
+that you take relative to the value of the home.
+The lending industry knows what they are doing. They want to make
+every possible loan they can make, and they want to price it
+appropriately, according to the risk.
+However, what this does, what we are trying to overturn here, what
+the Biden administration wants to do, is reward or incentivize bad
+behavior.
+[[Page H3119]]
+Credit is a reflection of good behavior. There is not even really a
+correlation between income and credit. There are many high-income
+individuals who borrow more than they can afford or have bad character
+demonstrated in their credit. There are many low-income individuals who
+have outstanding character, outstanding credit history because they do
+the right thing.
+Now, what the Biden administration wants to do is to penalize them
+and to subsidize that bad credit on the backs of folks who have good
+credit, of course.
+I thank my friend from Ohio, Mr. Davidson, for his leadership on
+this, his efforts to overturn this terrible policy. It is socialist and
+un-American, and it is simply wrong. I thank him for his leadership.
+Ms. WATERS. Mr. Chair, I yield myself such time as I may consume.
+Mr. Chair, the MAGA housing scam act would reverse critical cost
+savings for middle-class borrowers as provided by FHFA.
+Before FHFA's May 1 changes, a middle-class borrower with a high
+credit score and a 5 percent downpayment on a medium-priced home would
+have paid an LLPA fee of $81 in addition to private mortgage insurance.
+Today, this borrower would pay half of that fee, allowing them to
+access affordable homeownership.
+Similarly, a borrower with the same credit score and a 40 percent
+downpayment on the same priced home would have paid only $27 before May
+1 and today pays just $20. These are cost savings that Republicans not
+only want to eliminate but now they want to add an additional $5
+billion in fees for everyone.
+This is a scam, not a protection for the middle class. This is
+messaging by FOX News.
+What is that $5 billion for? Why is it that Mr. Davidson is wanting
+to raise more money than even the Congressional Budget Office says the
+bill costs? This is not to be understood.
+I know that there is an attempt to try to make the argument that
+somebody wealthier is paying for those who have less income, less
+money, less resources. It is not true.
+Don't eliminate private mortgage insurance. If you pay less than 20
+percent, you pay for private mortgage insurance in addition to the GSE
+fees. Middle-class borrowers were paying more than even the wealthier
+borrowers, so it had nothing to do with the credit score because the
+credit score of that home buyer who only paid less than 20 percent is
+as good as the credit score of the wealthier buyer. It had nothing to
+do with that at all.
+Again, I don't know why this argument is being made by the other
+side. It is an attempt, I think, to message in a way that goes directly
+to constituents who they make angrier because their government is
+making them do something they should not be making them do.
+Don't politicize this. This is about homeownership. This is about the
+American Dream. This is about making sure that those people who can
+afford to buy a home are able to do so.
+The idea that anybody would say that, if you can't make a 20 percent
+downpayment but can pay for private mortgage insurance, you must not
+have good credit scores, that is an absolute untruth. As a matter of
+fact, you would not be able to get that loan if you had bad credit
+scores.
+I wish the opposition would stop making that argument because it does
+not fly. That person who is paying, again, private mortgage insurance
+also has a good credit score. They didn't have the 20 percent down, but
+they are paying for it with their private mortgage insurance.
+Mr. Chair, I reserve the balance of my time.
+{time}  1000
+Mr. DAVIDSON. Mr. Chair, I have no additional speakers, and I reserve
+the balance of my time.
+Ms. WATERS. Mr. Chairman, I yield myself the balance of my time to
+close.
+Mr. Chairman, I oppose H.R. 3564, which harms middle-class home
+buyers and their ability to access homeownership on fair and affordable
+terms.
+This bill responds to a misinformation campaign, again initiated by a
+friend of the Republicans, FOX News, and propagated by extreme MAGA
+Republicans. It protects wealthy home buyers and imposes billions in
+new fees on all home buyers.
+Mr. Chair, I also oppose this bill because it completely ignores our
+Nation's worsening housing crisis, which is locking millions out of the
+dream of homeownership. MAGA Republicans are instead focused on a
+minuscule fee in the home-buying process that does nothing to address
+our Nation's housing shortage and rising housing costs that are driving
+inflation.
+We have a shortage of 14 million homes nationwide and more than
+582,500 people experiencing homelessness on any given night, with
+homelessness rising faster in rural communities than anywhere else in
+the country. Meanwhile, U.S. renters are paying more of their income on
+rent today than ever before. These are the real problems that
+Republicans should be working to solve, not increasing fees by billions
+of dollars according to the CBO.
+In fact, this bill is opposed by Americans for Financial Reform,
+Center for Responsible Lending, the National Fair Housing Alliance, the
+National Housing Law Project, and the National Housing Resource Center.
+Industry groups such as the Mortgage Bankers Association and the
+National Association of Realtors are also very concerned about this.
+Republicans are forever worried about the fact that we are not making
+enough cuts. Yet, in the negotiations that just occurred on raising the
+debt limit, they wanted to cut, cut, cut, cut. They are not only
+jeopardizing middle-class homeowners, but they are increasing the
+amount of money--more than even needed--than the Congressional Budget
+Office has said the bill would cost.
+Why $5 billion? I don't get it. I don't understand, but I am through
+with it.
+Mr. Chair, I simply ask for a ``no'' vote on this bill, and I yield
+back the balance of my time.
+Mr. DAVIDSON. Mr. Chair, the American people should be angry. They
+should be upset because the Biden administration did impose a socialist
+redistribution scheme. The most egregious and obvious part is that they
+withdrew as we uncovered this and exposed what they were trying to do.
+On August 1, their plan was to say that if you have a lot of income
+and very little debt, then you should pay more, even more than this
+scheme that took effect on May 1, and you should subsidize the people
+that have little income and more debt. Now, to be sure, they still
+would qualify for a mortgage, or they wouldn't get the loan, but that
+is patently obvious redistribution of wealth.
+The component that took effect on May 1 isn't really a redistribution
+of wealth per se, but it does hit the average credit score of 710.
+Everyone with a credit score of 680 or above, 19 out of 20 Americans is
+being hit by a higher fee since May 1 for their mortgages.
+It is a redistribution of credit scores, and that is even worse than
+an idea of redistribution of wealth, in a sense. Because you have
+responsible people who live within their means, might live just a
+little bit above paycheck to paycheck, save, scrape together, build up
+a downpayment, have a mortgage in place, and they are going to pay more
+now since May 1.
+We have to fix this injustice. That is what this bill does. It is
+time to just move forward in a commonsense way.
+First, you study the problem before you implement it. This bill
+requires the GAO to complete the study, and then it requires FHFA to
+look at the study, to take 90 days of notice before they implement
+something else. The part that it bans after the study is over is the
+real redistribution of wealth, the debt-to-income scheme.
+Mr. Chair, I urge all of my colleagues on both sides of the aisle to
+support this commonsense Middle Class Borrower Protection Act, and I
+yield back the balance of my time.
+Ms. JACKSON LEE. Mr. Chair, I rise to speak against H.R. 3564, a
+harmful bill which seeks to cancel recent changes made by the Federal
+Housing Finance Agency (FHFA) to the single-family mortgages'
+framework.
+First, I'd like to applaud the FHFA for their bold and courageous
+actions that aim to ensure equity and fairness in the mortgage pricing
+framework.
+The title of H.R. 3564 contradicts its content, because in reality,
+it makes mortgages more expensive for many middle-class American
+families.
+[[Page H3120]]
+Escalating housing prices in recent years have put many families and
+hardworking Americans out of the bid for homeownership.
+The median U.S. home sales price stands at about $455,800 dollars as
+of the first quarter of 2023 representing a whopping 32 percent
+increase from 2020, just two years ago.
+In the last 2 to 3 years however, the average American has neither
+become 32 percent richer nor gained wage increase of 32 percent.
+Increasing amounts of homes owned by private equity and Wall Street
+firms, accompanied by high inflation and rising demand have contributed
+to these price increases.
+Rising rents make it even more difficult for first-time home buyers
+to save for a down payment.
+At an average cost of $455,800 for a home, middle-income American
+families would need to save roughly $87,500 dollars, an amount which
+most families simply do not have.
+Rather than rescinding their bold and courageous action, we should
+rather applaud and commend the FHFA in its rightful steps toward making
+mortgages more affordable for first-time homeowners and many
+creditworthy borrowers who simply cannot afford a 20 percent down
+payment.
+The eliminated loan level price adjustment fees would actually help
+these borrowers to save for their monthly mortgage payments.
+The upward adjustments in vacation home and investment property
+mortgages also help to ensure balance, equity, and fairness in the
+federal housing finance and pricing framework.
+The FHFA's actions are in the right direction and help to ensure a
+more equitable mortgage pricing framework that prioritizes middle class
+home buyers over investors and second-home owners.
+H.R. 3564 is an attempt to rescind the FHFA's more equitable pricing
+framework and instead require increased fees for many first-time home
+buyers and those who do not have a 20 percent down payment.
+H.R. 3564 will raise the cost of homeownership and make it more
+expensive for first-time homebuyers and borrowers of color seeking
+conventional loan.
+The FHFA's actions are a step toward remedying this inequity and
+achieving fairness and equal opportunity.
+It is not Congress' job to set mortgage pricing fees for loans
+purchased by the Government Sponsored Enterprises (GSEs).
+This is the role of the government regulator, the Federal Housing
+Finance Agency.
+The Acting CHAIR (Mr. Ellzey). All time for general debate has
+expired.
+Pursuant to the rule, the bill shall be considered for amendment
+under the
+5-minute rule.
+In lieu of the amendment in the nature of a substitute recommended by
+the Committee on Financial Services printed in the bill, an amendment
+in the nature of a substitute consisting of the text of Rules Committee
+Print 118-8, modified by the amendment printed in part A of House
+Report 118-115, shall be considered as adopted. The bill, as amended,
+shall be considered as an original bill for purpose of further
+amendment under the 5-minute rule and shall be considered as read.
+The text of the bill is as follows:
+H.R. 3564
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Middle Class Borrower
+Protection Act of 2023''.
+SEC. 2. REPEAL OF RECALIBRATED SINGLE-FAMILY PRICING
+FRAMEWORK.
+Not later than the expiration of the 60-day period
+beginning on the date of the enactment of this Act, the
+Director of the Federal Housing Finance Agency shall revise
+the recalibrated single-family pricing framework charged by
+the enterprises for guarantee of mortgages on single-family
+housing so that such fees are identical to the fees of the
+standard single-family pricing framework in effect
+immediately before May 1, 2023.
+SEC. 3. RESTRICTIONS ON FHFA ADJUSTMENTS TO SINGLE-FAMILY
+PRICING FRAMEWORK.
+(a) Temporary Prohibition on Further Adjustments to Single-
+family Pricing Framework.--During the period beginning upon
+the date of the revision of the recalibrated single-family
+pricing framework pursuant to section 2 and ending 90 days
+after the submission to the Congress of the report required
+under section 5, the Director may not further revise the
+single-family pricing framework from such framework in effect
+pursuant to the revision required by section 2.
+(b) Administrative Procedures for Adoption of Adjustments
+to the Single-family Pricing Framework.--After expiration of
+the period referred to in subsection (a), when proposing
+adjustments to the single-family pricing framework, the
+Director shall follow procedures that are as close as
+practicable to those requirements for a Federal agency
+issuing a rule under chapter 5 of title 5, United States Code
+(commonly referred to as the ``Administrative Procedure
+Act'').
+(c) FHFA Requirement for the Use of Risk-based Pricing.--
+Section 1367(b)(2) of the Federal Housing Enterprises
+Financial Safety and Soundness Act of 1992 (12 U.S.C.
+4617(b)(2)) is amended by adding at the end the following new
+subparagraph:
+``(L) Additional powers as conservator.--The Agency shall,
+as conservator for an enterprise, to the greatest extent
+feasible require that any modifications, including increases,
+decreases, or eliminations, approved to a loan-level pricing
+adjustment fee, as such term is defined in section 6 of the
+Middle Class Borrower Protection Act of 2023, charged by an
+enterprise shall be based on the risk posed by the mortgage
+loan to the enterprise.''.
+SEC. 4. PROHIBITION OF LOAN-LEVEL PRICE ADJUSTMENTS BASED ON
+DEBT-TO-INCOME RATIO.
+The Director and the enterprises shall not impose any
+loan-level pricing adjustment fee that is based on the ratio
+of the debt of the mortgagor to the income of the mortgagor.
+SEC. 5. GAO STUDY.
+(a) Study.--The Comptroller General of the United States
+shall conduct a study of the revisions made by the Federal
+Housing Finance Agency to the standard single-family pricing
+framework under the recalibrated single-family pricing
+framework to--
+(1) analyze--
+(A) the methodology, policy considerations, and any other
+objectives used by the Federal Housing Finance Agency as the
+basis for such revisions, including the authority cited by
+the Director under the Federal Housing Enterprises Financial
+Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) to
+require such revisions;
+(B) the data, econometric modeling, and other inputs
+supplied by the enterprises during the revisions process;
+(C) the extent to which such revisions comply with the
+objectives of the Enterprise Regulatory Capital Framework,
+including the interaction with and treatment of any private
+mortgage insurance required in connection with a residential
+mortgage transaction; and
+(D) the economic impact of such revisions on various
+classes of lenders and borrowers affected by such revisions;
+and
+(2) determine the extent to which such revisions--
+(A) were conducted on the basis of, and how they might
+deviate from, the principle of risk-based pricing;
+(B) deviate from the data, econometric modeling, and other
+inputs supplied by the enterprises during the revisions
+process;
+(C) achieve the objectives of the Enterprise Regulatory
+Capital Framework, including if such revisions have resulted
+in either a negative profitability gap or negative rate of
+return on the targeted rate of return on capital for any
+business segment under the recalibrated single-family pricing
+framework; and
+(D) represent any increased risks to the safety and
+soundness of the enterprises.
+(b) Report.--The Comptroller General shall submit a report
+to the Congress setting forth the findings and conclusions of
+the study not later than the expiration of the 14-month
+period beginning on the date of the enactment of this Act.
+SEC. 6. DEFINITIONS.
+In this Act:
+(1) Director.--The term ``Director'' means the Director of
+the Federal Housing Finance Agency.
+(2) Enterprise.--The term ``enterprise'' has the meaning
+given such term in section 1303 of the Federal Housing
+Enterprises Financial Safety and Soundness Act of 1992 (12
+U.S.C. 4502).
+(3) Loan-level pricing adjustment fee.--The term ``loan-
+level pricing adjustment fee'' means an up-front fee paid by
+lenders when a mortgage loan is acquired by an enterprise.
+(4) Recalibrated single-family pricing framework.--The term
+``recalibrated single-family pricing framework'' means the
+loan-level pricing adjustment fee structure as referred to in
+the announcement of the Federal Housing Finance Agency on
+January 19, 2023, relating to ``Updates to the Enterprises'
+Single-Family Pricing Framework'', and set forth in Federal
+National Mortgage Association Lender Letter LL-2023-01 and
+Federal Home Loan Mortgage Corporation Bulletin 2023-1.
+(5) Risk-based pricing.--The term ``risk-based pricing''
+means the calibration of fees based on the expected credit
+losses to an enterprise of each single-family mortgage
+category as defined by an enterprise based on the credit
+score and loan-to-value ratio characteristics of a mortgage.
+(6) Standard single-family pricing framework.--The term
+``standard single-family pricing framework'' means the loan-
+level pricing adjustment fee structure in effect on April 30,
+2023.
+SEC. 7. ENTERPRISE GUARANTEE FEES.
+Subsection (f) of section 1327 of the Federal Housing
+Enterprises Financial Safety and Soundness Act of 1992 (12
+U.S.C. 4547(f)) is amended by striking ``October 1, 2032''
+and inserting ``October 1, 2033''.
+The Acting CHAIR. No further amendment to the bill, as amended, shall
+be in order except those printed in part B of House Report 118-115.
+Each such further amendment may be offered only in the order printed in
+the report, by a Member designated in the report, shall be considered
+read, shall be debatable for the time specified in the report, equally
+divided and controlled by the proponent and an opponent, shall not be
+subject to amendment, and shall not be subject to a demand for division
+of the question.
+Amendment No. 1 Offered by Mrs. Boebert
+The Acting CHAIR. It is now in order to consider amendment No. 1
+printed in part B of House Report 118-115.
+[[Page H3121]]
+Mrs. BOEBERT. Mr. Chair, I have an amendment at the desk.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Page 5, line 7, after ``study'' insert ``, and make the
+report publicly available online on a website of the
+Department,''.
+The Acting CHAIR. Pursuant to House Resolution 524, the gentlewoman
+from Colorado (Mrs. Boebert) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentlewoman from Colorado.
+Mrs. BOEBERT. Mr. Chair, I rise in favor of my amendment, which will
+require the Government Accountability Office to make its report on the
+findings and conclusions of its study of the Federal Housing Finance
+Agency's loan-level pricing adjustment revisions publicly available
+online.
+My commonsense amendment will provide transparency for the
+administration to answer to the American people.
+The latest FHFA fee change could result in thousands of dollars in
+additional fees for lower risk homeowners over time, while encouraging
+and rewarding financial irresponsibility. This is a gross overreach and
+will ultimately contribute to the growing inflation problem we have in
+this country.
+Raising housing costs at a time when mortgage rates are at their
+highest, thanks to the Biden-Pelosi spending spree, will make housing
+less affordable and will result in higher mortgage costs and reduced
+access to credit for most borrowers.
+Joe Biden's agenda of equity over equality defies common sense and
+will endanger the stability of the housing market. The Republican
+majority is fighting tooth and nail to protect middle-class home buyers
+from Joe Biden's new socialist tax, which puts homeownership out of
+reach for the middle-class American.
+Borrowers with excellent credit should not be punished for doing
+right and be forced to bear more financial burdens due to the fiscal
+irresponsibility of others.
+Unelected bureaucrats in Washington should not have the ability to
+impose these un-American regulations on hardworking middle-class
+families. I am glad this bill puts an end to business as usual here in
+the swamp.
+I thank the gentleman from Ohio (Mr. Davidson) for his leadership to
+block Joe Biden's new socialist tax to force middle-class borrowers to
+subsidize risky loans.
+Mr. Chair, I urge my colleagues to vote in favor of my amendment, as
+well as the underlying bill, and I reserve the balance of my time.
+Ms. WATERS. Mr. Chair, I claim the time in opposition.
+The Acting CHAIR. The gentlewoman from California is recognized for 5
+minutes.
+Ms. WATERS. Mr. Chair, I yield myself such time as I may consume.
+Well, actually, I don't even want to waste another minute on this
+pointless and redundant amendment.
+Anyone who pays attention to government oversight knows that the GAO
+already makes all of its reports resulting from legislative mandates
+publicly available on the GAO's website as soon as they are issued to
+Congress.
+Mr. Chair, I include in the Record two letters: one from Americans
+for Financial Reform and one from Public Citizen.
+Americans for Financial Reform,
+May 23, 2023.
+Hon. Patrick McHenry,
+Chairman, House Committee on Financial Service, Washington,
+DC.
+Hon. Maxine Waters,
+Ranking Member, House Committee on Financial Services,
+Washington, DC.
+Dear Chairman McHenry and Ranking Member Waters: We are
+writing to express our opposition to H.R. 3564 ``Middle Class
+Borrower Protection Act of 2023.'' The bill's title is ironic
+because it would, in fact, make mortgages more expensive for
+many middle-class American families.
+Record housing prices have put homeownership increasingly
+out of reach for my Americans. The US median home sales price
+is $436,800 as of the first quarter of 2023. That's a 32
+percent increase from 2020, when the median was $329,000.
+However, Americans have not become 32 percent richer in the
+last three years. Rather, inflation, rising demand, and the
+increasing amount of homes owned by private equity and Wall
+Street firms have all contributed to these price increases.
+Meanwhile, rising rents make it increasingly difficult for
+first-time home buyers to save for a down payment. To afford
+a 20 percent down payment on a $436,800 home, a homebuyer
+would need $87,360 for the down payment, a sum that many
+middle-income American families simply do not have.
+Given these trends, the FHFA should be commended for making
+mortgages more affordable for first-time homebuyers,
+borrowers participating in the Enterprises' affordable
+mortgage programs, and creditworthy borrowers who lack a 20
+percent down payment. These borrowers will see reduced or
+eliminated loan level price adjustment fees. The FHFA will
+also increase loan level price adjustment fees for vacation
+home and investment property mortgages, cash-out refinances,
+and large loan amounts. Taken together, these actions
+demonstrate an important first step towards a more equitable
+mortgage pricing framework that supports middle class
+homebuyers over investors and second-home owners.
+We oppose H.R. 3564 because it would rescind the FHFA's
+more equitable pricing framework and instead require the FHFA
+to increase fees for many first-time home buyers and those
+who do not have a 20 percent down payment. It would require
+the FHFA to impose a risk-based pricing model, one that would
+ultimately benefit housing investors and vacation home owners
+while making homeownership more difficult for middle class
+Americans.
+H.R. 3564 will disproportionately harm homebuyers of color.
+Because of our history of racial discrimination, a large
+racial wealth gap persists that makes it less likely that a
+homebuyer of color will be able to pay for a 20 percent down
+payment through their personal savings, assistance from their
+families, or inheritance.
+Opponents of the FHFA's pricing matrix have spread
+significant misinformation about its impacts on mortgage
+pricing. To be clear: under the new framework, borrowers with
+good credit and higher down payments will continue to pay
+lower mortgage costs than borrowers with good credit and
+lower down payments, because these borrowers will still be
+required to pay for monthly mortgage insurance until they
+reach 20 percent equity.
+Optimally, Americans for Financial Reform believes the
+loan-level price adjustment fees should be eliminated
+altogether because this will increase pricing transparency
+and make homeownership more affordable. These fees are
+unnecessary from a risk-mitigation perspective because Fannie
+Mae and Freddie Mac already have charge guarantee fees to
+cover the credit risk of acquiring single-family loans from
+lenders. However, the changes recently made by FHFA are a
+step in the right direction of mitigating the adverse effects
+of the adjustment fees, which is why we support FHFA's
+actions. H.R. 3564 would move us in the wrong direction by
+further entrenching the loan-level price adjustment fee
+flawed framework and making it even more inequitable.
+At a time when more and more Americans are struggling with
+the cost of housing, it defies comprehension that Congress
+would seek to increase fees for middle class homebuyers. For
+these reasons, we urge you to oppose this legislation.
+Sincerely,
+Americans for Financial Reform.
+____
+Public Citizen 50,
+May 22, 2023
+Chair Patrick McHenry,
+Ranking Member Maxine Waters,
+Hon. Members of the Committee,
+House Committee on Financial Services,
+Washington, DC.
+Dear Chair McHenry, Ranking Member Waters and Members of
+the Committee: On behalf of more than 500,000 members and
+supporters of Public Citizen, we offer the following comment
+on legislation slated for a vote May 24, 2023, before the
+House Financial Services Committee. We address these bills in
+three parts. The first part involves a cluster of capital
+formation bills. The second part is a bill with multiple
+titles that purports to respond to the recent bank failures.
+The third part is a housing bill.
+1. Capital Formation
+The first cluster of bills involves capital formation.
+Average investors enjoy an ample range of opportunities for
+savings and wealth creation, and one of the most approachable
+is the public securities markets. There are thousands of
+public companies that offer stocks and bonds. Each of these
+public companies provide detailed disclosures on an annual
+(10k) or quarterly (10Q) basis, and sometimes more frequently
+(8k) following a major event that could affect the stock
+price. These documents are reviewed by the Securities and
+Exchange Commission (SEC) after they are subject to an
+independent audit. Most of these documents are studied by
+Wall Street analysts who publish critical information that an
+ordinary reader might miss. Investors may also choose a
+mutual fund, where experts select a portfolio of stocks,
+usually involving a certain risk appetite, or sector. Or,
+given that stock-picking can be difficult for even the most
+seasoned professional, investors may essentially choose
+``all'' stocks through an index fund. Again, these
+investments are subject to rigorous registration and
+disclosure, with non-complying brokers subject to fines and
+expulsion from the industry for shoddy sales practices.
+Then there are investment opportunities that fail to meet
+these standards. That's often because the underlying business
+is untested, or perhaps even shady. Sophisticated investors
+know to avoid them. But Wall
+[[Page H3122]]
+Street salesmen want to earn commissions, and even selling
+such eschewed junk can generate those commissions. What
+prevents them are safeguards that Congress and the SEC have
+erected to deter the unscrupulous from pawning off the odious
+to unsuspecting victims.
+The following cluster of bills are part of a years-long
+effort by Republican and some Democratic enablers to strip
+away some of those safeguards.
+The Increasing Investor Opportunities Act
+This misleadingly titled bill would expose investors to
+greater risk by increasing the limit that a closed-end fund
+can invest in a private fund, which are subject to less
+regulation and disclosure. Currently, the SEC caps the amount
+that closed-end funds can invest in private funds at 15
+percent of net assets, if the closed-end fund is sold to non-
+accredited investors, who are investors with lower income and
+total wealth. If a closed-end fund has more than 15 percent
+of net assets in private funds, it must sell that fund only
+to accredited investors. This bill would allow closed-end
+funds to invest 100 percent of their net assets in private
+funds and still be sold to non-accredited investors. Many
+private funds are simply bad products that sophisticated
+investors have avoided. This bill would allow them to be
+sloughed off on those with less investment experience and
+less income and savings to lose. We oppose this bill.
+The Retirement Fairness for Charities and Educational
+Institutions Act of 2023
+This bill claims to level the playing field between 401(k)
+plans and 403(b) plans so that both accounts can invest in
+collective investment trusts (CITs). However, the bill would
+gut securities laws and allow securities salespeople to sell
+other, far riskier investments, to 403(b) plans. A 403(b)
+plan is one that is available to public school organizations.
+Securities laws require that mutual funds and variable
+annuities that are sold to 403(b) plans must be registered
+with the SEC. Registration requires the disclosure of basic
+information such as risks and costs. The SEC reviews this for
+accuracy. This helps investors avoid products that are unfit
+for a risk-averse portfolio.
+This bill would allow unregistered variable annuities and
+other pooled investment vehicles to be sold to these public-
+school teachers. The bill does this by amending the
+Investment Company Act and the Securities Act. This would end
+the disclosures about risks and costs. We believe this bill
+is a craven effort to expose hard-working public-sector
+workers to investment vehicles that can't be sold to people
+paying attention to important details. We oppose this bill.
+The Access to Small Business Investor Capital Act
+This bill would allow business development companies (BDCs)
+to obscure critical information such as acquisition costs and
+other expenses (acquired fund fees and expenses, or AFFEs).
+Instead of highlighting them, sales documents could bury this
+information in a footnote to the fee table. This will be
+confusing if not misleading. We oppose this bill.
+The Helping Angels Lead Our Startups Act
+This bill would allow firms to promote risky investments at
+various forums such as social clubs or college events without
+providing basic disclosures regarding the securities. The
+bill also prevents the SEC from offering any restrictions on
+these quasi sales events. We oppose this bill.
+A bill to except quotations of Rule 144A fixed-income
+securities from certain regulatory requirements
+This bill would end the prohibition on publishing certain
+riskier securities (governed under Rule 144Af and Rule 15c2-
+1) from using a quotation medium other than a national
+securities exchange (such as over-the-counter securities).
+The SEC did provide an exemption from this prohibition, but
+it was time limited. This would make the exemption permanent.
+We opposed the original exemption, and we oppose making it
+permanent and therefore we oppose this bill.
+2. Response to Recent Bank Failures
+The next bill is an amalgam of irrelevant, wrongheaded
+responses to the recent failure of three large regional
+banks. This legislation masks the Republican (and wayward
+Democratic) sponsorship of a major deregulation effort
+approved in 2018 known as S. 2155. S. 2155 led to the
+failures of Silicon Valley Bank and Signature Bank. S. 2155
+increased from $50 billion to $250 billion the size of bank
+that would face ``enhanced supervision'' (as provided under
+Title I, Section 165 of the Dodd Frank Wall Street Reform and
+Consumer Protection Act). Enhanced supervision includes
+regular, frequent stress tests. Tellingly, Silicon Valley
+Bank (SVB) promptly grew from just under $50 billion in
+assets before approval of President Trump's S. 2155, to $211
+billion by the end of 2022. It was not due for another stress
+test until 2024. When the Federal Reserve raised interest
+rates precipitously and after persistent, vocal warning to
+markets, SVB's lazy strategy of holding copious long term,
+low interest baring Treasury securities proved fatal. It
+collapsed March 10, 2023, a billboard for the disastrous
+deregulatory policy of S. 2155. Rather than acknowledge
+accountability, Republicans have projected their culpability
+by complaining that regulators failed; some even blame
+``woke'' capitalism, as SVB devoted some attention to
+diversity and inclusion.
+The Increasing Financial Regulatory Accountability and
+Transparency Act
+Title I of this bill would complicate the FDIC's resolution
+process for failing banks by requiring new and extensive
+analyses of the systemic risk exception. While we believe
+this exception should be used with great caution, the bar is
+currently high: at least two-thirds of the board members of
+the FDIC and Federal Reserve must support it, and it must be
+signed by the Treasury Secretary who must consult with the
+President. We oppose this title.
+Title II would revise the Fed's emergency lending authority
+with several limitations that would slow down the ability to
+deploy stabilization tools. There are already a number of
+limits, the recent failure of three large banks does not make
+a case for such additional limitations. Instead, Congress
+should amend the statute (12 USC 1828 13c) that includes an
+exception to a bank controlling more than 10 percent of the
+nation's deposits (as JP Morgan does) acquiring another bank,
+namely if that bank is failing. The statute should authorize
+the FDIC to accept a second-best bid if from a bank with less
+than 10 percent of deposits. In its current form, we do not
+support Title II.
+Title III would add another voting member to the Financial
+Stability Oversight Council (FSOC) and eliminate FSOC's
+Climate-related Financial Risk Advisory Committee. Given that
+climate change is the gravest threat to humanity (which is
+bad for business), Congress should improve oversight rather
+than reduce it, especially since the recent calamity was
+caused by simple failure to understand interest rate maturity
+mismatches, hardly the gravity of climate change. We oppose
+this title.
+Title IV is an ad hominem retort to Federal Reserve Vice
+Chair Michael Barr, who issued a report identifying S. 2155
+as one of the factors causing the collapse of SVB. The bill
+would establish qualifications for Vice Chair that Barr does
+not meet. Legislating should be about policy, not personal
+attacks. We clearly oppose this title.
+Title V would require the FDIC Chair, OCC Comptroller of
+the Currency, NCUA Chair, and the Fed's Vice Chair of
+Supervision to testify before Congress on a semiannual basis
+(currently, only the Fed Vice Chair of Supervision is
+required to testified semiannually). This is the only title
+of the bill Public Citizen does not oppose. We oppose all the
+other titles, and this bill.
+3. Housing bill
+The Middle-Class Borrower Protection Act
+This bill would stymie the ability of Freddie Mac and
+Fannie Mae (overseen by the Federal Housing Finance Agency)
+to appropriately price credit risk. It would compromise the
+safety and soundness of the housing finance market. We oppose
+this bill.
+Once again, the committee majority are doing Wall Street's
+bidding by bringing a counterproductive mark-up of
+deregulatory bills instead of increasing the safety and
+soundness of our financial system. Responsible lawmakers
+concerned about investor protection, financial stability and
+housing must not support this legislation.
+Sincerely,
+Public Citizen.
+Ms. WATERS. Mr. Chair, I urge my colleagues on both sides of the
+aisle to oppose this amendment, and I reserve the balance of my time.
+Mrs. BOEBERT. Mr. Chair, I yield back the balance of my time.
+Ms. WATERS. Mr. Chair, I yield myself the balance of my time to
+close.
+Mr. Chair, I include in the Record letters of opposition to H.R. 3564
+from the Center for Responsible Lending, the National Housing Resource
+Center, the National Housing Law Project, and the National Fair Housing
+Alliance.
+[From the Center for Responsible Lending, Sept. 2020]
+More Harm and No Good--So-Called ``Middle Class Borrower Protection Act
+of 2023'' Leaves Borrowers and Taxpayers Less Financially Secure
+The Center for Responsible Lending OPPOSES H.R. 3654, the
+so-called ``Middle Class Borrower Protection Act of 2023,''
+and urges Members of Congress to do the same. As written, the
+bill would: (1) undo the Federal Housing Finance Agency's
+recent cost changes for mortgages under the loan-level-
+pricing-adjustment framework used by Fannie Mae and Freddie
+Mac and (2) subject any future framework changes to the
+Administrative Procedure Act. Yet. rather than protecting
+America's middle class, these proposals would make it more
+expensive for middle-class consumers to become homeowners
+using conventional mortgage loans and more difficult for many
+consumers to enter America's middle class by obtaining
+affordable, conventional mortgage credit. Here is what
+policymakers, advocates, and consumers need to know:
+(1) H.R. 3654 Undermines Middle Class Borrowers By Undoing
+The Pricing Reductions That Were Recently Made For Them. This
+bill would eliminate the reductions in loan-level-pricing
+adjustments (LLPAs) that the Federal Housing Finance Agency
+(FHFA) recently established. Those reductions were targeted
+to the lower wealth, credit-worthy borrowers who
+disproportionately make up or seek to enter America's middle
+class.
+(2) H.R. 3654 Makes it Harder for More Americans to Enter
+the Middle Class by Raising the Cost of a Conventional Home
+[[Page H3123]]
+Loan for First-Time And Working-Class Borrowers.
+Homeownership continues to be the single most important
+factor in determining the ability of an American household to
+build wealth and enter or maintain middle-class status. Yet,
+by eliminating the pricing reductions FHFA recently
+implemented for lower-wealth and first-time homebuyers, the
+proposed bill reinforces a two-tier housing finance system
+where the conventional mortgage market continues to
+prioritize wealthier borrowers while first-time, underserved
+or rural borrowers with less wealth are dependent upon
+government-backed loans from federal agencies. That result is
+inconsistent with the statutory purpose and mandate of Fannie
+Mae and Freddie Mac. As the FHFA has noted, ``[a]chieving a
+liquid, resilient housing finance market throughout the
+country requires improved access to responsible mortgage
+credit across different market segments of creditworthy
+borrowers.
+(3) H.R. 3654 Makes All Taxpayers More Vulnerable by
+Disrupting Safety And Soundness Regulation of for Fannie Mae
+and Freddie Mac. In the aftermath of the Great Recession, the
+Financial Crisis Inquiry Commission stated unequivocally that
+the primary cause of the crisis was a failure on the part of
+the government to regulate the financial industry,
+particularly in the secondary mortgage market. Based on its
+own experience in that regard, Congress created an
+independent FHFA, empowered it to assume conservator
+responsibilities for Fannie Mae and Freddie Mac, and ensured
+that it would have the ability to act swiftly and
+independently from the political process to manage each
+government-sponsored enterprise's safety and soundness
+considerations. Under H.R. 3654, FHFA would Jose the ability
+to act swiftly on pricing considerations tied to safety and
+soundness by being subjected to the Administrative Procedure
+Act. That result would require the Agency to delay
+implementation of pricing changes for an extended period that
+often does not match changing dynamics in the financial
+markets. As a result, taxpayers would be a greater risk for,
+once again, having to bail out the enterprises.
+@ Making homeownership more expensive for moderate income
+borrowers and less accessible for first-time, workingclass,
+rural and other underserved borrowers is not protecting
+America's middle class. Likewise, depriving the enterprises'
+conservator of the tools needed to swiftly respond to safety
+and soundness considerations raised by pricing and, in the
+process, increasing the likelihood of another taxpayer funded
+bail out is not protecting American taxpayers. For each of
+these reasons, H.R. 3654, the ``Middle Class Borrower
+Protection Act of 2023,'' is bad public policy and should not
+be enacted. CRL urges Members of Congress to vote against the
+measure.
+____
+May 21, 2023.
+Hon. Patrick McHenry,
+Chairman, U.S. House Financial Services Committee,
+Washington, DC.
+Hon. Maxine Waters,
+Ranking Member, U.S. House Financial Services Committee,
+Washington, DC.
+Subject: The Current Mortgage Market: Undermining Housing
+Affordability with Politics
+We are writing to show support for the Federal Housing
+Finance Agency (FHFA) changes to the Loan Level Price
+Adjustments (LLPAs). The past LLPA pricing framework unfairly
+raised the costs for many first-time homebuyers who had
+downpayments of less than 20 percent. The main area of growth
+for first time homebuyers will be people of color and this
+disproportionately disadvantages them. The median downpayment
+in 2021 was 17 percent and for first-time- homebuyers it was
+7 percent. These homebuyers with lower downpayments will also
+be paying mortgage insurance which mitigates the risk to the
+Enterprises and raises the costs for the homebuyer.
+Reducing the LLPA fees for first-time homebuyers and
+participants in the affordable housing programs also helps
+the Enterprises meet their mission goal of supporting
+homeownership in America. Ironically, the LLPA framework was
+instituted in 2009 in response to the financial crisis and
+has unfairly put the burden of the Enterprises' financial
+recovery and future catastrophic risk on first-time-
+homebuyers and especially borrowers of color, despite their
+communities being the greatest victims of the financial
+crisis.
+We believe the solution is eliminating the LLPAs
+altogether. Unnecessary LLPA fees raise the cost of
+homeownership and reduce opportunities for Americans who
+would like to become homeowners. Our organization urges you
+to prioritize fair and inclusive mortgage pricing to promote
+equitable and sustainable homeownership.
+Signed,
+National Housing Resource Center.
+____
+National Housing Law Project,
+June 22, 2023.
+Hon. Kevin McCarthy,
+Speaker of the House of Representatives.
+Hon. Patrick McHenry,
+Chair, House Financial Services Committee.
+Hon. Hakeem Jeffries,
+Minority Leader of the House of Representatives.
+Hon. Maxine Waters,
+Ranking Member, House Financial Services Committee.
+Dear Speaker McCarthy, Leader Jeffries, Chair McHenry, and
+Ranking Member Waters: The National Housing Law Project
+writes to express our strong opposition to H.R. 3564, the so-
+called ``Middle Class Borrower Protection Act of 2023''.
+H.R. 3564 would repeal the structure of upfront fees
+related to residential mortgages developed by the Federal
+Finance Housing Agency (FHFA) and instituted by the
+government-sponsored enterprises (GSEs), Fannie Mae and
+Freddie Mac, on May 1, 2023, and reinstate the prior fee
+structure. It would also prohibit any changes to the fee
+structure for at least two more years.
+Contrary to the claims of H.R. 3564's cosponsors, the
+FHFA's updated fee structure does not uniformly shift the
+cost of lower fees for borrowers with low credit scores to
+those with high credit scores. Instead, it represents a
+carefully calibrated effort to balance risk to the GSEs'
+balance sheets with their obligation to provide broad and
+equitable access to homeownership in light of the realities
+of the housing market.
+As explained in a May 23, 2023, letter opposing H.R. 3564
+from Americans for Financial Reform (AFR), the updated fee
+structure that the bill would rescind serves to make the
+homebuying market more equitable than it has been
+historically by lowering mortgage costs for first-time and
+first-generation homebuyers who are disproportionately people
+of color. Moreover, reverting to the prior fee structure
+would actually harm the many middle-income families around
+the country who have never owned a home and who are unable to
+save for a large down payment by restoring higher upfront
+fees for their loans.4 H.R. 3564 is the epitome of bad
+policy: a misleadingly named bill that seeks to erase 18
+months of careful work by the government's own experts in
+housing finance for the sole purpose of ratcheting up
+political controversy. We urge you to oppose this
+legislation.
+Sincerely,
+Lisa Sitkin,
+Supervising Attorney.
+____
+[May 22, 2023]
+NFHA Issues Statement Opposing the Middle Class Borrower Protection Act
+Washington, D.C.--Nikitra Bailey, Executive Vice President
+of the National Fair Housing Alliance (NFHA), issued the
+following statement opposing the Middle Class Borrower
+Protection Act of 2023 introduced by Rep. Warren Davidson (R-
+OH). The bill would require the Federal Housing Finance
+Agency to reverse recent changes to its single-family pricing
+matrix for Fannie Mae and Freddie Mac.
+``We are concerned that Congress is attempting to set
+mortgage pricing fees for loans purchased by the Government
+Sponsored Enterprises (GSEs). This is the role of their
+regulator, the Federal Housing Finance Agency (FHFA). A
+return to the former pricing matrix would raise the cost of
+homeownership and make it more expensive for first-time
+homebuyers and borrowers of color seeking conventional loans.
+The bill also fails to advance housing affordability and does
+not offer a solution for the millions of mortgage-ready
+consumers who desire and can succeed in homeownership.
+``Prior to FHFA mandating upfront Loan Level Price
+Adjustment (LLPA) fees, the GSEs had a stronger track record
+of purchasing loans made to Black, Latino, AAPI, and Native
+communities. Since FHFA instituted LLPAs in 2008, the GSEs
+have grossly underserved the very borrowers on whom the
+health of the future housing finance system depends. LLPAs
+also unfairly place the potential burden of future
+catastrophic risk on the backs of the borrowers who were most
+harmed by the Great Recession.
+``LLPAs must be eliminated. They force creditworthy first-
+time homebuyers and borrowers of color to pay more for
+mortgages, which prices them out of the conventional market.
+The GSEs' charters mandate that they serve the whole of the
+market--not just wealthier borrowers purchasing second homes
+and investors. FHFA's recent changes move the system toward
+greater safety and soundness, which is ultimately in
+everyone's best interest.''
+Ms. WATERS. Mr. Chair, these organizations all fight hard for
+homeownership, especially for middle-class Americans. They are
+absolutely opposed to this bill.
+Again, I don't understand why we are spending time on this amendment.
+It does not accomplish anything at all. It would require GAO to do
+something it already does.
+Mr. Chair, I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentlewoman from Colorado (Mrs. Boebert).
+The amendment was agreed to.
+Amendment No. 2 Offered by Ms. Lee of Nevada
+The Acting CHAIR. It is now in order to consider amendment No. 2
+printed in part B of House Report 118-115.
+Ms. LEE of Nevada. Mr. Chair, I have an amendment at the desk made in
+order by the rule.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+[[Page H3124]]
+Page 4, line 12, strike ``and''.
+Page 5, line 4, strike the period and insert ``; and''.
+Page 5, after line 4, insert the following:
+(3) assess the benefits that would accrue to first-time,
+low-income homebuyers based on the recalibrated single-family
+pricing framework taking effect.
+The Acting CHAIR. Pursuant to House Resolution 524, the gentlewoman
+from Nevada (Ms. Lee) and a Member opposed each will control 5 minutes.
+The Chair recognizes the gentlewoman from Nevada.
+Ms. LEE of Nevada. Mr. Chair, I yield myself such time as I may
+consume.
+Mr. Chair, I rise today in strong support of my amendment to H.R.
+3564. This amendment serves one of my highest priorities, expanding
+access to affordable housing across southern Nevada.
+My amendment is quite simple. It would direct the Government
+Accountability Office to assess how changes to the Federal Housing
+Finance Agency's pricing framework would impact first-time, low-income
+home buyers.
+This is a critical addition to any proposed GAO report on new FHFA
+policies, and it follows my commitment to making sure that any Federal
+action on housing does right by all Americans and Nevadans, especially
+those seeking reliable, affordable housing or seeking to buy a home for
+the first time.
+I represent Clark County, which ranks among the top 10 counties
+nationwide with the highest concentration of renters. Clark County also
+has one of the highest proportions of households that spend more than
+30 percent of their income on rent, and the cost of rent has been going
+up. The cost of homeownership as well has been going up, and the
+American Dream remains out of reach for far too many.
+We must focus how we can work across party lines, hand in hand with
+the entities that help families buy their first homes, and ensure that
+the American Dream can become a reality and not push it further out of
+reach. We must find bipartisan ways to make access to affordable
+housing easier, especially for the families of southern Nevada who most
+need additional support as they work to affordably purchase a home.
+This is just what my amendment will help us do.
+Mr. Chair, I reserve the balance of my time.
+{time}  1015
+Mr. DAVIDSON. Mr. Chairman, I claim the time in opposition, though I
+am not opposed to the amendment.
+The Acting CHAIR. Without objection, the gentleman from Ohio is
+recognized for 5 minutes.
+There was no objection.
+Mr. DAVIDSON. Mr. Chair, while there has been broad discussion about
+the fundamental unfairness associated with the Biden administration's
+new tax on creditworthy borrowers, Congress' oversight role also
+extends to the process and impact these changes will have on home
+buyers and the housing market.
+Members on both sides share policy concerns regarding this new tax,
+and it is equally imperative that we promote transparency to the
+American people on this flawed effort.
+The GAO study does just that as the amendment Mrs. Boebert proposed
+would simply make the GAO study public. Sunlight is the best
+disinfectant, and in no area is this more relevant than the opaque
+process with which the FHFA has enacted these and other changes.
+This amendment would add to the GAO study included in H.R. 3564 which
+will play a critical factor toward furthering both Congress' and the
+public's understanding of this issue that impacts millions of home
+buyers.
+Americans deserve a thorough accounting of the process and deserve to
+know the significant impact of FHFA'S actions. An agency that virtually
+controls U.S. housing markets should not operate without appropriate
+congressional oversight.
+Mr. Chair, I urge my colleagues to support this amendment to restore
+fairness, transparency, and accountability to this process and policy
+that impacts millions of Americans. Amidst economic uncertainty and a
+housing affordability crisis, the American people deserve nothing less.
+Mr. Chair, I reserve the balance of my time.
+Ms. LEE of Nevada. I am prepared to close, Mr. Chair, and I yield
+myself the balance of my time.
+Mr. Chair, I am pleased to see bipartisan support for my commonsense
+amendment to support first-time home buyers across the country. I look
+forward to working with my colleagues on both sides of the aisle to
+secure meaningful Federal action to better support hardworking families
+in their efforts to buy their first home and to realize that part of
+the American Dream.
+Mr. Chair, I yield back the balance of my time.
+Mr. DAVIDSON. Mr. Chair, I urge all of our colleagues to support this
+amendment, and I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentlewoman from Nevada (Ms. Lee).
+The amendment was agreed to.
+Amendment No. 3 Offered by Ms. Lee of Nevada
+The Acting CHAIR. It is now in order to consider amendment No. 3
+printed in part B of House Report 118-115.
+Ms. LEE of Nevada. Mr. Chair, I have an amendment at the desk made in
+order by the rule.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Page 4, line 12, strike ``and''.
+Page 5, line 4, strike the period and insert ``; and''.
+Page 5, after line 4, insert the following:
+(3) assess the impacts that the recalibrated single-family
+pricing framework taking effect would have on affordable
+housing preservation, rural housing, and manufactured
+housing.
+The Acting CHAIR. Pursuant to House Resolution 524, the gentlewoman
+from Nevada (Ms. Lee) and a Member opposed each will control 5 minutes.
+The Chair recognizes the gentlewoman for 5 minutes.
+Ms. LEE of Nevada. Mr. Chair, I yield myself such time as I may
+consume.
+Mr. Chair, I rise today in strong support of this amendment to H.R.
+3564.
+Quite like my other amendment, this one also speaks to a top priority
+of mine in Congress: expanding access to affordable housing across
+southern Nevada.
+This amendment would direct the GAO to assess how changes to the FHFA
+pricing framework would impact affordable housing preservation, rural
+housing, and manufactured housing.
+This is another critical addition to any proposed GAO report on any
+new FHFA policies, and it follows on my commitment to making sure that
+any Federal action on housing does right by Nevadans and their need for
+a fair and stable housing market.
+I am committed to making sure that all Federal action on housing
+improves southern Nevada's stock of affordable housing, including
+manufactured and rural housing options.
+This is not an area where we can risk unintended consequences, and,
+as such, my amendment will direct the GAO to study and make absolutely
+sure that our Federal Government is doing all it can do to improve
+affordable housing availability.
+In Clark County, Nevada, this is of utmost importance as we continue
+to see a severe shortage in affordable housing stock. That means real
+stress and uncertainty for far too many hardworking Nevadans and their
+families. Again, I remain committed to working across the aisle to
+ensure that every family has access to affordable, reliable, and safe
+housing.
+This amendment is a step in the right direction.
+Mr. Chair, I urge all of my colleagues to vote ``yes,'' and I reserve
+the balance of my time.
+Mr. DAVIDSON. Mr. Chair, I claim time in opposition to this
+amendment, although I am not opposed to it.
+The Acting CHAIR. Without objection, the gentleman from Ohio is
+recognized for 5 minutes.
+There was no objection.
+Mr. DAVIDSON. Mr. Chair, this is a commonsense amendment to the GAO
+study, and I applaud the gentlewoman from Nevada for including this
+comprehensive view on the impact of housing affordability.
+It furthers the work of the Housing and Insurance Subcommittee, and I
+think it is an important addition.
+Mr. Chair, I encourage all of our colleagues to support it, and I
+reserve the balance of my time.
+Ms. LEE of Nevada. Mr. Chair, I am prepared to close, and I yield
+myself the balance of my time.
+[[Page H3125]]
+Mr. Chair, I am very pleased, again, to see bipartisan support for my
+commonsense amendment to ensure that the Federal policy that we create
+right here delivers affordable housing options across America.
+I look forward to working with colleagues on both sides to better
+support hardworking Americans and their families in securing reliable
+and affordable housing in Las Vegas and across the country.
+Mr. Chair, I yield back the balance of my time.
+Mr. DAVIDSON. Mr. Chair, I urge all of our colleagues to support the
+amendment. I support it, and I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentlewoman from Nevada (Ms. Lee).
+The amendment was agreed to.
+Amendment No. 4 Offered by Ms. Pettersen
+The Acting CHAIR. It is now in order to consider amendment No. 4
+printed in part B of House Report 118-115.
+Ms. PETTERSEN. Mr. Chair, I have an amendment at the desk made in
+order by the rule.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+At the end of the bill, add the following new section:
+SEC. 7. EFFECTIVE DATE.
+(a) In General.--Sections 2 through 6 of this Act shall
+take effect, and the amendment under section 3(c), shall be
+made, in accordance with subsection (c) of this section.
+(b) Determination of Effect on Middle Class Borrowers.--
+Promptly after the date of the enactment of this Act, the
+Director of the Federal Housing Finance Agency shall--
+(1) make a determination of whether allowing section 2 of
+this Act to take effect would result in increased loan-level
+pricing adjustment fees for middle class borrowers (which
+term, for purposes of this subsection, means a borrower
+having a household income equal to or less than 100 percent
+of the median income for the area in which the residence
+subject to the mortgage loan for which such fees are charged
+is located or, in the case of high-cost areas, 140 percent of
+the median income for such area) who are first-time
+homeowners; and
+(2) notify the Committee on Financial Services of the House
+of Representatives and the Committee on Banking, Housing, and
+Urban Affairs of the Senate, in writing, of such
+determination.
+(c) Effectiveness.--If the determination of the Director
+submitted pursuant to subsection (b)(2) of this section is
+that--
+(1) allowing section 2 of this Act to take effect would
+result in increased loan-level pricing adjustment fees for
+borrowers described in subsection (b)(1) of this section,
+sections 2 through 6 of this Act shall not take effect, and
+the amendment under section 3(c) shall not be made, and such
+provisions shall have no force or effect; or
+(2) allowing section 2 of this Act to take effect would not
+result in increased loan-level pricing adjustment fees for
+borrowers described in subsection (b)(1) of this section,
+sections 2 through 6 of this Act shall take effect, and the
+amendment under section 3(c) shall be made, upon such
+notification.
+The Acting CHAIR. Pursuant to House Resolution 524, the gentlewoman
+from Colorado (Ms. Pettersen) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentlewoman from Colorado.
+Ms. PETTERSEN. Mr. Chair, I yield myself such time as I may consume.
+Mr. Chair, we are in the middle of a housing crisis across the U.S.
+and in Colorado, especially in the Seventh District. The housing supply
+is lagging significantly behind the demand in our State which has led
+to skyrocketing prices pushing far too many people out of the
+communities that they have lived in their entire lives, as well as
+creating significant challenges to hire and retain workers for small
+businesses and public servants.
+Some communities in the rural part of our district have seen property
+increase threefold in just a couple of years. While so many people are
+struggling to get their first home, there are far too many people who
+are buying up real estate for their third, fourth, and even fifth
+homes, which has also contributed to the challenges our communities are
+facing.
+While I am very concerned about the rising costs of housing, this
+bill does not address the problem.
+For a little bit of background, the Federal Housing Finance Agency
+serves as the chief regulator of the enterprises Fannie Mae and Freddie
+Mac.
+Essentially, the FHFA oversees the majority of all mortgages in the
+United States. Earlier this year, the Financial Services Committee
+heard from the director, Sandra Thompson, about how the agency is
+working to help Fannie Mae and Freddie Mac meet capital requirements
+and promote increased access to homeownership for creditworthy home
+buyers.
+The underlying bill that we are considering today would reverse
+changes made by the Federal Housing Financing Agency to loan-level
+price adjustments which are fees charged to originate a loan. The fee
+matrix has not been updated since 2008 and is woefully out of date.
+There was some controversy surrounding a debt-to-income ratio rule,
+but that rule has already been repealed. The remaining fee matrix will
+see fee increases only on wealthy individuals, people purchasing a
+second home, or individuals who are purchasing an investment property
+while reducing the cost for first-time buyers and low- to middle-income
+families.
+If my colleagues on the other side of the aisle agree that fees
+should not be increased on those in the middle class who are already
+struggling to make ends meet, then they should support my amendment.
+It would ensure that this legislation would not be implemented until
+the director certifies that it would not result in increased fees on
+middle-class home buyers.
+If the bill does what they are saying it does, then my amendment
+would not create a barrier to implementation.
+We must come together in a bipartisan way to address affordable
+housing. I look forward to getting back to work with the chairman and
+ranking member when we return in July.
+Unfortunately, this legislation won't reduce costs for the middle
+class and would tie the hands of the FHFA to address changing needs,
+which is why this amendment is necessary.
+Mr. Chair, I reserve the balance of my time.
+Mr. DAVIDSON. Mr. Chair, I claim the time in opposition, and I am
+opposed to this amendment.
+The Acting CHAIR. The gentleman from Ohio is recognized for 5
+minutes.
+Mr. DAVIDSON. Mr. Chair, I claim the time in opposition to the
+amendment introduced by Ms. Pettersen which would make it impossible to
+repeal the Federal Housing Finance Agency's damaging price increases on
+creditworthy home buyers. In fact, it will undo the entire point of the
+bill.
+The legislation before us, the Middle Class Borrower Protection Act,
+would repeal these increases and would require the Government
+Accountability Office to assess the FHFA's fee structure. That is the
+point of the GAO's study.
+It would also require that any future loan-level fees implemented by
+the agency adopt a risk-based price framework.
+Ms. Pettersen's amendment would set up a sham test so that FHFA would
+have to keep those unfair fees in place even at the expense of the
+majority of middle-class borrowers.
+So while the gentlewoman's amendment is designed to sound fair, the
+reality is that it would actually have the opposite effect of what it
+advertises. Instead of lowering fees for middle-income families, it
+would doom many of them to higher fees. In other words, a vote for Ms.
+Pettersen's amendment is a vote against the Middle Class Borrower
+Protection Act.
+I also find it interesting that our friends on the other side of the
+aisle would support an amendment that essentially says: Don't do this
+if it makes fees go up, which is exactly what our bill does. It stops
+the fees from going up or staying up, as the case is on part of the
+plan that they implemented.
+We should be united in saying that deliberately making mortgages more
+expensive for creditworthy borrowers is a foolish policy. The sting of
+inflation and higher interest rates are already hurting middle-income
+families, and this adjustment by FHFA is not fair.
+While I cannot support this amendment, I am glad to see the
+recognition that we need to protect middle-income families looking to
+purchase a home from unfair pricing. It makes it harder for some
+borrowers to afford because they pay more just because they have high
+credit scores.
+Ms. Pettersen's amendment would, unfortunately, lock in that unfair
+system.
+Mr. Chair, I reserve the balance of my time.
+[[Page H3126]]
+Ms. PETTERSEN. Mr. Chair, I yield 1 minute to the gentlewoman from
+California (Ms. Waters), who is the ranking member of the Financial
+Services Committee.
+Ms. WATERS. Mr. Chair, I rise in support of Ms. Pettersen's amendment
+which is simply holding Republicans accountable for their claims about
+the impacts of the bill.
+They claim that this bill will help middle-class home buyers, so I
+don't see why there should be any objection to this amendment which
+would make the implementation of the bill contingent on the truth of
+its claims.
+Republicans held hearings on this topic where their own witnesses
+repeatedly debunked MAGA Republicans' claims that these changes would
+result in higher credit score borrowers paying higher mortgage fees
+than lower credit borrowers.
+If we agree that the goal of this bill is to help middle-class
+borrowers, then I think we should be able to agree on this amendment.
+Mr. Chair, I urge Members to support this amendment.
+Mr. DAVIDSON. Mr. Chair, I reserve the balance of my time.
+Ms. PETTERSEN. Mr. Chair, I am prepared to close, and I yield myself
+the balance of my time.
+Mr. Chair, I thank Ranking Member Waters for her remarks in support
+of the amendment.
+Once again, ensuring that all Americans have access to affordable
+housing is a priority of mine and the Democrats on the Financial
+Services Committee.
+We must ensure that middle-class home buyers have access to our
+housing market. Unfortunately, this legislation will not reduce costs
+for the middle-class and first-time home buyers.
+Not only are we focusing on a narrow subset of fee increases that are
+supposed to target wealthy home buyers, individuals purchasing a second
+home, and people buying investment homes, they are tying the hands of
+the FHFA in moving forward in changing their fee structures on a more
+regular basis to address changing needs.
+This will make Fannie Mae and Freddie Mac less available to support
+the housing market if there is a future fiscal crisis, and it only
+threatens our housing market.
+Once again, Mr. Chair, if you want to make sure that fees are not
+increased for the middle class, then you should support my commonsense
+amendment.
+Mr. Chair, I yield back the balance of my time.
+{time}  1030
+Mr. DAVIDSON. Mr. Chairman, I oppose this amendment. I urge all of
+our colleagues to oppose this amendment, and I yield back the balance
+of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentlewoman from Colorado (Ms. Pettersen).
+The question was taken; and the Chair announced that the noes
+appeared to have it.
+Recorded Vote
+Ms. PETTERSEN. Mr. Chair, I demand a recorded vote.
+A recorded vote was ordered.
+The Acting CHAIR. The vote was taken by electronic device, and there
+were--ayes 204, noes 216, not voting 19, as follows:
+[Roll No. 287]
+AYES--204
+Adams
+Aguilar
+Allred
+Auchincloss
+Balint
+Barragan
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bowman
+Boyle (PA)
+Brown
+Brownley
+Budzinski
+Caraveo
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Casar
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Cherfilus-McCormick
+Chu
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Correa
+Costa
+Courtney
+Craig
+Crockett
+Crow
+Cuellar
+Davids (KS)
+Davis (IL)
+Davis (NC)
+Dean (PA)
+DeGette
+DeLauro
+DelBene
+Deluzio
+DeSaulnier
+Dingell
+Doggett
+Escobar
+Eshoo
+Espaillat
+Evans
+Fletcher
+Foster
+Foushee
+Frankel, Lois
+Frost
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Garcia, Robert
+Golden (ME)
+Goldman (NY)
+Gomez
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyle (OR)
+Huffman
+Ivey
+Jackson (IL)
+Jackson (NC)
+Jackson Lee
+Jacobs
+Jayapal
+Jeffries
+Johnson (GA)
+Kamlager-Dove
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Krishnamoorthi
+Kuster
+Landsman
+Larsen (WA)
+Larson (CT)
+Lee (CA)
+Lee (NV)
+Lee (PA)
+Leger Fernandez
+Levin
+Lieu
+Lofgren
+Lynch
+Magaziner
+Manning
+Matsui
+McBath
+McClellan
+McCollum
+McGarvey
+McGovern
+Meeks
+Menendez
+Meng
+Mfume
+Moore (WI)
+Moskowitz
+Mrvan
+Mullin
+Nadler
+Napolitano
+Neal
+Neguse
+Nickel
+Norcross
+Norton
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Pelosi
+Peltola
+Perez
+Peters
+Pettersen
+Pingree
+Plaskett
+Pocan
+Porter
+Quigley
+Ramirez
+Ross
+Ruiz
+Ruppersberger
+Ryan
+Salinas
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Scholten
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Slotkin
+Smith (WA)
+Sorensen
+Soto
+Spanberger
+Stansbury
+Stanton
+Stevens
+Strickland
+Swalwell
+Sykes
+Takano
+Thanedar
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tokuda
+Tonko
+Torres (CA)
+Torres (NY)
+Trone
+Underwood
+Vargas
+Vasquez
+Veasey
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+NOES--216
+Aderholt
+Alford
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bean (FL)
+Bentz
+Bergman
+Bice
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brecheen
+Buchanan
+Buck
+Bucshon
+Burchett
+Burgess
+Burlison
+Calvert
+Carey
+Carl
+Carter (GA)
+Carter (TX)
+Chavez-DeRemer
+Ciscomani
+Cline
+Cloud
+Clyde
+Cole
+Collins
+Comer
+Crane
+Crawford
+Crenshaw
+Curtis
+D'Esposito
+Davidson
+De La Cruz
+DesJarlais
+Diaz-Balart
+Duarte
+Duncan
+Dunn (FL)
+Edwards
+Ellzey
+Emmer
+Estes
+Ezell
+Fallon
+Feenstra
+Ferguson
+Finstad
+Fischbach
+Fitzgerald
+Fitzpatrick
+Fleischmann
+Flood
+Foxx
+Franklin, C. Scott
+Fry
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia, Mike
+Gimenez
+Gonzales, Tony
+Gonzalez-Colon
+Good (VA)
+Gooden (TX)
+Gosar
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Hageman
+Harris
+Harshbarger
+Hern
+Higgins (LA)
+Hill
+Hinson
+Houchin
+Hudson
+Huizenga
+Hunt
+Issa
+Jackson (TX)
+James
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Kean (NJ)
+Kelly (MS)
+Kelly (PA)
+Kiggans (VA)
+Kiley
+Kim (CA)
+Kustoff
+LaLota
+LaMalfa
+Lamborn
+Langworthy
+Latta
+LaTurner
+Lawler
+Lee (FL)
+Lesko
+Letlow
+Loudermilk
+Lucas
+Luetkemeyer
+Luna
+Luttrell
+Mace
+Malliotakis
+Mann
+Mast
+McCaul
+McClain
+McClintock
+McCormick
+McHenry
+Meuser
+Miller (IL)
+Miller (OH)
+Miller (WV)
+Miller-Meeks
+Mills
+Molinaro
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Moran
+Moylan
+Murphy
+Nehls
+Newhouse
+Norman
+Nunn (IA)
+Obernolte
+Owens
+Palmer
+Pence
+Perry
+Pfluger
+Reschenthaler
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Santos
+Scalise
+Schweikert
+Scott, Austin
+Self
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Strong
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Turner
+Valadao
+Van Drew
+Van Duyne
+Van Orden
+Wagner
+Walberg
+Waltz
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams (NY)
+Wilson (SC)
+Wittman
+Womack
+Yakym
+Zinke
+NOT VOTING--19
+Bush
+Cammack
+Donalds
+Gallego
+Hoyer
+LaHood
+Massie
+Morelle
+Moulton
+Ogles
+Phillips
+Posey
+Pressley
+Radewagen
+Raskin
+Sablan
+Sherrill
+Trahan
+Williams (TX)
+{time}  1101
+Mr. SANTOS, Mrs. MILLER-MEEKS, Mr. LUTTRELL, Ms. STEFANIK, Messrs.
+HERN, CLYDE, and KELLY of Pennsylvania changed their vote from ``aye''
+to ``no.''
+Mr. BLUMENAUER, Ms. LOFGREN, Messrs. JACKSON of North Carolina,
+POCAN, and CLYBURN changed their vote from ``no'' to ``aye.''
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Ms. SHERRILL. Mr. Chair, I missed one vote on the House Floor today.
+Had I been present, I would have voted ``aye'' on rollcall No. 287.
+The Acting CHAIR (Mr. Thompson of Pennsylvania). Under the rule, the
+Committee rises.
+[[Page H3127]]
+Accordingly, the Committee rose; and the Speaker pro tempore (Mr.
+Valadao) having assumed the chair, Mr. Thompson of Pennsylvania, Acting
+Chair of the Committee of the Whole House on the state of the Union,
+reported that that Committee, having had under consideration the bill
+(H.R. 3564) to cancel recent changes made by the Federal Housing
+Finance Agency to the up-front loan level pricing adjustments charged
+by Fannie Mae and Freddie Mac for guarantee of single-family mortgages,
+and for other purposes, and, pursuant to House Resolution 524, he
+reported the bill back to the House with sundry further amendments
+adopted in the Committee of the Whole.
+The SPEAKER pro tempore. Under the rule, the previous question is
+ordered.
+Is a separate vote demanded on any amendment reported from the
+Committee of the Whole? If not, the Chair will put them en gros.
+The amendments were agreed to.
+The SPEAKER pro tempore. The question is on the engrossment and third
+reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+Motion to Recommit
+Mr. CLEAVER. Mr. Speaker, I have a motion to recommit at the desk.
+The SPEAKER pro tempore. The Clerk will report the motion to
+recommit.
+The Clerk read as follows:
+Mr. Cleaver of Missouri moves to recommit the bill H.R.
+3564 to the Committee on Financial Services.
+The SPEAKER pro tempore. Pursuant to clause 2(b) of rule XIX, the
+previous question is ordered on the motion to recommit.
+The question is on the motion to recommit.
+The question was taken; and the Speaker pro tempore announced that
+the noes appeared to have it.
+Mr. CLEAVER. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. Pursuant to clause 9 of rule XX, the 5-
+minute vote on the motion to recommit will be followed by a 5-minute
+vote on the passage of the bill, if ordered.
+The vote was taken by electronic device, and there were--yeas 197,
+nays 214, not voting 22, as follows:
+[Roll No. 288]
+YEAS--197
+Adams
+Aguilar
+Allred
+Auchincloss
+Balint
+Barragan
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bowman
+Boyle (PA)
+Brown
+Brownley
+Budzinski
+Caraveo
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Casar
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Cherfilus-McCormick
+Chu
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Correa
+Costa
+Courtney
+Craig
+Crockett
+Crow
+Cuellar
+Davids (KS)
+Davis (IL)
+Davis (NC)
+Dean (PA)
+DeGette
+DelBene
+Deluzio
+DeSaulnier
+Dingell
+Doggett
+Escobar
+Eshoo
+Espaillat
+Evans
+Fletcher
+Foster
+Foushee
+Frost
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Garcia, Robert
+Golden (ME)
+Goldman (NY)
+Gomez
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyle (OR)
+Huffman
+Ivey
+Jackson (IL)
+Jackson (NC)
+Jackson Lee
+Jacobs
+Jayapal
+Jeffries
+Johnson (GA)
+Kamlager-Dove
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Krishnamoorthi
+Kuster
+Landsman
+Larsen (WA)
+Larson (CT)
+Lee (NV)
+Lee (PA)
+Leger Fernandez
+Levin
+Lieu
+Lofgren
+Lynch
+Magaziner
+Manning
+Matsui
+McBath
+McClellan
+McCollum
+McGarvey
+McGovern
+Meeks
+Menendez
+Mfume
+Moore (WI)
+Moskowitz
+Mrvan
+Mullin
+Nadler
+Napolitano
+Neal
+Neguse
+Nickel
+Norcross
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Pelosi
+Peltola
+Perez
+Peters
+Pettersen
+Pingree
+Pocan
+Porter
+Quigley
+Ramirez
+Ross
+Ruiz
+Ruppersberger
+Ryan
+Salinas
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Scholten
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sherrill
+Slotkin
+Smith (WA)
+Sorensen
+Soto
+Stansbury
+Stanton
+Stevens
+Strickland
+Swalwell
+Sykes
+Takano
+Thanedar
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tokuda
+Tonko
+Torres (NY)
+Trone
+Underwood
+Vargas
+Vasquez
+Veasey
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+NAYS--214
+Aderholt
+Alford
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bean (FL)
+Bentz
+Bergman
+Bice
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brecheen
+Buchanan
+Buck
+Bucshon
+Burchett
+Burgess
+Burlison
+Calvert
+Cammack
+Carey
+Carl
+Carter (GA)
+Carter (TX)
+Chavez-DeRemer
+Ciscomani
+Cline
+Cloud
+Clyde
+Cole
+Collins
+Comer
+Crane
+Crawford
+Crenshaw
+Curtis
+D'Esposito
+Davidson
+De La Cruz
+DesJarlais
+Diaz-Balart
+Donalds
+Duarte
+Duncan
+Dunn (FL)
+Edwards
+Ellzey
+Emmer
+Estes
+Ezell
+Fallon
+Feenstra
+Ferguson
+Finstad
+Fischbach
+Fitzgerald
+Fitzpatrick
+Flood
+Foxx
+Franklin, C. Scott
+Fry
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia, Mike
+Gimenez
+Gonzales, Tony
+Good (VA)
+Gooden (TX)
+Gosar
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Hageman
+Harris
+Harshbarger
+Hern
+Higgins (LA)
+Hill
+Hinson
+Houchin
+Hudson
+Huizenga
+Hunt
+Issa
+Jackson (TX)
+James
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Kean (NJ)
+Kelly (MS)
+Kelly (PA)
+Kiggans (VA)
+Kiley
+Kim (CA)
+Kustoff
+LaLota
+LaMalfa
+Lamborn
+Langworthy
+Latta
+LaTurner
+Lawler
+Lee (FL)
+Lesko
+Letlow
+Loudermilk
+Lucas
+Luetkemeyer
+Luna
+Luttrell
+Mace
+Malliotakis
+Mann
+Mast
+McCaul
+McClain
+McClintock
+McCormick
+McHenry
+Meuser
+Miller (IL)
+Miller (OH)
+Miller (WV)
+Miller-Meeks
+Mills
+Molinaro
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Moran
+Murphy
+Nehls
+Newhouse
+Norman
+Nunn (IA)
+Obernolte
+Owens
+Palmer
+Pence
+Perry
+Pfluger
+Reschenthaler
+Rodgers (WA)
+Rogers (AL)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Santos
+Scalise
+Schweikert
+Scott, Austin
+Self
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spanberger
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Strong
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Turner
+Valadao
+Van Drew
+Van Duyne
+Van Orden
+Wagner
+Walberg
+Waltz
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams (NY)
+Wilson (SC)
+Wittman
+Womack
+Yakym
+Zinke
+NOT VOTING--22
+Bush
+DeLauro
+Fleischmann
+Frankel, Lois
+Gallego
+Granger
+Hoyer
+LaHood
+Lee (CA)
+Massie
+Meng
+Morelle
+Moulton
+Ogles
+Phillips
+Posey
+Pressley
+Raskin
+Rogers (KY)
+Torres (CA)
+Trahan
+Williams (TX)
+Announcement by the Speaker Pro Tempore
+The SPEAKER pro tempore (during the vote). There are 2 minutes
+remaining.
+{time}  1110
+So the motion to recommit was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Ms. DeLAURO. Mr. Speaker, I was participating in a State, Foreign
+Relations, and Related Agencies Appropriations subcommittee markup of
+the proposed fiscal year 2024 spending bill. Had I been present, I
+would have voted ``yea'' on rollcall No. 288.
+Stated against:
+Mr. ROGERS of Kentucky. Mr. Speaker, due to timing issues with the
+State-Foreign Operations Subcommittee markup, I was unable to vote on
+the MTR for H.R. 3564. Had I been present, I would have voted ``nay''
+on rollcall No. 288.
+The SPEAKER pro tempore. The question is on the passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Mr. DAVIDSON. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. This is a 5-minute vote.
+The vote was taken by electronic device, and there were--yeas 230,
+nays 189, not voting 14, as follows:
+[Roll No. 289]
+YEAS--230
+Aderholt
+Alford
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bean (FL)
+Bentz
+Bergman
+Bice
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Boyle (PA)
+Brecheen
+Buchanan
+Buck
+Bucshon
+Burchett
+Burgess
+Burlison
+Calvert
+Cammack
+Carey
+Carl
+[[Page H3128]]
+Carter (GA)
+Carter (TX)
+Chavez-DeRemer
+Ciscomani
+Cline
+Cloud
+Clyde
+Cole
+Collins
+Comer
+Craig
+Crane
+Crawford
+Crenshaw
+Cuellar
+Curtis
+D'Esposito
+Davids (KS)
+Davidson
+Davis (NC)
+De La Cruz
+DesJarlais
+Diaz-Balart
+Donalds
+Duarte
+Duncan
+Dunn (FL)
+Edwards
+Ellzey
+Emmer
+Estes
+Ezell
+Fallon
+Feenstra
+Ferguson
+Finstad
+Fischbach
+Fitzgerald
+Fitzpatrick
+Fleischmann
+Flood
+Foxx
+Franklin, C. Scott
+Fry
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia, Mike
+Gimenez
+Golden (ME)
+Gonzales, Tony
+Good (VA)
+Gooden (TX)
+Gosar
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Hageman
+Harder (CA)
+Harris
+Harshbarger
+Hern
+Higgins (LA)
+Hill
+Hinson
+Houchin
+Hudson
+Huizenga
+Hunt
+Issa
+Jackson (TX)
+James
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Kean (NJ)
+Kelly (MS)
+Kelly (PA)
+Kiggans (VA)
+Kiley
+Kim (CA)
+Kustoff
+LaLota
+LaMalfa
+Lamborn
+Langworthy
+Latta
+LaTurner
+Lawler
+Lee (FL)
+Lesko
+Letlow
+Loudermilk
+Lucas
+Luetkemeyer
+Luna
+Luttrell
+Mace
+Malliotakis
+Mann
+Manning
+Mast
+McCaul
+McClain
+McClintock
+McCormick
+McHenry
+Meuser
+Miller (IL)
+Miller (OH)
+Miller (WV)
+Miller-Meeks
+Mills
+Molinaro
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Moran
+Moskowitz
+Murphy
+Nehls
+Newhouse
+Norman
+Nunn (IA)
+Obernolte
+Owens
+Palmer
+Pappas
+Pence
+Perez
+Perry
+Pfluger
+Reschenthaler
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Santos
+Scalise
+Schrier
+Schweikert
+Scott, Austin
+Self
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spanberger
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Strong
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Turner
+Valadao
+Van Drew
+Van Duyne
+Van Orden
+Wagner
+Walberg
+Waltz
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Wild
+Williams (NY)
+Wilson (SC)
+Wittman
+Womack
+Yakym
+Zinke
+NAYS--189
+Adams
+Aguilar
+Allred
+Auchincloss
+Balint
+Barragan
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bowman
+Brown
+Brownley
+Budzinski
+Caraveo
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Casar
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Cherfilus-McCormick
+Chu
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Correa
+Costa
+Courtney
+Crockett
+Crow
+Davis (IL)
+Dean (PA)
+DeGette
+DeLauro
+DelBene
+Deluzio
+DeSaulnier
+Dingell
+Doggett
+Escobar
+Eshoo
+Espaillat
+Evans
+Fletcher
+Foster
+Foushee
+Frankel, Lois
+Frost
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Garcia, Robert
+Goldman (NY)
+Gomez
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyle (OR)
+Huffman
+Ivey
+Jackson (IL)
+Jackson (NC)
+Jackson Lee
+Jacobs
+Jayapal
+Jeffries
+Johnson (GA)
+Kamlager-Dove
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Krishnamoorthi
+Kuster
+Landsman
+Larsen (WA)
+Larson (CT)
+Lee (CA)
+Lee (NV)
+Lee (PA)
+Leger Fernandez
+Levin
+Lieu
+Lofgren
+Lynch
+Magaziner
+Matsui
+McBath
+McClellan
+McCollum
+McGarvey
+McGovern
+Meeks
+Menendez
+Meng
+Mfume
+Moore (WI)
+Mrvan
+Mullin
+Nadler
+Napolitano
+Neal
+Neguse
+Nickel
+Norcross
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pascrell
+Payne
+Pelosi
+Peltola
+Peters
+Pettersen
+Pingree
+Pocan
+Porter
+Quigley
+Ramirez
+Ross
+Ruiz
+Ruppersberger
+Ryan
+Salinas
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Scholten
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sherrill
+Slotkin
+Smith (WA)
+Sorensen
+Soto
+Stansbury
+Stanton
+Stevens
+Strickland
+Swalwell
+Sykes
+Takano
+Thanedar
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tokuda
+Tonko
+Torres (CA)
+Torres (NY)
+Trone
+Underwood
+Vargas
+Vasquez
+Veasey
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Wexton
+Williams (GA)
+Wilson (FL)
+NOT VOTING--14
+Bush
+Gallego
+Hoyer
+LaHood
+Massie
+Morelle
+Moulton
+Ogles
+Phillips
+Posey
+Pressley
+Raskin
+Trahan
+Williams (TX)
+{time}  1117
+Ms. LEGER FERNANDEZ and Mr. MRVAN changed their vote from ``yea'' to
+``nay.''
+Ms. GRANGER changed her vote from ``nay'' to ``yea.''
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+Stated for:
+Mr. WILLIAMS of Texas. Mr. Speaker, due to a personal family matter,
+I was unable to be in D.C. and vote today. Had I been present, I would
+have voted ``yea'' on rollcall No. 289.
+personal explanation
+Ms. BUSH. Mr. Speaker, I was not present during today's vote series.
+Had I been present, I would have voted ``yea'' on rollcall No. 287,
+``yea'' on rollcall No. 288, and ``nay'' on rollcall No. 289.
+PERSONAL EXPLANATION
+Mr. LaHOOD. Mr. Speaker, I had to miss votes today to travel back to
+Illinois for a funeral. Had I been present, I would have voted ``nay''
+on rollcall No. 287, ``nay'' on rollcall No. 288, and ``yea'' on
+rollcall No. 289.
+PERSONAL EXPLANATION
+Mr. OGLES. Mr. Speaker, I was unavoidably detained. Had I been
+present, I would have voted ``nay'' on rollcall No. 287, ``nay'' on
+rollcall No. 288, and ``yea'' on rollcall No. 289.
+____________________

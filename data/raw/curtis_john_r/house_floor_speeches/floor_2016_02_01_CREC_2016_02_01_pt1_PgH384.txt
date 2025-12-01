@@ -1,0 +1,416 @@
+[Congressional Record Volume 162, Number 18 (Monday, February 1, 2016)]
+[House]
+[Pages H384-H387]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+TREATMENT OF CERTAIN MUNICIPAL OBLIGATIONS
+Mr. GARRETT. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 2209) to require the appropriate Federal banking agencies to
+treat certain municipal obligations as level 2A liquid assets, and for
+other purposes.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 2209
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. TREATMENT OF CERTAIN MUNICIPAL OBLIGATIONS.
+(a) In General.--Section 18 of the Federal Deposit
+Insurance Act (12 U.S.C. 1828) is amended--
+(1) by moving subsection (z) so that it appears after
+subsection (y); and
+(2) by adding at the end the following:
+``(aa) Treatment of Certain Municipal Obligations.--
+``(1) In general.--For purposes of the final rule titled
+`Liquidity Coverage Ratio: Liquidity Risk Measurement
+Standards; Final Rule' (79 Fed. Reg. 61439; published October
+10, 2014) (the `Final Rule') and any other regulation which
+incorporates a definition of the term `high-quality liquid
+asset', the appropriate Federal banking agencies shall treat
+a municipal obligation that is both liquid and readily
+marketable (as defined in the Final Rule) and investment
+grade as of the calculation date as a high-quality liquid
+asset that is a level 2A liquid asset.
+``(2) Definitions.--For purposes of this subsection:
+``(A) Investment grade.--With respect to an obligation, the
+term `investment grade' has the meaning given that term under
+part 1 of title 12, Code of Federal Regulations.
+``(B) Municipal obligation.--The term `municipal
+obligation' means an obligation of a State or any political
+subdivision thereof, or any agency or instrumentality of a
+State or any political subdivision thereof.''.
+(b) Amendment to Liquidity Coverage Ratio Regulations.--Not
+later than the end of the 3-month period beginning on the
+date of the enactment of this Act, the Federal Deposit
+Insurance Corporation, the Board of Governors of the Federal
+Reserve System, and the Comptroller of the Currency shall
+amend the final rule titled ``Liquidity Coverage Ratio:
+Liquidity Risk Measurement Standards; Final Rule'' (79 Fed.
+Reg. 61439; published October 10, 2014) to implement the
+amendments made by this Act.
+The SPEAKER pro tempore. Pursuant to the rule, the gentleman from New
+Jersey (Mr. Garrett) and the gentleman from Delaware (Mr. Carney) each
+will control 20 minutes.
+The Chair recognizes the gentleman from New Jersey.
+General Leave
+Mr. GARRETT. Mr. Speaker, I ask unanimous consent that all Members
+have 5 legislative days to revise and extend their remarks and include
+any extraneous material on this bill.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from New Jersey?
+There was no objection.
+Mr. GARRETT. Mr. Speaker, I yield myself such time as I may consume.
+I rise in support of H.R. 2209. I will begin by thanking the
+gentleman from Indiana (Mr. Messer) for all of his hard work on this
+legislation and his leadership as well, with pulling it through and
+getting it done right here at the beginning of this legislative year,
+and being a leader on this bill as well.
+On the other side of the aisle, I thank the gentlewoman from New York
+(Mrs. Carolyn B. Maloney) for working together with Mr. Messer in a
+very bipartisan manner, which, as we have noted, has been on each and
+every one of the bills that we have presented today in that manner.
+Their efforts culminated in the committee, favorably reporting this
+bill by a vote of 56 to 1. So, as I have said to Mr. Poliquin before,
+you have only one Member to go to get unanimous consent going forward.
+Mr. Speaker, given the problems posed by insufficient liquidity
+during the past financial crisis, Federal regulators issued a final
+rule back in 2014 to implement something called liquidity coverage
+ratio, or LCR. That was being done consistent with something called the
+Basel Committee on Banking Supervision's standards.
+The LCR was established on the premise that banks should have enough
+cash or assets that would be liquid enough when they needed them--and
+that would be defined as high-quality liquid assets, or HQLAs--and that
+we would have to have them on hand for 30 days if their usual sources
+of short-term funding would simply disappear.
+It goes without saying, when you think about this, that anytime that
+the government steps in, or anytime you have a government agency
+favoring this type of asset over this type of asset through some sort
+of regulation in which they did it, you are going to end up with what?
+You are going to end up with basically unintended and undesirable
+consequences. That is what has happened here.
+Not surprisingly, critics of the LCR have complained that the stock
+of HQLAs is defined way too narrowly, which could adversely impact the
+asset classes that we are talking about.
+So investment-grade municipal securities, on the other hand, if you
+look at them closely--more than we could do right here on the floor
+right now--they basically share the same liquidity characteristics of
+other HQLAs. And that is what Mr. Messer basically is trying to address
+with this great piece of legislation.
+Other HQLAs, such as corporate bonds and equity securities, have the
+basic same characteristic here as far as liquidity goes. Yet, the
+prudential regulators, what do they do? They put them in one pile and
+excluded them from the final LCR.
+While the Federal Reserve has acknowledged this problem and they
+acknowledge the fault in excluding municipal securities from this
+definition of HQLAs, the Federal Reserve's rule would only apply to the
+bank holding company's municipal securities and not the national banks,
+where more of these municipal securities are held.
+Paul Kupiec, who is over at the American Enterprise Institute, in
+testimony before our committee back in October of last year on the
+bill, said it ``is appropriate and consistent with the public interest.
+There is no reason why high quality liquid bonds issued by the U.S.
+States and municipalities should receive a lower standing than foreign
+[[Page H385]]
+sovereign debt with equivalent (or even lesser) credit quality and
+market liquidity.''
+{time}  1600
+Think about that for a minute. We are basically, under the current
+situation, treating our municipalities and U.S. securities at a lower
+standard than foreign such securities, and we know how they have
+prevailed in the last year or so.
+With that in mind, I ask my colleagues to join me in supporting H.R.
+2209, and the hard work of Mr. Messer, as well, in this legislation.
+Mr. Speaker, I reserve the balance of my time.
+Mr. CARNEY. Mr. Speaker, I yield 4 minutes to the gentlewoman from
+New York (Mrs. Carolyn B. Maloney).
+Mrs. CAROLYN B. MALONEY of New York. I thank the gentleman for
+yielding and for his leadership.
+Mr. Speaker, I rise in strong support today for H.R. 2209. In sum,
+this bill levels the playing field for cities and States, saves cities
+and States hundreds of millions of dollars, and does it in a way that
+maintains the safety and soundness of our banking system.
+I would first like to thank the gentleman from Indiana (Mr. Messer),
+my friend, for his leadership on this issue. It has been a pleasure to
+work with him.
+When we introduced this bill, we worked hard to have balanced,
+bipartisan support and to have broad support on both sides of the
+aisle. We introduced it with a coalition of five Republicans and five
+Democrats. On the Democratic side, we were joined by Mr. Capuano, Mr.
+Cleaver, Ms. Moore, and Ms. Sewell of Alabama. From the Republican
+side, we had Mr. King of New York, Mr. Neugebauer, Mr. Stivers, and Mr.
+Hultgren.
+This was truly a very strong, bipartisan bill. I would like to thank
+all of our colleagues who joined with us. It passed out of the
+Committee on Financial Services by a strong vote of 56-1, which shows
+that we had overwhelming bipartisan support.
+The purpose of this bill is to level the playing field for cities and
+States by requiring the banking regulators to treat certain municipal
+bonds as liquid assets, just like corporate bonds, stocks, and other
+assets.
+As a former member of the City Council of New York, I know firsthand
+the importance of municipal bonds. They allow our States and cities to
+finance infrastructure, build schools, and pave roads. We have
+multimillions in municipal bonds in New York that is building the
+Second Avenue subway, revamping our water system, and helping in so
+many ways.
+Unfortunately, in the banking regulators' liquidity rule, which
+requires banks to hold a minimum amount of liquid assets, they chose to
+allow corporate bonds to qualify as liquid assets but completely
+excluded municipal bonds, even municipal bonds that are just as liquid
+as corporate bonds. Even worse, they treat foreign securities
+differently than U.S. securities, municipal bonds.
+This absolutely makes no sense. It effectively discriminates against
+municipal bonds. A municipal bond that is just as liquid as the most
+liquid corporate bond would not be counted as a liquid asset under the
+rule just because it was issued by a city or State rather than a
+corporate entity. This is not fair.
+The Fed has already recognized this error. It is already amending its
+rule to allow certain municipal bonds to count as liquid assets. They
+should be praised for taking a second look at the data and recognizing
+that some municipal bonds are, in fact, highly liquid. But the OCC,
+which regulates national banks, is still refusing to amend its rule and
+insists on favoring corporations over cities and States. Mr. Messer and
+I introduced this bill because this kind of arbitrary discrimination
+against cities and States cannot be allowed to continue.
+A recent analysis by the investment bank Piper Jaffray estimated that
+our bill would lower borrowing costs for cities and States by 15 basis
+points, which would save cities and States hundreds of millions of
+dollars per year. That real-world impact is why this bill is so very,
+very important.
+Now, it is important to note that this bill does not undermine safety
+and soundness. It does not require regulators to treat bonds that are
+illiquid as liquid. It simply says that municipal bonds should be
+afforded the same opportunity as corporate bonds.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. CARNEY. Mr Speaker, I yield such additional time as she may
+consume to the gentlewoman from New York.
+Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, this is an
+important bill. It will help the economy. It will help our cities and
+States. It levels the playing field for cities and States. It saves our
+cities and States, literally, hundreds of millions of dollars, and it
+maintains the safety and soundness of our banking system. That is why
+it had such a strong, overwhelming bipartisan vote in committee.
+Mr. Speaker, I urge my colleagues to support this bill.
+Mr. GARRETT. Mr. Speaker, I yield such time as he may consume to the
+gentleman from Indiana (Mr. Messer), the sponsor of this piece of
+legislation.
+Mr. MESSER. Mr. Speaker, I thank the chairman, Mr. Carney, and Mrs.
+Carolyn B. Maloney of New York for their leadership on this bill.
+What would you think if I told you that the Federal Government
+bureaucracy is favoring foreign bonds and corporate bonds over
+identically valued U.S. municipal bonds? It wouldn't make any sense.
+Our Federal bureaucracy shouldn't create rules that favor loans to
+foreign countries over loans to our own local governments and schools,
+yet that is exactly what is happening under our broken Federal
+regulatory scheme.
+Today's bill, H.R. 2209, would correct this problem. I am proud to
+have coauthored this bipartisan bill with Congresswoman Maloney. I also
+want to thank my good friends--Mr. Poliquin, Mr. Pearce, the chairman,
+and others--who helped us in working on this bill. I ask my colleagues
+for their support.
+It is really just common sense. U.S. municipal bonds are among the
+safest investments in the entire world. According to Municipal Market
+Analytics, over the last 5 years--a period, by the way, during which
+State and local governments struggled to recover from the recession--
+high-quality State and local government obligation defaults were only
+four one thousandths of 1 percent. Let me repeat that. The municipal
+bond default rate was four one thousandths of 1 percent during the
+recession. That is a pretty safe investment.
+Public entities depend on this financing, too. State and local
+governments, school corporations, and public utility companies across
+the U.S. sell municipal bonds to finance the infrastructure and
+services that we all depend on. It is low-interest municipal bonds that
+finance new schools, hospitals, bridges, and roads, and pay for the
+repair of outdated and failing infrastructure. The needs are great.
+In fact, according to the Society of Civil Engineers, State and local
+governments need $3.6 trillion to meet their infrastructure needs over
+the next 5 years. That is what is so disappointing about recent
+regulatory rules from the Federal Deposit Insurance Corporation, the
+Office of the Comptroller of the Currency, and the Federal Reserve that
+will arbitrarily increase the costs for local governments and schools
+to borrow.
+Specifically, as others have described, in 2014, Federal banking
+regulators issued a rule requiring banks to have enough high-quality
+liquid assets, HQLAs, to cover their cash outflows for 30 days in case
+of a future financial meltdown. For the most part, liquidity set-asides
+protect the consumer, and they make sense.
+The problem is, in the same rule, they said that investment-grade
+U.S. municipal bonds don't count as HQLAs, while recognizing German
+subsovereign municipal debt and many corporate bonds as high-quality
+liquid assets that do qualify. That doesn't make any sense at all.
+By excluding all American municipal securities from HQLA eligibility,
+financial institutions are discouraged from holding them. The result is
+increased interest rates and increased borrowing costs for State and
+local governments and the taxpayers that pay them.
+This has a real impact on families when schools can no longer
+accommodate enrollment and local communities
+[[Page H386]]
+when bridges crumble or roads fail because repair and new construction
+simply isn't financially feasible. This is particularly troubling
+because times are tough and budgets are tight across America.
+Although the Federal Reserve continues to review this issue, so far
+the Fed's response has been partial and inadequate. The OCC and the
+FDIC have not addressed the issue at all. Meanwhile, our local
+governments remain strapped for cash and cannot wait for a bureaucratic
+solution.
+Our commonsense bill, H.R. 2209, fixes this arbitrary decision by
+Federal regulators. The bill directs the FDIC, the Federal Reserve
+System, and the OCC to classify investment-grade municipal securities
+as level 2A, high-quality liquid assets.
+Put simply, our bill requires the Federal Government to recognize the
+obvious: America's municipal bonds are some of the safest investments
+in the world, and we shouldn't have rules that give preferential
+treatment to corporate bonds or other countries' bonds over our own.
+I want to thank Congresswoman Maloney for working with me on this
+commonsense legislation.
+I urge all my colleagues to support this bipartisan bill.
+For those who work in the bond world, this bill ensures that a 2A
+asset is treated as a 2A asset and prevents federal regulators from
+arbitrarily under-valuing them.
+Lastly, let me be clear, this bill doesn't give special treatment to
+our local governments bonds.
+State and local governments remain required to satisfy their debts
+and live with their bond ratings.
+This bill is, however, a comprehensive solution that restores
+fairness and recognizes investment grade municipal bonds for exactly
+what they are: safe, reliable investments that allow local governments
+to serve citizens and their families.
+Once again, I want to thank Congresswoman Maloney for working with me
+on this common sense legislation.
+I urge all of my colleagues to support this bipartisan bill.
+Mr. CARNEY. Mr. Speaker, I have no further requests for time. I would
+just close by thanking the gentleman from Indiana (Mr. Messer) and the
+gentlewoman from New York (Mrs. Carolyn B. Maloney) for their work on
+this commonsense piece of legislation that will help towns,
+municipalities, and States across our country.
+Mr. Speaker, I yield back the balance of my time.
+Mr. GARRETT. Mr. Speaker, I have two additional speakers.
+I yield such time as he may consume to the gentleman from Maine (Mr.
+Poliquin).
+Mr. POLIQUIN. Mr. Speaker, again, I want to salute the gentleman from
+Indiana (Mr. Messer) and the gentlewoman from New York (Mrs. Carolyn B.
+Maloney) for the great work that they have done on this bill. It is
+very important.
+Mr. Speaker, I represent Maine's Second District, which is the west,
+central, northern, and down east parts of our great State. Now, when
+you drive in the State of Maine over some of our roads this winter, you
+see frost heaves and potholes and everything else. If you go on some of
+our bridges by the coast, you see there has been a lot of corrosiveness
+that has taken place on those bridges because they are so close to the
+salt water.
+Now, it is so important to make sure that our State and our local
+governments have the opportunity to borrow the money they need to
+perform these very important infrastructure repairs.
+When I was State Treasurer up in Maine, we used this process to sell
+high-quality, liquid municipal bonds to investors around the world.
+That would allow us to receive and secure the funding we need to, in
+fact, repair our roads and bridges. Maybe a small town needs to improve
+its sewage treatment facility or build a new landfill or improve its
+water treatment facility. Well, these high-quality, liquid municipal
+bonds provide the funds to do just that.
+It is my opinion that banking regulators have made a mistake, Mr.
+Speaker, because they include in the liquidity coverage ratio stocks
+and corporate bonds and other government bonds, but they have left out
+high-quality liquid, tax-free municipal bonds from that list of
+securities that will qualify for the liquidity coverage ratio.
+As has been mentioned here earlier before, sir, the municipal bond
+market in this country is a $3.7 trillion market. There are thousands
+of these bonds held in the hands of investors around the world. It is
+clearly right and appropriate for these bonds to be included in this
+list of assets such that banks can reach their liquidity coverage
+ratio.
+In doing that, Mr. Speaker, and in fixing this problem that Mr.
+Messer and Congresswoman Maloney have found, in passing H.R. 2209,
+State and local governments across the country will continue to be able
+to have the funds they need to repair their own bridges and roads, not
+just those in Maine. This will keep interest payments down for our
+State and local governments, saving taxpayers millions of dollars.
+One of the goals of government, of course, is to show fairness and
+compassion for those that pay the bills, the taxpayers across America.
+I am rising in support of this bill, H.R. 2209. I encourage all my
+colleagues in the House, Republicans and Democrats, to please do the
+same.
+Again, I congratulate the gentleman from Indiana (Mr. Messer) and the
+gentlewoman from New York (Mrs. Carolyn B. Maloney) for their great
+work.
+{time}  1615
+Mr. GARRETT. Mr. Speaker, I yield such time as he may consume to the
+gentleman from New Mexico (Mr. Pearce).
+Mr. PEARCE. Mr. Speaker, I thank Mr. Messer and Mrs. Maloney for
+producing this balanced, bipartisan piece of legislation.
+The State of New Mexico has a geographical area about the same as
+five Northeastern States. That area, though, has 55 million people to
+pay the taxes to build roads, to build infrastructure, and to build
+schools. In the equivalent geographical area, New Mexico has almost 2
+million people to build all of those miles of roads.
+Now, this is the effect of this legislation: it removes the financing
+mechanism that States like New Mexico use--those Western, lightly
+populated areas--municipal bonds to fund things like schools and roads
+and infrastructure. Yet the committee that decided what category these
+assets would fall into said that they are no good and that they are not
+going to count in the liquidity requirement for institutions.
+What that means is $3.7 trillion will evaporate out of that municipal
+bond market. That is $3.7 trillion that would help us build
+infrastructure and help us create better living for everybody in the
+West. Yet this committee, which never visited New Mexico, appears not
+to have looked at the quality of assets.
+Mrs. Maloney, adequately, says it is not a question of safety and
+soundness. Mr. Messer says that the default rate is four one-
+thousandths of 1 percent. They obviously did not look at the quality of
+the products. They simply said they are not going to qualify.
+What that means is that financial institutions will no longer have
+incentive nor space under liquidity requirements to hold municipal
+obligations such as bonds. This is detrimental to the way of life in
+the West.
+I would like to congratulate again Mrs. Maloney and Mr. Messer for
+bringing H.R. 2209 to us today to help be a partial cure to the
+problems that people from other countries have levied on us. It seems
+common sense; it seems useful; it seems good for the taxpayer and good
+for the country. Let's pass H.R. 2209.
+Mr. GARRETT. Mr. Speaker, I yield myself such time as I may consume.
+Again, I want to thank Members on both sides of the aisle. I thank
+all the sponsors of not only this legislation, but all the legislation
+that we have had on the floor for the last hour here.
+I was just thinking as this was wrapping up about what we will see
+when we leave here and look in the newspaper tomorrow and see what sort
+of media coverage Washington will get as to what we did on our first
+day back.
+There is always a hue and cry saying that Washington is broken, there
+is no bipartisanship, and they are not passing any legislation to
+create jobs and trying to get the economy going again. You hear about
+that in the media all the time. As a matter of fact, you actually hear
+it on the floor, with many Members coming down here saying
+[[Page H387]]
+that this House has not passed a single jobs creation bill in so many
+days, weeks, months, and years, or what have you.
+Well, let it be known today that we worked here in a bipartisan
+manner, first in subcommittee, the full committee, and now here in the
+House. We have four pieces of legislation. I know that some of the
+legislation may have mind-numbing terminology and you may scratch your
+head when you are talking about the liquidity coverage ratios, the
+credited investors, LCRs, and all those sort of things. You might say:
+Well, what does that have to do with the job creation? What does that
+have to do with infrastructure creation? What does that have to do with
+getting a new roof on my local school or a bridge built in my town?
+What does that have to do with helping my neighbor actually get a job
+when he has been out of work for a period of time? What does that have
+to do with somebody in my family who is in a job right now, but no
+opportunity for advancement and no pay raise for a long period of time?
+These bills on the floor today have everything to do with all those
+issues.
+As we pass these job creation bills in a bipartisan manner, let the
+word go out that we are doing exactly what the American public asked
+Congress to do: to work together, get it done, get the infrastructure
+in this country growing again, get the economy going again, and create
+jobs again.
+That is why it is important to say thank you again to both sides of
+the aisle, and I encourage a ``yes'' vote on all four of these bills
+today.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentleman from New Jersey (Mr. Garrett) that the House suspend the
+rules and pass the bill, H.R. 2209.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill was passed.
+A motion to reconsider was laid on the table.
+____________________
