@@ -1,0 +1,2844 @@
+[Congressional Record Volume 168, Number 99 (Thursday, June 9, 2022)]
+[House]
+[Pages H5415-H5430]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+{time}  0915
+FEDERAL EXTREME RISK PROTECTION ORDER ACT OF 2021
+Mr. NADLER. Madam Speaker, pursuant to House Resolution 1153, I call
+up the bill (H.R. 2377) to authorize the issuance of extreme risk
+protection orders, and ask for its immediate consideration in the
+House.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore. Pursuant to House Resolution 1153, in lieu
+of the amendment in the nature of a substitute recommended by the
+Committee on the Judiciary printed in the bill, an amendment in the
+nature of a substitute consisting of the text of Rules Committee Print
+117-46, modified by the amendment printed in House Report 117-356, is
+adopted, and the bill, as amended, is considered read.
+The text of the bill, as amended, is as follows:
+H.R. 2377
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Federal Extreme Risk
+Protection Order Act of 2022''.
+SEC. 2. FEDERAL EXTREME RISK PROTECTION ORDERS.
+(a) In General.--Chapter 44 of title 18, United States
+Code, is amended by adding at the end the following:
+``Sec. 932. Extreme risk protection orders
+``(a) Definitions.--In this section--
+``(1) the term `court' means a district court of the United
+States;
+``(2) the term `designated law enforcement officer' means a
+law enforcement officer, designated by a United States
+marshal, who agrees to receive firearms, ammunition, and
+permits, as applicable, surrendered under subsection (f);
+``(3) the term `Director' means the Director of the
+Administrative Office of the United States Courts;
+``(4) the term `ex parte Federal extreme risk protection
+order' or `ex parte Federal order' means a Federal extreme
+risk protection order issued under subsection (c);
+``(5) the term `Federal extreme risk protection order'
+means an order issued by a Federal court that enjoins an
+individual from purchasing, possessing, or receiving, in or
+affecting interstate and foreign commerce, a firearm or
+ammunition;
+``(6) the term `family or household member', with respect
+to a Federal order respondent, means any--
+``(A) parent, spouse, sibling, or child related by blood,
+marriage, or adoption to the respondent;
+``(B) dating partner of the respondent;
+``(C) individual who has a child in common with the
+respondent, regardless of whether the individual has--
+``(i) been married to the respondent; or
+``(ii) lived together with the respondent at any time;
+``(D) individual who resides or has resided with the
+respondent during the past year;
+``(E) domestic partner of the respondent;
+``(F) individual who has a legal parent-child relationship
+with the respondent, including a stepparent-stepchild and
+grandparent-grandchild relationship; and
+``(G) individual who is acting or has acted as the legal
+guardian of the respondent;
+``(7) the term `Federal order petitioner' means an
+individual authorized to petition for an ex parte or long-
+term Federal extreme risk protection order under subsection
+(b)(1);
+``(8) the term `Federal order respondent' means an
+individual named in the petition for an ex parte or long-term
+Federal extreme risk protection order or subject to an ex
+parte or long-term Federal extreme risk protection order;
+``(9) the term `long-term Federal extreme risk protection
+order' or `long-term Federal order' means a Federal extreme
+risk protection order issued under subsection (d);
+``(10) the term `mental health agency' means an agency of a
+State, Tribal, or local government or its contracted agency
+that is responsible for mental health services or co-
+occurring mental health and substance abuse services; and
+``(11) the term `national instant criminal background check
+system' means the national instant criminal background check
+system established under section 103 of the Brady Handgun
+Violence Prevention Act (34 U.S.C. 40901).
+``(b) Petition.--
+``(1) In general.--A family or household member of the
+applicable individual, or a law enforcement officer, may
+submit to an appropriate district court of the United States
+a petition requesting that the court issue an ex parte
+Federal extreme risk protection order or long-term Federal
+extreme risk protection order with respect to an individual.
+``(2) No fees.--A court or law enforcement agency may not
+charge a petitioner or respondent any fee for--
+``(A) filing, issuing, serving, or reporting an extreme
+risk protection order;
+``(B) a petition for an extreme risk protection order or
+any pleading, subpoena, warrant, or motion in connection with
+an extreme risk protection order; or
+``(C) any order or order to show cause necessary to obtain
+or give effect to this section.
+``(3) Confidentiality.--A Federal order petitioner who is a
+law enforcement officer may provide the identity of the
+petitioner's sources, and any identifying information, to the
+court under seal.
+``(c) Ex Parte Orders.--
+``(1) Timing.--
+``(A) In general.--Except as provided in subparagraph (B),
+a court that receives a petition for an ex parte Federal
+order under subsection (b) shall grant or deny the petition
+on the date on which the petition is submitted.
+``(B) Late petitions.--If a court receives a petition for
+an ex parte Federal order submitted under subsection (b) too
+late in the day to permit effective review, the court shall
+grant or deny the petition on the next day of judicial
+business at a time early enough to permit the court to file
+an order with the clerk of the court during that day.
+``(2) Evidence required.--Before issuing an ex parte
+Federal order, a court shall require that the petitioner for
+such order submit a signed affidavit, sworn to before the
+court, that--
+``(A) explains why such petitioner believes that the
+Federal order respondent poses a risk of imminent personal
+injury to self or another individual, by purchasing,
+possessing, or receiving a firearm or ammunition; and
+``(B) describes the interactions and conversations of the
+petitioner with--
+``(i) the respondent; or
+``(ii) another individual, if such petitioner believes that
+information obtained from that individual is credible and
+reliable.
+``(3) Standard for issuance of order.--A court may issue an
+ex parte Federal order only upon a finding of probable cause
+to believe that--
+``(A) the Federal order respondent poses a risk of imminent
+personal injury to self or another individual, by purchasing,
+possessing, or receiving a firearm or ammunition; and
+``(B) the order is necessary to prevent the injury
+described in subparagraph (A).
+``(4) Duration.--An ex parte Federal order shall expire on
+the earlier of--
+``(A) the date that is 14 days after the date of issuance;
+or
+``(B) the date on which the court determines whether to
+issue a long-term Federal order with respect to the
+respondent.
+``(d) Long-term Federal Orders.--
+``(1) Hearing required.--If a court receives a petition for
+a long-term Federal extreme risk protection order for a
+respondent under subsection (b), the court shall hold a
+hearing to determine whether to issue a long-term Federal
+order with respect to the respondent either--
+``(A)(i) if the court issues an ex parte order with respect
+to the respondent, not later than 72 hours after the ex parte
+order is served on the respondent; or
+``(ii) if the respondent waives the right to a hearing
+within the 72-hour period under clause (i), or the court does
+not issue an ex parte order, within 14 days after the date on
+which the court receives the petition; or
+``(B) in no event later than 14 days after the date on
+which the court receives the petition.
+``(2) Notice and opportunity to be heard.--
+``(A) In general.--The court shall provide the Federal
+order respondent with notice and the opportunity to be heard
+at a hearing under this subsection, sufficient to protect the
+due process rights of the respondent.
+``(B) Right to counsel.--
+``(i) In general.--At a hearing under this subsection, the
+Federal order respondent may be represented by counsel who
+is--
+``(I) chosen by the respondent; and
+``(II) authorized to practice at such a hearing.
+``(ii) Court-provided counsel.--If the Federal order
+respondent is financially unable to obtain representation by
+counsel, the court, at the request of the respondent, shall
+ensure, to the extent practicable, that the respondent is
+represented by an attorney with respect to the petition.
+``(3) Burden of proof; standard.--At a hearing under this
+subsection, the Federal order petitioner--
+``(A) shall have the burden of proving all material facts;
+and
+``(B) shall be required to demonstrate, by clear and
+convincing evidence, that--
+``(i) the respondent to such order poses a risk of personal
+injury to self or another individual, during the period to be
+covered by the proposed Federal extreme risk protection
+order, by purchasing, possessing, or receiving a firearm or
+ammunition; and
+``(ii) the order is necessary to prevent the injury
+described in clause (i).
+``(4) Issuance.--Upon a showing of clear and convincing
+evidence under paragraph (3), the court shall issue a long-
+term Federal order with
+[[Page H5416]]
+respect to the respondent that shall be in effect for a
+period of not more than 180 days.
+``(5) Denial.--If the court finds that there is not clear
+and convincing evidence to support the issuance of a long-
+term Federal order, the court shall dissolve any ex parte
+Federal order then in effect with respect to the respondent.
+``(6) Renewal.--
+``(A) Notice of scheduled expiration.--Thirty days before
+the date on which a long-term Federal order is scheduled to
+expire, the court that issued the order shall--
+``(i) notify the petitioner and the respondent to such
+order that the order is scheduled to expire; and
+``(ii) advise the petitioner and the respondent of the
+procedures for seeking a renewal of the order under this
+paragraph.
+``(B) Petition.--If a family or household member of the
+Federal order respondent, or a law enforcement officer,
+believes that the conditions under paragraph (3)(B) continue
+to apply with respect to a respondent who is subject to a
+long-term Federal order, the family or household member or
+law enforcement officer may submit to the court that issued
+the order a petition for a renewal of the order.
+``(C) Hearing.--A court that receives a petition submitted
+under subparagraph (B) shall hold a hearing to determine
+whether to issue a renewed long-term Federal order with
+respect to the respondent.
+``(D) Applicable procedures.--The requirements under
+paragraphs (2) through (5) shall apply to the consideration
+of a petition for a renewed long-term Federal order submitted
+under subparagraph (B) of this paragraph.
+``(E) Issuance.--Upon a showing by clear and convincing
+evidence that the conditions under paragraph (3)(B) continue
+to apply with respect to the respondent, the court shall
+issue a renewed long-term Federal order with respect to the
+respondent.
+``(e) Factors to Consider.--In determining whether to issue
+a Federal extreme risk protection order, a court--
+``(1) shall consider factors including--
+``(A) a recent threat or act of violence by the respondent
+directed toward another individual;
+``(B) a recent threat or act of violence by the respondent
+directed toward self;
+``(C) a recent act of cruelty to an animal by the
+respondent; and
+``(D) evidence of ongoing abuse of a controlled substance
+or alcohol by the respondent that has led to a threat or act
+of violence directed to self or another individual; and
+``(2) may consider other factors, including--
+``(A) the reckless use, display, or brandishing of a
+firearm by the respondent;
+``(B) a history of violence or attempted violence by the
+respondent against another individual; and
+``(C) evidence of an explicit or implicit threat made by
+the person through any medium that demonstrate that the
+person poses a risk of personal injury to self or another
+individual.
+``(f) Relinquishment of Firearms and Ammunition.--
+``(1) Order of surrender.--Upon issuance of an ex parte
+Federal order or long-term Federal order, the court shall
+order the respondent to such order to surrender all firearms
+and ammunition that the respondent possesses or owns, in or
+affecting interstate commerce, as well as any permit
+authorizing the respondent to purchase or possess firearms
+(including a concealed carry permit), to--
+``(A) the United States Marshals Service; or
+``(B) a designated law enforcement officer.
+``(2) Surrender and removal.--
+``(A) Manner of service.--
+``(i) Personal service.--Except as provided in clause (ii),
+a United States marshal or designated law enforcement officer
+shall serve a Federal extreme risk protection order on a
+respondent by handing the order to the respondent to such
+order.
+``(ii) Alternative service.--If the respondent cannot
+reasonably be located for service as described in clause (i),
+a Federal extreme risk protection order may be served on the
+respondent in any manner authorized under the Federal Rules
+of Civil Procedure.
+``(B) Removal.--Except as provided in subparagraph (C), a
+United States marshal or designated law enforcement officer
+serving a Federal extreme risk protection order personally on
+the respondent shall--
+``(i) request that all firearms and ammunition, in or
+affecting interstate commerce, as well as any permit
+authorizing the respondent to purchase or possess firearms
+(including a concealed carry permit), that the respondent
+possesses or owns--
+``(I) be immediately surrendered to the United States
+marshal or designated law enforcement officer; or
+``(II) at the option of the respondent, be immediately
+surrendered and sold to a federally licensed firearms dealer;
+and
+``(ii) take possession of all firearms and ammunition
+described in clause (i) that are not sold under subclause
+(II) of that clause, as well as any permit described in that
+clause, that are--
+``(I) surrendered;
+``(II) in plain sight; or
+``(III) discovered pursuant to a lawful search.
+``(C) Alternative surrender.--If a United States marshal or
+designated law enforcement officer is not able to personally
+serve a Federal extreme risk protection order under
+subparagraph (A)(i), or is not reasonably able to take
+custody of the firearms, ammunition, and permits under
+subparagraph (B), the respondent shall surrender the
+firearms, ammunition, and permits in a safe manner to the
+control of a United States marshal or designated law
+enforcement officer not later than 48 hours after being
+served with the order.
+``(3) Receipt.--
+``(A) Issuance.--At the time of surrender or removal under
+paragraph (2), a United States marshal or designated law
+enforcement officer taking possession of a firearm,
+ammunition, or a permit pursuant to a Federal extreme risk
+protection order shall--
+``(i) issue a receipt identifying all firearms, ammunition,
+and permits that have been surrendered or removed; and
+``(ii) provide a copy of the receipt issued under clause
+(i) to the respondent to such order.
+``(B) Filing.--Not later than 72 hours after issuance of a
+receipt under subparagraph (A), the United States marshal who
+issued the receipt or designated another law enforcement
+officer to do so shall--
+``(i) file the original receipt issued under subparagraph
+(A) of this paragraph with the court that issued the Federal
+extreme risk protection order; and
+``(ii) ensure that the United States Marshals Service
+retains a copy of the receipt.
+``(C) Designated law enforcement officer.--If a designated
+law enforcement officer issues a receipt under subparagraph
+(A), the officer shall submit the original receipt and a copy
+of the receipt to the appropriate United States marshal to
+enable the United States marshal to comply with subparagraph
+(B).
+``(4) Forfeiture.--If a respondent knowingly attempts, in
+violation of a Federal extreme risk protection order, to
+access a firearm, ammunition, or a permit that was
+surrendered or removed under this subsection, the firearm,
+ammunition, or permit shall be subject to seizure and
+forfeiture under section 924(d).
+``(g) Return of Firearms and Ammunition.--
+``(1) Notice.--If a Federal extreme risk protection order
+is dissolved, or expires and is not renewed, the court that
+issued the order shall order the United States Marshals
+Service to--
+``(A) confirm, through the national instant criminal
+background check system and any other relevant law
+enforcement databases, that the respondent to such order may
+lawfully own and possess firearms and ammunition; and
+``(B)(i) if the respondent may lawfully own and possess
+firearms and ammunition, notify the respondent that the
+respondent may retrieve each firearm, ammunition, or permit
+surrendered by or removed from the respondent under
+subsection (f); or
+``(ii) if the respondent may not lawfully own or possess
+firearms and ammunition, notify the respondent that each
+firearm, ammunition, or permit surrendered by or removed from
+the respondent under subsection (f) will be returned only
+when the respondent demonstrates to the United States
+Marshals Service that the respondent may lawfully own and
+possess firearms and ammunition.
+``(2) Return.--If a Federal extreme risk protection order
+is dissolved, or expires and is not renewed, and the United
+States Marshals Service confirms under paragraph (1)(A) that
+the respondent may lawfully own and possess firearms and
+ammunition, the court that issued the order shall order the
+entity that possesses each firearm, ammunition, or permit
+surrendered by or removed from the respondent under
+subsection (f) to return those items to the respondent.
+``(h) Return of Firearms and Ammunition Improperly
+Received.--If a court, in a hearing under subsection (d),
+determines that a firearm or ammunition surrendered by or
+removed from a respondent under subsection (f) is owned by an
+individual other than the respondent, the court may order the
+United States marshal or designated law enforcement officer
+in possession of the firearm or ammunition to transfer the
+firearm or ammunition to that individual if--
+``(1) the individual may lawfully own and possess firearms
+and ammunition; and
+``(2) the individual will not provide the respondent with
+access to the firearm or ammunition.
+``(i) Penalty for False Reporting or Frivolous Petitions.--
+An individual who knowingly submits materially false
+information to the court in a petition for a Federal extreme
+risk protection order under this section, or who knowingly
+files such a petition that is frivolous, unreasonable, or
+without foundation, shall be fined not more than $5,000, or
+imprisoned not more than 5 years, or both, except to the
+extent that a greater sentence is otherwise provided by any
+other provision of law, as the court deems necessary to deter
+such abuse of process.
+``(j) Model Policy.--
+``(1) In general.--The Director shall draft a model policy
+to maximize the accessibility of Federal extreme risk
+protection orders.
+``(2) Contents.--In drafting the model policy under
+paragraph (1), the Director shall--
+``(A) ensure that State, Tribal, and local law enforcement
+officers and members of the public without legal training are
+able to easily file petitions for Federal extreme risk
+protection orders;
+``(B) prescribe outreach efforts by employees of the
+district courts of the United States to familiarize relevant
+law enforcement officers and the public with the procedures
+for filing petitions, either--
+``(i) through direct outreach; or
+``(ii) in coordination with--
+``(I) relevant officials in the executive or legislative
+branch of the Federal Government; or
+``(II) with relevant State, Tribal, and local officials;
+``(C) prescribe policies for allowing the filing of
+petitions and prompt adjudication of petitions on weekends
+and outside of normal court hours;
+``(D) prescribe policies for coordinating with law
+enforcement agencies to ensure the safe, timely, and
+effective service of Federal extreme risk protection orders
+and relinquishment of firearms, ammunition, and permits, as
+applicable; and
+``(E) identify governmental and non-governmental resources
+and partners to help officials
+[[Page H5417]]
+of the district courts of the United States coordinate with
+civil society organizations to ensure the safe and effective
+implementation of this section.
+``(k) Reporting.--
+``(1) Individual reports.--
+``(A) In general.--Not later than 2 court days after the
+date on which a court issues or dissolves a Federal extreme
+risk protection order under this section or a Federal extreme
+risk protection order expires without being renewed, the
+court shall notify--
+``(i) the Attorney General;
+``(ii) each relevant mental health agency in the State in
+which the order is issued; and
+``(iii) State and local law enforcement officials in the
+jurisdiction in which the order is issued, including the
+national instant criminal background check system single
+point of contact for the State of residence of the
+respondent, where applicable.
+``(B) Format.--A court shall submit a notice under
+subparagraph (A) in an electronic format, in a manner
+prescribed by the Attorney General.
+``(C) Update of databases.--As soon as practicable and not
+later than 5 days after receiving a notice under subparagraph
+(A), the Attorney General shall update the background check
+databases of the Attorney General to reflect the prohibitions
+articulated in the applicable Federal extreme risk protection
+order.
+``(2) Annual report.--Not later than 1 year after the date
+of enactment of the Federal Extreme Risk Protection Order Act
+of 2022, and annually thereafter, the Director shall submit
+to the Committee on the Judiciary of the Senate and the
+Committee on the Judiciary of the House of Representatives a
+report that includes, with respect to the preceding year--
+``(A) the number of petitions for ex parte Federal orders
+filed, as well as the number of such orders issued and the
+number denied, disaggregated by--
+``(i) the jurisdiction;
+``(ii) whether the individual authorized under subsection
+(b) to petition for a Federal extreme risk protection order
+is a law enforcement officer, or a family or household
+member, and in the case of a family or household member,
+which of subparagraphs (A) through (G) of subsection (a)(6)
+describes the relationship; and
+``(iii) the alleged danger posed by the Federal order
+respondent, including whether the danger involved a risk of
+suicide, unintentional injury, domestic violence, or other
+interpersonal violence;
+``(B) the number of petitions for long-term Federal orders
+filed, as well as the number of such orders issued and the
+number denied, disaggregated by--
+``(i) the jurisdiction;
+``(ii) whether the individual authorized under subsection
+(b) to petition for a Federal extreme risk protection order
+is a law enforcement officer, or a family or household
+member, and in the case of a family or household member,
+which of subparagraphs (A) through (G) of subsection (a)(6)
+describes the relationship; and
+``(iii) the alleged danger posed by the Federal order
+respondent, including whether the danger involved a risk of
+suicide, unintentional injury, domestic violence, or other
+interpersonal violence;
+``(C) the number of petitions for renewals of long-term
+Federal orders filed, as well as the number of such orders
+issued and the number denied;
+``(D) the number of cases in which a court has issued a
+penalty for false reporting or frivolous petitions;
+``(E) demographic data of Federal order petitioners,
+including race, ethnicity, national origin, sex, gender, age,
+disability, average annual income, and English language
+proficiency, if available;
+``(F) demographic data of Federal order respondents,
+including race, ethnicity, national origin, sex, gender, age,
+disability, average annual income, and English language
+proficiency, if available; and
+``(G) the total number of firearms removed pursuant to
+Federal extreme risk protection orders, and, if available,
+the number of firearms removed pursuant to each such order.
+``(l) Training for Federal Law Enforcement Officers.--
+``(1) Training requirements.--The head of each Federal law
+enforcement agency shall require each Federal law enforcement
+officer employed by the agency to complete training in the
+safe, impartial, effective, and equitable use and
+administration of Federal extreme risk protection orders,
+including training to address--
+``(A) bias based on race and racism, ethnicity, gender,
+sexual orientation, gender identity, religion, language
+proficiency, mental health condition, disability, and
+classism in the use and administration of Federal extreme
+risk protection orders;
+``(B) the appropriate use of Federal extreme risk
+protection orders in cases of domestic violence, including
+the applicability of other policies and protocols to address
+domestic violence in situations that may also involve Federal
+extreme risk protection orders and the necessity of safety
+planning with the victim before law enforcement petitions for
+and executes a Federal extreme risk protection order, if
+applicable;
+``(C) interacting with persons with mental, behavioral, or
+physical disabilities, or emotional distress, including de-
+escalation techniques and crisis intervention;
+``(D) techniques for outreach to historically marginalized
+cultural communities and the development of linguistic
+proficiencies for law enforcement;
+``(E) community relations; and
+``(F) best practices for referring persons subject to
+Federal extreme risk protection orders and associated victims
+of violence to social service providers that may be available
+in the jurisdiction and appropriate for those individuals,
+including health care, mental health, substance abuse, and
+legal services, employment and vocational services, housing
+assistance, case management, and veterans and disability
+benefits.
+``(2) Training development.--Federal law enforcement
+agencies developing law enforcement training required under
+this section shall seek advice from domestic violence service
+providers (including culturally specific (as defined in
+section 40002 of the Violence Against Women Act of 1994 (34
+U.S.C. 12291)) providers), social service providers, suicide
+prevention advocates, violence intervention specialists, law
+enforcement agencies, mental health disability experts, and
+other community groups working to reduce suicides and
+violence, including domestic violence, within the State.
+``(m) Rule of Construction.--Nothing in this section or
+shall be construed to alter the requirements of subsections
+(d)(8) or (g)(8) of section 922, related to domestic violence
+protective orders.
+``(n) Preemption.--Nothing in this section may be construed
+to preempt any State law or policy.''.
+(b) Technical and Conforming Amendments.--
+(1) Table of sections.--The table of sections for chapter
+44 of title 18, United States Code, is amended by adding at
+the end the following:
+``932. Extreme risk protection orders.''.
+(2) Forfeiture.--Section 924(d)(3) of title 18, United
+States Code, is amended--
+(A) in subparagraph (E), by striking ``and'' at the end;
+(B) in subparagraph (F), by striking the period at the end
+and inserting ``; and''; and
+(C) by adding at the end the following:
+``(G) any attempt to violate a Federal extreme risk
+protection order issued under section 932.''.
+SEC. 3. FEDERAL FIREARMS PROHIBITION.
+Section 922 of title 18, United States Code, is amended--
+(1) in subsection (d)--
+(A) in paragraph (8)(B)(ii), by striking ``or'' at the end;
+(B) in paragraph (9), by striking the period at the end and
+inserting ``; or''; and
+(C) by inserting after paragraph (9) the following:
+``(10) is subject to a court order--
+``(A) issued under section 932; or
+``(B) that is an extreme risk protection order (as defined
+in section 4(a) of the Federal Extreme Risk Protection Order
+Act of 2022).''; and
+(2) in subsection (g)--
+(A) in paragraph (8)(C)(ii), by striking ``or'' at the end;
+(B) in paragraph (9), by striking the comma at the end and
+inserting ``; or''; and
+(C) by inserting after paragraph (9) the following:
+``(10) is subject to a court order--
+``(A) issued under section 932; or
+``(B) that is an extreme risk protection order (as defined
+in section 4(a) of the Federal Extreme Risk Protection Order
+Act of 2022),''.
+SEC. 4. EXTREME RISK PROTECTION ORDER GRANT PROGRAM.
+(a) Definitions.--In this section:
+(1) Eligible entity.--The term ``eligible entity'' means--
+(A) a State or Indian Tribe--
+(i) that enacts legislation described in subsection (c);
+(ii) with respect to which the Attorney General determines
+that the legislation described in clause (i) complies with
+the requirements under subsection (c)(1); and
+(iii) that certifies to the Attorney General that the State
+or Indian Tribe shall--
+(I) use the grant for the purposes described in subsection
+(b)(2); and
+(II) allocate not less than 25 percent and not more than 70
+percent of the amount received under a grant under subsection
+(b) for the development and dissemination of training for law
+enforcement officers in accordance with subsection (b)(4); or
+(B) a unit of local government or other public or private
+entity that--
+(i) is located in a State or in the territory under the
+jurisdiction of an Indian Tribe that meets the requirements
+described in clauses (i) and (ii) of subparagraph (A); and
+(ii) certifies to the Attorney General that the unit of
+local government or entity shall--
+(I) use the grant for the purposes described in subsection
+(b)(2); and
+(II) allocate not less than 25 percent and not more than 70
+percent of the amount received under a grant under this
+section for the development and dissemination of training for
+law enforcement officers in accordance with subsection
+(b)(4).
+(2) Extreme risk protection order.--The term ``extreme risk
+protection order'' means a written order or warrant, issued
+by a State or Tribal court or signed by a magistrate (or
+other comparable judicial officer), the primary purpose of
+which is to reduce the risk of firearm-related death or
+injury by doing 1 or more of the following:
+(A) Prohibiting a named individual from having under the
+custody or control of the individual, owning, purchasing,
+possessing, or receiving a firearm.
+(B) Having a firearm removed or requiring the surrender of
+firearms from a named individual.
+(3) Firearm.--The term ``firearm'' has the meaning given
+the term in section 921 of title 18, United States Code.
+(4) Indian tribe.--The term ``Indian Tribe'' has the
+meaning given the term ``Indian tribe'' in section 1709 of
+title I of the Omnibus Crime Control and Safe Streets Act of
+1968 (34 U.S.C. 10389).
+[[Page H5418]]
+(5) Law enforcement officer.--The term ``law enforcement
+officer'' means a public servant authorized by Federal,
+State, local, or Tribal law or by a Federal, State, local, or
+Tribal government agency to--
+(A) engage in or supervise the prevention, detection,
+investigation, or prosecution of an offense; or
+(B) supervise sentenced criminal offenders.
+(6) Petitioner.--The term ``petitioner'' means an
+individual authorized under State or Tribal law to petition
+for an extreme risk protection order.
+(7) Respondent.--The term ``respondent'' means an
+individual named in the petition for an extreme risk
+protection order or subject to an extreme risk protection
+order.
+(8) State.--The term ``State'' means--
+(A) a State;
+(B) the District of Columbia;
+(C) the Commonwealth of Puerto Rico; and
+(D) any other territory or possession of the United States.
+(9) Unit of local government.--The term ``unit of local
+government'' has the meaning given the term in section 901 of
+title I of the Omnibus Crime Control and Safe Streets Act of
+1968 (34 U.S.C. 10251).
+(b) Grant Program Established.--
+(1) In general.--The Director of the Office of Community
+Oriented Policing Services of the Department of Justice shall
+establish a program under which, from amounts made available
+to carry out this section, the Director may make grants to
+eligible entities to assist in carrying out the provisions of
+the legislation described in subsection (c).
+(2) Use of funds.--Funds awarded under this subsection may
+be used by an applicant to--
+(A) enhance the capacity of law enforcement agencies and
+the courts of a State, unit of local government, or Indian
+Tribe by providing personnel, training, technical assistance,
+data collection, and other resources to carry out enacted
+legislation described in subsection (c);
+(B) train judges, court personnel, health care and legal
+professionals, and law enforcement officers to more
+accurately identify individuals whose access to firearms
+poses a danger of causing harm to themselves or others by
+increasing the risk of firearms suicide or interpersonal
+violence;
+(C) develop and implement law enforcement and court
+protocols, forms, and orders so that law enforcement agencies
+and the courts may carry out the provisions of the enacted
+legislation described in subsection (c) in a safe, equitable,
+and effective manner, including through the removal and
+storage of firearms pursuant to extreme risk protection
+orders under the enacted legislation; and
+(D) raise public awareness and understanding of the enacted
+legislation described in subsection (c), including through
+subgrants to community-based organizations for the training
+of community members, so that extreme risk protection orders
+may be issued in appropriate situations to reduce the risk of
+firearms-related death and injury.
+(3) Application.--An eligible entity desiring a grant under
+this subsection shall submit to the Attorney General an
+application at such time, in such manner, and containing or
+accompanied by such information as the Attorney General may
+reasonably require.
+(4) Training.--
+(A) In general.--A recipient of a grant under this
+subsection shall provide training to law enforcement
+officers, including officers of relevant Federal, State,
+local, and Tribal law enforcement agencies, in the safe,
+impartial, effective, and equitable use and administration of
+extreme risk protection orders, including training to
+address--
+(i) bias based on race and racism, ethnicity, gender,
+sexual orientation, gender identity, religion, language
+proficiency, mental health condition, disability, and
+classism in the use and administration of extreme risk
+protection orders;
+(ii) the appropriate use of extreme risk protection orders
+in cases of domestic violence, including the applicability of
+other policies and protocols to address domestic violence in
+situations that may also involve extreme risk protection
+orders and the necessity of safety planning with the victim
+before a law enforcement officer petitions for and executes
+an extreme risk protection order, if applicable;
+(iii) interacting with persons with mental, behavioral, or
+physical disabilities, or emotional distress, including de-
+escalation techniques and crisis intervention;
+(iv) techniques for outreach to historically marginalized
+cultural communities and the development of linguistic
+proficiencies for law enforcement;
+(v) community relations; and
+(vi) best practices for referring persons subject to
+extreme risk protection orders and associated victims of
+violence to social service providers that may be available in
+the jurisdiction and appropriate for those individuals,
+including health care, mental health, substance abuse, and
+legal services, employment and vocational services, housing
+assistance, case management, and veterans and disability
+benefits.
+(B) Consultation with experts.--A recipient of a grant
+under this subsection, in developing law enforcement training
+required under subparagraph (A), shall seek advice from
+domestic violence service providers (including culturally
+specific (as defined in section 40002 of the Violence Against
+Women Act of 1994 (34 U.S.C. 12291)) providers), social
+service providers, suicide prevention advocates, violence
+intervention specialists, law enforcement agencies, mental
+health disability experts, and other community groups working
+to reduce suicides and violence, including domestic violence,
+within the State or the territory under the jurisdiction of
+the Indian Tribe, as applicable, that enacted the legislation
+described in subsection (c) that enabled the grant recipient
+to be an eligible entity.
+(5) Incentives.--For each of fiscal years 2023 through
+2027, the Attorney General shall give affirmative preference
+in awarding any discretionary grant awarded by the Office of
+Community Oriented Policing Services to a State or Indian
+Tribe that has enacted legislation described in subsection
+(c) or to a unit of local government or other public or
+private entity located in such a State or in the territory
+under the jurisdiction of such an Indian Tribe.
+(6) Authorization of appropriations.--There are authorized
+to be appropriated such sums as are necessary to carry out
+this section.
+(c) Eligibility for Extreme Risk Protection Order Grant
+Program.--
+(1) Requirements.--Legislation described in this subsection
+is legislation that establishes requirements that are
+substantially similar to the following:
+(A) Application for extreme risk protection order.--A
+petitioner, including a law enforcement officer, may submit
+an application to a State or Tribal court, on a form designed
+by the court or a State or Tribal agency, that--
+(i) describes the facts and circumstances justifying that
+an extreme risk protection order be issued against the named
+individual; and
+(ii) is signed by the applicant, under oath.
+(B) Notice and due process.--The individual named in an
+application for an extreme risk protection order as described
+in subparagraph (A) shall be given written notice of the
+application and an opportunity to be heard on the matter in
+accordance with this paragraph.
+(C) Issuance of extreme risk protection orders.--
+(i) Hearing.--
+(I) In general.--Upon receipt of an application described
+in subparagraph (A) or request of an individual named in such
+an application, the court shall order a hearing to be held
+within a reasonable time, and not later than 30 days after
+the date of the application or request.
+(II) Determination.--If the court finds at the hearing
+ordered under subclause (I), by a preponderance of the
+evidence or according to a higher evidentiary standard
+established by the State or Indian Tribe, that the respondent
+poses a danger of causing harm to self or others by having
+access to a firearm, the court may issue an extreme risk
+protection order.
+(ii) Duration of extreme risk protection order.--An extreme
+risk protection order shall be in effect--
+(I) until an order terminating or superseding the extreme
+risk protection order is issued; or
+(II) for a set period of time.
+(D) Ex parte extreme risk protection orders.--
+(i) In general.--Upon receipt of an application described
+in subparagraph (A), the court may issue an ex parte extreme
+risk protection order, if--
+(I) the application for an extreme risk protection order
+alleges that the respondent poses a danger of causing harm to
+self or others by having access to a firearm; and
+(II) the court finds there is reasonable cause to believe,
+or makes a finding according to a higher evidentiary standard
+established by the State or Indian Tribe, that the respondent
+poses a danger of causing harm to self or others by having
+access to a firearm.
+(ii) Duration of ex parte extreme risk protection order.--
+An ex parte extreme risk protection order shall remain in
+effect only until the hearing required under subparagraph
+(C)(i).
+(E) Storage of removed firearms.--
+(i) Availability for return.--All firearms removed or
+surrendered pursuant to an extreme risk protection order
+shall only be available for return to the named individual
+when the individual has regained eligibility under Federal
+and State law, and, where applicable, Tribal law to possess
+firearms.
+(ii) Consent required for disposal or destruction.--
+Firearms owned by a named individual may not be disposed of
+or destroyed during the period of the extreme risk protection
+order without the consent of the named individual.
+(F) Notification.--
+(i) In general.--
+(I) Requirement.--A State or Tribal court that issues an
+extreme risk protection order shall notify the Attorney
+General or the comparable State or Tribal agency, as
+applicable, of the order as soon as practicable or within a
+designated period of time.
+(II) Form and manner.--A State or Tribal court shall submit
+a notification under subclause (I) in an electronic format,
+in a manner prescribed by the Attorney General or the
+comparable State or Tribal agency.
+(ii) Update of databases.--As soon as practicable or within
+the time period designated by State or Tribal law after
+receiving a notification under clause (i), the Attorney
+General or the comparable State or Tribal agency shall ensure
+that the extreme risk protection order is reflected in the
+National Instant Criminal Background Check System.
+[[Page H5419]]
+(2) Additional provisions.--Legislation described in this
+subsection may--
+(A) provide procedures for the termination of an extreme
+risk protection order;
+(B) provide procedures for the renewal of an extreme risk
+protection order;
+(C) establish burdens and standards of proof for issuance
+of orders described in paragraph (1) that are substantially
+similar to or higher than the burdens and standards of proof
+set forth in that paragraph;
+(D) limit the individuals who may submit an application
+described in paragraph (1), provided that, at a minimum, law
+enforcement officers are authorized to do so; and
+(E) include any other authorizations or requirements that
+the State or Tribal authorities determine appropriate.
+(3) Annual report.--Not later than 1 year after the date on
+which an eligible entity receives a grant under subsection
+(b), and annually thereafter for the duration of the grant
+period, the entity shall submit to the Attorney General a
+report that includes, with respect to the preceding year--
+(A) the number of petitions for ex parte extreme risk
+protection orders filed, as well as the number of such orders
+issued and the number denied, disaggregated by--
+(i) the jurisdiction;
+(ii) the individual authorized under State or Tribal law to
+petition for an extreme risk protection order, including the
+relationship of the individual to the respondent; and
+(iii) the alleged danger posed by the respondent, including
+whether the danger involved a risk of suicide, unintentional
+injury, domestic violence, or other interpersonal violence;
+(B) the number of petitions for extreme risk protection
+orders filed, as well as the number of such orders issued and
+the number denied, disaggregated by--
+(i) the jurisdiction;
+(ii) the individual authorized under State or Tribal law to
+petition for an extreme risk protection order, including the
+relationship of the individual to the respondent; and
+(iii) the alleged danger posed by the respondent, including
+whether the danger involved a risk of suicide, unintentional
+injury, domestic violence, or other interpersonal violence;
+(C) the number of petitions for renewals of extreme risk
+protection orders filed, as well as the number of such orders
+issued and the number denied;
+(D) the number of cases in which a court imposed a penalty
+for false reporting or frivolous petitions;
+(E) demographic data of petitioners, including race,
+ethnicity, national origin, sex, gender, age, disability,
+average annual income, and English language proficiency, if
+available;
+(F) demographic data of respondents, including race,
+ethnicity, national origin, sex, gender, age, disability,
+average annual income, and English language proficiency, if
+available; and
+(G) the total number of firearms removed pursuant to
+extreme risk protection orders, and, if available, the number
+of firearms removed pursuant to each such order.
+SEC. 5. IDENTIFICATION RECORDS.
+Section 534 of title 28, United States Code, is amended--
+(1) in subsection (a)--
+(A) in paragraph (3), by striking ``and'' at the end;
+(B) by redesignating paragraph (4) as paragraph (5); and
+(C) by inserting after paragraph (3) the following:
+``(4)(A) subject to subparagraph (B), acquire, collect,
+classify, and preserve records from Federal, Tribal, and
+State courts and other agencies identifying individuals
+subject to extreme risk protection orders, as defined in
+section 4(a) of the Federal Extreme Risk Protection Order Act
+of 2022; and
+``(B) destroy each record acquired or collected under
+subparagraph (A) when the applicable extreme risk protection
+order expires or is terminated or dissolved; and'';
+(2) in subsection (b), by striking ``(a)(4)'' and inserting
+``(a)(5)''; and
+(3) by adding at the end the following:
+``(g) Extreme Risk Protection Orders in National Crime
+Information Databases.--A Federal, Tribal, or State criminal
+justice agency or criminal or civil court may--
+``(1) include extreme risk protection orders, as defined in
+section 4 of the Federal Extreme Risk Protection Order Act of
+2022, and Federal extreme risk protection orders, as defined
+in section 932 of title 18, in national crime information
+databases, as that term is defined in subsection (f)(3) of
+this section; and
+``(2) have access to information regarding extreme risk
+protection orders and Federal extreme risk protection orders
+through the national crime information databases.''.
+SEC. 6. FULL FAITH AND CREDIT.
+(a) Definitions.--In this section, the terms ``extreme risk
+protection order'', ``Indian Tribe'', and ``State'' have the
+meanings given those terms in section 4(a).
+(b) Full Faith and Credit Required.--Any extreme risk
+protection order issued under a State or Tribal law enacted
+in accordance with this Act shall be accorded the same full
+faith and credit by the court of another State or Indian
+Tribe (referred to in this subsection as the ``enforcing
+State or Indian Tribe'') and enforced by the court and law
+enforcement personnel of the other State or Tribal government
+as if it were the order of the enforcing State or Indian
+Tribe.
+(c) Applicability to Protection Orders.--
+(1) In general.--Subsection (b) shall apply to a protection
+order issued by a State or Tribal court if--
+(A) the court has jurisdiction over the parties and matter
+under the law of the State or Indian Tribe; and
+(B) reasonable notice and opportunity to be heard is given
+to the person against whom the order is sought sufficient to
+protect that person's right to due process.
+(2) Ex parte protection orders.--For purposes of paragraph
+(1)(B), in the case of an ex parte protection order, notice
+and opportunity to be heard shall be provided within the time
+required by State or Tribal law, and in any event within a
+reasonable time after the order is issued, sufficient to
+protect the due process rights of the respondent.
+(d) Tribal Court Jurisdiction.--For purposes of this
+section, a court of an Indian Tribe shall have full civil
+jurisdiction to issue and enforce a protection order
+involving any person, including the authority to enforce any
+order through civil contempt proceedings, to exclude
+violators from Indian land, and to use other appropriate
+mechanisms, in matters arising anywhere in the Indian country
+(as defined in section 1151 of title 18, United States Code)
+of the Indian Tribe or otherwise within the authority of the
+Indian Tribe.
+SEC. 7. CONFORMING AMENDMENT.
+Section 3(1) of the NICS Improvement Amendments Act of 2007
+(34 U.S.C. 40903(1)) is amended by striking ``section
+922(g)(8)'' and inserting ``paragraph (8) or (10) of section
+922(g)''.
+SEC. 8. SEVERABILITY.
+If any provision of this Act, or an amendment made by this
+Act, or the application of such provision to any person or
+circumstance, is held to be invalid, the remainder of this
+Act, or an amendment made by this Act, or the application of
+such provision to other persons or circumstances, shall not
+be affected.
+SEC. 9. EFFECTIVE DATE.
+This Act and the amendments made by this Act shall take
+effect on the date that is 180 days after the date of
+enactment of this Act.
+The SPEAKER pro tempore (Mrs. Hayes). The bill, as amended, shall be
+debatable for one hour equally divided and controlled by the Chair and
+ranking minority member of the Committee on the Judiciary or their
+respective designees.
+The gentleman from New York (Mr. Nadler) and the gentleman from Ohio
+(Mr. Jordan) will each control 30 minutes.
+The Chair recognizes the gentleman from New York.
+General Leave
+Mr. NADLER. Madam Speaker, I ask unanimous consent that all Members
+may have 5 legislative days in which to revise and extend their remarks
+and insert extraneous material on H.R. 2377.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from New York?
+There was no objection.
+Mr. NADLER. Madam Speaker, I yield myself such time as I may consume.
+Madam Speaker, over the past several weeks, we have watched in horror
+as gun violence has touched communities across the country and dozens
+of people, young and old, have lost their lives. The details of each
+case may differ, each tragic in its own way, but there is one theme
+that comes up most often; someone deeply troubled, experiencing some
+sort of crisis, had easy access to firearms. And all too often, the
+warning signs were clear, but nothing was done to keep guns out of
+their hands before it was too late.
+H.R. 2377, the Federal Extreme Risk Protection Order Act, provides a
+sensible means by which someone who is exhibiting dangerous behavior
+can be prevented from possessing or purchasing firearms before tragedy
+strikes.
+This legislation, introduced by Representative Lucy McBath,
+authorizes Federal courts to issue an extreme risk protection order, or
+ERPO, temporarily removing firearms from a person in crisis and
+preventing them from purchasing firearms. This only occurs after the
+court determines that there is evidence demonstrating that the person
+poses an imminent danger of injuring himself, herself, or others.
+The bill also includes legislation by Representative Salud Carbajal,
+which provides funding to States to enact ERPO statutes of their own.
+We know that extreme risk laws save lives. We have witnessed their
+effectiveness in State after State, beginning in 2016, when California
+passed the first such law. Since then, 18 other States and the District
+of Columbia have enacted similar laws.
+An analysis of the first 3 years of California's extreme risk law
+found
+[[Page H5420]]
+that these orders were used for 58 mass shooting threats, including six
+in which a minor threatened to target a school.
+These orders were also used in response to 82 threats of suicide, and
+they worked. No suicides occurred among individuals who were subject to
+the orders.
+Federal courts have long been bastions of due process and,
+accordingly, this legislation includes strong due process provisions
+that strike the appropriate balance between protecting the rights of
+the gun owner and ensuring community safety. Every court that has
+reviewed laws similar to this bill has found that the procedural
+safeguards are sufficient.
+And as then-Seventh Circuit Judge Amy Coney Barrett wrote, ``History
+is consistent with common sense: It demonstrates that legislatures have
+the power to prohibit dangerous people from possessing guns.''
+Madam Speaker, the Constitution does not require us to wait until
+lives are lost.
+As we address the scourge of gun violence, a blight that killed
+45,000 Americans in 2020 alone, let us remember that there are no
+perfect solutions. We are painfully aware that we cannot do enough to
+save every life, and there is no one answer that will solve this
+problem.
+But we do know that taking guns out of the hands of people who pose a
+danger to themselves or others would save countless lives. This
+legislation would take meaningful steps to prevent gun violence
+tragedies in our communities while, at the same time, protecting the
+due process of rights of those individuals in crisis.
+I thank Representatives McBath and Carbajal for their leadership on
+this issue. I urge all Members to support the bill, and I reserve the
+balance of my time.
+Mr. JORDAN. Madam Speaker, I yield 3 minutes to the gentleman from
+Louisiana (Mr. Johnson).
+Mr. JOHNSON of Louisiana. Madam Speaker, I thank Mr. Jordan for
+yielding.
+You know, we have heard some revealing things this week. It was just
+a few moments ago our colleague from Tennessee, Mr. Cohen, lectured us
+that the Old Testament doesn't mention the word ``guns'' and so we
+shouldn't claim that this is a fundamental freedom. You know, as usual,
+he misunderstands the point of Scripture and the Constitution.
+Here is the thing: As Americans, we respect and we protect the
+unalienable, God-given right to self-protection and to the protection
+of innocent lives around us.
+President Biden said--among other outrageous things this week we have
+heard, President Biden said that he wanted to ban 9-millimeter
+handguns. That is one of the most widely owned handguns by law-abiding
+citizens in this country.
+Mr. Cicilline of Rhode Island, now infamously in our committee
+hearing, exclaimed, ``Spare me the'' B.S.--that is not what he said--
+``Spare me the'' B.S. ``about constitutional rights.'' That is pretty
+revealing.
+Mr. Jones, in the same hearing, just a few moments later, he said
+that if Democrats don't get their way on their gun control wish list,
+that they will abolish the filibuster and pack the Supreme Court. They
+are saying the quiet parts out loud.
+See, that wish list that they have includes taking away guns from
+Americans without the constitutionally required due process of law,
+which is exactly what this bill would do. It would allow the courts to
+take guns away from people without notice and without even the right to
+appear in the hearing to defend themselves in court.
+Now, the other side is going to tell you, and you will hear in the
+argument here, hey, there is due process. Don't worry about it, they
+will say, because people subjected to this process, they can just go to
+court and they can petition to get their firearms back.
+But I will let my colleagues in on something that every first-year
+law student learns: Due process after the fact is no due process at
+all.
+Now, the other side is also going to argue here--get ready for it--
+they are going to claim that they have come up with a reasonable
+compromise by just making these gun confiscation orders temporary. They
+will say it is only going to last 14 days. They won't tell you that
+these orders can be renewed indefinitely.
+My Democrat colleagues are going to tell you that this bill will save
+lives. But if you look at the objective studies, the comprehensive
+studies on this, you will find that the red flag laws in all these
+States have had no significant effect on the rates of murder, suicide,
+or the number of people killed in mass public shootings.
+If this bill passes, people may have their information added to the
+national crime databases, even though they committed no crime. In what
+version of America do we think that is okay?
+The Democrats claim Republicans don't care about gun violence. But
+while they may repeat this over and over and over, it doesn't make it
+any more true. If you look at the record, House Republicans have worked
+tirelessly to combat gun violence by enacting meaningful laws to put
+more resources into mental health, to provide training for guidance
+counselors, and fund grants for law enforcement.
+The other side, meanwhile, is actively trying to defund police. And
+just last week, they voted against giving money to schools to enhance
+security.
+Democrats refused to work with us on legislation that would actually
+do something; that would actually reduce the rate of gun violence in
+this country.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. JORDAN. Madam Speaker, I yield the gentleman an additional 30
+seconds.
+Mr. JOHNSON of Louisiana. And instead, they are taking advantage of
+tragedies. That is what they are doing. They are taking advantage of
+tragedies to promote their agenda to destroy our constitutional rights,
+and it is shameful.
+I will tell you this: When Republicans take back the majority next
+year, we will work to begin to address the root causes of the violence
+and the mayhem in our country. That day cannot come soon enough.
+Mr. NADLER. Madam Speaker, I yield 5 minutes to the gentlewoman from
+Georgia (Mrs. McBath), the sponsor of the bill.
+Mrs. McBATH. Madam Speaker, I rise today in support of my bill, the
+Federal Extremist Protection Order Act, a bill that would empower loved
+ones and law enforcement to help prevent mass shootings before they
+happen.
+Every family in every community in our Nation deserves access to
+these lifesaving measures. No child, no parent deserves to live in fear
+of gun violence.
+And we are paying for it. We are paying for this gun violence every
+single day. Day after day, hour after hour, we are paying for the
+weapons of war on our streets with the blood of our children in our
+schools.
+We are paying for the unfettered access with mothers and fathers
+waiting in line for a DNA test, forced to find out if it is their child
+that is riddled with bullets and maimed beyond recognition; if it is
+their child whose blood now blankets the floor of the classroom where
+they should be learning math and science and English.
+We are paying for this deadly gun culture with the lives of American
+people; with the lives of those that we in this body took an oath to
+protect.
+The American people are absolutely exhausted. We cannot continue to
+be the only country in the world where we let gun violence happen again
+and again and again. An entire generation is growing up learning that
+the adults that they look up to cannot, or rather, choose not to
+protect them.
+Now, we all agree that this status quo is unacceptable. We all
+understand that the murder of our children cannot continue. We need
+policies that will give our law enforcement the tools that they need,
+the tools they have asked for to help keep guns out of the hands of
+those who are a danger to themselves or to others.
+How many more victims are we going to memorialize?
+What rights do our children have as they grow in our lives and in our
+hearts?
+Parents across the country, in every State, in every community, know
+the fear that accompanies the love that we have for our children. It is
+a primal fear, a helpless fear, a love so deep that
+[[Page H5421]]
+we worry and wonder every day where is my child? Are they safe? Are
+they going to make it home today?
+Don't our parents have the right to send their kids off to school
+without the fear of them not coming home?
+Don't our children have the right to live free from the trauma that
+only stepping over a friend covered in blood could ever bring?
+How many more parents must receive the phone call that I did when I
+was told that my son was murdered; the phone call that confirms that
+fear that my child is dead and that I was unable to protect him; the
+phone call that leads you to cry out to God in your grief?
+Was my child afraid? Did he feel pain as the bullets ripped through
+his skin? Did he know he was loved more than he could ever imagine?
+We can do better than that. We must be better than this. We cannot be
+the only nation in the world where our children are torn apart on
+Tuesday and their deaths are gone from the news cycle by Wednesday.
+And that is why, in the decade since my son was taken from me by a
+man with a gun, simply for playing loud music in his car, that I made a
+promise to Jordan and to my community, and to the American people,
+a promise that I would continue to fight this battle for the rest of my
+life, the fight to make sure that not one more parent is forced to join
+this ever-growing club, the club that no mother or no father ever wants
+to be a part of.
+I promised that I would take all of the devotion as a mother that I
+have for my child, all the love that I poured out of my soul into my
+child, that I would do everything in my power to keep Jordan's
+community safe; yes, you, my community; that the time would come where
+we would be able to make a difference in the lives of our children and
+our children's children, and this is that time. This is that moment.
+We are facing a challenge of our lifetime on the issue of our era.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. NADLER. Madam Speaker, I yield the gentlewoman an extra 30
+seconds.
+Mrs. McBATH. This is that time. This is that moment. We are facing
+the challenge of our lifetime. This is the issue of our era, and today,
+we must vote with the majority of American people that agree with us.
+We vote to provide law enforcement and family members the tools that
+they need to prevent these mass shootings. We vote to save lives. We
+vote to do what is right. We vote to stop the uniquely American horror
+that is ripping our families apart.
+God bless us. And I ask God to cover us in doing the right thing.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentlewoman from
+Arizona (Mrs. Lesko).
+{time}  0930
+Mrs. LESKO. Madam Speaker, I thank Representative Jordan for yielding
+time.
+I rise in opposition to H.R. 2377. I have five grandchildren. I would
+do anything--anything--to protect my five grandchildren, including, as
+a last resort, shooting someone if I had to, to protect the lives of my
+grandchildren.
+Democrat bills that we have heard this week want to take away my
+right--my right--to protect my grandchildren. They want to take away
+the rights of law-abiding citizens to protect their own children and
+grandchildren and wives and brothers and sisters. This bill takes away
+due process from law-abiding citizens.
+Can you imagine if you had a disgruntled ex or somebody who hates you
+because of your political views, and they go to a judge and say, ``Oh,
+this person is dangerous''? That judge would take away their guns, lean
+on the side of conservatism and take away their guns, without that
+person even having knowledge that there was a court hearing that would
+take away their guns. This is wrong.
+When Republicans were in the majority, we actually passed legislation
+that was signed into law that would have prevented mass shootings.
+These bills will not. We need to join together, Republicans and
+Democrats. I hope they can do it in the Senate and get something done
+that actually saves children's lives.
+Mr. NADLER. Madam Speaker, I include in the Record a June 7, 2022,
+Washington Post article titled ``No, red-flag gun laws don't violate
+due process rights.''
+[From the Washington Post]
+No, Red-Flag Gun Laws Don't Violate Due Process Rights
+such laws, also known as `extreme-risk protection orders,' are popular
+and are embraced by some republican politicians. but some gun-rights
+activists say they violate the fifth and fourteenth amendments.
+(Perspective by Joseph Blocher and Jake Charles, June 7, 2022)
+``Red flag'' laws, which allow guns to be temporarily taken
+from people who pose a risk of harm to themselves or others,
+are one of the few gun-safety regulations that currently have
+bipartisan support. ``Tm generally inclined to think some
+kind of red-flag law is a good idea,'' Sen. Roy Blunt (R-Mo.)
+said last week, after the school shooting in Uvalde, Texas.
+Key senators have told reporters it's possible an agreement
+could be reached this week on legislation that would include
+a provision incentivizing more states to pass such laws.
+There is strong popular support for red-flag laws--also
+known as extreme-risk laws--in both parties, and more than a
+dozen states have adopted them in the past few years alone
+(bringing the total to 19 plus the District of Columbia).
+Social science research suggests that they work, most
+strikingly in preventing gun suicides.
+So what prevents their wider adoption, including at the
+federal level? Some gun-rights advocates and their allies in
+Congress say they violate the due process clauses of the
+Fifth and Fourteenth Amendments. ``Depriving citizens of
+Life, Liberty, or Property, without Due Process, is a clear
+violation of our Constitution,'' Rep. Thomas Massie (R-Ky.)
+tweeted last week. ``Every member of Congress swears an oath
+to `support and defend' the Constitution. Voting for, or
+introducing, Red Flag Laws is a blatant violation of that
+oath.''
+But such criticisms are off base. Politicians considering
+red-flag laws, whether in Congress or state legislatures,
+should do so based on an accurate understanding of what the
+Constitution requires. It indeed guarantees ``due process of
+law'' whenever the government seeks to deprive a person of
+``life, liberty, or property.'' But the basic design of
+existing extreme-risk laws is fully consistent with
+constitutional commands, as we showed in a recent law review
+article.
+In the states where they exist, here's how red-flag laws
+work: A limited set of people--law enforcement officers,
+family or household members, and sometimes others--can
+petition a judge to issue an ``extreme-risk protection
+order'' (ERPO) requiring a person to temporarily surrender
+his or her firearms and refrain from acquiring new ones.
+Depending on the state, the burden of proof the petitioner
+must meet (to establish that the gun owner indeed presents a
+risk) varies from ``probable cause'' to ``clear and
+convincing'' evidence. If the petition is successful, the
+court can enter a short-term emergency ERPO, usually lasting
+two weeks or less. In many cases, that's all that is needed--
+the crisis can be averted. A longer-term ERPO can only be
+entered after a full hearing at which the petitioner again
+bears the burden of proof, usually at a higher threshold, and
+at which the gun owner can contest the order.
+If there is a constitutional flaw in this basic structure,
+it has apparently escaped notice of the entire United States
+judiciary: Courts have unanimously rejected Second Amendment
+and due process challenges to ERPO laws, and for good reason.
+Perhaps surprisingly, the Second Amendment has not been the
+focus of the constitutional complaints. That's because even
+ardent Second Amendment defenders like Justice Amy Coney
+Barrett recognize that ``legislatures have the power to
+prohibit dangerous people from possessing guns''--as Barrett
+wrote in 2019 case, when she was a judge on the U.S. Court of
+Appeals for the Seventh Circuit. Courts reviewing extreme-
+risk laws have upheld them on that very basis. In 2016, for
+example, a Connecticut appellate court relied on U.S. Supreme
+Court precedent in holding that Connecticut's statute ``does
+not implicate the second amendment, as it does not restrict
+the right oflawabiding, responsible citizens to use arms in
+defense of their homes.''
+The crux of the political debate has therefore focused on
+due process--although due-process challenges to red-flag laws
+have fared no better. Nor should they have. A prime complaint
+about red-flag laws is that they allow an order to issue
+before the gun owner has an opportunity to contest the
+evidence, but the Supreme Court has long recognized that
+there are ``extraordinary situations where some valid
+governmental interest is at stake that justifies postponing
+the hearing until after the event,'' as Justice John Marshall
+Harlan II wrote in a 1971 case. Examples include restraining
+orders filed by one domestic partner against another, civil
+commitments for mental illness and the temporary removal of
+children from parental custody in emergency situations (for
+instance, when there are credible allegations of abuse). In
+situations like these, delaying urgent action until after a
+full hearing can lead to catastrophic outcomes.
+[[Page H5422]]
+Given that the Constitution allows emergency action to
+temporarily remove a person's child before a full hearing,
+it's hard to argue that it prohibits emergency action to
+temporarily remove a person's guns. Quite simply, the
+Constitution does not require society to wait until the
+trigger is pulled.
+Though they vary in their particulars, existing extreme-
+risk laws contain several important procedural safeguards
+that the Supreme Court has recognized help to forestall abuse
+and ensure due process. They impose the burden on the
+petitioner to convince an independent third party; they
+guarantee active judicial oversight and provide a prompt
+hearing focusing on the degree of risk; and many states
+provide specific criminal penalties for filing false or
+harassing extreme-risk petitions (in addition to existing
+punishments for perjury).
+Understanding constitutional requirements is important not
+only for lawyers and judges, but for those debating gun
+regulation in public discourse. Time and again, arguments
+based on misunderstandings of the Constitution have been used
+to derail reasonable gun regulation. After Sandy Hook, for
+example, an overwhelming majority of Americans wanted to
+expand the existing system of background checks for gun
+sales. Of the minority opposed--some strongly so--the most
+common reason was that doing so would violate the Second
+Amendment, yet that position has no support in legal
+doctrine.
+We should not once again make the mistake of blaming the
+Constitution for inaction on gun laws. The structure of
+extreme-risk laws is entirely consistent with not only the
+Second Amendment but also the consitutional guarantee of due
+process.
+Mr. NADLER. Madam Speaker, I want to excoriate as absolute nonsense,
+pernicious nonsense, what we just heard from Mr. Johnson, from Mrs.
+Lesko, and what I presume we will hear for the rest of the debate on
+this bill.
+Red flag laws are in effect in 19 States and the District of
+Columbia. Every court that has considered them has found them
+constitutional. Every court has said that they meet the requirements of
+procedural due process--every single court.
+Madam Speaker, I yield 1 minute to the gentlewoman from California
+(Ms. Pelosi), the Speaker of the House.
+Ms. PELOSI. Madam Speaker, I thank the gentleman for yielding, and I
+thank him for bringing his superior knowledge of our Constitution and
+the law of the land to bear in this important debate for the children.
+Yesterday, as we had the debate on so many other pieces of
+legislation which passed with bipartisan support, we said it was of the
+children, by the children, and for the children. ``Of them'' because
+they are suffering. ``By them'' because they are testifying in the
+Congress of the United States, apparently to no avail to some in the
+Congress, but making an emotional appeal of the facts of their case to
+the American people, and again, all of it for the children.
+The Protecting Our Kids Act, I thank the chairman for bringing that
+to the floor. The legislation passed yesterday. It has strong steps to
+save lives, whether it is raising the age to purchase weapons of war,
+outlawing bump stocks and high-capacity magazines designed for mass
+murder, cracking down on gun trafficking and ghost guns, and
+strengthening safe storage requirements, to name just a few.
+Today, the House builds on this progress by passing our Federal
+Extreme Risk Protection Order Act, another lifesaving measure aimed at
+preventing the next tragic shooting before it is too late.
+Too often, what we know is that those who pose a risk of gun violence
+show early warning signs: a menacing message online, a troubled message
+to a loved one. Yet, in too many communities across the country,
+concerned family members, friends, and law enforcement have no legal
+pathway to get deadly weapons out of the hands of these troubled
+individuals.
+Under the leadership of Congresswoman Lucy McBath, the House will
+pass a bill empowering family members and law enforcement to seek a
+Federal court order to temporarily remove access to a gun from
+individuals who pose a threat to themselves and to others.
+Thanks to the leadership of Congressman Salud Carbajal, this
+legislation will include incentives to encourage more States to adopt
+extreme risk protection order laws of their own. The incentives exist
+in many States, but not all.
+Doing so will not only protect from mass shootings but also from the
+quiet daily massacre by suicide and gun crimes. These so-called red
+flag laws by some are saving lives in the 19 States and, as was
+mentioned, the District of Columbia, where they have been enacted. The
+statistics show that.
+The American people are overwhelmingly for this lifesaving measure.
+Recent polling shows 8 in 10 Americans support it.
+Madam Speaker, as you know, and you have experienced it in your
+State, gun violence in our Nation has reached a fever pitch in recent
+weeks. People keep saying again and again and again that we have gun
+violence. I would say it is not again and again and again; it is
+always. It is not one after another; it is ongoing, whether it is mass
+murders that are high profile or every night in cities and places
+across our country.
+Sadly, too many Members think, in the wake of gun violence, a moment
+of silence is sufficient--a moment of silence. As Mr. Higgins said
+following the Buffalo massacre, we have a moment of silence, and then
+we must have action--and then we must have action.
+Today, all Members have a chance to take action, to vote for another
+strong step, giving our communities a chance to prevent the next
+massacre. The next massacre could be a family tragedy, so it is
+personal as well as community protection.
+Indeed, if you knew where and when the next gun incident would be,
+how could you oppose having the tools to possibly stop it? If you knew
+that children could possibly be exposed because of the action of
+someone practically a child themselves, still a teenager, having access
+to a weapon of war, why wouldn't you want to take action to stop it?
+I urge all of my colleagues on both sides of the aisle to join us in
+a strong bipartisan ``aye'' vote for this legislation. In States across
+the country, this is not partisan at all. Let's hope that it will not
+be in the House of Representatives.
+At the same time, we remain very prayerful and hopeful that the
+Senate will soon reach bipartisan agreement so that we will move a step
+closer to freeing our children from the horrors of gun violence, once
+and for all--our children, whether it is violence to them or violence
+to their parents and family members.
+For the children, of the children, by the children, that is our
+mission. I urge an ``aye'' vote.
+Mr. JORDAN. Madam Speaker, I yield 1\1/2\ minutes to the gentleman
+from Virginia (Mr. Good).
+Mr. GOOD of Virginia. Madam Speaker, one of the most fundamental,
+God-given rights that we possess, which is uniquely protected in our
+American Constitution, is the right to keep and bear arms for self-
+defense and to ensure that we remain a free people.
+We have seen under this administration, supported by the Democrat
+majority in this Congress, an unprecedented trampling on the basic
+rights of American citizens over the past 2 years. Our most precious
+freedoms to assemble together, to go where you want, to worship as you
+choose, to earn a living or operate your business, to keep your job or
+your employees, what you have to wear on your face, and whether or not
+you are required to receive a vaccine that you may not want or may not
+need all trampled upon by Democrats in power.
+Democrats simply do not believe in the inalienable rights of American
+citizens to life, liberty, and the pursuit of happiness. They believe
+that your rights come from government, and they, therefore, have the
+right to take them away.
+The guarantee provided by our Founders to ensure we remain free from
+foreign invasion and, yes, as our Founders clearly warned us, from an
+oppressive government like we see in Canada, Australia, and the
+Democrats' beloved Communist China is the constitutional right of law-
+abiding citizens to be armed as they choose.
+Over and over, the Founders affirmed and reiterated that Congress has
+no power--no power--to limit the right of lawful citizens to arm
+themselves. H.R. 2377 would create a nationwide system of red flag
+laws, undermining the constitutional guarantee of due process, which is
+required before depriving any American of their Second Amendment right.
+Mrs. McBATH. Madam Speaker, I yield 3 minutes to the gentleman from
+California (Mr. Carbajal).
+Mr. CARBAJAL. Madam Speaker, I thank Representative McBath for
+yielding time.
+[[Page H5423]]
+Madam Speaker, 8 years ago, my own community of Isla Vista near UC
+Santa Barbara saw firsthand the horror and the trauma that a mass
+shooting brings. In 8 years since that attack, we have stood in
+solidarity with other communities reeling from the hundreds of mass
+shootings in our schools, our shopping malls, our houses of worship,
+and our Main Streets.
+Madam Speaker, I share the outrage and frustration of the majority of
+Americans and many of my colleagues here in Congress that there are
+some in Congress who have kept us from doing our job to protect
+children by blocking commonsense gun safety measures.
+I stand before you today as the author of a gun safety measure that
+has enjoyed bipartisan support, that has been implemented in
+Republican- and Democratic-led States alike, and that has been proven
+to reduce gun deaths and stop mass shootings before they happen. I am
+speaking about extreme risk protection orders or, as they are more
+commonly known, red flag laws.
+These laws are simple. If an individual is showing signs that they
+may be a danger to themselves or others, a police officer or a family
+member can, through due process, go to a judge and request an extreme
+risk protection order, which temporarily bars that person from owning
+or purchasing a firearm. These laws are already on the books in 19
+States and the District of Columbia, and in those places, they have
+saved lives.
+Part of the reason these laws work is because warning signs of mass
+shootings are not as rare as you might think. In fact, a U.S. study of
+school violence found that the majority of incidents come with clear
+warning signs, which we have seen before in some of our most infamous
+school shootings: Columbine, Sandy Hook, Parkland, and even Uvalde.
+That is why, in the wake of these tragedies, Republican- and
+Democratic-led States have approved red flag laws that have gone on to
+intervene in thousands of potentially violent attacks before they
+happen.
+Florida residents, for example, have used ERPOs more than 8,000 times
+since they implemented their red flag law after the Parkland shooting.
+California implemented their red flag law after the UCSB Isla Vista
+attack in my community.
+Police officers have used it to prevent numerous workplace attacks
+and other violent incidents. These red flag laws are also critical to
+reducing the largest form of gun deaths in our country, suicide by
+firearm.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mrs. McBATH. Madam Speaker, I yield the gentleman an additional 30
+seconds.
+{time}  0945
+Mr. CARBAJAL. Madam Speaker, as someone who lost one of my own
+siblings to suicide by a gun, I personally am proud to stand in this
+Chamber today in her memory, Carmen, to see my bill come to a vote.
+This measure is popular, bipartisan, and common sense. That may be
+why Republican Senators have introduced similar legislation in the
+past, to incentivize States to expand red flag laws and support States
+that already have them.
+There is no bill that we can pass that would be the panacea to solve
+our violence overnight, but with this measure and those that we passed
+yesterday, we can make a major difference. We need to do this now.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+California (Mr. McClintock).
+Mr. McCLINTOCK. Madam Speaker, Alexis de Tocqueville said that the
+defining trait of socialism is ``a profound opposition to personal
+liberty and scorn for individual reason, a complete contempt for the
+individual.''
+Socialists are hostile to our Bill of Rights specifically because it
+protects the individual against the State by guaranteeing our most
+fundamental rights and the means to defend them, and the guarantee that
+we can't be deprived of them except through due process of law.
+You have the right to have your day in court, to face your accuser,
+to present evidence on your behalf, to contest the charges brought
+against you.
+Now, if someone is adjudged to be dangerously mentally ill, of course
+they should not have access to firearms or to any other weapons. They
+shouldn't be on the street where they can do harm at all. They should
+be confined, during the course of their illness, so they can be treated
+and not endanger themselves or others.
+We already have commitment procedures that address this in concert
+with our Constitution. In that process, you appear before a judge, you
+can know the charges, you can face your accuser, you can plead your
+case, and you can present evidence on your own behalf in open court.
+But not under this bill. Under this bill, an anonymous accuser,
+including a jilted date or an ex-roommate, can trigger a secret
+proceeding that you don't even know is happening until the police show
+up at your door to strip you of your Second Amendment right to self-
+defense, and the burden then falls on you to try and restore it.
+And it won't stop here. The left has already branded speech they
+disagree with as dangerous.
+But they are right about one thing. This is an extreme risk bill. It
+is an extreme risk to our most fundamental individual rights as
+Americans.
+Mr. NADLER. Madam Speaker, I yield myself such time as I may consume.
+Republican speakers obviously have more regard for their politics and
+for the National Rifle Association than they do for the lives of our
+children. We see that every moment here, when they keep repeating the
+words that this is unconstitutional, when courts in 18 States and the
+District of Columbia have found them constitutional, and Supreme Court
+Justice Amy Coney Barrett, on the 7th Circuit, said: History is
+consistent with common sense. It demonstrates that legislatures have
+the power to prohibit dangerous people from possessing guns.
+So I don't think we should hear lectures on Democrats don't care
+about due process. We do. We also care about children's lives.
+Madam Speaker, I yield 2 minutes to the gentleman from Rhode Island
+(Mr. Cicilline), a member of the Judiciary Committee.
+Mr. CICILLINE. Madam Speaker, I rise today in strong support of the
+Federal Extreme Risk Protection Order Act. Before the Emanuel church
+shooting, before the Uvalde, El Paso, and Parkland shootings and so
+many others, shooters showed warning signs or even flat out said what
+they were going to do.
+Before many die by suicide by gun, they show warning signs that they
+may be a danger to themselves.
+In these situations, there is often evidence that something terrible
+is going to happen. We know it, we can even articulate it, but we are
+often powerless to stop it.
+This bill remedies this situation. This bill would help prevent
+individuals who pose an imminent threat to themselves or others from
+accessing firearms, by allowing law enforcement and family members to
+file a court petition in Federal court to temporarily--temporarily--
+block dangerous individuals' access to guns.
+Despite the claim that this bill invades due process, this is
+absolutely false. It is a thinly veiled attempt to prevent any and all
+regulations of firearms in this country. As the chairman has said, it
+has been found constitutional. There is a hearing before the seizure
+with a judge, with witnesses, testimony under oath, affidavits. The
+judge makes a finding. It happens all the time in domestic violence
+cases.
+These guns can only be taken away for a temporary period after a
+hearing with a judge, who determines on balance that it is necessary to
+do so for the safety of the gun owner or the community.
+This bill is so common sense. It has historically been bipartisan.
+The last Republican President supported it, introduced by Senator
+Lindsey Graham in the Senate.
+I thank Congresswoman McBath. Our Republican colleagues this morning
+have been talking about their passion for the Second Amendment, their
+devotion to the right to bear arms. If only for a moment they showed
+the same devotion, the same commitment to preserving the life of young
+people, the right to live a life free from gun violence, to go to a
+movie theater or church or synagogue and not worry
+[[Page H5424]]
+about their life and their liberty because they are gunned down by
+someone who shouldn't have a firearm.
+This is absolutely the most commonsense proposal that will come
+before Congress on guns. Keep them out of the hands of people who are
+dangerous to themselves and others. For God's sake, vote for this bill.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+Florida (Mr. Gaetz).
+Mr. GAETZ. Madam Speaker, if House Democrats were so worried about
+violence, they wouldn't open the borders, open the prisons, and then
+disarm law-abiding Americans who want to protect themselves and protect
+their families.
+Chairman Nadler says that Republicans shouldn't lecture about
+constitutional rights, but it was the last Democrat speaker, Mr.
+Cicilline, who in the House Judiciary Committee said, Spare me the
+bullshit about constitutional rights. So pardon us for standing up for
+the Constitution and the very due process that ensures that we are able
+to have a civil, functioning society in this country.
+Speaker Pelosi asks the question: Well, if you knew when the next act
+of violence would be, why wouldn't you want to stop it? What is this,
+the United States Congress, or the plot for the movie ``Minority
+Report''?
+The best you could ever hope to have in terms of warning is what we
+had in the Parkland case, where a neighbor saw Nikolas Cruz preparing
+for a school shooting, called the FBI, and because they were so focused
+on the bureaucracy, they didn't take action.
+That is why I am against federalizing the regular police and it is
+why I am against federalizing the school police, because the more the
+FBI was involved, the more they botched the case, and maybe there are
+people dead who didn't need to be.
+These red flag laws violate our Second Amendment rights, our Fifth
+Amendment rights, and when they are done at the national level, they
+violate our Tenth Amendment rights. It is crazy that we are considering
+legislation to bribe the States to take rights away from our fellow
+Americans, and it is nuts that Republicans in the Senate, the very
+Republicans who say they are the classic, liberty-minded conservatives,
+they are now working with Democrats on this very endeavor to Federalize
+the school police and to engage in this bribery for the sake of
+deprivation of rights.
+Let me give you this warning, my friends: It is no victory, as Mr.
+Carbajal said, that in my beloved Florida we have used red flag laws
+8,000 times. There weren't 8,000 school shooters we stopped, probably
+not even 8,000 criminals.
+What we do see is that these red flag laws are used in divorce
+proceedings, they are used in every type of dispute and shouldn't be a
+cudgel that way. We will stand up for their rights. That is no
+bullshit; we will.
+The SPEAKER pro tempore. Members are reminded not to use profanity on
+the floor of the House of Representatives.
+Mr. NADLER. Madam Speaker, I yield 2 minutes to the distinguished
+gentleman from Tennessee (Mr. Cohen), a member of the Judiciary
+Committee.
+Mr. COHEN. Madam Speaker, since the massacre in Newtown, Connecticut,
+about 10 years ago, we have not enacted any substantive firearm
+restrictions to prevent children from being slaughtered in our schools.
+In fact, not since the massacre of first graders and their educators
+at Sandy Hook, but in the 20 years since the shooting at Columbine, we
+have not enacted any new meaningful restrictions on firearms.
+We have an obligation to protect our constituents, and we have a
+responsibility to keep the American people safe.
+After each of these instances, we hear from our friends across the
+aisle that we must address mental health. I agree. But we must prevent
+those who are intent on harming themselves or others from having access
+to dangerous weapons and carrying out their intent.
+That is why I support this thoughtful proposal balancing public
+safety and the individual's right to due process.
+Let's just take the massacre in Uvalde. Should there have been a law
+in place in Texas, a red flag law, perhaps the gunman could have been
+stopped. There were plenty of warning signs, including the gunman with
+pictures of a cat he had killed and his frequent online threats to teen
+girls.
+As chairman of the Subcommittee on the Constitution, Civil Rights,
+and Civil Liberties, I take the due process clause seriously. In this
+legislation, a court would need to make an individualized
+determination, looking at specific facts before issuing an order. A
+full hearing is required in 72 hours, where the party can have personal
+attendance and object.
+This legislation is absolutely necessary, and I urge all my
+colleagues to support it. We have a moral obligation to act.
+Yesterday, this body, with a bipartisan vote, adopted the Protecting
+Our Kids Act, which would make meaningful updates to our Nation's gun
+laws. We must go further, I believe, and reenact the assault weapons
+bans.
+These bills would make a meaningful difference in gun violence in the
+United States and save American lives. God would not look kindly upon
+the use of weapons to kill his children, as happened in Uvalde, Texas.
+Our votes are not political calculations; they are obligations. We
+have a duty to protect God's children.
+Mr. JORDAN. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Michigan (Mrs. McClain).
+Mrs. McCLAIN. Madam Speaker, I think what we need, again, is a little
+truth, transparency, and consistency.
+I will share, as a mother of four, I resent the fact that you tell me
+that I don't care about children. In fact, when you have soft-on-crime
+policies, I need my Second Amendment right to protect my own children
+because the soft-on-crime policies don't help.
+During these debates, on these unconstitutional--you know the thing
+we all took an oath to uphold--gun bills, the Democrats have been
+making the claim, well, if you can't buy alcohol or cigarettes, you
+shouldn't be able to buy an AR-15.
+All right. Let's stick with that concept. Here is a concept: Apply it
+throughout every form. But let's talk about a couple of things that the
+Democrats feel you are mature enough to do under the age of 18.
+Because, once again, their standards clearly aren't consistent. What a
+concept, to be consistent.
+Democrats believe that under the age of 18, you should be able to get
+an abortion. While you are at it, don't even talk to your parents about
+it.
+Under the age of 18, Democrats think you should be able to change
+your sex without notifying parents.
+At 18, you can vote.
+At 18, you can join the military and lay your life on the line for
+this country.
+And I bet they think that the 18-year-old Buffalo shooter is actually
+mature enough to be charged as an adult, right?
+So, again, let's have some consistency in our standards.
+Mr. NADLER. Madam Speaker, I yield 1 minute to the gentlewoman from
+Pennsylvania (Ms. Dean), a member of the Judiciary Committee.
+Ms. DEAN. Madam Speaker, do we not hear the cries of the fourth
+grader in Uvalde who said, ``All of my friends are dead''?
+Would you like to do something about gun slaughter in this country?
+Then join us.
+One commonsense way we can do this is by passing my friend and
+colleague, Congresswoman McBath's, Federal Extreme Risk Protection
+Order Act, red flag laws.
+We know that in 46 percent of shootings, the attacker expressed
+interest in harming others. There was a cry for help, a warning.
+Someone knew that violence could erupt. Someone had the ability to
+intervene. We have a responsibility to intervene.
+Representative McBath's bill would do just that, intervene when
+someone is a risk to themselves or others. We do not have to live this
+way. Fearful for our children at school, at movies, the grocery store,
+or the TLA on South Street in Philadelphia.
+We do not have to live this way, and we don't want to: 79 percent of
+Americans support red flag laws and 67 percent of gun owners.
+Stop sentencing our children to having to lament that all of their
+friends are dead.
+[[Page H5425]]
+{time}  1000
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+Ohio (Mr. Wenstrup).
+Mr. WENSTRUP. Madam Speaker, next week will mark 5 years since the
+fateful morning on the baseball field where 136 rounds were fired in an
+attack on Republicans. Only by the grace of God were 20 or more of my
+Republican colleagues and staff not killed by a crazed terrorist
+wielding guns on that baseball field. So this is not a theoretical
+exercise for many of us on this side of the aisle.
+I say this not to take away from the tragedies that any one of us has
+experienced, but to highlight the good people on both sides of this
+issue can bring our personal experiences to the debate and may see
+things differently, while both condemning violence and wanting to act.
+When I reflect on that day, it is not about the weapon. It is about
+the person, the evil person that is on the other side of that weapon.
+It was guns that stopped that killer--two undercover Capitol police
+officers. They were only there because   Steve Scalise was there. And
+he got hit. Otherwise, that terrorist could have easily assassinated 20
+to 30 Members of Congress and staff.
+Clearly, there are people I don't want to have a gun in their hands
+but we can't ignore the hate, the evil that is gripping too many in our
+country today. We have laws against murder. Yet, we see murder.
+If my little daughter hits her big brother, I want to know why. I
+don't blame the stick in her hand. As a physician, common sense tells
+me that if we don't look at the events in someone's life that lead to
+the thoughts and the feelings that then lead to this horrific murderous
+behavior, then we are doing our society a grave injustice. And that is
+what is happening. We have seen this movie before.
+Did these laws change the disturbing trends that we are seeing?
+Previous bans have made no difference. It has been proven. Many of our
+communities have gun laws and have even more homicides than ever.
+We as Americans need to do some serious soul-searching about
+ourselves because something serious has changed in our society over the
+last several decades.
+Is it the absence of God?
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. JORDAN. Madam Speaker, I yield an additional 30 seconds to the
+gentleman.
+Mr. WENSTRUP. Madam Speaker, we had a public school in my district
+that was forced by the left and the courts to take down ``thou shalt
+not kill'' from in front of the schools.
+Is it the breakdown of the family, the disruption of the community,
+the implosion of the village? Or is it the destruction of our mental
+health system, which, unfortunately, turned everyone onto the streets
+instead of reforming our institutions?
+It could be all these things and many more, but until America is
+willing to take a long, hard look at ourselves and heal what truly ails
+us, I fear we are simply doomed to repeat what we have done in the past
+and we are doing here today.
+Mr. NADLER. Madam Speaker, I yield 2 minutes to the distinguished
+gentleman from California (Mr. Thompson), chairman of the Gun Violence
+Prevention Task Force.
+Mr. THOMPSON of California. Madam Speaker, I thank the gentleman for
+yielding.
+Madam Speaker, I rise in strong support of this legislation and thank
+Congresswoman McBath and Congressman Carbajal for the great work they
+have done to put this together.
+Red flag laws are supported by a majority of Americans and nearly 70
+percent of gun owners. Red flag laws provide an opportunity for an
+intervention if someone demonstrates that they are a danger to
+themselves or to others. California's red flag laws have been used 21
+times to prevent mass shootings.
+The bill we are considering today was originally authored by Senator
+Lindsey Graham, a Republican, and is very similar to the Florida red
+flag bill that was signed by then-Governor Rick Scott, also a
+Republican, and today a U.S. Senator. Neither of those two have ever
+been accused of being antigun or anti-Constitution.
+We know red flag laws save lives and we know the issues raised by the
+other side of the aisle are a stretch at best. If someone files a false
+complaint, they are subject to a $5,000 fine and 5 years in jail. This
+bill will save lives, and I urge you to vote ``yes.''
+The only real question is how much more bloodshed is needed to spur
+us to do the right thing and help us keep our kids and our communities
+safe.
+Please vote ``yes'' on this bill.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+Ohio (Mr. Davidson).
+Mr. DAVIDSON. Madam Speaker, from the debate and from the whole
+premise of this red flag law proposal, you would think that there was
+no such way to deal with this problem in America. It has been pointed
+out that 19 States have red flag laws already, but there are 50 States
+that already have a way to have someone adjudicated minimally
+dangerous.
+Every single State, the premise that we can identify somebody who
+might pose a risk to themselves or others is the whole premise why red
+flag laws might work. But that is the same premise that allows Baker
+Acts to work in every single State and Washington, D.C.
+The difference is that the person charged, the person accused of
+being this mentally incompetent, mentally dangerous person, has the
+right to confront their accuser. And that is what they are trying to
+undo. It already exists in law. Everyone knows that we cannot accept
+our children being murdered. We can't accept our communities being
+destroyed and gutted, not just by violence, by increasing violence, by
+increasing acts of despair; not just shootings, but suicides--and the
+number one cause of death for 18- to 45-year-olds--fatal overdoses.
+There is something going on wrong. It is not the guns, it is the
+culture and the evildoer. When do we stop blaming the evildoer, the
+doer of evil deeds? And if you could identify who that doer of evil
+deeds might be, wouldn't you want to take them away from the weapons
+instead of taking the weapons away from them?
+If you don't take the person away, they can get other guns. They
+might even get a car and drive through a parade.
+Let's keep our communities safe. Let's keep our kids safe. Let's
+focus on the real problem and not just run the same play over and over
+again. The Democrats have a preconceived solution to every emergency,
+and it is shameful to watch this exploitation of violence to achieve a
+Democrat-longstanding objective to undermine our Second Amendment.
+Mr. NADLER. Madam Speaker, I yield 1 minute to the distinguished
+gentleman from Virginia (Mr. Beyer).
+Mr. BEYER. Madam Speaker, I thank the chairman for yielding.
+Madam Speaker, I rise today to express my strong support for H.R.
+2377, the Federal Extreme Risk Protection Order Act. Included in this
+legislation, is the Extreme Risk Protection Order Act, which I have
+been proud to co- lead for many years with my friend and colleague,
+Congressman Carbajal.
+Madam Speaker, April 16, 2007, 15 years ago, 32 Virginia Tech
+students, in my home and Commonwealth, were killed by a young man who
+was well-known to the community to have paranoid schizophrenia. He had
+been hospitalized. He had been picked up by the police. He had been
+banned from classes. There was every reason in the world for him to be
+on the background checklist. Yet, he was able to buy the weapons
+legally that killed those 32 kids.
+In 2014, I had a long conversation with a friend who was deeply
+depressed. He was having trouble getting out of bed, trouble finding a
+psychiatrist who would treat him. I made some calls to try to find
+somebody, and then didn't do anything but worry, and was stunned when
+he got out of bed to go buy a gun and kill himself.
+To this day, I so regret that I did not call his wife, and we went
+together to the court to get him on the background checklist. We have
+all lost too many friends. We all are grief-struck by the massacre of
+children.
+Red flag laws may not protect everyone, but it will save many lives
+and it is a start.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+Arizona (Mr. Biggs).
+Mr. BIGGS. Madam Speaker, do you ever wonder how many of our
+colleagues in the Democrat aisle receive
+[[Page H5426]]
+Bloomberg money to advocate for taking away Americans' Second Amendment
+rights? I do.
+You hear about the NRA. You sure don't want to confess the Bloomberg
+donations that you receive as you emasculate America's rights. Yet, we
+hear about your polling. But you know what, 6 in 10 Americans,
+including almost half of Democrats, support armed officers and leaders
+at schools to protect their children. Democrats oppose that.
+We hear about due process. Due process doesn't mean you have an ex-
+parte hearing by an undisclosed informant who comes in and says, Look,
+we think this person is a danger to themselves or others, when the
+undisclosed informant has a grudge or an axe to grind. That is why you
+have 8,000 of those in Florida.
+Due process doesn't mean we take away your rights and then you get to
+petition to have those rights reinstated. No, this bill is designed
+specifically to get around the laws that are present in 50 States that
+do address due process and do address people who are a danger to
+themselves and society. This bill is ripe for abuse.
+Some States have enacted similar laws. In Connecticut, for example,
+nearly a third of all ex-parte orders are overturned once a judge hears
+both sides of the story.
+And why is that? You have already taken away their rights. But almost
+a third of them are overturned.
+In a markup last week, there was some confusion as to what due
+process means. It does not mean that you can deprive an individual of
+their rights first and then later let them have a hearing to reinstate
+those rights. But that is what this bill does. Deprivation first, a
+hearing later.
+Madam Speaker, I urge my colleagues to vote ``no.''
+Mr. NADLER. Madam Speaker, I yield 1 minute to the distinguished
+gentleman from Texas (Mr. Green).
+Mr. GREEN of Texas. Madam Speaker, and still I rise. I rise today to
+address the indication that what we Democrats are doing is meaningless.
+Meaningless to ban bump stocks. Well, tell that to the 60 people who
+were murdered at the Mandalay hotel where a gunman fired more than a
+thousand rounds in short order.
+Meaningless to raise the age to 21 to purchase an assault weapon.
+Explain that the ghosts of the 10 people who were killed at Tops
+grocery store. Make it clear to those 19 babies who were murdered at an
+elementary school in Texas.
+Meaningless? Tell that to the lives of those that have been lost. No,
+it is not meaningless.
+Madam Speaker, I tell my dear friends that what we are doing right
+now is more than common sense. It is just good sense to prevent people
+from killing other people.
+Mr. JORDAN. Madam Speaker, I yield 1 minute to the gentlewoman from
+Georgia (Mrs. Greene).
+Mrs. GREENE of Georgia. Madam Speaker, well, we don't agree on much
+these days here in Congress but I know there is one thing we all agree
+on. We all agree that we really like guns. See, we are the special
+privileged elites. We are the ones in this Chamber being protected by
+guns while the American people don't have men and women with guns
+outside their homes. Of course, not at any gun-free school zone they
+are not protected, nor at work.
+But here at Congress, the same Congress that is voting to send just
+millions and millions of dollars worth of guns to Ukraine so that they
+can defend themselves is the same Congress working as hard as possible
+to take away the Second Amendment rights from Americans. You see, our
+job here is to protect rights like due process and the Second Amendment
+rights of Americans, not strip them away.
+Red flag gun laws violate Americans' due process rights and this is
+the type of thing that we shouldn't be passing in this Congress,
+especially while we enjoy the very privileged elite special protection
+of guns.
+Mr. NADLER. Madam Speaker, may I inquire how much time remains on
+each side?
+The SPEAKER pro tempore. The gentleman from New York has 6\1/2\
+minutes. The gentleman from Ohio has 11 minutes.
+Mr. NADLER. Madam Speaker, I yield 1 minute to the distinguished
+gentlewoman from Michigan (Mrs. Lawrence).
+Mrs. LAWRENCE. Madam Speaker, I rise today to make an urgent plea for
+action.
+How can we listen to an 11-year-old girl talk about smearing herself
+with her own dead friend's blood so she doesn't get killed and think
+that the appropriate response is thoughts and prayers. It is
+unacceptable.
+We have the power to make real change and end gun violence. Right
+now, the American people are calling on us to protect their kids, their
+family, and their community. I am not going to sit on the sidelines and
+neither should this legislative body. If not now, when? Every Member
+should support commonsense gun safety legislation. Not taking away your
+right to own a gun or your constitutional right, but use common sense,
+that, as my grandmother used to say, is not very common today.
+Madam Speaker, the people of America are counting on us. Act now.
+Mr. JORDAN. Madam Speaker, I yield myself such time as I may consume.
+Madam Speaker, we have heard time and time again that the Democrats say
+this is not a violation of due process; not a violation of our
+constitutional rights. It most certainly is.
+Remember the basics here. Someone doesn't like you. They file a
+complaint. There is a hearing within 24 hours, a hearing that you are
+not allowed to attend, you are not allowed to be there to face your
+accusers. The government takes your gun or guns. Several days later
+there is a real hearing--well, a real hearing with a lower standard.
+The burden of proof for the government is not beyond a reasonable doubt
+to deny you your constitutional right. It is a clear and convincing
+standard. So a lower standard to take away your fundamental liberty
+when you didn't commit any crime. If that is not a violation of due
+process, I do not know what is.
+{time}  1015
+Title I of this bill, it will all be administered by the Biden
+administration Department of Justice, the same Department of Justice
+that got a letter from a leftwing political organization and, 5 days
+later, sent a memorandum to every single U.S. attorney in this country
+saying this: Set up a dedicated line of threat communication on
+parents; use counterterrorism measures against moms and dads who had
+the nerve to show up at a school board meeting and speak up for their
+kid.
+Then, 16 days after that memorandum went out, the FBI sends an email
+out and says: Put a threat tag, a designation, a label, on moms and
+dads who did show up at school board meetings who someone filed a
+complaint about on that snitch line, and investigate them. That same
+Biden administration Justice Department will be administering this law.
+That is why we are so against this measure and why it is so darn
+dangerous. They can say all day long it doesn't violate due process; it
+most certainly does, and it is going to be administered by a Justice
+Department that has already proven they are willing to go after parents
+who speak up for their kids.
+That is why this bill is so terrible, why Republican Senators are
+pushing this and, as Mr. Gaetz from Florida said, trying to bribe
+States to implement this when we have the history of the Biden Justice
+Department and know what this thing is going to look like and how it is
+going to violate due process. That is what is wrong with this
+legislation and why Republicans are so darn against this thing.
+I hope they will come to their senses, stand up for the law-abiding
+American citizens and their fundamental liberties, and vote this thing
+down.
+Madam Speaker, I reserve the balance of my time.
+Mr. NADLER. Madam Speaker, I yield 3 minutes to the distinguished
+gentlewoman from Texas (Ms. Jackson Lee), a member of the Judiciary
+Committee.
+Ms. JACKSON LEE. Madam Speaker, I thank the chairman for yielding,
+and let me personally on this floor--I have said it many times--offer
+my sympathy to Lucy McBath for the pain that she continues to live with
+for the loss of her son.
+Let me say to my friends, your arguments could not be more absurd.
+Over these last 2 days, I have heard welfare
+[[Page H5427]]
+state; I am a person of faith as all who profess such, challenging
+whether or not we have faith; speaking about the absurdity of not
+understanding the Constitution; disrespecting the democratic system
+that we have; that there will be an outrageous attack on individuals
+with the red flag laws.
+You are just simply wrong. My plea is to the American people because
+you can force people who masquerade as believing that it is a shame for
+children to die, but yet do nothing. This is the side of doing
+absolutely nothing but casting aspersions and challenging what is
+right.
+Red flag laws are right. Why? Indiana passed it in 2005, and in years
+since, the State's firearms suicide rate has gone down 7.5 percent.
+They work. A little boy, 16 years old, in New York was getting ready to
+shoot up his students, had shotguns at home. An order was put forward,
+and he admitted that not having the guns in the home was helpful and
+the order helped him.
+Is there no desire to do something in the name of those who died
+wrongly in Buffalo? Is there no desire?
+Are you not in any way aware of Zaire, a mother's child trying to
+work in a job and was severely injured?
+Are you not aware of Amerie, 10 years old, who died and bled out as
+she called 911?
+Madam Speaker, I include in the Record two lists of victims from the
+Uvalde school shooting and the Buffalo supermarket shooting.
+the 21 victims of the uvalde school shooting
+Makenna Lee Elrod, 10;
+Layla Salazar, 11;
+Maranda Mathis, 11;
+Nevaeh Bravo, 10;
+Jose Manuel Flores Jr., 10;
+Xavier Lopez, 10;
+Tess Marie Mata, 10;
+Rojelio Torres, 10;
+Eliahna ``Ellie'' Amyah Garcia, 9;
+Eliahna A. Torres, 10;
+Annabell Guadalupe Rodriguez, 10;
+Jackie Cazares, 9;
+Uziyah Garcia;, 9;
+Jayce Carmelo Luevanos, 10;
+Maite Yuleana Rodriguez, 10;
+Jailah Nicole Silguero, 10 ;
+Irma Garcia, 48;
+Eva Mireles, 44;
+Amerie Jo Garza, 10;
+Alexandria ``Lexi'' Aniyah Rubio, 10; and
+Alithia Ramirez, 10.
+the 10 people killed in buffalo, ny
+Roberta A. Drury of Buffalo, N.Y., age 32;
+Margus D. Morrison of Buffalo, N.Y., age 52;
+Andre Mackneil of Auburn, N.Y., age 53;
+Aaron Salter of Lockport, N.Y, age 55;
+Geraldine Talley of Buffalo, N.Y., age 62;
+Celestine Chaney of Buffalo, N.Y., age 65;
+Heyward Patterson of Buffalo, N.Y., age 67;
+Katherine Massey of Buffalo, N.Y., age 72;
+Pearl Young of Buffalo, N.Y., age 77; and
+Ruth Whitfield of Buffalo, N.Y., age 86.
+Ms. JACKSON LEE. Are you not aware that 80 percent of people
+considering suicide give some sign of their plans, and nearly 80
+percent of perpetrators of mass violence in public places make explicit
+threats?
+Red flag laws are crucial to saving lives.
+Yes, the FBI didn't act in Parkland, but a red flag law that was
+implemented by a Republican Governor could have been effective. There
+would have been another tool.
+The Constitution, for some people, they can't seem to read it
+clearly. The Second Amendment says to create a militia, but Justice
+Scalia, who is idolized by the right, made it very clear that the
+Second Amendment right is not unlimited. It is not a right to keep and
+carry any weapon whatsoever.
+The SPEAKER pro tempore. The time of the gentlewoman has expired.
+Mr. NADLER. Madam Speaker, I yield the gentlewoman an additional 30
+seconds.
+Ms. JACKSON LEE. Madam Speaker, let me say this: Do you want guns in
+the hands of dangerous people?
+I don't want Republicans shot. That was a dangerous person.
+Do you want guns in the hands of gang members? Do you want us to
+continue like all of these school shootings in the State of Texas?
+Let us realize where your heart is and ensure that the mentally ill
+are not the persons that are the ones that are most dangerous, but it
+is dangerous people who need red flag laws.
+Maybe we need to sit down in the name of John Lewis, who said: Where
+is your heart, and where is your soul?
+We need to pass this red flag law and all of our gun safety laws, and
+the Senate should pass it as well.
+Madam Speaker, I rise in support of H.R. 2377, the ``Federal Extreme
+Risk Protection Order Act of 2021,'' of which I am a cosponsor.
+In recent weeks, we have mourned the loss of life resulting from an
+ever-increasing number of mass shootings that have shocked the
+conscience of our nation.
+We have a duty to do all we can to prevent gun violence and end the
+bloodshed. Expanding the availability of extreme risk protection orders
+is one step we must take because access to firearms can be the
+difference between life or death--for one person or many.
+These laws have proven to be effective, particularly in reducing
+suicides, which involve firearms more than 50 percent of the time.
+We know that suicides are often times an impulsive action. Extreme
+risk protection orders can generate time and space between the impulse
+and someone's access o firearms.
+Recognizing that up to 80 percent of people considering suicide give
+some sign of their plans and nearly 80 percent of perpetrators of mass
+violence in public places make explicit threats or behave in a manner
+indicative of their intent to carry out an attack, it is clear these
+orders can help save lives.
+Yet under federal law, a person suffering from mental illness is
+generally not prohibited from purchasing or possessing a firearm unless
+certain statutory circumstances occur.
+Similarly, a person who has committed a violent act towards others is
+generally not prohibited from accessing firearms under federal law
+unless they are the subject of a domestic violence restraining order,
+have been convicted of a felony, or have been convicted of a domestic
+violence misdemeanor.
+In many instances of gun violence, family and friends noticed warning
+signs that their loved ones were a significant risk of harm or injury
+to themselves or others.
+For example, more than a month before the Parkland shooting, someone
+close to the shooter provided information to the FBI's tip line about
+his gun ownership, desire to kill people, erratic behavior, and
+disturbing social media posts, as well as the possibility he might
+commit a school shooting. But there was nothing to prohibit him from
+possessing firearms.
+Extreme risk protection laws empower those close to people at risk of
+committing irreversible, hateful acts upon themselves or others to
+intervene before tragedy strikes.
+Instead of focusing primarily on those who suffer from mental
+illness--the majority of whom are not violent--these laws focus on
+preventing access to firearms by people who exhibit dangerous
+behaviors.
+While some states have enacted these laws, including Florida
+following the Parkland shooting, many have not. That is why we need
+H.R. 2377. Everyone deserves to be safe from gun violence.
+This bill would provide nationwide access to extreme risk protection
+orders through federal courts, improve implementation of existing state
+extreme risk laws, and through grant funding, encourage more states to
+adopt such laws.
+It would also ensure law enforcement is trained in the use of extreme
+risk protection orders, including crisis intervention and making
+referrals to social service providers.
+When a concerned loved one can demonstrate that an individual
+presents a serious threat of injury to themselves or others, they
+should have an opportunity to request an order, allowing a judge to
+weigh the evidence and issue an order when appropriate.
+This bill would also provide important due process protections
+including notice, an opportunity to be heard at a hearing within 72
+hours after an order is issued if there is a request for a long-term
+extreme risk protection order, and a right to counsel.
+If an order is dissolved or expires any firearms would have to be
+returned.
+And the bill would establish a penalty for anyone who files a false
+or frivolous petition.
+I recently read that 44 percent of Republicans believe mass shootings
+are ``something we have to accept as part of a free society,'' and I
+simply cannot and will not accept that.
+We must never concede defeat to the epidemic of gun violence.
+Instead, we must continue to encourage and support the implementation
+of evidence-based solutions like extreme risk protection orders.
+I would like to thank Representative Lucy McBath and Salud Carbajal
+for their dedication to this issue and this bill.
+I urge my colleagues to support this critical legislation that will
+make our communities safer, whether in our homes or on our streets.
+The SPEAKER pro tempore. Members are reminded to direct their
+comments to the Chair.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+North Carolina (Mr. Bishop).
+Mr. BISHOP of North Carolina. Madam Speaker, the Fifth Amendment
+states: ``Nor be deprived of life, liberty, or property, without due
+process of law.''
+It is the paradox of the American experience that so many who swear
+to
+[[Page H5428]]
+preserve, protect, and defend the Constitution, the supreme law
+enshrining our fundamental rights, are so often predisposed to strip
+those rights, always with noble motive.
+Weeks ago, the Biden Department of Homeland Security formed a
+Disinformation Governance Board to become the arbiter of right think,
+even since disbanded. Bad idea.
+In 2020, State Governors ordered the healthy to stay out of their
+churches for fear of the virus. Do you remember?
+In 1971, the Department of Justice obtained a TRO, a prior restraint,
+to abridge freedom of the press by forbidding The New York Times to
+continue publishing the Pentagon Papers. Lower courts approved that,
+too.
+In February 1942, another progressive Democrat, FDR, issued an
+executive order to intern U.S. citizens and residents of Japanese
+descent. It was greatly popular; 60 percent of Americans polled
+supported sending their fellow American citizens to concentration
+camps. It was approved not just by lower courts but by the United
+States Supreme Court in Korematsu, 1944. It took until 2018 for it to
+be repudiated. Look again at what you justified.
+The long-existing Baker Act provides due process. New York had a red
+flag law and did not detect the Buffalo shooter.
+The fierce urgency of now meets the protections of fundamental rights
+in the United States Constitution, and they must be vindicated.
+Mr. NADLER. Madam Speaker, I reserve the balance of my time.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+Texas (Mr. Roy).
+Mr. ROY. Madam Speaker, I thank the gentleman from Ohio for yielding.
+The gentlewoman from Texas asked: Do we want guns in the hand of
+dangerous people? The answer to that question is, of course not. But
+the question, the only question that matters, is, who constitutes a
+dangerous person? Who gets to decide, and why? That is the important
+part here. That is what we are talking about when we talk about due
+process.
+We have laws on the books in, I believe, every State in the Union,
+so-called Baker Act provisions to civilly commit persons who are a
+danger to themselves and others.
+We have such a law in Texas, but we didn't use it. We didn't use it
+against a young man who wasn't in school, was harming defenseless
+animals, was talking about raping women, was clearly not well. We
+didn't use it.
+There are more people killed in the United States by hands and knives
+than rifles. I don't want a crazy guy in my school with or without the
+ability to have a weapon.
+We should actually be serious about committing people who have mental
+health problems. That would actually solve the problem.
+Everything we are doing here today is a pretext. It is a pretext for
+targeting, confiscating, and eliminating our ability to have weapons.
+When people say things, it is a good idea to believe them.
+President Biden: `` . . . whether it is a 9-millimeter pistol or
+whether it is a rifle is ridiculous. I am continuing to push to
+eliminate the sale of those things.''
+Representative Mondaire Jones: ``If the filibuster obstructs us, we
+will abolish it. If the Supreme Court objects, we will expand it. . . .
+We will do whatever it takes.''
+Representative Ocasio-Cortez: Ban semiautomatics.
+House Democrats just yesterday tweeted: ``Semiautomatic rifles are
+weapons of war.''
+Future Justice Ketanji Brown Jackson was applauding the New Zealand
+Prime Minister's commencement speech about New Zealand's banning
+semiautomatic rifles.
+Representative Beto O'Rourke: ``Hell, yes, we are going to take your
+AR-15.''
+Even Representative Sheila Jackson Lee, the gentlewoman from Texas:
+``I have held an AR-15 in my hand. I wish I hadn't.'' She talks about a
+.50-caliber bullet, which isn't even true.
+This is a pretext, and we should oppose this.
+Mr. NADLER. Madam Speaker, I reserve the balance of my time.
+Mr. JORDAN. Madam Speaker, I yield 2 minutes to the gentleman from
+Kentucky (Mr. Massie).
+Mr. MASSIE. Madam Speaker, I thank the gentleman for yielding.
+Everyone wants to stop mass public shooters, but we haven't
+previously punished people merely on the basis of a hunch, and we
+shouldn't start now.
+Stopping future crimes doesn't work in the movies, and it doesn't
+work in real life. What can work is providing mental healthcare and
+counseling to those who need it.
+If people truly pose a clear danger to themselves or others, they
+should be confined to a mental health facility. Simply denying them the
+legal right to buy a gun isn't a serious remedy.
+Actually, it is already possible to take a dangerous person's guns
+away, but Democrats are completely ignoring involuntary commitment laws
+that are on the books in all 50 States, presently known as the Baker
+Act in Florida or the 5150 code in California. These laws are different
+than the ones that are proposed today in one very important aspect:
+They involve due process.
+What is the difference? In the existing involuntary commitment laws,
+known as the Baker Act, there is a mental healthcare expert involved;
+there is no such thing in the red flag laws. There is the ability to
+challenge your accuser to have a day in court before your rights are
+deprived; there is no such opportunity in the red flag laws. You get an
+attorney appointed to you if you can't afford it; no such thing in the
+red flag laws in many of the States. There are predawn raids that
+endanger the lives, not just of the person we are worried about but of
+the officers who are tasked with carrying out the raid.
+Red flag laws could actually increase the rate of homicide and
+suicide. Simply talking to other people about your healthcare issues
+and your mental health could help you overcome it, but people will be
+reluctant to do that if red flag laws are in place.
+Red flag laws have already created thousands of second-class citizens
+who no longer have the ability to purchase a firearm for defense in the
+States that have red flag laws. If this passes today, there will be
+millions of second-class citizens created in this country who have been
+deprived of due process and the Second Amendment.
+Mr. NADLER. Madam Speaker, I reserve the balance of my time.
+Mr. JORDAN. Madam Speaker, I yield 1 minute to the gentleman from
+Texas (Mr. Pfluger).
+Mr. PFLUGER. Madam Speaker, I rise today as a Texan, a father of
+three young girls who go to school, and a defender of constitutional
+rights. This is not just about doing something; this is about doing
+something that matters.
+The horror of the school shootings is an unforgivable tragedy due to
+the evil we see in people.
+There is room for bipartisan solutions. Unfortunately, Democrats
+don't want to make law; they want to make politics.
+Republicans offered an alternative, a bill that would fund school
+resource officers and mental health counselors, close gaps in security,
+and strengthen active shooter preparations, with all the costs being
+offset by the unused COVID funds. Unfortunately, this has been blocked
+by House Democrats.
+There is nothing more important than ensuring our children are safe.
+I know this because I take my children to school and drop them off and
+pick them up. But in no way are the recent tragedies justification for
+an infringement upon the rights of law-abiding Americans.
+I won't support legislation that infringes upon those rights being
+stripped without due process. This is an emotional issue, but it is our
+job to step back and have an adult conversation.
+{time}  1030
+Mr. JORDAN. Madam Speaker, I am prepared to close.
+Mr. NADLER. Madam Speaker, I am prepared to close, and I reserve the
+balance of my time.
+Mr. JORDAN. Madam Speaker, I yield 1\1/2\ minutes to the gentleman
+from California (Mr. Issa).
+Mr. ISSA. Madam Speaker, to say I yield myself such time as I may
+consume is too short to recap these 2 days of the assault on the Second
+Amendment.
+I will only say, in closing, that it might seem reasonable in this
+bill--these five or six or seven different bills cobbled together--it
+might seem reasonable that each of them makes sense.
+[[Page H5429]]
+I ask you, when we changed the Constitution to give an 18-year-old
+the right to vote, if we simply said today that we have changed our
+mind, we want to make it 21, don't worry about the Constitution.
+Wouldn't there be people saying that is ridiculous? Of course, they
+would.
+If we said the First Amendment gives you a right that should not be
+abridged, and suddenly we say, but we are going to have prior restraint
+because you might do or say something wrong, we would say that is
+ridiculous.
+Madam Speaker, today this affront on the Second Amendment is, in
+fact, ridiculous. Each piece may seem reasonable, but not in light of
+the significance of something enshrined in our Constitution, which is
+being systematically attacked by the other side.
+Today, we are defending the Second Amendment in a way we have not had
+to in a generation. We stand here not because there aren't some
+elements that seem reasonable in this legislation, but because at the
+end of the day, our friends on the other side of the aisle who are not
+willing to support laws that are on the books being enforced and are
+not willing to stand behind the law enforcement community that would
+like to enforce those, they are affronting and trying to undo the
+Second Amendment without a constitutional change.
+Mr. JORDAN. Madam Speaker, I yield back the balance of my time.
+Mr. NADLER. Madam Speaker, I yield myself the balance of my time.
+Madam Speaker, extreme risk laws save lives, it is that simple.
+Ultimately, that is what this debate should be about--saving lives.
+This legislation strikes a proper balance between protecting the due
+process rights of people in crisis and preventing tragedy by ensuring
+that those who pose an imminent danger to themselves or others do not
+have access to firearms.
+Madam Speaker, this debate has been surreal. Every court that has
+considered the question has concluded that red flag laws afford proper
+due process and are constitutional. We already know that extreme risk
+laws work, but less than half the States have those laws in effect.
+Madam Speaker, let us pass this legislation today, so we can bring
+access to this life-savings tool nationwide. We know it is not enough.
+We know we need all the provisions of the bill we passed yesterday, and
+we should bring back the assault weapons ban. But what we cannot do
+should not block us from doing what we can do. We can save thousands of
+lives annually, so let us begin.
+Madam Speaker, I urge all Members to support this bill, and I yield
+back the balance of my time.
+The SPEAKER pro tempore. The previous question is ordered on the
+bill, as amended.
+The question is on the engrossment and third reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+The SPEAKER pro tempore. The question is on passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Mr. JORDAN. Madam Speaker, on that I demand the yeas and nays.
+The SPEAKER pro tempore. Pursuant to section 3(s) of House Resolution
+8, the yeas and nays are ordered.
+The vote was taken by electronic device, and there were--yeas 224,
+nays 202, not voting 2, as follows:
+[Roll No. 255]
+YEAS--224
+Adams
+Aguilar
+Allred
+Auchincloss
+Axne
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Bourdeaux
+Bowman
+Boyle, Brendan F.
+Brown (MD)
+Brown (OH)
+Brownley
+Bush
+Bustos
+Butterfield
+Carbajal
+Cardenas
+Carson
+Carter (LA)
+Cartwright
+Case
+Casten
+Castor (FL)
+Castro (TX)
+Cherfilus-McCormick
+Chu
+Cicilline
+Clark (MA)
+Clarke (NY)
+Cleaver
+Clyburn
+Cohen
+Connolly
+Cooper
+Correa
+Costa
+Courtney
+Craig
+Crist
+Crow
+Cuellar
+Davids (KS)
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Escobar
+Eshoo
+Espaillat
+Evans
+Fitzpatrick
+Fletcher
+Foster
+Frankel, Lois
+Gallego
+Garamendi
+Garcia (IL)
+Garcia (TX)
+Gomez
+Gonzalez (OH)
+Gonzalez, Vicente
+Gottheimer
+Green, Al (TX)
+Grijalva
+Harder (CA)
+Hayes
+Higgins (NY)
+Himes
+Horsford
+Houlahan
+Hoyer
+Huffman
+Jackson Lee
+Jacobs (CA)
+Jacobs (NY)
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (TX)
+Jones
+Kahele
+Kaptur
+Keating
+Kelly (IL)
+Khanna
+Kildee
+Kilmer
+Kim (NJ)
+Kind
+Kinzinger
+Kirkpatrick
+Krishnamoorthi
+Kuster
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Leger Fernandez
+Levin (CA)
+Levin (MI)
+Lieu
+Lofgren
+Lowenthal
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Manning
+Matsui
+McBath
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Mfume
+Moore (WI)
+Morelle
+Moulton
+Mrvan
+Murphy (FL)
+Nadler
+Napolitano
+Neal
+Neguse
+Newman
+Norcross
+O'Halleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Ross
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Sanchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrader
+Schrier
+Scott (VA)
+Scott, David
+Sewell
+Sherman
+Sherrill
+Sires
+Slotkin
+Smith (WA)
+Soto
+Spanberger
+Speier
+Stansbury
+Stanton
+Stevens
+Strickland
+Suozzi
+Swalwell
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres (NY)
+Trahan
+Trone
+Underwood
+Upton
+Vargas
+Veasey
+Velazquez
+Wasserman Schultz
+Waters
+Watson Coleman
+Welch
+Wexton
+Wild
+Williams (GA)
+Wilson (FL)
+Yarmuth
+NAYS--202
+Aderholt
+Allen
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bentz
+Bergman
+Bice (OK)
+Biggs
+Bilirakis
+Bishop (NC)
+Boebert
+Bost
+Brady
+Brooks
+Buchanan
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Calvert
+Cammack
+Carey
+Carl
+Carter (GA)
+Carter (TX)
+Cawthorn
+Chabot
+Cheney
+Cline
+Cloud
+Clyde
+Cole
+Comer
+Crawford
+Crenshaw
+Curtis
+Davidson
+Davis, Rodney
+DesJarlais
+Diaz-Balart
+Donalds
+Duncan
+Dunn
+Ellzey
+Emmer
+Estes
+Fallon
+Feenstra
+Ferguson
+Fischbach
+Fleischmann
+Foxx
+Franklin, C. Scott
+Fulcher
+Gaetz
+Gallagher
+Garbarino
+Garcia (CA)
+Gibbs
+Gimenez
+Gohmert
+Golden
+Gonzales, Tony
+Good (VA)
+Gooden (TX)
+Gosar
+Granger
+Graves (LA)
+Graves (MO)
+Green (TN)
+Greene (GA)
+Griffith
+Grothman
+Guest
+Guthrie
+Harris
+Harshbarger
+Hartzler
+Hern
+Herrell
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill
+Hinson
+Hudson
+Huizenga
+Issa
+Jackson
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Katko
+Keller
+Kelly (MS)
+Kelly (PA)
+Kim (CA)
+Kustoff
+LaHood
+LaMalfa
+Lamborn
+Latta
+LaTurner
+Lesko
+Letlow
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Mace
+Malliotakis
+Mann
+Massie
+Mast
+McCarthy
+McCaul
+McClain
+McClintock
+McHenry
+McKinley
+Meijer
+Meuser
+Miller (IL)
+Miller (WV)
+Miller-Meeks
+Moolenaar
+Mooney
+Moore (AL)
+Moore (UT)
+Mullin
+Murphy (NC)
+Nehls
+Newhouse
+Norman
+Obernolte
+Owens
+Palazzo
+Palmer
+Pence
+Perry
+Pfluger
+Posey
+Reschenthaler
+Rice (SC)
+Rodgers (WA)
+Rogers (AL)
+Rogers (KY)
+Rose
+Rosendale
+Rouzer
+Roy
+Rutherford
+Salazar
+Scalise
+Schweikert
+Scott, Austin
+Sessions
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smucker
+Spartz
+Stauber
+Steel
+Stefanik
+Steil
+Steube
+Stewart
+Taylor
+Tenney
+Thompson (PA)
+Tiffany
+Timmons
+Turner
+Valadao
+Van Drew
+Van Duyne
+Wagner
+Walberg
+Walorski
+Waltz
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams (TX)
+Wilson (SC)
+Wittman
+Womack
+Zeldin
+NOT VOTING--2
+Fitzgerald
+Hollingsworth
+{time}  1111
+Messrs. MURPHY of North Carolina and BAIRD changed their vote from
+``yea'' to ``nay.''
+Mr. CICILLINE changed his vote from ``nay'' to ``yea.''
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+members recorded pursuant to house resolution 8, 117th congress
+Barragan (Beyer)
+Bass (Blunt Rochester)
+Brooks (Fleischmann)
+Brown (OH) (Beatty)
+Cardenas (Correa)
+Cooper (Correa)
+Crist (Wasserman Schultz)
+Evans (Beyer)
+Frankel, Lois (Wasserman Schultz)
+Garamendi (Beyer)
+Gimenez (Waltz)
+Gomez (Garcia (TX))
+[[Page H5430]]
+Grijalva (Garcia (IL))
+Guest (Fleischmann)
+Johnson (SD) (LaHood)
+Johnson (TX) (Jeffries)
+Khanna (Spanberger)
+Kirkpatrick (Pallone)
+Lamb (Blunt Rochester)
+Leger Fernandez (Neguse)
+Loudermilk (Fleischmann)
+McEachin (Beyer)
+Moore (WI) (Beyer)
+Moulton (Neguse)
+Payne (Pallone)
+Price (NC) (Manning)
+Ruiz (Correa)
+Rush (Jeffries)
+Ryan (Beyer)
+Sanchez (Garcia (TX))
+Sewell (Beatty)
+Sires (Pallone)
+Spartz (Banks)
+Strickland (Takano)
+Suozzi (Beyer)
+Swalwell (Correa)
+Taylor (Fallon)
+Torres (NY) (Blunt Rochester)
+Van Drew
+(Reschenthaler)
+Vargas (Takano)
+Walorski (Banks)
+Waters (Garcia (TX))
+Wilson (FL) (Neguse)
+____________________

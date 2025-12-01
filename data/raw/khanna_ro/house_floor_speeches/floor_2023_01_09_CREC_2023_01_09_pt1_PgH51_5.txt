@@ -1,0 +1,3190 @@
+[Congressional Record Volume 169, Number 7 (Monday, January 9, 2023)]
+[House]
+[Pages H51-H70]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+ADOPTING THE RULES OF THE HOUSE OF REPRESENTATIVES FOR THE 118TH
+CONGRESS
+Mr. SCALISE. Mr. Speaker, I offer a privileged resolution and ask for
+its immediate consideration.
+The Clerk read the resolution, as follows:
+H. Res. 5
+Resolved,
+SECTION 1. ADOPTION OF THE RULES OF THE ONE HUNDRED
+SEVENTEENTH CONGRESS.
+The Rules of the House of Representatives of the One
+Hundred Seventeenth Congress, including applicable provisions
+of law or concurrent resolution that constituted rules of the
+House at the end of the One Hundred Seventeenth Congress, are
+adopted as the Rules of the House of Representatives of the
+One Hundred Eighteenth Congress, with amendments to the
+standing rules as provided in section 2, and with other
+orders as provided in this resolution.
+SEC. 2. CHANGES TO THE STANDING RULES.
+(a) Initiatives to Reduce Spending and Improve
+Accountability.--
+(1) Cut-as-you-go.--In rule XXI, amend clause 10 to read as
+follows:
+``10.(a)(1) Except as provided in paragraphs (b) and (c),
+it shall not be in order to consider a bill or joint
+resolution, or an amendment thereto or a conference report
+thereon, if the provisions of such measure have the net
+effect of increasing mandatory spending for the period of
+either--
+``(A) the current year, the budget year, and the four
+fiscal years following that budget year; or
+``(B) the current year, the budget year, and the nine
+fiscal years following that budget year.
+``(2) For purposes of this clause, the terms `budget year'
+and `current year' have the meanings specified in section 250
+of the Balanced Budget and Emergency Deficit Control Act of
+1985, and the term `mandatory spending' has the meaning of
+`direct spending' specified in such section 250 except that
+such term shall also include provisions in appropriation Acts
+that make outyear modifications to substantive law as
+described in section 3(4)(C) of the Statutory Pay-As-You-Go
+Act of 2010.
+``(b) If a bill or joint resolution, or an amendment
+thereto, is considered pursuant to a special order of the
+House directing the Clerk to add as new matter at the end of
+such bill or joint resolution the entire text of a separate
+measure or measures as passed by the House, the new matter
+proposed to be added shall be included in the evaluation
+under paragraph (a) of the bill, joint resolution, or
+amendment.
+``(c)(1) Except as provided in subparagraph (2), the
+evaluation under paragraph (a) shall exclude a provision
+expressly designated as an emergency for the Statutory Pay-
+As-You-Go Act of 2010, in the case of a point of order under
+this clause against consideration of--
+``(A) a bill or joint resolution;
+``(B) an amendment made in order as original text by a
+special order of business;
+``(C) a conference report; or
+[[Page H52]]
+``(D) an amendment between the Houses.
+``(2) In the case of an amendment (other than one specified
+in subparagraph (1)) to a bill or joint resolution, the
+evaluation under paragraph (a) shall give no cognizance to
+any designation of emergency.''.
+(2) Requiring a vote on raising the debt limit.--Amend rule
+XXVIII to read as follows:
+``RULE XXVIII
+``(Reserved.)''.
+(3) Point of order against amendments to appropriations
+bills increasing budget authority.--In clause 2 of rule XXI,
+add at the end the following new paragraph:
+``(g) An amendment to a general appropriation bill shall
+not be in order if proposing a net increase in the level of
+budget authority in the bill.''.
+(4) Limitations on increases in direct spending in
+reconciliation initiatives.--In rule XXI, amend clause 7 to
+read as follows:
+``7. It shall not be in order to consider a concurrent
+resolution on the budget, or an amendment thereto, or a
+conference report thereon that contains reconciliation
+directives under section 310 of the Congressional Budget Act
+of 1974 that specify changes in law such that the
+reconciliation legislation reported pursuant to such
+directives would cause an increase in net direct spending (as
+such term is defined in clause 10) for the period covered by
+such concurrent resolution.''.
+(b) Increased Threshold for Tax Rate Increases.--
+(1) Vote required for passage.--In clause 5 of rule XXI--
+(A) redesignate paragraph (b) as paragraph (c); and
+(B) insert after paragraph (a) the following new paragraph:
+``Passage of tax rate increases
+``(b) A bill or joint resolution, amendment, or conference
+report carrying a Federal income tax rate increase may not be
+considered as passed or agreed to unless so determined by a
+vote of not less than three-fifths of the Members voting, a
+quorum being present. In this paragraph, the term `Federal
+income tax rate increase' means any amendment to subsection
+(a), (b), (c), (d), or (e) of section 1, or to section 11(b)
+or 55(b), of the Internal Revenue Code of 1986, that imposes
+a new percentage as a rate of tax and thereby increases the
+amount of tax imposed by any such section.''.
+(2) Conforming amendment.--In clause 10 of rule XX, strike
+``appropriations,'' and insert `` appropriations or
+increasing Federal income tax rates (within the meaning of
+clause 5 of rule XXI),''.
+(c) Two-minute Votes.--In clause 9 of rule XX--
+(1) in the heading, strike ``Five-minute'' and insert
+``Two-minute'';
+(2) in paragraph (a), strike ``five minutes'' and insert
+``not less than two minutes''; and
+(3) in paragraph (b), strike ``five-minute voting'' and
+insert ``reduced voting times''.
+(d) Modifications to Calendar Wednesday.--In clause 6(a) of
+rule XV, strike ``on the preceding legislative day'' and
+insert ``at least 72 hours in advance''.
+(e) Committee Authorization and Oversight Plans.--
+(1) Plans.--In rule X, amend clause 2(d) to read as
+follows:
+``(d)(1) Not later than March 1 of the first session of a
+Congress, each standing committee (other than the Committee
+on Appropriations, the Committee on Ethics, and the Committee
+on Rules) shall, in a meeting that is open to the public,
+adopt its authorization and oversight plan for that Congress.
+Such plan shall be submitted simultaneously to the Committee
+on Oversight and Accountability and the Committee on House
+Administration.
+``(2) Each such plan shall include, with respect to
+programs and agencies within the committee's jurisdiction,
+and to the maximum extent practicable--
+``(A) a list of such programs or agencies with lapsed
+authorizations that received funding in the prior fiscal year
+or, in the case of a program or agency with a permanent
+authorization, which has not been subject to a comprehensive
+review by the committee in the prior three Congresses;
+``(B) a description of each such program or agency to be
+authorized in the current Congress;
+``(C) a description of each such program or agency to be
+authorized in the next Congress, if applicable;
+``(D) a description of any oversight to support the
+authorization of each such program or agency in the current
+Congress; and
+``(E) recommendations for changes to existing law for
+moving such programs or agencies from mandatory funding to
+discretionary appropriations, where appropriate.
+``(3) Each such plan may include, with respect to the
+programs and agencies within the committee's jurisdiction--
+``(A) recommendations for the consolidation or termination
+of such programs or agencies that are duplicative,
+unnecessary, or inconsistent with the appropriate roles and
+responsibilities of the Federal Government;
+``(B) recommendations for changes to existing law related
+to Federal rules, regulations, statutes, and court decisions
+affecting such programs and agencies that are inconsistent
+with the authorities of the Congress under Article I of the
+Constitution; and
+``(C) a description of such other oversight activities as
+the committee may consider necessary.
+``(4) In the development of such plan, the chair of each
+committee shall coordinate with other committees of
+jurisdiction to ensure that programs and agencies are subject
+to routine, comprehensive authorization efforts.
+``(5) Not later than April 15 in the first session of a
+Congress, after consultation with the Speaker, the Majority
+Leader, and the Minority Leader, the Committee on Oversight
+and Accountability shall report to the House the
+authorization and oversight plans submitted by committees
+under subparagraph (1) together with any recommendations that
+it, or the House leadership group described above, may make
+to ensure the most effective coordination of authorization
+and oversight plans and otherwise to achieve the objectives
+of this clause.''.
+(2) Conforming amendments.--In clause 1(d)(2) of rule XI--
+(A) in subdivision (B), strike ``oversight plans'' and
+insert ``authorization and oversight plans''; and
+(B) in subdivision (C), strike ``oversight plans'' and
+insert ``authorization and oversight plans''.
+(f) Cost Estimates for Major Legislation to Include
+Macroeconomic Effects.--In rule XIII, add at the end the
+following new clause:
+``Estimates of major legislation
+``8.(a) An estimate provided by the Congressional Budget
+Office under section 402 of the Congressional Budget Act of
+1974 for any major legislation shall, to the extent
+practicable, incorporate the budgetary effects of changes in
+economic output, employment, capital stock, and other
+macroeconomic variables resulting from such legislation.
+``(b) An estimate provided by the Joint Committee on
+Taxation to the Director of the Congressional Budget Office
+under section 201(f) of the Congressional Budget Act of 1974
+for any major legislation shall, to the extent practicable,
+incorporate the budgetary effects of changes in economic
+output, employment, capital stock, and other macroeconomic
+variables resulting from such legislation.
+``(c) An estimate referred to in this clause shall, to the
+extent practicable, include--
+``(1) a qualitative assessment of the budgetary effects
+(including macroeconomic variables described in paragraphs
+(a) and (b)) of such legislation in the 20-fiscal year period
+beginning after the last fiscal year of the most recently
+agreed to concurrent resolution on the budget that set forth
+appropriate levels required by section 301 of the
+Congressional Budget Act of 1974; and
+``(2) an identification of the critical assumptions and the
+source of data underlying that estimate.
+``(d) As used in this clause--
+``(1) the term `major legislation' means any bill or joint
+resolution--
+``(A) for which an estimate is required to be prepared
+pursuant to section 402 of the Congressional Budget Act of
+1974 and that causes a gross budgetary effect (before
+incorporating macroeconomic effects) in any fiscal year over
+the years of the most recently agreed to concurrent
+resolution on the budget equal to or greater than 0.25
+percent of the current projected gross domestic product of
+the United States for that fiscal year; or
+``(B) designated as such by the chair of the Committee on
+the Budget for all direct spending legislation other than
+revenue legislation or the Member who is chair or vice chair,
+as applicable, of the Joint Committee on Taxation for revenue
+legislation; and
+``(2) the term `budgetary effects' means changes in
+revenues, outlays, and deficits.''.
+(g) Ethics Reform.--In clause 3(r) of rule XI--
+(1) strike ``(r) Upon receipt'' and insert ``(r)(1) Upon
+receipt''; and
+(2) add at the end the following new subparagraph:
+``(2) In addition to receiving written notifications from
+the Office of Congressional Ethics under subparagraph (1),
+the committee shall adopt rules providing for a process to
+receive from the public outside information offered as a
+complaint. The process shall include the establishment of a
+method for the submission of such information to the
+committee in electronic form.''.
+(h) Empaneling Investigative Subcommittee of Committee on
+Ethics.--In clause 3(b) of rule XI, add at the end the
+following:
+``(9) Whenever a Member, Delegate, or the Resident
+Commissioner is indicted or otherwise formally charged with
+criminal conduct in a court of the United States or any
+State, the Committee on Ethics shall, not later than 30 days
+after the date of such indictment or charge--
+``(A) empanel an investigative subcommittee to review the
+allegations; or
+``(B) submit a report to the House describing its reasons
+for not empaneling such an investigative subcommittee,
+together with the actions, if any, the committee has taken in
+response to the allegations.''.
+(i) Treatment of Evidence in Committee and Subcommittee
+Investigations.--In clause 3(p) of rule XI--
+(1) in subparagraph (5)(C), strike the semicolon at the end
+and insert ``; or'';
+(2) in subparagraph (5)(D), strike ``or'' at the end;
+(3) strike subparagraph (5)(E);
+(4) in subparagraph (7), strike the semicolon at the end
+and insert ``; and'';
+(5) in subparagraph (8), strike ``; and'' and insert a
+period; and
+[[Page H53]]
+(6) strike subparagraph (9).
+(j) Designating Committee on Oversight and
+Accountability.--In the standing rules, strike ``Committee on
+Oversight and Reform'' each place it appears and insert (in
+each instance) ``Committee on Oversight and Accountability''.
+(k) Designating Committee on Education and the Workforce.--
+In rule X--
+(1) in clause 1(e), strike ``Committee on Education and
+Labor'' and insert ``Committee on Education and the
+Workforce''; and
+(2) in clause 3(d), strike ``Committee on Education and
+Labor'' and insert ``Committee on Education and the
+Workforce''.
+(l) Subcommittees of Committee on Agriculture.--In clause
+5(d)(2) of rule X--
+(1) redesignate subdivisions (B) through (F) as
+subdivisions (C) through (G), respectively; and
+(2) insert after subdivision (A) the following new
+subdivision:
+``(B) The Committee on Agriculture may have not more than
+six subcommittees.''.
+(m) Cybersecurity.--In clause 1(j)(3) of rule X, add at the
+end the following:
+``(G) Cybersecurity.''.
+(n) Scope of Authority to Act in Continuing Litigation
+Matters.--In clause 8(c) of rule II, strike ``, including,
+but not limited to, the issuance of subpoenas,''.
+(o) Record Votes on Measures Reported by the Committee on
+Rules.--In clause 3(b) of rule XIII, strike ``, and applies
+only to the maximum extent practicable to a report by the
+Committee on Rules on a rule, joint rule, or the order of
+business''.
+(p) Access to Hall of the House.--In clause 2(a)(14) of
+rule IV, strike ``and of the Territories and the Mayor of the
+District of Columbia''.
+(q) Resolution Declaring the Office of Speaker Vacant.--In
+clause 2(a) of rule IX, strike subparagraph (3).
+SEC. 3. SEPARATE ORDERS.
+(a) Holman Rule.--During the One Hundred Eighteenth
+Congress, any reference in clause 2 of rule XXI to a
+provision or amendment that retrenches expenditures by a
+reduction of amounts of money covered by the bill shall be
+construed as applying to any provision or amendment (offered
+after the bill has been read for amendment) that retrenches
+expenditures by--
+(1) reduction of amounts of money in the bill;
+(2) the reduction of the number and salary of the officers
+of the United States; or
+(3) the reduction of the compensation of any person paid
+out of the Treasury of the United States.
+(b) Restoring Legislative Branch Accountability.--The
+regulations adopted pursuant to House Resolution 1096, One
+Hundred Seventeenth Congress, shall have no force or effect
+during the One Hundred Eighteenth Congress.
+(c) Requirement With Respect to Single-subject Bills.--
+(1) In general.--During the One Hundred Eighteenth
+Congress, a bill or joint resolution may not be introduced
+unless the sponsor submits for printing in the Congressional
+Record a statement setting forth the single subject of the
+bill or joint resolution. Such statement shall be included
+with the statement required by clause 7(c) of rule XII, and
+shall appear in a portion of the Record designated for that
+purpose and be made publicly available in electronic form by
+the Clerk.
+(2) Effective date.--This subsection shall become effective
+on February 1, 2023.
+(3) Transition.--On any bill or joint resolution introduced
+prior to the effective date of this subsection, the statement
+required under paragraph (1) shall, to the extent
+practicable, be submitted by the sponsor prior to committee
+or House consideration.
+(d) Question of Consideration for Germaneness.--
+(1) In general.--During the One Hundred Eighteenth
+Congress, it shall not be in order to consider a rule or
+order that waives all points of order against an amendment
+submitted to the Committee on Rules otherwise in violation of
+clause 7 of rule XVI.
+(2) Disposition of point of order.--As disposition of a
+point of order under paragraph (1), the Chair shall put the
+question of consideration with respect to the rule or order,
+as applicable. The question of consideration shall be
+debatable for 10 minutes by the Member initiating the point
+of order and for 10 minutes by an opponent, but shall
+otherwise be decided without intervening motion.
+(e) Budget Matters.--
+(1) Interim enforcement of allocations, aggregates, and
+other appropriate levels pending adoption of concurrent
+resolution on the budget.--
+(A) In general.--During the first session of the One
+Hundred Eighteenth Congress--
+(i) the allocations, aggregates, and other appropriate
+levels submitted for printing in the Congressional Record by
+the chair of the Committee on the Budget shall be considered
+for all purposes in the House to be the allocations,
+aggregates, and other appropriate levels under titles III and
+IV of the Congressional Budget Act of 1974; and
+(ii) the provisions of Senate Concurrent Resolution 14, One
+Hundred Seventeenth Congress, shall have no force or effect.
+(B) Revisions by chair of committee on the budget in
+certain cases.--
+(i) The chair of the Committee on the Budget may revise the
+allocations of a committee or committees, aggregates, and
+other appropriate levels referred to in subparagraph (A) for
+any bill or joint resolution, or amendment thereto or
+conference report thereon, if such measure would not increase
+direct spending in either the period of--
+(I) fiscal years 2023 to 2028; and
+(II) fiscal years 2023 to 2033.
+(ii) The chair of the Committee on the Budget may revise
+the allocations of a committee or committees, aggregates, and
+other appropriate levels referred to in subparagraph (A) to
+take into account the most recent baseline published by the
+Congressional Budget Office.
+(C) Authority for interim enforcement prior to election of
+chair of committee on the budget.--Prior to the election of a
+chair of the Committee on the Budget, the Majority Leader or
+his designee may submit the matter referred to in
+subparagraph (A) or make such revisions referred to in
+subparagraph (B).
+(D) Exemption.--The chair of the Committee on the Budget
+or, prior to the election of the chair, the Majority Leader
+or his designee may adjust an estimate under clause 4 of rule
+XXIX to exempt the budgetary effects of measures to protect
+taxpayers with taxable incomes below $400,000 from an
+increase in audits above the most recent tax year from the
+Internal Revenue Service.
+(2) Long term spending point of order.--
+(A) Congressional budget office analysis of proposals.--The
+Director of the Congressional Budget Office shall, to the
+extent practicable, prepare an estimate of whether a bill or
+joint resolution reported by a committee (other than the
+Committee on Appropriations), or amendment thereto or
+conference report thereon, would cause, relative to current
+law, a net increase in direct spending in excess of
+$2,500,000,000 in any of the 4 consecutive 10-fiscal year
+periods beginning with the first fiscal year that is 10
+fiscal years after the current fiscal year.
+(B) Point of order.--It shall not be in order to consider
+any bill or joint resolution reported by a committee, or
+amendment thereto or conference report thereon, that would
+cause a net increase in direct spending in excess of
+$2,500,000,000 in any of the 4 consecutive 10-fiscal year
+periods described in subparagraph (A).
+(C) Determinations of budget levels.--For purposes of this
+subsection, the levels of net increases in direct spending
+shall be determined on the basis of estimates provided by the
+chair of the Committee on the Budget.
+(3) Analysis of inflationary impact for certain
+legislation.--During the One Hundred Eighteenth Congress, if
+an estimate provided by the Congressional Budget Office under
+section 402 of the Congressional Budget Act of 1974 shows
+changes in mandatory spending that cause a gross budgetary
+effect in any fiscal year over a 10-year period that is equal
+to or greater than .25 percent of the projected gross
+domestic product (measured by the Consumer Price Index for
+All Urban Consumers) for the current fiscal year, or upon the
+request of the chair of the Committee on the Budget, then
+such estimate shall include, to the extent practicable, a
+statement estimating the inflationary effects of the
+legislation, including whether the legislation is determined
+to have no significant impact on inflation, is determined to
+have a quantifiable inflationary impact on the consumer price
+index, or is determined likely to have a significant impact
+on inflation but the amount cannot be determined at the time
+the estimate is prepared.
+(4) Content of cbo analysis for certain legislation
+affecting the federal hospital insurance trust fund or the
+old-age, survivors, and disability insurance trust fund.--
+During the One Hundred Eighteenth Congress, if an estimate
+provided by the Congressional Budget Office under section 402
+of the Congressional Budget Act of 1974 shows that
+legislation impacting either the Federal Hospital Insurance
+Trust Fund or the Old-Age, Survivors, and Disability
+Insurance Trust Fund (OASDI) causes a gross budgetary effect
+in any fiscal year over a 10-year period that is equal to or
+greater than .25 percent of the projected gross domestic
+product (measured by the Consumer Price Index for All Urban
+Consumers) for the current fiscal year, or upon request of
+the chair of the Committee on the Budget, then such estimate
+shall, to the extent practicable, display--
+(A) the impact of legislation on the Federal Hospital
+Insurance Trust Fund's unfunded liabilities over a 25-year
+projection, solvency projections, and the net present value
+of those liabilities; and
+(B) the impact of legislation on the OASDI trust fund's
+unfunded liabilities over a 75-year projection, solvency
+projections, and the net present value of those liabilities.
+(f) Spending Reduction Amendments in Appropriations
+Bills.--
+(1) During the reading of a general appropriation bill for
+amendment in the Committee of the Whole House on the state of
+the Union, it shall be in order to consider en bloc
+amendments proposing only to transfer appropriations from an
+object or objects in the bill to a spending reduction
+account. When considered en bloc under this paragraph, such
+amendments may amend portions of the bill not yet read for
+amendment (following disposition of any points of order
+against such portions) and are not subject to a demand for
+division of the question in the House or in the Committee of
+the Whole.
+[[Page H54]]
+(2) Except as provided in paragraph (1), it shall not be in
+order to consider an amendment to a spending reduction
+account in the House or in the Committee of the Whole House
+on the state of the Union.
+(3) A point of order under clause 2(b) of rule XXI shall
+not apply to a spending reduction account.
+(4) A general appropriation bill may not be considered in
+the Committee of the Whole House on the state of the Union
+unless it includes a spending reduction account as the last
+section of the bill. An order to report a general
+appropriation bill to the House shall constitute authority
+for the chair of the Committee on Appropriations to add such
+a section to the bill or modify the figure contained therein.
+(5) For purposes of this subsection, the term ``spending
+reduction account'' means an account in a general
+appropriation bill that bears that caption and contains
+only--
+(A) a recitation of the amount by which an applicable
+allocation of new budget authority under section 302(b) of
+the Congressional Budget Act of 1974 exceeds the amount of
+new budget authority proposed by the bill; or
+(B) if no such allocation is in effect, ``$0''.
+(g) Scoring Conveyances of Federal Land.--
+(1) In general.--In the One Hundred Eighteenth Congress,
+for all purposes in the House, a provision in a bill or joint
+resolution, or in an amendment thereto or a conference report
+thereon, requiring or authorizing a conveyance of Federal
+land to a State, local government, or tribal entity shall not
+be considered as providing new budget authority, decreasing
+revenues, increasing mandatory spending, or increasing
+outlays.
+(2) Definitions.--In this subsection:
+(A) The term ``conveyance'' means any method, including
+sale, donation, or exchange, by which all or any portion of
+the right, title, and interest of the United States in and to
+Federal land is transferred to another entity.
+(B) The term ``Federal land'' means any land owned by the
+United States, including the surface estate, the subsurface
+estate, or any improvements thereon.
+(C) The term ``State'' means any of the several States, the
+District of Columbia, or a territory (including a possession)
+of the United States.
+(h) Member Day Hearing Requirement.--During the first
+session of the One Hundred Eighteenth Congress, each standing
+committee (other than the Committee on Ethics) shall hold a
+hearing at which it receives testimony from Members,
+Delegates, and the Resident Commissioner on proposed
+legislation within its jurisdiction, except that the
+Committee on Rules may hold such hearing during the second
+session of the One Hundred Eighteenth Congress.
+(i) Information to Committees of Congress on Request.--
+During the One Hundred Eighteenth Congress, the chair of the
+Committee on Oversight and Accountability must be included as
+one of the seven members of the committee making any request
+of an Executive agency pursuant to section 2954 of title 5,
+United States Code.
+(j) Remote Appearance of Witnesses.--
+(1) In general.--During the One Hundred Eighteenth
+Congress, at the discretion of the chair of a committee and
+in accordance with regulations submitted for printing in the
+Congressional Record by the chair of the Committee on Rules--
+(A) witnesses at committee or subcommittee proceedings may
+appear remotely;
+(B) counsel shall be permitted to accompany witnesses
+appearing remotely; and
+(C) an oath may be administered to a witness remotely for
+purposes of clause 2(m)(2) of rule XI.
+(2) Applicability.--This subsection shall apply only to
+witnesses appearing in a non-governmental capacity.
+(k) Deposition Authority.--
+(1) In general.--During the One Hundred Eighteenth
+Congress, the chair of a standing committee (other than the
+Committee on Rules), and the chair of the Permanent Select
+Committee on Intelligence, upon consultation with the ranking
+minority member of such committee, may order the taking of
+depositions, including pursuant to subpoena, by a member or
+counsel of such committee.
+(2) Regulations.--Depositions taken under the authority
+prescribed in this subsection shall be subject to regulations
+issued by the chair of the Committee on Rules and printed in
+the Congressional Record.
+(3) Persons permitted to attend depositions.--Deponents may
+be accompanied at a deposition by two designated personal,
+nongovernmental attorneys to advise them of their rights.
+Only members, committee staff designated by the chair or
+ranking minority member, an official reporter, the witness,
+and the witness's two designated attorneys are permitted to
+attend. Other persons, including government agency personnel,
+may not attend.
+(l) Broadening Availability and Utility of Legislative
+Documents in Machine-readable Formats.--The Committee on
+House Administration, the Clerk, and other officers and
+officials of the House shall continue efforts to broaden the
+availability and utility of legislative documents in machine
+readable formats in the One Hundred Eighteenth Congress in
+furtherance of the institutional priorities of--
+(1) improving public availability and use of legislative
+information produced by the House and its committees; and
+(2) enabling all House staff to produce comparative prints
+showing the differences between versions of legislation, how
+proposed legislation will amend existing law, and how an
+amendment may change proposed legislation.
+(m) Improving the Committee Electronic Document
+Repository.--The Clerk, the Committee on House
+Administration, and other officers and officials of the House
+shall continue efforts to improve the electronic document
+repository operated by the Clerk for use by committees of the
+House in the One Hundred Eighteenth Congress, in furtherance
+of the institutional priority of increasing public
+availability and identification of legislative information
+produced and held by House committees, including votes,
+amendments, and witness disclosure forms.
+(n) Providing for Transparency With Respect to Memorials
+Submitted Pursuant to Article V of the Constitution of the
+United States.--With respect to any memorial presented under
+clause 3 of rule XII purporting to be an application of the
+legislature of a State calling for a convention for proposing
+amendments to the Constitution of the United States pursuant
+to Article V, or a rescission of any such prior application--
+(1) the chair of the Committee on the Judiciary shall, in
+the case of such a memorial presented in the One Hundred
+Fourteenth Congress or succeeding Congresses, and may, in the
+case of such a memorial presented prior to the One Hundred
+Fourteenth Congress, designate any such memorial for public
+availability by the Clerk; and
+(2) the Clerk shall make such memorials as are designated
+pursuant to paragraph (1) publicly available in electronic
+form, organized by State of origin and year of receipt, and
+shall indicate whether the memorial was designated as an
+application or a rescission.
+(o) War Powers Resolution.--During the One Hundred
+Eighteenth Congress, a motion to discharge a measure
+introduced pursuant to section 6 or section 7 of the War
+Powers Resolution (50 U.S.C. 1545-46) shall not be subject to
+a motion to table.
+(p) Further Expenses for Resolving Contested Elections.--
+(1) Amounts for expenses of committee on house
+administration.--There shall be paid out of the applicable
+accounts of the House of Representatives such sums as may be
+necessary for further expenses of the Committee on House
+Administration for the One Hundred Eighteenth Congress for
+resolving contested elections.
+(2) Session limitation.--The amount specified in paragraph
+(1) shall be available for expenses incurred during the
+period beginning at noon on January 3, 2023, and ending
+immediately before noon on January 3, 2024.
+(3) Vouchers.--Payments under this subsection shall be made
+on vouchers authorized by the Committee on House
+Administration, signed by the chair of the Committee, and
+approved in the manner directed by the Committee.
+(4) Regulations.--Amounts made available under this
+subsection shall be expended in accordance with regulations
+prescribed by the Committee on House Administration.
+(q) Ethics Reform.--The Speaker is directed to establish a
+bipartisan task force to conduct a comprehensive review of
+House ethics rules and regulations, and such task force shall
+submit recommended improvements to the Speaker, the Majority
+Leader, the Minority Leader, and the respective chairs and
+ranking minority members of the committees on Ethics and
+Rules.
+(r) Exercise Facilities for Former Members.--During the One
+Hundred Eighteenth Congress:
+(1) The House of Representatives may not provide access to
+any exercise facility which is made available exclusively to
+Members and former Members, officers and former officers of
+the House of Representatives, and their spouses to any former
+Member, former officer, or spouse who is a lobbyist
+registered under the Lobbying Disclosure Act of 1995 or any
+successor statute or who is an agent of a foreign principal
+as defined in clause 5 of rule XXV. For purposes of this
+subsection, the term ``Member'' includes a Delegate or
+Resident Commissioner to the Congress.
+(2) The Committee on House Administration shall promulgate
+regulations to carry out this subsection.
+(s) Non-disclosure Agreements.--Any non-disclosure
+agreement imposed by any employing or contracting authority
+in the House of Representatives to which a paid or unpaid
+employee or contractor is or was required to agree as a term
+of employment shall--
+(1) provide clear guidance that the employee or contractor
+may communicate concerning any matter with the Committee on
+Ethics, the Office of Congressional Workplace Rights, or any
+other office or entity designated by the Committee on House
+Administration without prior, concurrent, or subsequent
+notice or approval; and
+(2) not be binding and shall have no legal effect to the
+extent to which it requires prior, concurrent, or subsequent
+notice or approval from anyone on any matter with respect to
+communications from an employee or contractor to any of the
+committees, offices, or entities described in paragraph (1).
+(t) Mandatory Anti-harassment and Anti-discrimination
+Policies for House Offices.--
+(1) Requiring offices to adopt policy.--Each employing
+office of the House of Representatives under the
+Congressional Accountability Act of 1995 shall adopt an anti-
+[[Page H55]]
+harassment and anti-discrimination policy for the office's
+workplace.
+(2) Regulations.--Not later than April 1, 2023, the
+Committee on House Administration shall promulgate
+regulations to carry out this subsection, and shall ensure
+that such regulations are consistent with the requirements of
+the Congressional Accountability Act of 1995, rule XXIII, and
+other relevant laws, rules, and regulations.
+(u) Displaying Statement of Rights and Protections Provided
+to House Employees.--The Committee on House Administration
+shall issue regulations to provide that each employing office
+of the House of Representatives shall post in a prominent
+location in the office (including, in the case of the office
+of a Member, Delegate, or the Resident Commissioner, a
+prominent location in each district office) a statement of
+the rights and protections provided to employees of the House
+of Representatives under the Congressional Accountability Act
+of 1995, including the procedures available to employees of
+the House under such Act for responding to and adjudicating
+allegations of violations of such rights and protections.
+(v) Requiring Members to Pay for Discrimination
+Settlements.--
+(1) In general.--In the case of a settlement of a complaint
+under the Congressional Accountability Act of 1995 in
+connection with a claim alleging a violation described in
+paragraph (2) which is committed personally by a Member,
+Delegate, or Resident Commissioner, if the Member, Delegate,
+or Resident Commissioner is not required under law to
+reimburse the Treasury for the amount of the settlement, the
+chair and ranking minority member of the Committee on House
+Administration may not approve the settlement pursuant to
+clause 4(d)(2) of rule X unless, under the terms and
+conditions of the settlement, the Member, Delegate, or
+Resident Commissioner is required to reimburse the Treasury
+for the amount of the settlement.
+(2) Violations described.--A violation described in this
+paragraph is--
+(A) a violation of section 201(a) or section 206(a) of the
+Congressional Accountability Act of 1995; or
+(B) a violation of section 208 of such Act which consists
+of intimidating, taking reprisal against, or otherwise
+discriminating against any covered employee under such Act
+because of a claim alleging a violation described in
+subparagraph (A).
+(w) Congressional Member Organization Transparency
+Reform.--
+(1) Payment of salaries and expenses through account of
+organization.--A Member of the House of Representatives and
+an eligible Congressional Member Organization may enter into
+an agreement under which--
+(A) an employee of the Member's office may carry out
+official and representational duties of the Member by
+assignment to the Organization; and
+(B) to the extent that the employee carries out such duties
+under the agreement, the Member shall transfer the portion of
+the Members' Representational Allowance (MRA) of the Member
+which would otherwise be used for the salary and related
+expenses of the employee to a dedicated account in the House
+of Representatives which is administered by the Organization,
+in accordance with the regulations promulgated by the
+Committee on House Administration under paragraph (2).
+(2) Regulations.--The Committee on House Administration
+(hereafter referred to in this subsection as the
+``Committee'') shall promulgate regulations as follows:
+(A) Use of mra.--Pursuant to the authority of section
+101(d) of the House of Representatives Administrative Reform
+Technical Corrections Act (2 U.S.C. 5341(d)), the Committee
+shall prescribe regulations to provide that an eligible
+Congressional Member Organization may use the amounts
+transferred to the Organization's dedicated account under
+paragraph (1)(B) for the same purposes for which a Member of
+the House of Representatives may use the Members'
+Representational Allowance, except that the Organization may
+not use such amounts for franked mail, official travel, or
+leases of space or vehicles.
+(B) Maintenance of limitations on number of shared
+employees.--Pursuant to the authority of section 104(d) of
+the House of Representatives Administrative Reform Technical
+Corrections Act (2 U.S.C. 5321(d)), the Committee shall
+prescribe regulations to provide that an employee of the
+office of a Member of the House of Representatives who is
+covered by an agreement entered into under paragraph (1)
+between the Member and an eligible Congressional Member
+Organization shall be considered a shared employee of the
+Member's office and the Organization for purposes of such
+section, and shall include in such regulations appropriate
+accounting standards to ensure that a Member of the House of
+Representatives who enters into an agreement with such an
+Organization under paragraph (1) does not employ more
+employees than the Member is authorized to employ under such
+section.
+(C) Participation in student loan repayment program.--
+Pursuant to the authority of section 105(b) of the
+Legislative Branch Appropriations Act, 2003 (2 U.S.C.
+4536(b)), relating to the student loan repayment program for
+employees of the House, the Committee shall promulgate
+regulations to provide that, in the case of an employee who
+is covered by an agreement entered into under paragraph (1)
+between a Member of the House of Representatives and an
+eligible Congressional Member Organization and who
+participates in such program while carrying out duties under
+the agreement--
+(i) any funds made available for making payments under the
+program with respect to the employee shall be transferred to
+the Organization's dedicated account under paragraph (1)(B);
+and
+(ii) the Organization shall use the funds to repay a
+student loan taken out by the employee, under the same terms
+and conditions which would apply under the program if the
+Organization were the employing office of the employee.
+(D) Access to house services.--The Committee shall
+prescribe regulations to ensure that an eligible
+Congressional Member Organization has appropriate access to
+services of the House.
+(E) Other regulations.--The Committee shall promulgate such
+other regulations as may be appropriate to carry out this
+subsection.
+(3) Eligible congressional member organization defined.--In
+this subsection, the term ``eligible Congressional Member
+Organization'' means, with respect to the One Hundred
+Eighteenth Congress, an organization meeting each of the
+following requirements:
+(A) The organization is registered as a Congressional
+Member Organization with the Committee on House
+Administration.
+(B) The organization designates a single Member of the
+House of Representatives to be responsible for the
+administration of the organization, including the
+administration of the account administered under paragraph
+(1)(B), and includes the identification of such Member with
+the statement of organization that the organization files and
+maintains with the Committee on House Administration.
+(C) At least 3 employees of the House are assigned to
+perform some work for the organization.
+(D) During the One Hundred Seventeenth Congress, at least
+30 Members of the House of Representatives used a portion of
+the Members' Representational Allowance of the Member for the
+salary and related expenses of an employee who was a shared
+employee of the Member's office and the organization.
+(E) The organization files a statement with the Committee
+on House Administration and the Chief Administrative Officer
+of the House of Representatives certifying that it will
+administer an account in accordance with paragraph (1)(B).
+(x) Determination With Respect to Placement of Measure on
+Consensus Calendar.--During the One Hundred Eighteenth
+Congress, not later than 2 legislative days after a measure
+is placed on the Consensus Calendar pursuant to clause 7(c)
+of rule XV, the Majority Leader shall, in the case such
+measure is not in compliance with any legislative protocols
+of the Majority Leader, submit to the Congressional Record a
+determination with respect to such noncompliance.
+(y) Transfer of Certain Committee Records to Committee on
+House Administration.--
+(1) Any committee designated by the Speaker pursuant to
+section 7(b)(1) of House Resolution 503, One Hundred
+Seventeenth Congress, is directed to transfer any records
+obtained pursuant to such designation to the Committee on
+House Administration, not later than January 17, 2023.
+(2) The Archivist is directed to transfer any noncurrent
+records of a committee designated by the Speaker pursuant to
+section 7(b)(1) of House Resolution 503, One Hundred
+Seventeenth Congress, and related to the select committee
+established pursuant to such resolution which have been
+archived pursuant to rule VII to the Committee on House
+Administration not later than January 17, 2023.
+(3) Any records transferred or withdrawn pursuant to this
+subsection shall become the records of the Committee on House
+Administration.
+(z) Procedures During District Work Periods.--
+(1) On any legislative day of the One Hundred Eighteenth
+Congress occurring during a ``district work period'' as
+designated by the Speaker--
+(A) the Journal of the proceedings of the previous day
+shall be considered as approved; and
+(B) the Chair may at any time declare the House adjourned
+to meet at a date and time, within the limits of clause 4,
+section 5, article I of the Constitution, to be announced by
+the Chair in declaring the adjournment.
+(2) The Speaker may appoint Members to perform the duties
+of the Chair for the duration of a district work period
+described in paragraph (1) as though under clause 8(a) of
+rule I.
+(3) Each day during a district work period described in
+paragraph (1) shall not constitute--
+(A) a calendar day for purposes of section 7 of the War
+Powers Resolution (50 U.S.C. 1546);
+(B) a legislative day for purposes of clause 7 of rule
+XIII;
+(C) a calendar or legislative day for purposes of clause
+7(c)(1) of rule XXII; or
+(D) a legislative day for purposes of clause 7 of rule XV.
+(aa) Reduction of Unauthorized Spending.--
+(1) In general.--During the first session of the One
+Hundred Eighteenth Congress, it
+[[Page H56]]
+shall not be in order to report an appropriation in a general
+appropriation bill, for an expenditure not previously
+authorized by law, in excess of the most recent level at
+which an appropriation for such expenditure has been enacted
+into law.
+(2) Adoption of amendment to reduce appropriation.--If a
+point of order under paragraph (1) is sustained, an amendment
+shall be considered to have been adopted in the House and in
+the Committee of the Whole reducing the amount of such
+appropriation to the most recent level at which such
+appropriation has been enacted in law.
+(3) Requirement to entertain point of order.--The Chair
+shall not entertain a point of order under paragraph (1)
+unless any levels described in paragraph (2) have been
+submitted to the Chair.
+(bb) Numbering of Bills.--In the One Hundred Eighteenth
+Congress, the first 10 numbers for bills (H.R. 1 through H.R.
+10) shall be reserved for assignment by the Speaker and the
+second 10 numbers for bills (H.R. 11 through H.R. 20) shall
+be reserved for assignment by the Minority Leader.
+SEC. 4. COMMITTEES, COMMISSIONS, AND HOUSE OFFICES.
+(a) Select Subcommittee on the Coronavirus Pandemic.--
+(1) Establishment; composition.--
+(A) Establishment.--There is hereby established for the One
+Hundred Eighteenth Congress a select investigative
+subcommittee of the Committee on Oversight and Accountability
+called the Select Subcommittee on the Coronavirus Pandemic
+(hereinafter referred to as the ``select subcommittee'').
+(B) Composition.--
+(i) The select subcommittee shall be composed of not more
+than 12 Members, Delegates, or the Resident Commissioner
+appointed by the Speaker, of whom not more than 5 shall be
+appointed in consultation with the Minority Leader. The
+Speaker shall designate one member of the select subcommittee
+as its chair. Any vacancy in the select subcommittee shall be
+filled in the same manner as the original appointment.
+(ii) The chair and ranking minority member of the Committee
+on Oversight and Accountability shall be ex officio members
+of the select subcommittee but shall have no vote in the
+select subcommittee and may not be counted for purposes of
+determining a quorum.
+(iii) Each member appointed to the select subcommittee
+shall be treated as though a member of the Committee on
+Oversight and Accountability for purposes of the select
+subcommittee.
+(2) Investigative functions and authority.--
+(A) Investigative functions.--The select subcommittee is
+authorized and directed to conduct a full and complete
+investigation and study and, not later than January 2, 2025,
+issue a final report to the House of its findings (and such
+interim reports as it may deem necessary) regarding--
+(i) the origins of the Coronavirus pandemic, including but
+not limited to the Federal Government's funding of gain-of-
+function research;
+(ii) the efficiency, effectiveness, and transparency of the
+use of taxpayer funds and relief programs to address the
+coronavirus pandemic, including any reports of waste, fraud,
+or abuse;
+(iii) the implementation or effectiveness of any Federal
+law or regulation applied, enacted, or under consideration to
+address the coronavirus pandemic and prepare for future
+pandemics;
+(iv) the development of vaccines and treatments, and the
+development and implementation of vaccination policies for
+Federal employees and members of the armed forces;
+(v) the economic impact of the coronavirus pandemic and
+associated government response on individuals, communities,
+small businesses, health care providers, States, and local
+government entities;
+(vi) the societal impact of decisions to close schools, how
+the decisions were made and whether there is evidence of
+widespread learning loss or other negative effects as a
+result of these decisions;
+(vii) executive branch policies, deliberations, decisions,
+activities, and internal and external communications related
+to the coronavirus pandemic;
+(viii) the protection of whistleblowers who provide
+information about waste, fraud, abuse, or other improper
+activities related to the coronavirus pandemic; and
+(ix) cooperation by the executive branch and others with
+Congress, the Inspectors General, the Government
+Accountability Office, and others in connection with
+oversight of the preparedness for and response to the
+coronavirus pandemic.
+(B) Authority.--
+(i) The select subcommittee may report to the House or any
+committee of the House from time to time the results of its
+investigations and studies, together with such detailed
+findings and legislative recommendations as it may deem
+advisable.
+(ii) The select subcommittee may not hold a markup of
+legislation.
+(3) Procedure.--
+(A) Rule XI and the rules of the Committee on Oversight and
+Accountability shall apply to the select subcommittee in the
+same manner as a subcommittee except as follows:
+(i) The chair of the select subcommittee may, after
+consultation with the ranking minority member, recognize--
+(I) members of the select subcommittee to question a
+witness for periods longer than five minutes as though
+pursuant to clause 2(j)(2)(B) of such rule XI; and
+(II) staff of the select subcommittee to question a witness
+as though pursuant to clause 2(j)(2)(C) of such rule XI.
+(ii) The select subcommittee may not authorize and issue
+subpoenas, but the Committee on Oversight and Accountability
+(or the chair of the Committee on Oversight and
+Accountability, if acting in accordance with clause
+2(m)(3)(A)(i) of rule XI) may authorize and issue subpoenas
+to be returned at the select subcommittee.
+(B) The provisions of this resolution shall govern the
+proceedings of the select subcommittee in the event of any
+conflict with the rules of the House or of the Committee on
+Oversight and Accountability.
+(4) Service.--Service on the select subcommittee shall not
+count against the limitations in clause 5(b)(2)(A) of rule X.
+(5) Successor.--The Committee on Oversight and
+Accountability is the ``successor in interest'' to the select
+subcommittee for purposes of clause 8(c) of rule II.
+(6) Sunset.--The select subcommittee shall cease to exist
+30 days after filing the final report required under
+paragraph (2).
+(b) House Democracy Partnership.--House Resolution 24, One
+Hundred Tenth Congress, shall apply in the One Hundred
+Eighteenth Congress in the same manner as such resolution
+applied in the One Hundred Tenth Congress, except that the
+commission concerned shall be known as the House Democracy
+Partnership.
+(c) Tom Lantos Human Rights Commission.--Sections 1 through
+7 of House Resolution 1451, One Hundred Tenth Congress, shall
+apply in the One Hundred Eighteenth Congress in the same
+manner as such provisions applied in the One Hundred Tenth
+Congress, except that--
+(1) the Tom Lantos Human Rights Commission may, in addition
+to collaborating closely with other professional staff
+members of the Committee on Foreign Affairs, collaborate
+closely with professional staff members of other relevant
+committees;
+(2) the resources of the Committee on Foreign Affairs which
+the Commission may use shall include all resources which the
+Committee is authorized to obtain from other offices of the
+House of Representatives; and
+(3) any amounts authorized to provide full-time
+professional staff and resources to the Tom Lantos Human
+Rights Commission shall be in addition to and separate from
+the amounts authorized for salaries and expenses of the
+Committee on Foreign Affairs as provided by resolution of the
+House, shall be administered by the Committee on Foreign
+Affairs, and shall be distributed equally between the co-
+chairs of the Commission.
+(d) Office of Congressional Ethics.--Section 1 of House
+Resolution 895, One Hundred Tenth Congress, shall apply in
+the One Hundred Eighteenth Congress in the same manner as
+such provision applied in the One Hundred Tenth Congress,
+except that--
+(1) the Office of Congressional Ethics shall be treated as
+a standing committee of the House for purposes of section
+202(i) of the Legislative Reorganization Act of 1946 (2
+U.S.C. 4301(i));
+(2) references to the Committee on Standards of Official
+Conduct shall be construed as references to the Committee on
+Ethics;
+(3) any requirement for concurrence in section 1(b)(1)
+shall be construed as a requirement for consultation;
+(4) any individual who is the subject of a preliminary
+review or second-phase review by the board shall be informed
+of the right to be represented by counsel and invoking that
+right should not be held negatively against such individual;
+(5) the Office may not take any action that would deny any
+person any right or protection provided under the
+Constitution of the United States;
+(6) any member of the board currently serving a term in
+excess of the limitations of section 1(b)(6) of such
+resolution shall be considered as removed from the board; and
+(7) the provision regarding appointment and compensation of
+staff shall require an affirmative vote of at least 4 members
+of the board not later than 30 calendar days after the date
+of the adoption of this resolution.
+SEC. 5. ORDERS OF BUSINESS.
+(a) At any time after the adoption of this resolution the
+Speaker may, pursuant to clause 2(b) of rule XVIII, declare
+the House resolved into the Committee of the Whole House on
+the State of the Union for consideration of the bill (H.R.
+21) to provide for the development of a plan to increase oil
+and gas production under oil and gas leases of Federal lands
+under the jurisdiction of the Secretary of Agriculture, the
+Secretary of Energy, the Secretary of the Interior, and the
+Secretary of Defense in conjunction with a drawdown of
+petroleum reserves from the Strategic Petroleum Reserve. The
+first reading of the bill shall be dispensed with. All points
+of order against consideration of the bill are waived.
+General debate shall be confined to the bill and shall not
+exceed one hour equally divided and controlled by the
+Majority Leader and the Minority Leader or their respective
+designees. After general debate the bill shall be considered
+for amendment under the five-minute rule. The bill shall be
+considered as read. All points of order against provisions in
+the bill are waived. No amendment shall be in order except:
+(1) those amendments to the bill received for printing in the
+portion of the Congressional Record designated for that
+purpose in clause 8 of rule XVIII dated at least
+[[Page H57]]
+one day before the day of consideration of the amendment; and
+(2) up to 20 pro forma amendments for the purpose of debate,
+10 of which may be offered by the Majority Leader or a
+designee and 10 of which may be offered by the Minority
+Leader or a designee. Each amendment so received may be
+offered only by the Member who caused it to be printed or a
+designee and shall be considered as read if printed. At the
+conclusion of consideration of the bill for amendment the
+Committee shall rise and report the bill to the House with
+such amendments as may have been adopted. The previous
+question shall be considered as ordered on the bill and
+amendments thereto to final passage without intervening
+motion except one motion to recommit.
+(b) Upon adoption of this resolution it shall be in order
+to consider in the House any bill specified in subsection
+(c). All points of order against consideration of each such
+bill are waived. Each such bill shall be considered as read.
+All points of order against provisions in each such bill are
+waived. The previous question shall be considered as ordered
+on each such bill and on any amendment thereto to final
+passage without intervening motion except: (1) one hour of
+debate equally divided and controlled by the Majority Leader
+and the Minority Leader or their respective designees; and
+(2) one motion to recommit.
+(c) The bills referred to in subsection (b) are as follows:
+(1) The bill (H.R. 23) to rescind certain balances made
+available to the Internal Revenue Service.
+(2) The bill (H.R. 29) to authorize the Secretary of
+Homeland Security to suspend the entry of aliens, and for
+other purposes.
+(3) The bill (H.R. 22) to prohibit the Secretary of Energy
+from sending petroleum products from the Strategic Petroleum
+Reserve to China, and for other purposes.
+(4) The bill (H.R. 27) to amend the Omnibus Crime Control
+and Safe Streets Act to direct district attorney and
+prosecutors offices to report to the Attorney General, and
+for other purposes.
+(5) The bill (H.R. 28) to require the national instant
+criminal background check system to notify U.S. Immigration
+and Customs Enforcement and the relevant State and local law
+enforcement agencies whenever the information available to
+the system indicates that a person illegally or unlawfully in
+the United States may be attempting to receive a firearm.
+(6) The bill (H.R. 7) to prohibit taxpayer funded
+abortions.
+(7) The bill (H.R. 26) to amend title 18, United States
+Code, to prohibit a health care practitioner from failing to
+exercise the proper degree of care in the case of a child who
+survives an abortion or attempted abortion.
+(d) Upon adoption of this resolution it shall be in order
+without intervention of any point of order to consider in the
+House any resolution specified in subsection (e). Each such
+resolution shall be considered as read. The previous question
+shall be considered as ordered on each such resolution to
+adoption without intervening motion or demand for division of
+the question except one hour of debate equally divided and
+controlled by the Majority Leader and the Minority Leader or
+their respective designees.
+(e) The resolutions referred to in subsection (d) are as
+follows:
+(1) The resolution (H. Res. 11) establishing the Select
+Committee on the Strategic Competition Between the United
+States and the Chinese Communist Party.
+(2) The resolution (H. Res. 12) establishing a Select
+Subcommittee on the Weaponization of the Federal Government
+as a select investigative subcommittee of the Committee on
+the Judiciary.
+(f) Upon adoption of this resolution it shall be in order
+to consider in the House the concurrent resolution (H. Con.
+Res. 5) expressing support for the Nation's law enforcement
+agencies and condemning any efforts to defund or dismantle
+law enforcement agencies. All points of order against
+consideration of the concurrent resolution are waived. The
+concurrent resolution shall be considered as read. All points
+of order against provisions in the concurrent resolution are
+waived. The previous question shall be considered as ordered
+on the concurrent resolution and preamble to adoption without
+intervening motion or demand for division of the question
+except one hour of debate equally divided and controlled by
+the Majority Leader and the Minority Leader or their
+respective designees.
+(g) Upon adoption of this resolution it shall be in order
+to consider in the House the concurrent resolution (H. Con.
+Res. 3) expressing the sense of Congress condemning the
+recent attacks on prolife facilities, groups, and churches.
+All points of order against consideration of the concurrent
+resolution are waived. The concurrent resolution shall be
+considered as read. All points of order against provisions in
+the concurrent resolution are waived. The previous question
+shall be considered as ordered on the concurrent resolution
+and preamble to adoption without intervening motion or demand
+for division of the question except one hour of debate
+equally divided and controlled by the Majority Leader and the
+Minority Leader or their respective designees.
+(h) The Speaker may recognize a Member for the reading of
+the Constitution on any legislative day through February 28,
+2023.
+Mr. SCALISE. (During the reading). Mr. Speaker, I ask unanimous
+consent that the resolution be considered as read and printed in the
+Record.
+The SPEAKER pro tempore (Mr. Womack). Is there objection to the
+request of the gentleman from Louisiana?
+There was no objection.
+The SPEAKER pro tempore. The gentleman from Louisiana is recognized
+for 1 hour.
+Mr. SCALISE. Mr. Speaker, I yield the remainder of my time to the
+gentleman from Oklahoma (Mr. Cole), the chairman of the Committee on
+Rules, and ask unanimous consent that he be permitted to control the
+time.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Louisiana?
+There was no objection.
+Mr. COLE. Mr. Speaker, I thank my good friend, the distinguished
+majority leader, Mr. Scalise, for yielding.
+Mr. Speaker, for the purpose of debate only, I yield the customary 30
+minutes to the gentleman from Massachusetts (Mr. McGovern), my good
+friend, pending which I yield myself such time as I may consume. During
+consideration of this resolution, all time is yielded for the purpose
+of debate only.
+General Leave
+Mr. COLE. Mr. Speaker, I ask unanimous consent that all Members may
+have 5 legislative days in which to revise and extend their remarks.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Oklahoma?
+There was no objection.
+Mr. COLE. Mr. Speaker, I include in the Record the section-by-section
+analysis of the resolution.
+H. Res. 5
+Adopting the Rules for the 118th Congress
+Section-by-Section Analysis
+Section 1. Adoption of the Rules of the One Hundred
+Seventeenth Congress.
+This section provides that the Rules of the 117th Congress
+are the Rules of the 118th Congress, except for the
+amendments contained in section 2 of the resolution and
+orders contained in the resolution.
+Section 2. Changes to the Standing Rules.
+Initiatives to Reduce Spending and Improve Accountability.
+Subsection (a)(l) replaces current ``pay-as-you-go''
+requirements with ``cut-as-you-go'' requirements. The
+provision prohibits consideration of a bill, joint
+resolution, conference report, or amendment that has the net
+effect of increasing mandatory spending within a five-year or
+ten-year budget window. This provision continues the current
+practice of counting multiple measures considered pursuant to
+a special order of business which directs the Clerk to
+engross the measures together after passage for purposes of
+compliance with the rule and provides a mechanism for
+addressing ``emergency'' designations.
+Subsection (a)(2) strikes the ``Gephardt rule'' that
+provides for the automatic engrossment and transmittal to the
+Senate of a joint resolution changing the public debt limit,
+upon the adoption by the House of a concurrent resolution on
+the budget resolution, thereby avoiding a separate vote in
+the House on the public debt limit legislation.
+Subsection (a)(3) restores a point of order against net
+increase in budget authority for amendments to general
+appropriations bills.
+Subsection (a)(4) restores a point of order against budget
+reconciliation directives that increase net direct spending.
+Increased Threshold for Tax Rate Increases. Subsection (b)
+restores a requirement for a three-fifths supermajority vote
+on tax rate increases.
+Two Minute Votes. Subsection (c) provides that the Speaker
+can reduce vote times in the House to not less than two
+minutes on any question that follows another electronic vote.
+The subsection also states that to the maximum extent
+practicable, advance notice will be given when reduced voting
+times are expected in a voting series.
+Modifications to Calendar Wednesday. Subsection (d)
+modifies the notice requirement to use Calendar Wednesday to
+conform with the 72-hour notice requirement prior to
+consideration of legislation.
+Committee Authorization and Oversight Plans. Subsection (e)
+restores the requirement that each standing committee (except
+the Committees on Appropriations, Ethics, and Rules) vote to
+adopt an authorization and oversight plan, which must be
+submitted to the Committees on Oversight and Accountability
+and House Administration no later than March 1 of the first
+session of a Congress. The plan must include a list of
+unauthorized programs and agencies within the committee's
+jurisdiction that have received funding in the prior fiscal
+year, or in the case of a permanent authorization, have not
+received a comprehensive review by the committee in the prior
+three Congresses. The subsection requires committees to
+describe each program or agency that is intended to be
+authorized in the current Congress or next Congress, and a
+description of oversight to support reauthorization in the
+current Congress. The subsection also requires the
+[[Page H58]]
+plan include any recommendations for moving such programs or
+agencies from mandatory to discretionary funding. When
+developing these plans, committee chairs must coordinate with
+other committees of jurisdiction to ensure that programs and
+agencies are subject to routine authorization efforts.
+The subsection also provides that committee authorization
+and oversight plans may make recommendations to consolidate
+or terminate duplicative or unnecessary programs and
+agencies. Committees may make recommendations for changes to
+existing law to address Federal rules, regulations, statutes,
+and court decisions related to programs that are inconsistent
+with Congress' Article I authorities, as well as provide a
+description of other oversight activities that may be
+necessary.
+The subsection also requires the Committee on Oversight and
+Accountability to report to the House no later than April 15
+the authorization and oversight plans submitted by committees
+together with any recommendations it may make to ensure
+effective coordination of the plans.
+Cost Estimates for Major Legislation to Include
+Macroeconomic Effects. Subsection (f) restores the
+requirement that the Congressional Budget Office and Joint
+Committee on Taxation, to the extent practicable, incorporate
+the macroeconomic effects of major legislation into the
+official cost estimates used for enforcing the budget
+resolution and other rules of the House. The subsection
+requires, to the extent practicable, a qualitative assessment
+of the long-term budgetary and macroeconomic effects of major
+legislation, which is defined to cover legislation that
+causes a gross budgetary effect in any fiscal year covered by
+the budget resolution that is equal to or greater than 0.25
+percent of the projected GDP for that year. This subsection
+also allows the chair of the Committee on the Budget, or in
+the case of revenue legislation the House member serving
+as the Chair or Vice Chair of the Joint Committee on
+Taxation, to designate major legislation for purposes of
+this rule.
+Ethics Reform. Subsection (g) directs the Committee on
+Ethics to adopt rules which provide for a process to receive
+complaints directly from the public.
+Empaneling Investigative Subcommittee of the Committee on
+Ethics. Subsection (h) codifies House Resolution 451, 110th
+Congress, directing the Committee on Ethics to empanel an
+investigative subcommittee or issue a report within 30 days
+of the date a Member, Delegate, or the Resident Commissioner
+is indicted, or criminal charges are filed.
+Treatment of Evidence in Committee and Subcommittee
+Investigations. Subsection (i) eliminates a requirement that
+the Committee on Ethics adopt a rule allowing the use during
+an ethics investigation of evidence presented in a related
+criminal case where the respondent was convicted because this
+is already contained in the committee rules of the Committee
+on Ethics.
+Designating Committee on Oversight and Accountability.
+Subsection (j) redesignates the Committee on Oversight and
+Reform as the Committee on Oversight and Accountability.
+Designating Committee on Education and the Workforce.
+Subsection (k) redesignates the Committee on Education and
+Labor as the Committee on Education and the Workforce.
+Subcommittees of Committee on Agriculture. Subsection (1)
+permits the Committee on Agriculture to have six
+subcommittees, codifying a separate order in effect since the
+114th Congress.
+Cybersecurity. Subsection (m) modifies the jurisdiction of
+the Committee on Homeland Security to include functions of
+the Department of Homeland Security related to cybersecurity.
+Committees currently holding jurisdiction over cybersecurity
+functions of DHS will retain a shared jurisdictional interest
+in such functions.
+Scope of Authority to Act in Continuing Litigation Matters.
+Subsection (n) eliminates ``including, but not limited to,
+the issuance of subpoenas'' in the description of authority
+to act as successor-in-interest in continuing litigation
+matters, such language being superfluous.
+Record Votes on Measures Reported by the Committee on
+Rules. Subsection (o) requires reports from the Committee on
+Rules to include a depiction of recorded votes.
+Access to the Hall of the House. Subsection (p) strikes
+language providing Governors of Territories and the Mayor of
+the District of Columbia access to the Hall of the House.
+Resolution Declaring the Office of Speaker Vacant.
+Subsection (q) strikes language from rule IX to allow any
+member to offer a privileged resolution declaring the Office
+of Speaker vacant.
+Section 3. Separate Orders.
+Holman Rule. Subsection (a) reinstates the ``Holman Rule''
+which allows amendments to appropriations legislation that
+would reduce the salary of or fire specific federal
+employees, or cut a specific program.
+Restoring Legislative Branch Accountability. Subsection (b)
+states regulations adopted pursuant to House Resolution 1096,
+117th Congress will have no force or effect in the 118th
+Congress.
+Requirement with Respect to Single Subject Bill. Subsection
+(c) provides that, effective February 1, 2023, a bill or
+joint resolution may not be introduced unless the sponsor
+submits a statement setting forth the single subject of the
+bill or joint resolution. This statement must be included
+with the statement required by clause 7(c) of rule XII
+(Constitutional Authority Statements). A statement for any
+bill or joint resolution introduced prior to the effective
+date shall, to the extent practicable, be submitted by the
+sponsor prior to committee or House consideration.
+Question of Consideration for Germanenes. Subsection (d)
+establishes a question of consideration on a special rule
+that waives germaneness for an amendment. The question of
+consideration is debatable for 20 minutes and is not subject
+to any intervening motion.
+Budget Matter. Subsection (e)(l)(A) provides the authority
+for the chair of the Committee on the Budget to file
+allocations, aggregates, and other appropriate budgetary
+levels for the purpose of enforcing provisions of the
+Congressional Budget Act of 1974. Additionally, this
+subsection states that the provisions of S. Con. Res. 14,
+117th Congress shall have no force or effect.
+Subsection (e)(l)(B) provides adjustment authority to the
+chair of the Committee on the Budget for a bill, joint
+resolution, amendment thereto, or conference report thereon
+if the measure does not increase direct spending over five
+or ten years. It additionally provides adjustment
+authority to the chair of the Committee on the Budget to
+take into account the most recent baseline published by
+the Congressional Budget Office.
+Subsection (e)(1)(C) allows the Majority Leader or his
+designee, should the chair of the Committee on the Budget not
+yet be elected, to file statements permitted under
+subsections (f)(1)(A) and (f)(1)(B).
+Subsection (e)(1)(D) allows the chair of the Committee on
+the Budget (or the Majority Leader or his designee, should
+the chair not yet be elected) to adjust an estimate under
+clause 4 of rule XXIX to exempt the budgetary effects of
+measures to protect taxpayers with taxable incomes below
+$400,000 from an increase in audits above the most recent tax
+year from the Internal Revenue Service.
+Subsection (e)(2) establishes a point of order against
+consideration of a bill or joint resolution reported by a
+committee (other than the Committee on Appropriations) or an
+amendment thereto, or a conference report thereon, which has
+the net effect of increasing direct spending in excess of
+$2,500,000,000 for any of the four consecutive 10 fiscal year
+periods beginning with the first fiscal year that is 10
+fiscal years after the current fiscal year. The levels of net
+increases in direct spending shall be determined based on
+estimates provided by the chair of the Committee on the
+Budget.
+Subsection (e)(3) requires the Congressional Budget Office
+on any legislation that shows changes in mandatory spending
+which cause a gross budgetary effect in any fiscal year
+covered by the budget resolution that is equal to or greater
+than 0.25 percent of the projected GDP for the current fiscal
+year, to the extent practicable, to provide an estimate of
+the inflationary impacts of that legislation. This subsection
+also allows the chair of the Committee on the Budget to
+designate major legislation for purposes of this order.
+Subsection (e)(4) requires the Congressional Budget Office
+on any legislation impacting either the Medicare Part A trust
+fund or OASDI trust fund that causes a gross budgetary effect
+in any fiscal year covered by the budget resolution that is
+equal to or greater than 0.25 percent of the projected GDP
+for the current fiscal year, to the extent practicable, to
+display: (1) the impact of legislation on the Medicare Part A
+trust fund's unfunded liabilities over a 25-year projection,
+solvency projections, and the net present value of those
+liabilities; and (2) the impact on the OASDI trust fund's
+unfunded liabilities over a 75-year projection, solvency
+projections, and the net present value of those liabilities.
+This subsection also allows the chair of the Committee on the
+Budget to designate major legislation for purposes of this
+order.
+Spending Reduction Amendments in Appropriations Bills.
+Subsection (f) provides for spending reduction account
+transfer amendments and requires a spending reduction account
+section to be included in all general appropriations bills.
+Scoring Conveyances of Federal Land. Subsection (g)
+reinstates the separate order from the 115th Congress
+providing that any provision in a bill, joint resolution,
+amendment, or conference report requiring or authorizing a
+conveyance of federal land to a State, local government, or
+tribal entity, shall not be considered as providing new
+budget authority, decreasing revenues, increasing mandatory
+spending, or increasing outlays.
+Member Day Hearing Requirement. Subsection (h) modifies the
+Member Day hearing requirement to only occur at the full
+committee level. Each standing committee (other than the
+Committee on Ethics) must hold a Member Day Hearing during
+the first session of the 118th Congress to receive testimony
+from Members, Delegates, and the Resident Commissioner on
+proposed legislation within its jurisdiction. The subsection
+permits the Committee on Rules to hold its Member Day Hearing
+during the second session to receive testimony on proposed
+changes to the standing rules for the next Congress.
+Information to Committees of Congress on Request.
+Subsection (i) requires that the chair of the Committee on
+Oversight and Accountability be included as one of the seven
+members of the committee making any request of an Executive
+agency pursuant to section 2954 of title 5, United States
+Code.
+Remote Appearance of Witnesses. Subsection (j) provides
+limited authorization to a chair
+[[Page H59]]
+of a committee to allow witnesses to appear remotely at
+committee and subcommittee proceedings. This subsection
+applies only to witnesses appearing in a non-governmental
+capacity and in accordance with regulations issued by the
+chair of the Committee on Rules and printed in the
+Congressional Record.
+Deposition Authority. Subsection (k) provides the Permanent
+Select Committee on Intelligence and each standing committee
+of the 118th Congress (except for the Committee on Rules) the
+authority to order the taking of a deposition by a member or
+counsel of such committee and limits persons who can attend
+depositions to members, committee staff, an official
+reporter, the witness, and up to two, personal,
+nongovernmental attorneys. Depositions taken under this
+authority are subject to regulations issued by the chair of
+the Committee on Rules and printed in the Congressional
+Record.
+Broadening Availability and Utility of Legislative
+Documents in Machine-Readable Formats. Subsection (l)
+instructs the Committee on House Administration, the Clerk,
+an other officers and officials to advance
+government transparency by continuing efforts to publish
+documents of the House in machinereadable formats and
+broaden their utility by enabling all House staff to
+create comparative prints.
+Improving the Committee Electronic Document Repository.
+Subsection (m) directs the Clerk, the Committee on House
+Administration, and other officers and officials to continue
+to improve the existing electronic document repository
+operated by the Clerk for use by committees. Such
+improvements are intended to increase public availability and
+identification of legislative information produced by House
+committees, including votes, amendments, and witness
+disclosure forms.
+Providing for Transparency with Respect to Memorials
+Submitted Pursuant to Article V of the Constitution of the
+United States. Subsection (n) carries forward provisions that
+clarify the procedures of the House regarding the receipt of
+Article V memorials from the States by directing the Clerk to
+make each memorial, designated by the chair of the Committee
+on the Judiciary, electronically available, organized by
+State of origin and year of receipt, and indicate whether the
+memorial was designated as an application or rescission.
+In carrying out this subsection, it is expected that the
+chair of the Committee on the Judiciary will be solely
+charged with determining whether a memorial purports to be an
+application of the legislature of a state calling for a
+constitutional convention or rescission of prior
+applications. The Clerk's role will be entirely
+administrative. The chair of the Committee on the Judiciary
+will only designate memorials from state legislatures (and
+not petitions from individuals or other parties), as it is
+only state legislatures that are contemplated under Article V
+of the Constitution.
+In submitting each memorial to the Clerk, the chair of the
+Committee on the Judiciary will include a transmission letter
+that indicates it has been designated under this subsection.
+The Clerk will make publicly available the memorial and the
+transmission letter from the chair. Ancillary documentation
+from the state or other parties is not expected to be
+publicized.
+War Powers Resolution. Subsection (o) continues a separate
+order from the 117th Congress expressly providing that any
+motion to discharge a measure introduced pursuant to section
+6 or section 7 of the War Powers Resolution is not subject to
+a motion to table.
+Further Expenses for Resolving Contested Elections.
+Subsection (p) authorizes such sums as may be necessary for
+the Committee on House Administration to resolve contested
+elections. Funds shall be available for expenses incurred
+between January 3, 2023, and January 3, 2024. Amounts made
+available under this subsection shall be expended in
+accordance with regulations prescribed by the Committee on
+House Administration.
+Ethics Reform. Subsection (q) directs the Speaker to
+establish a bipartisan task force to conduct a comprehensive
+review of House ethics rules and regulations. The task force
+is directed to submit a report to the Speaker, Majority
+Leader, Minority Leader, and chair and ranking minority
+members of the Committees on Ethics and Rules.
+Exercise Facilities for Former Members. Subsection (r)
+continues the prohibition on access to any exercise facility
+that is made available exclusively to Members, Delegates, the
+Resident Commissioner, former Members, former Delegates,
+former Resident Commissioners, officers, and former officers
+of the House and their spouses to any former Member, former
+Delegate, former Resident Commissioner, former officer, or
+spouse who is a lobbyist registered under the Lobbying
+Disclosure Act of 1995 or any successor statute, or who is an
+agent of a foreign principal as defined in clause 5 of rule
+XXV.
+Non-Disclosure Agreements. Subsection (s) continues a
+separate order from the 117th Congress providing that non-
+disclosure agreements required by offices as a condition of
+employment for paid or unpaid staff or contractors cannot
+require notice or approval for employees to communicate with
+the Committee on Ethics, the Office of Congressional
+Workplace Rights, or any other office or entity designated by
+the Committee on House Administration; and that non-
+disclosure agreements must also provide clear guidance to
+that effect.
+Mandatory Anti-Harassment and Anti-Discrimination Policies
+for House Offices. Subsection (t) continues a separate order
+from the 117th Congress requiring the Committee on House
+Administration to issue regulations to carry out the
+subsection by April 1, 2023. Additionally, each House office
+is directed to adopt an anti-harassment and anti-
+discrimination policy.
+Displaying Statement of Rights and Protections Provided to
+House Employees. Subsection (u) continues from the 117th
+Congress a requirement that the Committee on House
+Administration issue regulations requiring each House office
+to prominently display a statement of the rights and
+protections provided to House employees under the
+Congressional Accountability Act of 1995, including
+procedures available to employees for responding to and
+adjudicating allegations of workplace rights violations.
+Requiring Members to Pay for Discrimination Settlements.
+Subsection (v) continues from the 117th Congress a
+requirement for a Member, Delegate, or the Resident
+Commissioner to reimburse the Treasury for any settlement of
+a complaint related to a claim alleging a violation by the
+Member, Delegate, or the Resident Commissioner of sections
+201(a), 206(a), or 208 of the Congressional Accountability
+Act of 1995, which cover discrimination based on race,
+color, religion, sex, national origin, age, disability, or
+an employee's service in the uniformed services, and
+retaliation for claims alleging such discrimination.
+Congressional Member Organization Transparency Reform.
+Subsection (w) modifies Congressional Member Organization
+Transparency reform to allow participating Members to enter
+into agreements with eligible Congressional Member
+Organizations for the purpose of payment of salaries and
+expenses. The subsection requires that for an organization to
+be eligible during the 118th Congress, the organization must
+register with the Committee on House Administration,
+designate a single Member to be responsible for the
+administration of the organization, have at least three
+employees assigned to perform work for the organization, and
+had at least 30 Members during the 117th Congress using a
+portion of their Members' Representational Allowance to pay
+for the salaries and expenses of the organization.
+Determination with Respect to Placement of Measure on
+Consensus Calendar. Subsection (x) directs the Majority
+Leader to submit a statement to the Congressional Record if a
+measure does not comply with his legislative protocols within
+two legislative days of a measure being placed on the
+Consensus Calendar.
+Transfer of Certain Committee Records to the Committee on
+House Administration. Subsection (y) directs those committees
+designated by section 7(b)(l) of House Resolution 503, 117th
+Congress, and the Archivist of the United States to transfer
+any records related to the committee established pursuant to
+House Resolution 503, 117th Congress, to the Committee on
+House Administration not later than January 17, 2023.
+Procedures During District Work Periods. Subsection (z)
+provides that during district work periods throughout the
+118th Congress, the Journal shall be approved; the Chair may
+declare the House adjourned to meet within Constitutional
+limits; the Speaker may appoint Members to perform the duties
+of the Chair; and each day during this period shall not
+constitute a day for purposes of section 7 of the War Powers
+Resolution, clause 7 of rule XIII (resolutions of inquiry),
+clause 7(c)(1) of rule XXII (motions to instruct conferees),
+and clause 7 of XV (Consensus Calendar).
+In carrying out this subsection, it is expected that the
+designation of a district work period will be satisfied by a
+letter submitted by the Speaker that is laid before the
+House.
+Reduction of Unauthorized Spending. Subsection (aa)
+establishes a new point of order against an unauthorized
+appropriation in a general appropriation bill in excess of
+the most recent enacted level. If such a point of order is
+sustained, an amendment shall be considered to have been
+adopted reducing the amount of the appropriation to the most
+recent enacted level. In order to entertain a point of order
+under this subsection, the level of the most recently enacted
+appropriation must be submitted to the Chair.
+Numbering of Bills. Subsection (bb) reserves the first 10
+numbers for bills (H.R. 1 through H.R. 10) for assignment by
+the Speaker and the second 10 numbers for bills (H.R. 11
+through H.R. 20) for assignment by the Minority Leader.
+Section 4. Committees, Commissions, and House Offices.
+Select Subcommittee on the Coronavirus Pandemic. Subsection
+(a) establishes the Select Subcommittee on the Corona virus
+Pandemic of the Committee on Oversight and Accountability to
+investigate, make findings, and provide legislative
+recommendations on the origins of the Coronavirus pandemic,
+including the Federal Government's funding of gain-of-
+function research, the use of taxpayer funds and relief
+programs to address the pandemic, the effectiveness of laws
+and regulations to address the Coronavirus pandemic and
+prepare for future pandemics, the development of vaccines and
+treatments and the implementation of vaccine mandates for
+federal employees and the military, the economic impact of
+the pandemic, including state and local government responses,
+the impact of school closures on American children, Executive
+Branch decisions and communications related to the pandemic,
+the
+[[Page H60]]
+protection of whistleblowers who provided information about
+improper activities, and inter-government cooperation
+regarding oversight of the preparedness for and response to
+the pandemic.
+The Speaker is directed to appoint up to 12 Members,
+Delegates, or the Resident Commissioner to serve on the
+Select Subcommittee and to designate one of its members to
+serve as the chair. Not more than five of the members may be
+appointed on the recommendation of the Minority Leader. The
+chair and ranking minority member of the Committee on
+Oversight and Accountability shall be ex officio members of
+the Select Subcommittee.
+Rule XI and the rules of the Committee on Oversight and
+Accountability shall apply to the Select Subcommittee, except
+that the chair, after consultation with the ranking minority
+member, may allow members to question witnesses for more than
+five minutes and may allow staff to question witnesses.
+The Select Subcommittee may not authorize and issue
+subpoenas, but the Committee on Oversight and Accountability
+may authorize and issue subpoenas to be returned at the
+Select Subcommittee.
+The Select Subcommittee may not markup legislation.
+The Select Subcommittee must issue a final report of its
+findings to the House by January 2, 2025 and will sunset 30
+days after filing of the report.
+House Democracy Partnership. Subsection (b) reauthorizes
+the House Democracy Partnership.
+Tom Lantos Human Rights Commission. Subsection (c)
+reauthorizes the Tom Lantos Human Rights Commission.
+Office of Congressional Ethics. Subsection (d) reauthorizes
+the Office of Congressional Ethics (OCE), reimposes the two-
+term limit (a maximum of eight years) for board members, and
+requires the board to, within 30 calendar days, appoint OCE
+staff and set their compensation.
+Section 5. Orders of Business
+Subsection (a) provides for the consideration of a bill to
+provide for the development of a plan to increase oil and gas
+production under oil and gas leases of Federal lands under
+the jurisdiction of the Secretary of Agriculture, the
+Secretary of Energy, the Secretary of the Interior, and the
+Secretary of Defense in conjunction with a drawdown of
+petroleum reserves from the Strategic Petroleum Reserve under
+a modified open rule. It provides one hour of debate equally
+divided and controlled by the Majority and Minority Leaders
+or their respective designees. After debate, the bill shall
+be considered for amendment under the five-minute rule. Only
+amendments that have been pre-printed in the Congressional
+Record may be offered for consideration. Twenty pro forma
+amendments may be offered for the purpose of debate, equally
+divided and controlled by the Majority Leader and the
+Minority Leader or their respective designees. At the
+conclusion of consideration of the bill for amendment, one
+motion to recommit is in order.
+Subsection (b) provides for the separate consideration of
+seven bills under a closed rule with one hour of debate
+equally divided and controlled by the Majority Leader and the
+Minority Leader or their respective designees and one motion
+to recommit.
+Subsection (c) provides the list of bills referred to in
+subsection (b), which include:
+A bill to rescind certain balances made available to the
+Internal Revenue Service.
+A bill to authorize the Secretary of Homeland Security to
+suspend the entry of aliens, and for other purposes.
+A bill to prohibit the Secretary of Energy from sending
+petroleum products from the Strategic Petroleum Reserve to
+China, and for other purposes.
+A bill to amend the Omnibus Crime Control and Safe Streets
+Act to direct district attorney and prosecutors offices to
+report to the Attorney General, and for other purposes.
+A bill to require the national instant criminal background
+check system to notify U.S. Immigration and Customs
+Enforcement and the relevant State and local law enforcement
+agencies whenever the information available to the system
+indicates that a person illegally or unlawfully in the United
+States may be attempting to receive a firearm.
+A bill to prohibit taxpayer funded abortions.
+A bill to amend title 18, United States Code, to prohibit a
+health care practitioner from failing to exercise the proper
+degree of care in the case of a child who survives an
+abortion or attempted abortion.
+Subsection (d) provides for the separate consideration of
+two resolutions under a closed rule with one hour of debate
+equally divided and controlled by the Majority Leader and the
+Minority Leader or their respective designees.
+Subsection (e) provides the list of resolutions referred to
+in subsection (d), which include:
+A resolution establishing the Select Committee on the
+Strategic Competition Between the United States and the
+Chinese Communist Party.
+A resolution establishing a Select Subcommittee on the
+Weaponization of the Federal Government as a select
+investigative subcommittee of the Committee on the Judiciary.
+Subsection (f) provides for the consideration of a
+concurrent resolution expressing support for the Nation's law
+enforcement agencies and condemning any efforts to defund or
+dismantle law enforcement agencies under a closed rule with
+one hour of debate equally divided and controlled by the
+Majority Leader and the Minority Leader or their respective
+designees.
+Subsection (g) provides for the consideration of a
+concurrent resolution expressing the sense of Congress
+condemning the recent attacks on prolife facilities, groups,
+and churches under a closed rule with one hour of debate
+equally divided and controlled by the Majority Leader and the
+Minority Leader or their respective designees.
+Subsection (h) allows the Speaker to recognize a member for
+the reading of the Constitution on any legislative day
+through February 28, 2023.
+Mr. COLE. Mr. Speaker, I yield 1 minute to the gentleman from
+Louisiana (Mr. Scalise), my good friend and the majority leader.
+Mr. SCALISE. Mr. Speaker, again, thank my friend from Oklahoma for
+yielding.
+Mr. Speaker, we are here to discuss the rules of the House, actually
+to debate the rules package. Why this is so important is because this
+lays out the ability for the House to conduct business, for the House
+to not only conduct business, but for the House to address the problems
+that the American people across this country face.
+Let's just be very clear up front. We saw a lot of debate about this
+last week. At the heart of all of the discussions last week was very
+clear, surely from our side, that Washington is broken. Not just is
+Washington broken, but the way that this House has been running for the
+last few years has not been designed to address the problems of the
+people across this country.
+In fact, we have seen many of the problems that families are facing
+across America created by the things that have come out of this
+Congress signed by President Biden. Why is inflation running away?
+Because spending is out of control, because bills appear by dark of
+night, bills that nobody has read that are thousands of pages long,
+where Members aren't even allowed to give input in committee or on the
+floor to address problems they know their constituents will face if
+these bills pass. Yet, the bills are passed because they are written in
+rooms behind closed doors by a small number of people, not concerned
+about the consequences that will affect so many millions of people
+across this Nation.
+Mr. Speaker, for a long time, we have been saying this needs to
+change. In fact, we ran on an agenda to change the way that Washington
+works, to fix this broken system, to get our country back on track, and
+we were awarded the majority by the people across this country. Today
+starts that process of fixing what is broken in Washington so that
+Washington can finally start working for the people of this country who
+are struggling.
+Let's start with one basic thing: reopening the people's House. For
+years, the American people were shut out of coming and seeing their
+government work. In fact, with proxy voting, which, by the way, ends in
+this rules package, Members of Congress have to show up and work again.
+Just look at the bill that passed a few weeks ago, the omnibus
+spending bill, $1.7 trillion, mostly borrowed from countries like
+China. You look at all the things that had absolutely nothing to do
+with the general operations of government that were thrown in that.
+Now, you can start looking at it today, but you surely couldn't look
+it the day of the vote because very few people had an opportunity to
+read it, over 4,000 pages dumped by dark of night, right before the
+vote. Yes, a majority of this Congress voted by proxy on that bill.
+They weren't even here showing up to vote.
+You know what? Americans all across the country have to show up to
+vote. They have to go to their worksite. They can't work remotely. In
+fact, Congress doesn't work virtually. It is just not set up that way.
+Yet, that is what we have seen the last 2 years; committees that don't
+even meet in person. There are some committees that haven't had an in-
+person hearing for 2 years.
+We end that practice in this rules package, where committees actually
+have to get to work again, not only meeting in person but in some cases
+going out into the field, going into the real world, places like the
+border between United States and Mexico, where, yes, despite the
+President's
+[[Page H61]]
+claim, there is a crisis at the border. We have been talking about it
+for a long time. We have been trying to bring legislation, but that
+legislation has been rejected by a top-down structure.
+This rules package changes that so we can finally start bringing
+bills to the floor to address things like the border crisis, to finally
+start addressing inflation and runaway spending. If a Member of
+Congress has an idea and they want to bring an amendment to the floor,
+for so long they were shut out of that ability. We had a bill that was
+over $4 trillion in spending and taxes that was brought through
+multiple committees in Congress, and not one amendment was allowed to
+be brought forward and passed. In fact, even the majority was told in
+the committees: Don't allow a single amendment to pass on a bill
+dealing with trillions of dollars in taxes and spending that is
+crushing families across America.
+Let's make Congress work for families again. Let's empower Members of
+Congress to be able to represent their constituents. We were all
+elected by, on average, about 750,000 people. For too long, each of the
+Members of Congress, Republican or Democrat, were denied the ability in
+so many different ways because the rules were structured to shut their
+ability down from representing their districts unless they were in a
+leadership position. That has to change, and under this rules package,
+that finally does change.
+Let's make this Congress work for the people who sent us here. We
+are, after all, the people's House. It is about time we start acting
+like it. Let's pass this rules package, get to work addressing the
+needs of the American people.
+Mr. Speaker, I urge passage of this important piece of legislation.
+Mr. McGOVERN. Mr. Speaker, I thank the gentleman from Oklahoma (Mr.
+Cole) for yielding me the customary 30 minutes, and I yield myself such
+time as I may consume.
+Mr. Speaker, first, let me congratulate our incredible new House
+Democratic leadership team: Hakeem Jeffries, Katherine Clark, and Pete
+Aguilar. It is a dawn of a new day here in Congress, as a new
+generation takes on the solemn responsibility of leadership.
+Leader Jeffries has been tireless in his work to put people over
+politics. His steady leadership as chair of our Democratic Caucus,
+uniting our Members, harnessing their talent and diversity, and
+fighting tirelessly to make life better for American people is a source
+of inspiration for me and so many others.
+It is also a privilege to be here with my good friend   Tom Cole,
+someone who I respect greatly and who I know greatly respects this
+institution. We sit on opposite ends of the dais, but I admire Mr.
+Cole's leadership and the example he sets. Even when we don't see eye
+to eye, I am proud of our work to build an atmosphere of respectful
+dialogue on the Rules Committee.
+{time}  1715
+We have done so not just among our Members but among our hardworking
+staff, and I thank our minority and majority staff, led by Don Sisson
+and Kelly Dixon, for all of their hard work.
+I look forward to working with Mr. Cole and his team this Congress to
+continue our collaboration on issues of shared concern.
+Mr. Speaker, as Leader Jeffries put it so succinctly this weekend,
+our Republican friends campaigned on the claim that they would fight
+against inflation and fight for the American people. Instead, all they
+have done is come to Washington and fight with each other.
+In fact, what has become crystal clear over the past few days is the
+extent to which the Republican Party has been hijacked by an extremist
+MAGA faction, a faction not interested in governing but in their own
+egos, a faction not interested in compromise but in their own power, a
+faction not interested in putting people over politics but instead
+interested in putting their own political ambition over the people we
+serve.
+Now here we are, nearly a week later, considering their deeply flawed
+rules package, the first legislation on the floor by this new majority,
+and they are using it to gut the Office of Congressional Ethics, attack
+women's access to abortion, make it easier for big oil companies to
+pollute, and interfere in ongoing criminal investigations into
+President Trump.
+They are making it easier for billionaires and big corporations to
+avoid paying their taxes. Is that part of their contract with America?
+Is that their big plan to help everyday people? Because most people who
+read this package would think it must be a joke.
+What I am concerned about is not just what is written down here. I am
+concerned by the backroom deals that Speaker McCarthy made with the
+Freedom Caucus in exchange for their votes. Like Republican
+Congresswoman Nancy Mace said just this weekend: ``We don't have any
+idea what promises were made.''
+This is unconscionable. We are only 1 week into this, and this is how
+they are running this place.
+There is a report out by Punchbowl News, and let me read it. It said:
+``There is also a secret 3-page addendum that McCarthy and his allies
+hashed out during several days of grueling negotiations with the House
+Freedom Caucus. This pact includes the most controversial concessions
+McCarthy made in order to become Speaker--three seats on the Rules
+Committee for conservatives, freezing spending at FY 2022 levels, a
+debt ceiling strategy, coveted committee assignments, and more.'' Is
+that what the Majority Leader meant when he talked about a new day and
+transparency?
+These rules are not a serious attempt at governing. They are
+essentially a ransom note to America from the extreme right. The same
+Members of Congress who held this body hostage last week are the ones
+who ran interference for the January 6 insurrectionists, who tried to
+overturn a free and fair election.
+Even the new Speaker of the House voted to overturn the 2020
+elections. We couldn't even get a public acknowledgment from him on the
+2-year anniversary of that horrific day, not even a tweet.
+It is clear that Republicans welcomed the election deniers into their
+ranks with open arms, and now they are reaping what they have sown. The
+insurrectionists are in charge.
+I am reminded of the words of President Kennedy: ``In the past, those
+who foolishly sought power by riding the back of the tiger ended up
+inside.''
+The American people get it. They rejected extremism in the last two
+elections. That is why they picked Joe Biden, and that is why the red
+wave turned into a pink splash.
+My Republican friends still aren't listening, and in fact, they are
+still empowering the extremists. Don't take my word for it. Let's go
+through their rules package.
+They are giving a single Member the ability to remove the Speaker at
+any time, letting a small, far-right faction hold their leadership
+hostage.
+They are trying to shut down criminal investigations into the former
+President's wrongdoing.
+They are making it easier to slash taxes on billionaire corporations
+while dismantling the social safety net.
+They are giving committee chairs unbalanced discretion over which
+witnesses can testify; rejecting pandemic safety procedures like remote
+voting; trying to force an end to congressional staff unionization; and
+the icing on the cake, a new subcommittee to push QAnon conspiracies
+and launch fake investigations into nonexistent scandals. What is next,
+a rule requiring we all wear tinfoil hats?
+This package is disrespectful, not just to this institution, but to
+the people who sent us here to govern.
+Mr. Speaker, I urge a ``no'' vote, and I reserve the balance of my
+time.
+Mr. COLE. Mr. Speaker, I yield myself such time as I may consume.
+I begin by thanking my good friend from Massachusetts for his
+leadership of the Rules Committee over the last 4 years. While we
+certainly haven't always agreed, we have tried to always be agreeable
+while working with one another. I certainly associate myself with his
+remarks about the terrific work of the staff on both sides of the aisle
+for helping us facilitate the operation of the House over that 4-year
+period. I look forward again to working with my friend in the years
+ahead.
+Mr. Speaker, I rise today to offer the rules resolution that will
+govern the House during the 118th Congress.
+[[Page H62]]
+Determining the rules we will follow is one of the first and most
+consequential decisions we must make as a body at the beginning of each
+Congress. In many ways, the Rules of the House of Representatives serve
+to demonstrate where our priorities and values lie as an institution.
+Make no mistake, the priorities of the new Republican majority are
+fully on display in this resolution.
+First and foremost, Mr. Speaker, we are taking action to reopen the
+people's House and ensure that we, the people's elected servants, are
+here in Washington, D.C., doing our jobs.
+For far too long, the House allowed Members to do their jobs from
+home without ever setting foot in Washington. What started out as a
+pandemic accommodation lasted far longer than necessary, but today,
+even President Biden admits that the pandemic is over.
+It is time for the House of Representatives to return to our normal
+operating procedures, and it is time for the Members of Congress to
+actually show up to work. Today's rules package eliminates proxy voting
+and puts an end to remote committee proceedings.
+We restore the requirement for committees to establish plans for how
+they will conduct much-needed oversight. Republicans have robust plans
+to ensure that we will hold the Biden administration accountable for
+its actions, but being a counterbalance to the administration will not
+stop there. With today's rules package, we will also establish a new
+select subcommittee, modeled on the Church Committee, to investigate
+the radical left's weaponization of the Federal Government in recent
+years.
+We will also modify the jurisdiction of the Select Subcommittee on
+the Coronavirus Pandemic to ensure we investigate the origins of the
+virus and finally look into the financial and societal impacts of
+shutdowns.
+We will establish a Select Committee on Strategic Competition Between
+the United States and the Chinese Communist Party to respond to threats
+posed by the CCP, ensure economic competitiveness for America, and
+protect human rights.
+Other important changes in this resolution are those that are
+designed to address our out-of-control spending problem, which the
+former majority made vastly worse last Congress. In fact, when
+Democrats were in control of this Chamber, they spent so much money
+through partisan bills that they managed to drive this country into an
+inflationary crisis. Those aren't my words; those are the words of
+former Clinton Treasury Secretary Larry Summers.
+The American people elected Republicans to get our fiscal house in
+order, and get our fiscal house in order we will. That starts with
+making key changes to House rules to ensure we will instill some fiscal
+sanity in Congress. These changes reflect a return to budgetary rules
+that were in place for over a decade before Democrats removed them.
+We will restore the CutGo rule, which requires us to offset any
+increase in mandatory spending with a corresponding cut in mandatory
+spending. No more will the House be able to use budget gimmicks and
+tricks to pretend increases in mandatory spending are paid for when
+they actually are not.
+We will restore a requirement for a three-fifths majority to approve
+any tax rate increase. If this rule had been in place, the House would
+not have passed the massive tax increases the Democrats included in
+last year's reconciliation bill.
+We will eliminate the so-called Gephardt rule, which allows the House
+to automatically suspend the debt ceiling upon passage of a budget
+resolution. Just as the American people have to live within their
+means, so, too, should the Federal Government.
+Automatically suspending the debt limit may be the easy and expedient
+way, but on a matter as important as the national debt limit, what is
+easy and expedient is hardly appropriate. The American people expect us
+to make a decision on the national debt limit only after full and fair
+consideration and debate in the House. That starts with ensuring it
+will receive a separate, standalone vote on the floor.
+Finally, we will remove the rule that allowed Democrats to simply
+ignore budget estimates for bills dealing with the COVID pandemic or
+climate change. Although it may sound controversial to my friends on
+the other side of the aisle, Republicans cannot and will not thrust our
+heads in the sand and ignore the effects of out-of-control Federal
+spending.
+Mr. Speaker, I could go on and on, but on the whole, I am very proud
+of today's rule package. It reflects Republican priorities and the
+priorities of the voters who elected us. It reopens this institution
+and ensures that all Members will be in Washington to do their work, as
+our constituents expect. It ensures that we will hold the Biden
+administration and the Chinese Communist Party accountable. It ensures
+that we will get our fiscal house in order.
+Mr. Speaker, I urge all Members to support the rules package, and I
+reserve the balance of my time.
+Mr. McGOVERN. Mr. Speaker, I include in the Record a Congressional
+Budget Office report from today titled: ``Estimated Budgetary Effects
+of H.R. 23, the Family and Small Business Taxpayer Protection Act.''
+This nonpartisan report says that the GOP's IRS funding bill will add
+$114 billion to the national debt, so when people talk about taking
+steps to reduce the national debt, I am not sure what they are talking
+about.
+[From the Congressional Budget Office, January 9, 2023]
+Estimated Budgetary Effects of H.R. 23, the Family and Small Business
+Taxpayer Protection Act
+Summary: The Statutory Pay-As-You-Go Act of 2010
+establishes budget-reporting and enforcement procedures for
+legislation affecting direct spending or revenues. The net
+changes in outlays and revenues that are subject to those
+procedures are shown above.
+The Congressional Budget Office adheres to laws and
+Congressional rules concerning the federal budget and to a
+set of principles (called the Scorekeeping Guidelines)
+created by the Congress. Those principles guide how the House
+and Senate Budget Committees, the Congressional Budget
+Office, and the Office of Management and Budget attribute
+budgetary effects to legislation, with the goal of promoting
+consistent treatment of estimated effects among those
+agencies. (For more information on those guidelines, see
+Congressional Budget Office, CBO Explains Budgetary
+Scorekeeping Guidelines, January 2021,
+www.cbo.gov/
+publication/56507.)
+When a provision in an authorization bill provides funding
+for administrative or program management activities, such as
+when the IRS receives additional funding for administrative
+activities, spending of those amounts can result in increases
+in receipts. Guideline 14, however, directs scorekeepers to
+exclude those increases when estimating the budgetary effects
+of proposals that would provide additional mandatory funding
+for such activities.
+Guideline 14 was adopted in part to avert cases in which
+possible, but uncertain, receipts were used to offset near-
+term increases in spending resulting from the same bill. That
+guideline is asymmetrical, however. That is, even though
+increased receipts cannot be credited to a bill that would
+increase administrative funding, estimated receipt losses
+that might result from a decrease in such funding are
+included in the estimated budgetary effects.
+H.R. 23 would rescind unobligated funds provided by
+paragraphs (1)(A)(ii), (1)(A)(iii), (1)(B), (2), (3), (4),
+and (5) of section 10301 of Public Law 117-169. CBO estimates
+that the bill would decrease outlays by $71 billion and
+decrease receipts by $186 billion over the 2023-2032 period.
+Both of those effects are included in accordance with
+Guideline 14.
+ESTIMATED BUDGETARY EFFECTS OF H.R. 23, THE FAMILY AND SMALL BUSINESS TAXPAYER PROTECTION ACT, AS POSTED ON THE WEBSITE OF THE CLERK OF THE HOUSE OF REPRESENTATIVES ON JANUARY 9, 2023 AS AN
+ITEM THAT MAY BE CONSIDERED PURSUANT TO A RULE
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+By fiscal year, millions of dollars--
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+2023         2024         2025         2026         2027         2028         2029         2030         2031         2032      2023-2027    2023-2032
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Decreases (-) in Direct Spending
+Total Changes in Direct Spending
+Budget Authority................      -71,473            0            0            0            0            0            0            0            0            0      -71,473      -71,473
+Outlays.........................       -2,359       -2,835       -4,124       -5,589       -7,252       -9,249      -11,423      -14,027      -14,605            0      -22,159      -71,463
+[[Page H63]]
+Decreases (-) in Revenues
+Total Changes in Revenues...........       -1,645       -6,186      -12,506      -17,394      -21,574      -25,416      -28,983      -31,441      -31,879       -8,814      -59,305     -185,838
+Net Increase or Decrease (-) in the Deficit From Changes in Direct Spending and Revenues
+Net Effect on the Deficit...........         -714        3,351        8,382       11,805       14,322       16,167       17,560       17,414       17,274        8,814       37,146      114,375
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Source: The Congressional Budget Office.
+The Statutory Pay-As-You-Go Act of 2010 establishes budget-reporting and enforcement procedures for legislation affecting direct spending or revenues. The net changes in outlays and revenues
+that are subject to those procedures are shown above.
+The Congressional Budget Office adheres to laws and Congressional rules concerning the federal budget and to a set of principles (called the Scorekeeping Guidelines) created by the Congress.
+Those principles guide how the House and Senate Budget Committees, the Congressional Budget Office, and the Office of Management and Budget attribute budgetary effects to legislation, with
+the goal of promoting consistent treatment of estimated effects among those agencies. (For more information on those guidelines, see Congressional Budget Office, CBO Explains Budgetary
+Scorekeeping Guidelines, January 2021,
+www.cbo.gov/publicalion/56507
+.)
+When a provision in an authorization bill provides funding for administrative or program management activities, such as when the IRS receives additional funding for administrative activities,
+spending of those amounts can result in increases in receipts. Guideline 14, however, directs scorekeepers to exclude those increases when estimating the budgetary effects of proposals that
+would provide additional mandatory funding for such activities.
+Guideline 14 was adopted in part to avert cases in which possible, but uncertain, receipts were used to offset near-term increases in spending resulting from the same bill. That guideline is
+asymmetrical, however. That is, even though increased receipts cannot be credited to a bill that would increase administrative funding, estimated receipt losses that might result from a
+decrease in such funding are included in the estimated budgetary effects.
+H.R. 23 would rescind unobligated funds provided by paragraphs (1)(A)(ii), (1)(A)(iii), (1)(B), (2), (3), (4), and (5) of section 10301 of Public Law 117-169. CBO estimates that the bill would
+decrease outlays by $71 billion and decrease receipts by $186 billion over the 2023-2032 period. Both of those effects are included in accordance with Guideline 14.
+Mr. McGOVERN. Mr. Speaker, if we defeat the previous question, I will
+offer an amendment to the rule to bring up the Women's Health
+Protection Act.
+I ask unanimous consent to insert the text of the amendment in the
+Record immediately prior to the vote on the previous question.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Massachusetts?
+There was no objection.
+Mr. McGOVERN. Mr. Speaker, I yield 1 minute to the gentlewoman from
+California (Ms. Chu) to discuss our proposal.
+Ms. CHU. Mr. Speaker, Americans across the country sent a resounding
+message at the ballot box. They support the right to access abortion
+and for people to have the basic freedom to make decisions about their
+own bodies with medical professionals and without the interference of
+extremist politicians. In every State where abortion was on the ballot,
+the American people called for freedom and bodily autonomy.
+Now, House Democrats' first action of the 118th Congress is to answer
+that call. If we defeat the previous question today, the House will
+take up my bill, the Women's Health Protection Act, which will
+guarantee abortion rights for everyone in every State.
+In the wake of the extremist Supreme Court's devastating decision
+last summer in Dobbs, Congress must stand up for the rights of every
+person to be able to make decisions about their own bodies and their
+own futures.
+House Democrats trust people, not politicians, to make decisions
+about their health and lives.
+Mr. Speaker, I urge my colleagues to join me in defeating the
+previous question.
+Mr. COLE. Mr. Speaker, I yield 2 minutes to the gentleman from Texas
+(Mr. Burgess), my very good friend, a member of both the Rules
+Committee and the Energy and Commerce Committee.
+Mr. BURGESS. Mr. Speaker, let me just say at the outset, Mr. Cole has
+probably had the hardest job in Washington the past 4 years. Being the
+ranking member of the Rules Committee is a difficult position. He has
+done it extremely well, so I know he is going to excel as the chairman
+of the Rules Committee during this term of Congress.
+Clearly, Mr. Speaker, the American public spoke with a clear voice.
+They want the Nation to go in a new direction. They want a path away
+from tax-and-spend politics advanced by the Democrats in the last
+Congress. In this rules package, we have laid out how we intend to
+accomplish just that.
+The era of legislating for the few at the expense of the many is
+over. This new majority today begins this serious task in ways that
+will make this Congress more transparent, more accountable, and more
+accessible to the public and the Members that serve the institution.
+This majority will implement voting procedures on the floor so that
+recorded votes can be conducted in a straightforward manner, rather
+than what we have seen over the past 3 years that literally strands
+Members of Congress on the floor for hours when they cannot do any
+other work in their committee or anywhere else.
+Mr. Speaker, I believe our friends in the previous Congress
+squandered their opportunity by focusing on the politics of division
+instead of what we were all sent here to do, and that is the people's
+business.
+Tackle inflation, tackle lawlessness, the threats abroad--these are
+the urgent issues that the American public demands that their
+Representatives address. Instead, Americans were treated to the petty
+and divisive agenda of the last Congress.
+Thankfully, Mr. Speaker, Republicans will utilize this majority.
+Republicans have proposed an agenda that will address these vital
+issues and put our Nation back on track to fiscal prosperity.
+With this Republican majority, we offer Americans a governing agenda
+that will ensure that the 21st century remains an American century.
+{time}  1730
+Mr. McGOVERN. We heard a lot about inflation, but none of the first
+12 bills that my Republican friends are bringing up have anything to do
+with inflation or mention inflation.
+Mr. Speaker, I yield 1 minute to the gentlewoman from Colorado (Ms.
+DeGette).
+Ms. DeGETTE. Mr. Speaker, if there was any overriding issue of
+clarity in the last election it was that Americans feel strongly that
+they should have the freedom to make their own healthcare decisions,
+not politicians.
+Apparently, House Republicans weren't listening because just 2 months
+after a record number of Americans voted to vehemently oppose the GOP's
+efforts to criminalize abortion care in this country, we have today a
+set of rules that will make their extreme agenda a reality. These rules
+will pave the way for the immediate passage of not one, not two, but
+three bills that will limit women's rights to reproductive care.
+Mr. Speaker, 25 percent of their initial agenda is anti-choice. This
+is not what the American people want. Sixty-one percent of this country
+strongly support a women's right to abortion care.
+Mr. Speaker, I urge all of my colleagues to stand up to this
+extremism and stand up for the people who we were elected to serve.
+Vote ``no'' on the previous question to bring up the Women's Health
+Protection Act and vote ``no'' on the rule. Let's listen to our
+constituents.
+Mr. COLE. Mr. Speaker, I yield 3 minutes to the distinguished
+gentlewoman from Minnesota (Mrs. Fischbach), my colleague on the Rules
+Committee.
+Mrs. FISCHBACH. Mr. Speaker, I thank the chairman of the Rules
+Committee and my friend from Oklahoma for yielding me the time and for
+the experiences we have had on Rules in the last year.
+Mr. Speaker, for far too long Democrats have run roughshod over the
+norms and practices of the people's House, weaponizing our rules to
+insulate themselves and protect their allies in the Biden
+administration from proper oversight. That ends today.
+I thank the chairman, Speaker McCarthy, and our leadership for
+spending countless hours putting together this package that better
+reflects the historical practices of this institution while receiving
+feedback to ensure
+[[Page H64]]
+the work we do is by the people and for the people. There are numerous
+items that I truly believe are vast improvements from the previous 2
+years, but I will focus on three.
+First and foremost, this package finally ends the ludicrous pandemic
+procedures that have done lasting, if not permanent, damage to this
+institution. Legislating requires us to see each other eye-to-eye in
+order to understand where the other is coming from. Remote proceedings
+and a locked-down Capitol have reduced this institution to a computer
+screen, and the work product has deteriorated as a result. It is long
+past time for us to get back to work.
+Second, the rules package finally creates a more transparent process
+by which we legislate. As then-Chairman McGovern once said, ``a lousy
+process leads to bad legislating.'' Today, through a mandatory 72-hour
+rule, we allow more thoughtful and deliberate consideration that will
+improve what we pass out of this House.
+Finally, this rules package helps restore some fiscal sanity. Over
+the past 2 years, the American people have been hindered by out-of-
+control spending by the government and now our constituents are saddled
+with trillions in debt and the highest inflation levels in a
+generation.
+House Republicans today will once again ensure the Federal budget
+operates like any other, requiring offsets for any additional spending
+increase, eliminating budget gimmicks, and requiring inflationary
+analyses of the bills we consider.
+Mr. Speaker, I am proud to stand by my friend and colleague from
+Oklahoma in support of this package, and I urge Members to do the same.
+Mr. McGOVERN. Mr. Speaker, let me just remind my friends that over a
+million Americans died of COVID, including a Member-elect who was
+supposed to be sworn in in the last Congress. These remote procedures
+undoubtedly saved lives of Members and staff here in this Chamber. So,
+please, let's not diminish what the point of all that was about.
+Mr. Speaker, I yield 1 minute to the gentlewoman from Washington (Ms.
+Jayapal).
+Ms. JAYAPAL. Mr. Speaker, after a week of chaos, we now have a rules
+package for MAGA extremists, attacking our freedoms and every major
+responsibility of this body--from paying America's bills to funding our
+government.
+This package criminalizes abortion by advancing bills that attack
+access and healthcare without a single hearing or markup, undermining
+women's economic freedom and bodily autonomy.
+Mr. Speaker, as one of the one-in-four women across this country who
+have had an abortion, I join those in both parties--and the majority of
+this country--who are saying: Not on our watch.
+This package also reinstates a CutGo policy that gives wealthy
+corporations more tax cuts and strips the right for congressional
+workers to unionize. It eliminates our wins to strengthen witness
+disclosure requirements for conflicts of interest and exempt climate
+change and pandemic relief from senseless paygo rules.
+Democrats delivered for the people. Republicans now want a package
+that works for the wealthiest few. Vote ``no.''
+Mr. COLE. Mr. Speaker, I yield 2 minutes to the gentleman from
+Virginia (Mr. Griffith), my very good friend who had so much to do with
+some of the extraordinary changes in this rules package.
+Mr. GRIFFITH. Mr. Speaker, I come to talk today about getting back to
+the basics. This place has, in fact, been broken, and a number of the
+rules that we worked on were to bring authority back and bring us back
+to the principles of Jefferson's parliamentary practice and procedure,
+his manual on that.
+I would say to the ladies and gentlemen that we should look at that
+document for what its principles stand for. What it stands for is--and
+it says right in the preamble, Jefferson writes: ``For some of the most
+familiar and experienced members,''--referencing they are members of
+parliament because that is what he based it on--``that nothing tended
+more to throw power into the hands of administration, and those who
+acted with the majority of the House of Commons, than a neglect of, or
+departure from, the rules of proceeding; that these forms, as
+instituted by our ancestors, operated as a check and control on the
+actions of the majority, and that they were, in many instances, a
+shelter and protection to the minority against the attempts of power.''
+So when I go out there, Mr. Speaker, and ask that we change these
+rules to make sure that we have rules that help protect all Members,
+including the minority Members, you can imagine my surprise and shock
+today when I hear that they are opposed to rules that do some very
+basic things--things that the American people are going to be shocked
+that we don't already do--such as a single purpose rule, that you
+cannot introduce a bill that doesn't have a single purpose or theme to
+that bill. That can be complicated, but it has to have an overarching
+theme, something that this bill is attempting to do right from the get-
+go. The sole purpose rule.
+Mr. Speaker, then there is the germaneness, coming up with a stricter
+germaneness interpretation. As we know, that also helps so that you
+don't end up having happen what we had happen last summer where
+somebody introduces a bill to mint a commemorative coin and it turns
+into the Inflation Reduction Act. That is absolutely ridiculous.
+Hundreds and hundreds, if not thousands of pages came out of a one-
+paragraph bill. No. That is wrong.
+Mr. Speaker, this allows us more power to say ``no'' on the floor by
+the individual Members.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. COLE. Mr. Speaker, I yield an additional 30 seconds to the
+gentleman from Virginia.
+Mr. GRIFFITH. Mr. Speaker, I appreciate the additional time that the
+gentleman yielded to me. As you can tell, I get fired up about these
+issues.
+The bottom line is that this rules package is the best rules package
+of either party in a number of years because instead of worrying about
+what might happen next week, this rules package worries about the
+future of the United States Congress. It is a good package, and I
+wholeheartedly support it.
+Mr. McGOVERN. Mr. Speaker, I yield 1 minute to the gentlewoman from
+California (Ms. Lee).
+Ms. LEE of California. Mr. Speaker, after 4 days and 15 rounds of
+votes, the new Republican majority has finally chosen a Speaker. Their
+first order of business is to trample on the hopes of the people that
+elected them.
+The rules package that we see before us contains no less than three
+bills that strip people in this country of their reproductive freedom.
+These bills are a slap in the face to voters who proved time and time
+again at the polls last year that they believe in reproductive freedom
+and abortion access.
+From Kentucky to Kansas to my home State of California, our
+constituents believe that the right to make decisions about their life
+and their health, including about abortion, lies with them, not with
+you, not with me, not with any elected official.
+This rules package is meant to help this body govern, not restrict
+the personal autonomy of millions. As one who has had an abortion, I
+know how horrific this rules package is. It is our bodies. It is our
+choices.
+Mr. Speaker, this dysfunction and hypocrisy is shameful, and the
+people deserve better.
+Mr. COLE. Mr. Speaker, I yield 3 minutes to the distinguished
+gentleman from South Dakota (Mr. Johnson), my good friend.
+Mr. JOHNSON of South Dakota. Mr. Speaker, quite a little bit of the
+national narrative over the last week has been about Republican
+disunity, and some have tried to apply that narrative to this rules
+package. I get it. I get it. It makes for a good story, but it just
+isn't so.
+I rise today, Mr. Speaker, with a more accurate assessment. This
+rules package is actually about Republican unity. This package, except
+for one single change, is the same rules package that was released two
+weekends ago.
+This is the same rules package, except for one single change that the
+Republican Conference had widespread agreement on weeks ago.
+There are a tremendous number of conservative wins here:
+[[Page H65]]
+At least 72 hours for Members and the public to review legislation
+before we vote on it.
+Requiring every bill to deal with only a single subject.
+Getting rid of proxy voting.
+Bringing back the Holman rule, which will allow this body to target
+specific spending line items.
+And then the return of CutGo so that spending increases have to be
+offset by spending reductions.
+Mr. Speaker, every single one of these big conservative wins, and
+many more like them were supported by the Republican Conference long
+before the excitement of last week. Today's rules package is actually
+proof of Republican unity, and it is proof that we are committed to
+bringing increased accountability, transparency, and fiscal
+responsibility for this Chamber and for our country.
+Mr. McGOVERN. Mr. Speaker, the gentleman is taking credit for the 72-
+hour rule, which we created in our rules package, but thank you very
+much.
+Mr. Speaker, I yield 2 minutes to the gentlewoman from Massachusetts
+(Ms. Clark), the Democrat whip.
+Ms. CLARK of Massachusetts. Mr. Speaker, when Roe v. Wade was
+overturned, the impact on Americans was swift and devastating. Women
+were denied healthcare. Doctors were threatened with criminal charges.
+Hospitals were forced to put their own liability over patients' lives.
+As the GOP doubled down on its plan for a national abortion ban, the
+American people saw it for what it was: anti-women, anti-choice, anti-
+family, and anti-freedom.
+Kansas, California, Kentucky, Michigan, Montana, and Vermont--voters
+across the country rejected this extremism.
+With this anti-freedom agenda exposed, some of my Republican
+colleagues started to scrub their websites, rolled back their rhetoric,
+and dodged questions on abortion. But here we are again in this rules
+package, within days of taking over the House majority, Republicans are
+pushing legislation to limit women's rights.
+Let's see where you truly stand. Today, House Democrats offer the
+Women's Health Protection Act to make abortion access a Federal right,
+no matter your ZIP Code or your income.
+Do my colleagues across the aisle believe that families, in
+consultation with their doctors, with their faith, with their life
+circumstances, should decide when to have children, or do my colleagues
+think that is a decision for Republican politicians?
+Vote to make Roe v. Wade the law of the land. Vote for freedom.
+Mr. COLE. Mr. Speaker, I yield 2 minutes to the distinguished
+gentleman from South Carolina (Mr. Duncan).
+Mr. DUNCAN. Mr. Speaker, I rise today to support the Republican rules
+package and our return to common sense in the people's House.
+I want to point out a few line items in the rules package for
+particular praise.
+This bill returns to the historical norm of in-person meetings and
+in-person votes. No more proxy voting or remote committee hearings.
+Let's do the work in the people's House.
+This bill returns to the Holman rule. If ever there was a time for
+this House to stop paying the salaries of bad bureaucrats, it is now.
+Tony Fauci deserves that step.
+{time}  1745
+I think knowing this rules package was coming is one of the reasons
+why he has now mercifully left government service. The power to fire
+unelectable bureaucrats who abuse their power is a central reason to
+support this package.
+In the past the 3-day rule has been abused--bills being dropped in
+the dead of night to be voted on 2 mornings later is just wrong. Moving
+to a true 72-hour rule will end that abusive practice.
+Eliminating the Gephardt rule to ensure that this House has a true
+debate over whether or not to raise the debt limit is a move in the
+right direction for fiscal sanity in the people's House, and so is the
+three-fifths majority requirement to raise taxes.
+I thank my fellow Freedom Caucus members and my friends in House
+leadership for making these necessary changes to the House rules
+package, and I ask my colleagues to pass this package.
+Now, since Ranking Member McGovern mentioned the IRS bill coming up,
+let me just point out that we need to rescind that.
+Mr. Speaker, do you know what 87,000 IRS agents equates to?
+It equates to 200 new IRS agents in every congressional district in
+this country. That is 1,740 new IRS agents in every State for one
+purpose: to go after small businesses and hardworking Americans to try
+to raise money to pay for reckless spending--reckless spending that has
+cost $31 trillion in debt in this Nation.
+This is the right thing to do.
+I tell you what, Mr. Speaker, we could repurpose those agents to the
+southern border, or we could repurpose them and let them build the
+Keystone XL pipeline.
+There were an estimated 61,000 lost jobs with the Keystone XL
+pipeline when the Biden administration canceled that project. But yet
+we turn around, and the government hires 87,000 new IRS agents to go
+after your constituents and mine, Mr. Speaker.
+I mentioned earlier the number. Look it up.
+Mr. McGOVERN. Mr. Speaker, I remind my friend that the first bill
+they are doing is going to add $114 billion to the deficit. Enough.
+Mr. Speaker, I yield 1 minute to the gentleman from California (Mr.
+Aguilar), who is the chairman of the Democratic Caucus.
+Mr. AGUILAR. Mr. Speaker, I thank the gentleman from Massachusetts
+for yielding.
+Mr. Speaker, I rise today in opposition to the rules package which
+was written behind closed doors.
+What we are voting on this evening is nothing short of a complete
+surrender to the demands of the most extreme Republicans on the other
+side of the aisle.
+Rather than taking this opportunity to bring us together, the
+adoption of this rules package sets us on a path of division and
+default. The extremists plan to use these rules to hold the economy
+hostage in order to enact more cuts to Social Security and Medicare.
+Mr. Speaker, last week our Nation saw the lowest unemployment in 50
+years, a testament to the leadership of President Biden and House
+Democrats. Yet, it is clear that the new majority is determined to
+undermine that economic recovery at every turn.
+Mr. Speaker, I urge a ``no'' vote.
+Mr. COLE. Mr. Speaker, I yield 3 minutes to the distinguished
+gentlewoman from Florida (Mrs. Cammack).
+Mrs. CAMMACK. Mr. Speaker, I rise in strong support of House
+Resolution 5, adopting the rules for the 118th Congress.
+First, this rules package is an incredible win not just for
+conservatives but for all Americans.
+Americans deserve a House of Representatives that serves the people,
+not a political or a personal agenda. For decades we have heard a
+series of questions, things like: Why can't we simply pass bills that
+address a single issue?
+Why do we have to Christmas tree these bills?
+Why isn't there enough time to read the bills?
+Heck, why don't Members have to show up to work to get paid?
+I hear that all the time.
+That, among other things, is what we have addressed in this rules
+package.
+To be sure folks back home understand, this rules package is the
+document that dictates how we, as Members, conduct business up here,
+and that is why it is so important to get this right.
+This is the most conservative and transparent rules package in recent
+history, and the thanks go to the Republican Conference at large for
+working on this and approving this and debating these proposals on
+three separate occasions since November.
+Here is a sampling of just what is in this commonsense package:
+First, every single Member of this body will have at least 72 hours
+to review each bill.
+Second, Members will now be forced to vote in person rather than via
+proxy. Personally, I have never voted proxy, and for me it is pretty
+simple. If you collect a paycheck, you should show up. After nearly 3
+years of abusing this historic voting change, we are finally putting an
+end to proxy voting.
+[[Page H66]]
+If my husband as a first responder along with thousands of other
+first responders across this country showed up every single shift at
+the height of COVID without complaint, then Members of Congress should
+be able to do the same.
+Now, on November 29 I testified before the Rules Committee that
+single-issue bills are one of the single most important things we can
+do to restore trust in this institution. I am proud to report that this
+package includes this new requirement, and that is for all Members to
+certify that bills introduced in the House address a single issue.
+A huge thanks goes to my friend and colleague from Virginia,
+Representative Morgan Griffith, for his work on this issue.
+Additionally, this rules package establishes a brand new select
+committee that will be tasked to investigate the weaponization of the
+Federal Government. No longer will the Department of Justice be allowed
+to target parents who show up for their kids. No longer will the FBI be
+able to collude with social media companies to censor Americans.
+Finally, in the ultimate move to drain the swamp and one that I am
+particularly proud of, this rules package reinstates the Holman rule
+which allows Members of this body to offer amendments to appropriations
+bills to reduce the salary or to fire certain employees or cut Federal
+programs. These unelected bureaucrats--the true, real swamp creatures
+here in Washington, D.C.--have run roughshod over the American people
+without consequence, and today marks our first, but certainly not our
+last, move to hold them accountable.
+Mr. Speaker, this package is a product that brings transparency and
+trust to a broken process. I thank all of my colleagues from the
+Republican Conference for their grit and grace in working to put this
+package together, and I urge its passage.
+Mr. McGOVERN. Mr. Speaker, the gentlewoman mentioned the 72-hour
+rule. Once again, I will say: You are welcome. Then she talked about
+this being the most open and transparent rule ever. Maybe the
+gentlewoman can share with us the secret 3-page addendum that we are
+reading about, because none of us have seen it. So much for
+transparency. I guess she is not going to share that with us.
+Mr. Speaker, I yield 1 minute to the gentlewoman from the District of
+Columbia (Ms. Norton).
+Ms. NORTON. Mr. Speaker, these rules are a gratuitous attack on
+already limited rights of D.C. residents. Our residents have all the
+obligations of citizenship, including paying all Federal taxes, but are
+denied voting rights in Congress and full local self-government. To add
+insult to injury, these rules take away floor privileges of the D.C.
+Mayor.
+The rules continue to grant Governors and 16 other categories of
+people, including foreign ministers, floor privileges. Not only does
+D.C.'s Mayor operate like State Governors--including managing a
+jurisdiction that has both a budget and population larger than those of
+several States--but Congress has undemocratic plenary authority over
+D.C. and regularly uses this authority to legislate on local matters.
+While D.C. deserves statehood, if any non-member of Congress deserves
+and needs floor privileges, it is D.C.'s Mayor.
+Mr. COLE. Mr. Speaker, I yield 4 minutes to the distinguished
+gentleman from Texas (Mr. Roy).
+Mr. ROY. Mr. Speaker, I thank my friend from Oklahoma (Mr. Cole) for
+yielding.
+I am delighted to be down here on the floor of the House of
+Representatives in a Republican majority, and I am delighted to be
+talking about a rules package crafted by that Republican majority and
+that reflects what I think is a fundamental transformation of this
+House to ensure that the people can be represented by their
+Representatives. That is the point.
+There is a reason that I have had great conversations with some of my
+colleagues on the other side of the aisle about why having 72 hours to
+read a bill, or why having a bill that isn't littered with Christmas
+tree additional subjects rather than single subjects, as my friend from
+Virginia (Mr. Griffith) articulated so well, or whether having germane
+amendments and being able to open up the floor by virtue of changing
+the rules or restoring the Holman rule so we can have an impact on
+agencies that are out of control and not responding to the people's
+House, there is a reason why those rules are so fundamentally
+important: to restore this body and to restore the people's House.
+That is why we are here. Everybody keeps running around in classic
+swamp speak talking about secret deals, a secret addendum.
+What we are talking about is how people come to an agreement in this
+town to ensure that we are going to carry out what we have said we are
+going to do.
+The rules package is on full display. The rules package has been on
+full display and publicly available since Friday or earlier last week.
+The text of that rules package has been something we can look at. My
+friends are right. A good chunk of that text is the agreement reached a
+while back, a couple of weeks ago, 1 week or 2 weeks ago, with one
+significant change: the single-person motion to vacate which is in the
+spirit of that which goes all the way back to Jefferson. In fact, we
+are currently now operating not under any rules. That is why we are
+having a debate. We are about to debate on adopting the rules.
+I can walk down right there into the well and file a motion to vacate
+a single person right now because that is the precedent. That is what
+we are operating under, because that goes back to Jefferson.
+The whole point here is trying to ensure that we are continuing the
+great history of the people's House.
+Yes, we have had conversations and agreements as individuals are
+supposed to do, looking each other in the eye and saying that we are
+going to bring balanced budgets to the floor of the House.
+You bet that we have agreements that we are going to do that. You bet
+we have had agreements that we are going to bring the Texas border plan
+to make sure that we secure the border rather than perpetuating the
+fraud that the President of the United States continues to perpetuate
+endangering the American people. You bet that we are bringing forward a
+promise to have legislation that will set term limits because the
+American people are tired of a House that doesn't represent them. You
+bet that we have got agreements to do those things.
+You bet that we have been talking about making sure that we can bring
+amendments to the floor of this House--open debate amendments on
+appropriations bills--that that was a part of the package that we were
+talking about; and you bet that a part of our agreement was ensuring
+that a Church-style committee under the leadership of my good friend,
+the gentleman from Ohio (Mr. Jordan) of the Judiciary Committee, will
+target weaponization of government against the American people. You bet
+that those agreements were reached.
+I will not back away from that or shy away from it.
+But this rules package is a rules package that reflects this body and
+the entirety of the Republican Party on making sure that we restore the
+people's House.
+We are united to do that. We are coming out of last week strong and
+united to make sure that we stand up for the American people.
+Mr. Speaker, I encourage everybody to vote for this rules package.
+The SPEAKER pro tempore. Members are reminded to refrain from
+engaging in personalities toward the President.
+Mr. McGOVERN. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I thank the gentleman, again, for mentioning the 72-hour
+rule which has been mentioned many times. But I wrote it, and I thank
+the gentleman for keeping it.
+But when I hear people talking about balanced budgets, give me a
+break. The first bill that my friends are bringing to the floor,
+according to CBO, adds $114 billion to the debt. We don't need any
+lectures from anybody on that side about balancing the budget. Give me
+a break.
+Maybe the gentleman can, again, share with us the secret addendum
+that apparently was negotiated behind closed doors, so we actually know
+what agreements were made.
+[[Page H67]]
+Four days and 15 votes, and there is only one change in the rules
+package going from five to be able to vacate the Chair to one. Well,
+there is a lot more to it. We all know that, but that is a big secret.
+So much for transparency.
+Mr. Speaker, I yield 1 minute to the gentleman from New York (Mr.
+Torres).
+Mr. TORRES of New York. Mr. Speaker, the so-called rules package
+proposed by House Republicans would perpetuate same disorder, division,
+and dysfunction that nearly devoured the Republican nominee for
+Speaker.
+A single-Member threshold for filing a motion to vacate empowers
+extremism and rewards rabble-rousing. It would make the House so
+dysfunctional as to be ungovernable.
+It would give the new Speaker only a Pyrrhic victory because a motion
+to vacate makes him arbitrarily removable at any moment, at the whim of
+any person, no matter how personal or petty the underlying grievance.
+Simply put, this is no way to govern.
+Moreover, House Republicans decry the weaponization of the Federal
+Government. Yet the Holman rule would enable the Federal Government to
+be weaponized against any Federal official who draws the wrath of the
+Republican majority.
+The Holman rule would enable House Republicans to zero out funding
+for a criminal investigation into Donald Trump.
+The new rules would defund the Office of Congressional Ethics.
+The new rules would enable a Member being investigated by the FBI to
+investigate the investigators investigating him.
+Mr. Speaker, so much for draining the swamp.
+Mr. COLE. Mr. Speaker, I yield 1\1/2\ minutes to the distinguished
+gentleman from Georgia (Mr. Clyde).
+Mr. CLYDE. Mr. Speaker, I thank the gentleman for yielding.
+Last week I was part of the 20 conservative Members who fought for a
+significant institutional change in order to restore the people's voice
+in the people's House.
+Of the many victories we secured for the American people, the Thomas
+Jefferson motion to vacate the Chair is the most important to me, as it
+holds the Speaker accountable to the people.
+This Jeffersonian motion stood strong for more than 200 years before
+then-Speaker Pelosi removed it in 2018, consolidating power in the
+hands of a select few in leadership.
+By restoring this historic rule, every solitary Member has the
+authority to hold the Speaker accountable for following all of the
+rules, including passing single-subject bills, allowing Members at
+least 72 hours to read the legislation before voting on it, and
+reinstating the Holman rule which allows amendments to decrease funding
+for certain government programs all the way down to the individual job
+description.
+Mr. Speaker, I thank my Republican colleagues and Speaker McCarthy
+for working in good faith to produce and pass a rules package that
+ensures this body is working for the people and not for itself. I
+encourage every Member to vote for it. Fixing a broken Washington,
+D.C., is a major win for every citizen.
+{time}  1800
+Mr. McGOVERN. Mr. Speaker, I yield 1 minute to the gentleman from
+Massachusetts (Mr. Neal).
+Mr. NEAL. Mr. Speaker, I rise in strong opposition to this
+legislation, the so-called rules package.
+I can't wait for that term limits vote. When you ask Members on the
+Republican side who have been here for 20 or 30 years to then codify
+their votes that say that you can only be here for 12, try explaining
+that one back home when you have a four-seat majority.
+This is an extreme proposal that is in front of us. If they follow
+the logic to its manifestation, this will pit Social Security,
+Medicare, and Medicaid against defense spending. Our seniors will be
+sold out; our military will be sold out; and the full faith and credit
+of the United States will be under threat, all in a quest to organize
+the House.
+The gentleman from South Dakota, a nice enough fellow, said people
+are making a lot about the chaos that ensued here over 4 days,
+particularly last Saturday morning. Was the gentleman denying that he
+was here, for the country to witness what happened here?
+This is part of a rules package that is being foisted upon the
+American people by a small minority within the Republican Party, and we
+ought to turn it down.
+Mr. COLE. Mr. Speaker, I yield 1 minute to the gentleman from South
+Carolina (Mr. Norman).
+Mr. NORMAN. Mr. Speaker, it is a new day in Congress.
+Mr. McGovern, you mentioned the 72-hour rule was put in by you and
+the Democrats. Why didn't you enforce it? You didn't. We were forced to
+vote on bills like the omnibus that was 4,155 pages long.
+The American people are tired of it. Last week was a great week. You
+saw democracy at its best.
+Guess what? We were off 24 weeks during the last session. We can take
+however many days it is to debate something that the American people
+should see.
+The great part about this rules package is it restores financial
+sanity. That is why I am proud to support, along with Speaker McCarthy,
+this new rules package that implements fiscal and budgetary restraints
+on Congress. Provisions included are huge wins for the American people
+for everybody to see.
+We were given the assurance that this package will do the job, and we
+could not continue the downward trajectory that your party has put the
+American people on over the last 2 years and last 4 years.
+Now is the time that we deal with what is the growing insanity. I am
+just thankful that we are here.
+The SPEAKER pro tempore. Members are reminded to direct their remarks
+to the Chair.
+Mr. McGOVERN. Mr. Speaker, I would just say to the gentleman that in
+the vast majority of cases we did comply with the 72-hour rule.
+Mr. Speaker, I yield 1 minute to the gentleman from Nevada (Mr.
+Horsford).
+Mr. HORSFORD. Mr. Speaker, this Republican rules package is more like
+rules wreckage, and it has very little to do with governance.
+Adding insult to the American people, Speaker McCarthy and MAGA
+Republicans want to defund the IRS so that their millionaire and
+billionaire friends don't have to pay their fair share in taxes while
+hardworking people in Nevada's Fourth District pick up the tab.
+There is a persistent problem with the wealthiest Americans evading
+taxes or hiding their money in secret, offshore bank accounts in order
+to avoid paying their tax obligations. In fact, according to a new
+Syracuse University analysis, low-income wage earners were audited 5.5
+times more than the people in every other tax bracket in 2022.
+Democrats put people over politics and provided the resources and
+funding that the IRS needs to go after the super-rich tax cheats. It is
+not fair that taxpayers with lower incomes are more likely to be
+audited than high-income taxpayers.
+Adding additional insult, their first bill adds more than $100
+billion to the deficit over the next 10 years. What does that say about
+reducing our deficit?
+Mr. Speaker, I urge the body to vote down this hypocritical package.
+Mr. COLE. Mr. Speaker, I ask unanimous consent that the Speaker be
+authorized to postpone the vote on ordering the previous question on
+House Resolution 5 to a designated time later today.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Oklahoma?
+There was no objection.
+Mr. COLE. Mr. Speaker, I ask unanimous consent that the Chair may
+reduce to 5 minutes the minimum time for electronic voting on any
+question relating to House Resolution 5 that follows a 15-minute vote.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Oklahoma?
+There was no objection.
+Mr. COLE. Mr. Speaker, I reserve the balance of my time.
+Mr. McGOVERN. Mr. Speaker, following the vote on the previous
+question, Representative DeLauro will offer a motion to commit.
+Mr. Speaker, I yield 1 minute to the gentlewoman from Connecticut
+(Ms. DeLauro) to discuss that proposal.
+[[Page H68]]
+Ms. DeLAURO. Mr. Speaker, when we conclude this rules debate, I will
+offer a motion to commit to add the expanded child tax credit.
+In the face of the Republican majority's draconian agenda, we want to
+provide a tax cut, yes, to children and families to make ends meet. The
+child tax credit is the most effective tool we have in the fight
+against rising costs, an antidote to inflation. It is about financial
+stability for families.
+Nothing in this rules package helps American families. Make no
+mistake, a vote against a motion to commit means Republicans are
+willing to raise taxes on working families.
+The expanded child tax credit was the largest tax cut for working
+families in generations, a lifeline to the middle class. It drove the
+largest decrease in child poverty in history. People could pay their
+electric bills, fill their gas tanks, pay for childcare. It reached
+more than 61 million children, lifted 4 million out of poverty, and led
+to a 26 percent decline in hunger in families with children. There has
+never been a Federal program that has had such a profound impact in
+such a short amount of time.
+Do the right thing. Vote ``yes'' on the motion to commit.
+Mr. COLE. Mr. Speaker, I reserve the balance of my time.
+Mr. McGOVERN. Mr. Speaker, I yield 1 minute to the gentlewoman from
+Washington (Ms. DelBene).
+Ms. DelBENE. Mr. Speaker, later this evening, my colleague and
+friend, Congresswoman DeLauro, will offer a motion to add the expanded
+child tax credit to the rules package, This gives us an opportunity to
+start the 118th Congress on the right foot.
+Instead of focusing on an extremist agenda, we can advance a proven
+solution to an issue that impacts every community in our country--
+childhood poverty.
+The United States, shamefully, has one of the highest rates of
+childhood poverty in the developed world. We have a solution that we
+know works, the expanded child tax credit that delivered up to $300 per
+child each month to over 40 million families. These resources helped
+parents pay for food, rent, gas, and other essentials.
+We must bring back the expanded child tax credit and deliver for
+children and families.
+Mr. Speaker, I urge my colleagues to vote ``yes'' on this motion to
+commit. Reducing childhood poverty should be a bipartisan effort.
+Mr. COLE. Mr. Speaker, I continue to reserve the balance of my time.
+Mr. McGOVERN. Mr. Speaker, again, let me just ask, will anybody on
+the other side share with us the secret 3-page addendum that Speaker
+McCarthy negotiated with the Freedom Caucus so we can know what else
+was decided on, given away? I guess not.
+Mr. Speaker, I yield 1 minute to the gentlewoman from California (Ms.
+Barragan).
+Ms. BARRAGAN. Mr. Speaker, I rise in opposition to the rule.
+The rules package is anti-Latino. It makes in order bills that attack
+abortion rights and reproductive health that Latinas rely on. It
+doubles down on Republicans' inhumane treatment of Latino migrants
+fleeing violence and persecution.
+Later today, Republicans plan to rush a vote on a bill that protects
+wealthy and ultrawealthy tax cheats, leaving low-income Black and
+Latino communities to bear the brunt of tax audits because they make
+easy targets.
+Republicans have begun this Congress with chaos and now plan to push
+extreme policies that do nothing to help Latinos in this country.
+Mr. Speaker, I urge my colleagues to vote against this rule.
+Mr. COLE. Mr. Speaker, I yield 1 minute to the distinguished
+gentleman from Arkansas (Mr. Hill), my good friend.
+Mr. HILL. Mr. Speaker, I thank my friend from Oklahoma for yielding.
+Certainly, my colleague from Massachusetts knows my deep affection
+for him, but since I walked on the House floor tonight, I keep hearing
+this reference to this rules package, that somehow it is not posted on
+our website and that we are debating something else called an addendum
+to the rules package.
+I wanted to come to the House floor as someone who worked quite
+passionately last week on behalf of our new Speaker, working on an
+agreement with all of my colleagues so that we are unified in the House
+Republican Conference, to say that there is no addendum to this
+package, Mr. Speaker.
+There is no 3-page addendum. There is no extra stuff. Everything in
+the House rules package is posted on the House website.
+We made one addition as a Conference, and that was the change in the
+vacate the chair motion.
+Mr. Speaker, I want to be clear in the Congressional Record, for
+those watching on C-SPAN, and to my colleagues: There is not a 3-page
+addendum to the rules package.
+I greatly respect my good friend from Massachusetts and my friend
+from Oklahoma.
+Mr. McGOVERN. Mr. Speaker, I have great respect for my friend, but
+really? I mean, come on.
+What were the last 4 days about? I mean, again, days and days, and 15
+roll call votes, and reporting by multiple sources tell us that there
+is this signed agreement with the House Freedom Caucus that deals with
+some of the most controversial concessions.
+So, you know, I know it exists. It will come out sooner or later.
+Everybody is talking about transparency and openness. It would be nice
+if there was a little bit more transparency and openness from the other
+side.
+Mr. Speaker, I yield 1 minute to the gentlewoman from Texas (Ms.
+Jackson Lee).
+Ms. JACKSON LEE. Mr. Speaker, I rise in opposition to the rules and
+the rules package.
+In particular, I support the Women's Health Protection Act so women
+seeking reproductive rights will not be hunted down by bounty hunters.
+As well, I am opposed to this rule because of the creation of a
+potential committee that, in fact, threatens our safety, security, and
+freedom. It is an unprecedented attack on our Nation's law enforcement
+agencies, our justice system, and our intelligence community, all for
+the extreme MAGA Republican political activities.
+This does nothing to solve the actual problems facing the American
+people and even includes a possibility of defunding police.
+Finally, I am glad that the last Congress indicated that when a
+million Americans died, for continuity of government, we had proxy
+voting. They wanted to save lives.
+Mr. Speaker, I oppose the underlying rules and the rules package. I
+ask my colleagues to join me in voting ``no.''
+Mr. Speaker, I rise in strong opposition to H. Res. 5, Adopting the
+Rules of the 118th Congress. Instead of building on the extraordinary
+work done by House Democrats in the 117th Congress, Republicans are
+choosing to lead off this term with legislation that attacks women's
+health freedoms, make it easier for companies to pollute without
+consequence, and hand out tax breaks to the wealthy and well connected.
+This problematic Rules package is the product of non-transparent
+negotiations, backroom deals and promises that were made to appease the
+demands made by extremist members of the Republican Party to get them
+to vote or in some cases vote present for Speaker of the House.
+Last week's catastrophic Speaker's election showed Americans how
+disorganized, chaotic, and inefficient the Republican leadership and
+Caucus can be.
+Last week's chaos showed the American people how Republicans plan to
+govern for the next two years. This body will be ill managed, less
+transparent, slow moving, and will put forth legislation that will
+attack our freedoms and undermine our Nation's values.
+Concessions made by Republican leadership last week will have
+devastating effects on this institution. The passage of this Rules
+package will pave the way for:
+Any member to file a ``motion to vacate the chair,'' effectively
+holding the Speaker hostage;
+Extreme right-wing members on key committees;
+Putting an end to the possibility of Congressional staff
+unionization;
+Reinstating the Holman Rules so Republicans can target civil servants
+who challenge them; and
+Shut down criminal investigations into the previous president.
+This problematic rule is creating more turmoil in the Republican
+ranks as members wrestle with the image of witnessing the Speaker being
+coerced into agreeing to give a small faction of the Republican
+Conference treats to appease them--including concessions to individual
+members for votes he needed to become Speaker.
+[[Page H69]]
+It is not inconceivable that Republican members of the conference
+must show they are not being bullied into voting for this Rules bill.
+The most problematic aspect of the rule is that it does not spell out
+what the Speaker agreed to give to his opponents so that the Congress
+and the American people know what the Speakership actually cost them.
+This is the People's House--not the Republican or Democratic House--
+any bargaining should be focused on the needs of the American people--
+they must come first.
+Throughout the last election cycle, Republicans campaigned on
+addressing inflation and lowering the cost of living for millions of
+Americans.
+Ironically, the first bill they are introducing repays the wealthy
+donors that got them their majority through dark money contributions by
+making it easier for the wealthiest 1 percent of Americans to cheat on
+their taxes.
+We all may have varying beliefs about taxes, but we as Americans know
+that nothing in this life is free and that in order for our Nation to
+be a beacon of freedom we must have a strong defense, public assistance
+programs to help those in need, an education system that prepares young
+minds to lead, retirement programs that provided for our elder and
+disabled, and a healthcare system that cares for all in need of
+healthcare.
+Passage of the rule will pave the way for Republicans to continue
+their assault on a woman's bodily autonomy and impede on medical
+decisions that should remain between medical professionals and their
+patient.
+Although the Born-Alive Abortion Survivors Protection Act does not
+criminalize abortion nationwide, make no mistake, that is their end
+goal, and the passage of this bill will get them one step closer to
+their sick idea of stripping all women of their rights.
+There are concerns that language in the House Rules package would
+eliminate rules requiring spending offsets for bills that sell or
+transfer federal public lands and waters.
+This will result in a loss of public access enjoyed by the 70 million
+American hunters and anglers that help support the $862 billion outdoor
+recreation economy in the United States. Additionally, giving away
+public assets with no return would be a loss for American taxpayers.
+As a result, hunters and anglers are strongly opposed to this rule
+change, which would eliminate the necessity of spending offsets to sell
+or transfer public lands.
+I urge all my colleagues to oppose this bill and see it for what it
+truly is:
+An effort by Republicans to give tax breaks to the ultra-rich and the
+corporations who fund their campaigns, and
+An effort to continue carrying out their distorted notion of America
+by decimating the programs set in place to help the Americans who
+depend on government assistance the most.
+Mr. COLE. Mr. Speaker, I reserve the balance of my time.
+Mr. McGOVERN. Mr. Speaker, let me continue what I was beginning in
+the last exchange.
+At least one GOP office apparently has the much-fabled 3-page House
+rules addendum. ``We are taking a look at it . . . we're just going
+through it,'' Rep.   Ken Calvert, a Steering Committee member, tells
+Axios. Asked if Members have received a copy: ``I don't know if
+everybody has.''
+Again, don't come to the floor and talk about transparency and
+openness and a new day. This is backroom politics. That is what this is
+about, secret deals that no one is going to know anything about until
+it is too late.
+Mr. Speaker, I reserve the balance of my time.
+Mr. COLE. Mr. Speaker, I continue to reserve the balance of my time.
+Mr. McGOVERN. Mr. Speaker, I yield 2 minutes to the gentleman from
+Maryland (Mr. Hoyer).
+Mr. HOYER. Mr. Speaker, I lament that the 2 minutes are no longer
+magic.
+Mr. Speaker, these rules are largely the rules that we have had for
+some period of time over the years, but they have important changes.
+Unfortunately, I view those changes as not facilitating our work but
+seeking to impede our work. I think that is unfortunate.
+They are also designed to target Federal employees if Members of
+Congress don't like what they do. There, of course, is a process to do
+that, but as the leader on the other side did at one point in time, he
+just cut out the salary for an employee he didn't like or thought was
+acting improperly. That was not appropriate, and of course, that did
+not prevail.
+I regret that we don't have an opportunity to look at these rules in
+the way that so many on this floor talked about doing.
+First of all, of course, they are not single issues. There are a lot
+of issues. It is the rules.
+Secondly, there are ways and means to provide for consideration in a
+transparent, open fashion in which I could offer an amendment to a rule
+that I thought was not in the benefit of this House or the American
+people.
+Unfortunately, this is the process, which is the very first process
+under which we have considered a piece of business, not necessarily
+legislation, and that is ironic. It is what it is, but it will, as such
+a process does, force us to vote against a piece of organizational
+rules because we don't agree with some of those rules. That is what I
+will do.
+{time}  1815
+Mr. COLE. Mr. Speaker, I continue to reserve the balance of my time.
+Mr. McGOVERN. Mr. Speaker, may I inquire of the gentleman from
+Oklahoma how many more speakers he has?
+Mr. COLE. Mr. Speaker, I am prepared to close whenever my friend is.
+Mr. McGOVERN. Mr. Speaker, I am prepared to close, as well, and I
+yield myself the balance of my time.
+Mr. Speaker, the last time House Republicans were in charge, they
+ended their time in power with a government shutdown. They controlled
+the House, the Senate, and the White House, and they shut the
+government down and walked away.
+Upon taking power once again, they began with a legislative shutdown,
+a shutdown where a far-right fringe held the incoming Republican
+leadership hostage and got them to give away everything, including
+their own dignity.
+What is clear from all of this is that the Republican Party no longer
+cares about governing. This rules package is exhibit number one.
+The American people sent us here because they want us to put people
+over politics. Sadly, this rules package puts politics first,
+empowering the extremists who are only interested in their own power.
+As I have said again and again, if this new majority wants to work
+together in good faith, my door is open. If this is their plan, they
+have clearly chosen to become a party that embraces election deniers
+and extremists, and Democrats will not go along to get along.
+Finally, Mr. Speaker, let me say that I have had some harsh words for
+this rules package. Call it ``tough love.'' I care very deeply about
+this institution, about the work we do here, and the awesome
+responsibility of the decisions we make. I am glad that my friends kept
+the McGovern rule on the 72-hour and the McGovern rule that committees
+have to do hearings and markups before they come to the Rules
+Committee.
+We weren't perfect, but overwhelmingly we kept our word.
+This legislation does a great disservice to the people we represent,
+and it does not live up to the high standards that we should have for
+this institution. I believe that calling this House to a higher
+standard is the right thing to do.
+But let me be clear that my criticism is reserved for the resolution
+we are considering and not for the distinguished gentleman from
+Oklahoma (Mr. Cole), whom I respect and admire as a person even when we
+strongly disagree, as we do today.
+These rules are a giveaway to the far right, but this Congress need
+not be. If my Republican colleagues want to get anything done, it is
+clear that they are going to have to work together with Democrats to
+get things done.
+Let's end the extremism and put people over politics to get stuff
+done.
+People do not want government shutdowns.
+People do not want to see us default on our financial obligations.
+People want us to get stuff done and to keep the lights on.
+The last two elections were a rejection of extremism. My friends
+predicted an overwhelmingly Republican majority in the last election,
+and instead, they got a pink splash because the American people,
+Democrats, Independents, and a lot of Republicans said: You are too
+extreme.
+So put the extremism behind you. I urge the Speaker to work with
+Democrats and not just work with the small fringe group in the
+Republican Conference, but to work in a way to move the people's agenda
+forward.
+I urge a ``no'' vote on this resolution, a ``no'' on the previous
+question, and I yield back the balance of my time.
+[[Page H70]]
+Mr. COLE. Mr. Speaker, I yield myself the balance of my time.
+In closing, I urge all my colleagues to support this resolution
+establishing the rules of the 118th Congress. The changes we are
+proposing today will ensure that the institution is set on a path of
+success for the new Congress.
+They will ensure that Members return to Washington and do their work
+here.
+They will set up an institution to hold the Biden administration
+accountable.
+They will put in place budgetary rules designed to prevent the kind
+of reckless spending spree Democrats recently engaged in.
+I urge all Members to vote ``yes'' on the previous question and
+``yes'' on the rule.
+Ms. JACKSON LEE. Mr. Speaker, I rise in strong opposition to H. Res.
+5, Adopting the Rules of the 118th Congress. Instead of building on the
+extraordinary work done by House Democrats in the 117th Congress,
+Republicans are choosing to lead off this term with legislation that
+attacks women's health freedoms, make it easier for companies to
+pollute without consequence, and hand out tax breaks to the wealthy and
+well connected.
+This problematic Rules package is the product of non-transparent
+negotiations, backroom deals and promises that were made to appease the
+demands made by extremist members of the Republican Party to get them
+to vote or in some cases vote present for Speaker of the House.
+Last week's catastrophic Speaker's election showed Americans how
+disorganized, chaotic, and inefficient the Republican leadership and
+Caucus can be.
+Last week's chaos showed the American people how Republicans plan to
+govern for the next two years. This body will be ill managed, less
+transparent, slow moving, and will put forth legislation that will
+attack our freedoms and undermine our Nation's values.
+Concessions made by Republican leadership last week will have
+devastating effects on this institution. The passage of this Rules
+package will pave the way for:
+Any member to file a ``motion to vacate the chair,'' effectively
+holding the Speaker hostage;
+Extreme right-wing members on key committees;
+Putting an end to the possibility of Congressional staff
+unionization;
+Reinstating the Holman Rules so Republicans can target civil servants
+who challenge them; and
+Shut down criminal investigations into the previous president.
+This problematic Rule is creating more turmoil in the Republican
+ranks as members wrestle with the image of witnessing the Speaker being
+coerced into agreeing to give a small faction of the Republican Caucus
+treats to appease them--including concessions to individual members for
+votes he needed to become Speaker.
+It is not inconceivable that Republican members of the delegation
+must show they are not being bullied into voting for this Rules Bill.
+The most problematic aspect of the Rule is that it does not spell out
+what the Speaker agreed to give to his opponents so that the Congress
+and the American people know what the Speakership actually cost them.
+This is the People's House--not the Republican or Democratic House
+any bargaining should be focused on the needs of the American people--
+they must come first.
+Throughout the last election cycle, Republicans campaigned on
+addressing inflation and lowering the cost of living for millions of
+Americans.
+Ironically, the first bill they are introducing repays the wealthy
+donors that got them their majority through dark money contributions by
+making it easier for the wealthiest 1 percent of Americans to cheat on
+their taxes.
+We all may have varying beliefs about taxes, but we as Americans
+know that nothing in this life is free and that in order for our Nation
+to be a beacon of freedom we must have a strong defense, public
+assistance programs to help those in need, an education system that
+prepares young minds to lead, retirement programs that provided for our
+elder and disabled, and a healthcare system that cares for all in need
+of healthcare.
+Passage of the rule will pave the way for Republicans to continue
+their assault on a woman's bodily autonomy and impede on medical
+decisions that should remain between medical professionals and their
+patient.
+Although the Born-Alive Abortion Survivors Protection Act does not
+criminalize abortion nationwide, make no mistake, that is their end
+goal, and the passage of this bill will get them one step closer to
+their sick idea of stripping all women of their rights.
+There are concerns that language in the House Rules Package would
+eliminate rules requiring spending offsets for bills that sell or
+transfer federal public lands and waters.
+This will result in a loss of public access enjoyed by the 70 million
+American hunters and anglers that help support the $862 billion outdoor
+recreation economy in the United States. Additionally, giving away
+public assets with no return would be a loss for American taxpayers.
+As a result, hunters and anglers are strongly opposed to this rule
+change, which would eliminate the necessity of spending offsets to sell
+or transfer public lands.
+I urge all my colleagues to oppose this bill and see it for what it
+truly is:
+an effort by Republicans to give tax breaks to the ultra-rich and the
+corporations who fund their campaigns, and
+an effort to continue carrying out their distorted notion of America
+by decimating the programs set in place to help the Americans who
+depend on government assistance the most.
+The text of the material previously referred to by Mr. McGovern is as
+follows:
+At the end of the resolution, add the following new
+section:
+SEC.__. WOMEN'S HEALTH PROTECTION ACT.
+Not later than January 12, 2023, the Speaker shall,
+pursuant to clause 2(b) of rule XVIII, declare the House
+resolved into the Committee of the Whole House on the State
+of the Union for consideration of a bill consisting of the
+text of H.R. 8296 of the One Hundred Seventeenth Congress, as
+passed by the House on July 15, 2022, to protect a person's
+ability to determine whether to continue or end a pregnancy,
+and to protect a health care provider's ability to provide
+abortion services. The first reading of the bill shall be
+dispensed with. All points of order against consideration of
+the bill are waived. General debate shall be confined to the
+bill and shall not ceed one hour equally divided and
+controlled by the Majority Leader and the Minority Leader or
+their respective designees. After general debate the bill
+shall be considered for amendment under the five-minute rule.
+The bill shall be considered as read. All points of order
+against provisions in the bill are waived. No amendment shall
+be in order except: (1) those amendments to the bill received
+for printing in the portion of the Congressional Record
+designated for that purpose in clause 8 of rule XVIII dated
+at least one day before the day of consideration of the
+amendment; and (2) up to 20 pro forma amendments for the
+purpose of debate, 10 of which may be offered by the Majority
+Leader or a designee and 10 of which may be offered by the
+Minority Leader or a designee. Each amendment so received may
+be offered only by the Member who caused it to be printed or
+a designee and shall be considered as read if printed. At the
+conclusion of consideration of the bill for amendment the
+Committee shall rise and report the bill to the House with
+such amendments as may have been adopted. The previous
+question shall be considered as ordered on the bill and
+amendments thereto to final passage without intervening
+motion except one motion to recommit.
+Mr. COLE. Mr. Speaker, I yield back the balance of my time, and I
+move the previous question on the resolution.
+The SPEAKER pro tempore. The question is on ordering the previous
+question.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Mr. McGOVERN. Mr. Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. Pursuant to the order of the House of today,
+further proceedings on this question are postponed.
+____________________

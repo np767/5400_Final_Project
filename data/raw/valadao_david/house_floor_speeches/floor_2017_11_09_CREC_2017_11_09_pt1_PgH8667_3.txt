@@ -1,0 +1,1746 @@
+[Congressional Record Volume 163, Number 183 (Thursday, November 9, 2017)]
+[House]
+[Pages H8667-H8678]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+{time}  0915
+MICRO OFFERING SAFE HARBOR ACT
+Mr. HENSARLING. Mr. Speaker, pursuant to House Resolution 609, I call
+up the bill (H.R. 2201) to amend the Securities Act of 1933 to exempt
+certain micro-offerings from the registration requirements of such Act,
+and for other purposes, and ask for its immediate consideration in the
+House.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore (Mr. Rogers of Kentucky). Pursuant to House
+Resolution 609, the bill is considered read.
+The text of the bill is as follows:
+H.R. 2201
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Micro Offering Safe Harbor
+Act''.
+SEC. 2. EXEMPTIONS FOR MICRO-OFFERINGS.
+(a) In General.--Section 4 of the Securities Act of 1933
+(15 U.S.C. 77d) is amended--
+(1) in subsection (a), by adding at the end the following:
+``(8) transactions meeting the requirements of subsection
+(f).''; and
+(2) by adding at the end the following:
+``(f) Certain Micro-Offerings.--The transactions referred
+to in subsection (a)(8) are transactions involving the sale
+of securities by an issuer (including all entities controlled
+by or under common control with the issuer) that meet all of
+the following requirements:
+``(1) Pre-existing relationship.--Each purchaser has a
+substantive pre-existing relationship with an officer of the
+issuer, a director of the issuer, or a shareholder holding 10
+percent or more of the shares of the issuer.
+``(2) 35 or fewer purchasers.--There are no more than, or
+the issuer reasonably believes that there are no more than,
+35 purchasers of securities from the issuer that are sold in
+reliance on the exemption provided under subsection (a)(8)
+during the 12-month period preceding such transaction.
+``(3) Small offering amount.--The aggregate amount of all
+securities sold by the issuer, including any amount sold in
+reliance on the exemption provided under subsection (a)(8),
+during the 12-month period preceding such transaction, does
+not exceed $500,000.''.
+(b) Exemption Under State Regulations.--Section 18(b)(4) of
+the Securities Act of 1933 (15 U.S.C. 77r(b)(4)) is amended--
+(1) in subparagraph (F), by striking ``or'' at the end;
+(2) in subparagraph (G), by striking the period and
+inserting ``; or''; and
+(3) by adding at the end the following:
+``(H) section 4(a)(8).''.
+The SPEAKER pro tempore. After 1 hour of debate on the bill, it shall
+be in order to consider the amendment printed in House Report 115-401,
+if offered by the gentleman from Minnesota (Mr. Emmer) or his designee,
+which shall be considered read and shall be separately debatable for 10
+minutes equally divided and controlled by the proponent and an
+opponent.
+The gentleman from Texas (Mr. Hensarling) and the gentlewoman from
+California (Ms. Maxine Waters) each will control 30 minutes.
+The Chair recognizes the gentleman from Texas.
+Mr. HENSARLING. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, we know that, unfortunately, after 8 years of bad
+economic policies from the Obama administration, working people did not
+receive a pay increase. We know that we had one of the lowest labor
+participation rates in modern history. We know that the economy was
+limping along at 1\1/2\ to 2 percent economic growth.
+But, fortunately, Mr. Speaker, a new day has dawned and now, all of a
+sudden, we see that, with the policies of Republicans in Congress, with
+the policies of the Trump administration, we are seeing promising
+signs. What we are seeing all of a sudden now is 2 quarters, Mr.
+Speaker, of 3-plus percent economic growth. This means a difference to
+working families. They are finally seeing increases in their paychecks,
+increases in their take-home pay.
+That is why one of the most exciting policies that are being worked
+upon today that we hope to see soon is fundamental, pro-growth tax
+reform for the entire American economy; one that would grow our economy
+and that makes a Tax Code fairer, flatter, simpler, more competitive;
+one that would lower rates for families and allow 90 percent of
+Americans to fill out their forms on something akin to a postcard;
+something that would help our small businesses and entrepreneurs.
+I look forward, Mr. Speaker, to having that legislation on the floor
+soon. But we have legislation today that is also important to our small
+businesses and our entrepreneurs, H.R. 2201, by the gentleman from
+Minnesota.
+What is so important about this legislation, Mr. Speaker, is that it
+would allow our entrepreneurs and our small businesses to more
+effectively be able to reach out to family and friends to get the
+needed capital to start their businesses.
+A 2014 survey by the Kauffman Foundation found out that over 28
+percent of startups raise their funding from their personal network.
+Mr. Speaker, we have a challenge, and that is the Securities Act does
+not clearly define what is a public offering or, conversely, a
+nonpublic offering. So this makes it very difficult for our early-stage
+entrepreneurial growth companies to go out and do any kind of private
+placement to raise funds from friends and family.
+Now, we know that a private placement is already something that is
+established in law. But what isn't established is a bright line, safe
+harbor for these business enterprises to go out and raise these funds.
+So what we also know, unfortunately, from our Securities and Exchange
+Commission is that a registered offering is simply not economically
+[[Page H8668]]
+feasible for a small business, an entrepreneur, an issuer who is
+seeking to raise less than $1 million.
+So too often, Mr. Speaker, we have a number of these enterprises
+that, frankly, just never get jump-started because they don't have the
+opportunity for a private offering. That is why it is so important.
+I want to thank the gentleman from Minnesota (Mr. Emmer) for his
+leadership in bringing this legislation to the House floor today.
+So it is a simple piece of legislation. Again, it simply allows a
+bright line, safe harbor for very small offerings. It requires that
+each purchaser has a substantive preexisting relationship with an
+officer, director, or shareholder of the issuer.
+The issuer must reasonably believe that there are no more than 35
+purchasers of the securities, and the aggregate amount of all
+securities sold by the issuer cannot exceed $500,000 in a 12-month
+period.
+So, Mr. Speaker, we are talking about a very small portion of
+startups, but a very vitally important section of our startups that
+need capital.
+Mr. Speaker, a few decades ago there was a company where a gentleman
+borrowed money from his father to import Japanese sports shoes, and he
+purchased 200 pairs of these Japanese sports shoes. He started a
+business called Blue Ribbon Sports, and today we know it as Nike.
+A few decades ago there was an investor out in Omaha, Nebraska, who
+borrowed money from seven friends and family members, including his
+sister Doris and Aunt Alice. Over the next 9 years, this initial
+investment grew, and this gentleman purchased something called
+Berkshire Hathaway, the textile company that has now led to the
+Berkshire Hathaway empire.
+In 1994, there was a gentleman who took a loan from his parents,
+moved to a two-bedroom, small apartment, and launched a company called
+Amazon.
+We want to make sure that the next Berkshire Hathaway, the next
+Amazon get launched, and that is why it is so critical we enact H.R.
+2201.
+Mr. Speaker, I reserve the balance of my time.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, H.R. 2201 would create an unnecessary and potentially
+dangerous loophole in Federal and State securities laws by allowing
+companies to sell unregistered securities without important safeguards
+that normally apply to such transactions. Specifically, the bill would
+allow a company to raise up to $500,000 from 35 or fewer investors,
+subject only to the requirement that each of these investors has a
+substantive preexisting relationship with the company.
+Currently, before a company can offer or sell its securities, it must
+either register the offering with the Securities and Exchange
+Commission--that is the SEC--or qualify for at least one of several
+existing exemptions from registration. These exemptions provide reduced
+regulatory requirements for businesses conducting the offerings, but
+are limited to investors who have the financial sophistication to
+understand the risks, or enough assets to bear losses without the full
+protections of the securities laws.
+Additionally, unlike H.R. 2201, these existing exemptions include
+several critical investor protections, such as notice to regulators,
+limitations on advertising, and restrictions on resale. For example,
+securities offered pursuant to rule 506 of regulation D are restricted,
+meaning they cannot be resold for at least a year without registering
+them; that is, re-registering them.
+Additionally, the re-registration exemptions available under the
+crowdfunding rules and regulation A impose limitations on the amounts
+an individual can invest in a year, thereby placing a cap on potential
+losses.
+H.R. 2201's lack of basic safeguards would leave investors vulnerable
+to an array of investment scams. For example, a purchaser of securities
+offered pursuant to H.R. 2201 would be able to immediately resell the
+securities in secondary transactions. In the past, the failure to
+restrict the resale of unregistered securities has exposed secondary
+investors to ``pump and dump'' schemes, a form of fraud that involves
+hyping up cheap junk stock in order to resell it at a higher price to
+unwitting investors.
+Additionally, investor and consumer advocates, like Americans for
+Financial Reform, Center for American Progress, and Public Citizen,
+oppose H.R. 2201 because it would enable a particularly deceptive scam
+known as ``affinity fraud.'' Bad actors perpetrating affinity fraud
+could use H.R. 2201 to prey upon religious communities, ethnic groups,
+and the elderly.
+Just a few years ago, the SEC shut down a scheme targeting the
+Hispanic community in southern California. The perpetrators raised more
+than $800,000 by representing to close friends and family members that
+their investment would be used to develop a financial services firm
+serving the Hispanic community.
+The SEC found that, instead of developing the purported business, the
+scammers ``used a large part of the investors' money to engage
+unsuccessfully in high risk `day-trading' of stocks; pay personal
+living, travel, and entertainment expenses; or make other unexplained
+expenditures with no connection to the purported startup business
+activities.''
+H.R. 2201 would provide a roadmap for bad actors to similarly rip off
+investors. The bill's $500,000 cap on offerings does not eliminate the
+need for robust safeguards against fraud and abuse. In fact, these
+protections are even more important for offerings of this size, given
+the proliferation of investment schemes in the smaller offering space.
+The SEC has found that ``fraud in the micro cap stock markets is of
+increasing concern to regulators, as such markets have proven to be
+fertile grounds for fraud and abuse.''
+While $500,000 may not seem like a lot on Wall Street, for Main
+Street Americans, losing even a fraction of that amount would destroy
+the hope of one day retiring with dignity. Existing exemptions such as
+those available under the SEC's regulation D, regulation A, and
+crowdfunding rules provide ample opportunities for companies to raise
+capital while also protecting investors.
+H.R. 2201 would only expose hardworking Americans to a new and wholly
+unnecessary risk. For these reasons, I urge my colleagues to vote
+``no'' on H.R. 2201, and I reserve the balance of my time.
+General Leave
+Mr. HENSARLING. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days within which to revise and extend their
+remarks and submit extraneous material on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Texas?
+There was no objection.
+Mr. HENSARLING. Mr. Speaker, I yield 5 minutes to the gentleman from
+Minnesota (Mr. Emmer), the sponsor of the legislation and an
+outstanding member of the Financial Services Committee.
+Mr. EMMER. Mr. Speaker, while government isn't meant to create jobs,
+with the help of the President, Congress can set Federal policies that
+establish a pro-worker, pro-business environment that lifts people out
+of poverty, helps families, and drives our country forward.
+One problem today that is impeding job growth is access to capital
+for small businesses. American businessmen and -women are often unable
+to get the loans they need to start a new enterprise or to grow an
+existing one.
+Additionally, if a firm would like to publicly sell stock to raise
+money, it must register with the Securities and Exchange Commission,
+which costs $2.5 million, on average; an amount most small businesses
+simply cannot afford.
+Small and emerging businesses are a key to the economic engine in
+America. The Small Business Administration found that these businesses
+create over half of the new jobs on an annual basis in this country.
+More importantly, today's small businesses are tomorrow's success
+story.
+Just think of all the great businesses in this country that started
+with a dream in a garage: Amazon, Apple, Microsoft, Disney, Harley-
+Davidson, and Minnesota's own Medtronic. We want to empower the
+entrepreneurs in this country to dream, innovate, and create jobs that
+grow our economy.
+That is why I introduced the Micro Offering Safe Harbor Act. This
+bill will make it easier for entrepreneurs and
+[[Page H8669]]
+small businesses to raise money from family, friends, and their
+personal network without running afoul of the vague and undefined
+``private offering'' safe harbor provisions in the Securities Act of
+1933.
+Thus, the Micro Offering Safe Harbor Act helps bring clarity to
+existing law so that our current and future job creators can easily
+raise capital within the confines of an easy-to-understand provision
+without the help of an expert.
+{time}  0930
+This legislation requires three specific criteria to be met
+simultaneously in order to trigger a safe harbor exemption for a
+security offering instead of just one or more. These criteria ensure
+that: one, each purchaser has a substantive preexisting relationship
+with an owner; two, there are no more than 35 purchasers of securities
+from the issuer that are sold in reliance on the exemption during the
+12 months proceeding; and, three, the aggregate amount of all
+securities sold by the issuers does not exceed $500,000 during the 12-
+month period preceding the offering. The bill also exempts any of the
+aforementioned security offerings from blue-sky laws, while maintaining
+antifraud provisions at the Federal and State level.
+These provisions protect Americans from criminals trying to swindle
+them out of their hard-earned money, while making capital more
+accessible to businesses by investors from around the country.
+In fact, I will be offering an amendment to enhance these antifraud
+provisions. This amendment, which incorporates the suggestions made by
+my colleagues on the other side of the aisle during a legislative
+hearing in the last Congress, will ensure that individuals who have
+been disqualified under the ``bad actor'' disqualification standard, as
+is listed under current law, are prohibited from using the exemption
+provided under H.R. 2201, establishing yet an additional layer of
+investor protection.
+Entrepreneurs and small-business owners need access to capital in
+order to achieve the American Dream. Although small businesses
+accounted for 99.7 percent of all the businesses in the United States
+last year, only half of them will survive longer than 5 years,
+according to our Bureau of Labor Statistics.
+Lack of capital or difficulty accessing capital is one of the main
+causes of failure for many of these small businesses. A 2015 survey
+conducted by BlueVine found that 75 percent of small and emerging
+businessowners reported their primary source of funding comes from
+their own personal finances, followed by banks at 16 percent and family
+and friends at 6 percent.
+While banks and credit unions do their best to offer the funding
+these businesses need to grow and thrive, there are still 3 million
+fewer small business loans made annually, today, than there were before
+the 2008 financial crisis. H.R. 2201 seeks to build off the success of
+the Jumpstart Our Business Startups Act of 2012, better known as the
+JOBS Act, and will continue to spur capital formation for the true job
+creators and drivers of our country's economy.
+The Micro Offering Safe Harbor Act helps small and emerging companies
+add another tool to the toolkit, enabling them to confidently find
+alternative ways of raising these funds without having to pay for
+costly securities experts and without the fear of lawsuits if they
+operate within these easy-to-understand parameters.
+That is why the Micro Offering Safe Harbor Act is endorsed by the
+National Small Business Association; the Small Business &
+Entrepreneurship Council; the National Federation of Independent
+Business; the Chamber of Commerce; Heritage Action; and Engine, ``The
+Voice of Startups in Government.''
+The House approved an identical version of this legislation during
+the 114th Congress as part of the Accelerating Access to Capital Act,
+and language similar to H.R. 2201 was included in the Financial CHOICE
+Act, which was adopted by this Chamber in June.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. HENSARLING. Mr. Speaker, I yield an additional 30 seconds to the
+gentleman from Minnesota.
+Mr. EMMER. Mr. Speaker, the time has come for Congress to come
+together and help small businesses help themselves by making this
+important update and improvement to the Securities Act of 1933.
+I want to thank Chairman Hensarling; Capital Markets, Securities, and
+Investment Subcommittee Chairman Huizenga; and all of the staff on the
+Financial Services Committee for their hard work on this legislation.
+Mr. Speaker, I urge my colleagues to support this legislation and
+hope that both parties will use H.R. 2201 as a way to show their
+support for more opportunities and better lives for our job creators.
+Mr. Speaker, I include in the Record letters from the National Small
+Business Association, the Small Business & Entrepreneurship Council,
+the United States Chamber of Commerce, Heritage Action for America, and
+Engine.
+National Small Business Association.
+Hon. Tom Emmer,
+House of Representatives,
+Washington, DC.
+Dear Representative Emmer: On behalf of the National Small
+Business Association (NSBA), the nation's first small-
+business advocacy organization, with more than 65,000 small-
+business members representing every state and every industry
+across the country, I commend your leadership for introducing
+the Micro Offering Safe Harbor Act (H.R. 2201) as it will
+have an immediate and direct impact on small businesses
+looking to raise capital. NSBA has long supported the kind of
+simplification this legislation would bring for small
+businesses.
+Capital is the lifeblood of any small business, and often
+small-business owners need capital at various stages; some at
+their startup and others later when they are looking to
+expand. Despite this ongoing need, small-business lending
+from banks has decreased over the last decade and many small
+businesses have few options for obtaining capital. According
+to NSBA's 2016 Year-End Economic Report, small-business
+access to capital remains stubbornly unchanged since the
+previous year, with just 69 percent of small firms reporting
+they are able to get adequate financing. This drop has real-
+world implications: 41 percent said lack of capital is
+hindering their ability to grow their business or expand
+operations, and 20 percent said they had to reduce the number
+of employees as a result of tight credit.
+Therefore, raising capital though securities is an
+attractive alternative option for many small-business owners.
+However, the current regulatory requirements are quite
+onerous for small businesses, often requiring expensive
+specialized counsel for even very small securities offerings.
+NSBA supports this targeted legislation that creates a safe
+harbor for small securities offerings which meet requirements
+clearly identified in the legislation. Under the legislation,
+these exemptions include offerings in which each purchaser
+has a substantive pre-existing relationship with the owners,
+where the issuer has less than 35 purchasers utilizing the
+exemption in the preceding 12 month period, or where the
+total amount raised during the preceding 12 month period is
+less than $500,000. By creating three safe harbor exemptions
+for ``non-public offerings,'' businesses can operate with
+clarity and a clear conscience knowing that they would be
+exempted from registering with the Securities and Exchange
+Commission (SEC). Additionally, the legislation also exempts
+transactions meeting the specified requirements from state
+registration requirements, commonly referred to as ``blue sky
+laws.''
+Raising capital for small businesses from friends and
+family already takes place on a regular basis, except those
+transactions often lack the legal protections and structure
+of securities law. In addition to expanding access to capital
+for small businesses, this legislation will bring those
+transactions under a recognized legal framework, and make
+resolving disputes that arise much more efficient. Finally,
+bringing these existing transactions under an existing legal
+framework will provide a sound legal basis for subsequent
+larger offerings requiring registration with the SEC.
+Access to capital continues to be one of the most pressing
+issues facing the small-business community. All small
+businesses need an injection of capital at one point or
+another, unfortunately in the past several years it has
+become difficult for small businesses to get the funds they
+need to grow and expand. NSBA is pleased to support the Micro
+Offering Safe Harbor Act as it will help small businesses
+around the country expand and create new jobs in their
+communities.
+Sincerely,
+Todd McCracken,
+President & CEO.
+____
+Small Business &
+Entrepreneurship Council,
+Vienna, VA, October 10, 2017.
+Hon. Tom Emmer,
+House of Representatives,
+Washington, DC.
+Dear Representative Emmer: On behalf of the Small Business
+& Entrepreneurship Council (SBE Council) and our nationwide
+membership of entrepreneurs and small business owners, I am
+writing to voice our support for the Micro Offering Safe
+Harbor Act, H.R. 2201.
+[[Page H8670]]
+When it comes to raising capital, the existing regulatory
+system is onerous and complex. Even for small securities
+offerings, compliance and navigating the rules are very
+expensive. H.R. 2201 is a needed solution that makes smart
+changes to existing law, providing certainty and an effective
+option for small businesses that need to raise capital.
+H.R. 2201 would exempt from registration requirements with
+the Securities and Exchange Commission (SEC) offerings made
+only to the entrepreneur's friends and family, to less than
+35 purchasers, and when $500,000 or less is raised. The
+offering would be exempt from state registration and
+qualification rules, thus reducing costs and complexity. H.R.
+2201 would appropriately scale SEC rules and regulatory
+compliance for our nation's small businesses, which in turn
+will provide another practical option for entrepreneurs to
+raise the capital they need to start or grow their firms.
+The United States has much work to do when it comes to
+fostering capital formation and encouraging investment and
+entrepreneurship. The Micro Offering Safe Harbor Act is a
+smart solution that will help many entrepreneurs successfully
+start and grow their businesses. Thank you for your
+leadership.
+Sincerely,
+Karen Kerrigan,
+President & CEO.
+____
+Chamber of Commerce of the
+United States of America,
+Washington, DC, October 10, 2017.
+Hon. Jeb Hensarling,
+Chairman, Committee on Financial Services,
+House of Representatives, Washington, DC.
+Hon. Maxine Waters,
+Ranking Member, Committee on Financial Services, House of
+Representatives, Washington, DC.
+Dear Chairman Hensarling and Ranking Member Waters: The
+U.S. Chamber of Commerce strongly supports several bills the
+Committee is scheduled to markup on October 11, 2017. The
+Chamber appreciates the Committee's ongoing work to enhance
+capital formation, hold regulators accountable, and reduce
+red tape burdens upon American businesses and consumers. The
+Chamber supports the following bills.
+H.R. 477, the ``Small Business Mergers, Acquisitions,
+Sales, and Brokerage Simplification Act of 2017,'' would
+simplify Securities and Exchange Commission (SEC)
+registration requirements for certain mergers and
+acquisitions (M&A) brokers who perform services related to
+the transfer of ownership of smaller private companies. The
+legislation properly balances regulatory relief for brokers
+and businesses involved in such transactions with important
+investor protections to prevent abuse. H.R. 477 would require
+disclosure of relevant information to investors and would not
+exempt M&A brokers from existing rules designed to prevent
+those who violate the law from continuing to work in the
+securities business.
+H.R. 1116, the ``Taking Account of Institutions with Low
+Operation Risk (TAILOR) Act of 2017,'' would direct federal
+banking regulators to scale rulemakings in order to properly
+reflect the various risk profiles of financial institutions.
+One of the unfortunate developments in recent years has been
+``one size fits all'' regulation in the banking sector. This
+legislation would ensure that community and regional
+financial institutions are not forced to comply with
+regulatory regimes more suited for global, interconnected
+institutions.
+H.R. 1585, the ``Fair Investment Opportunities for
+Professional Experts Act,'' would expand the definition of
+``accredited investor'' under securities laws by allowing
+those who can demonstrate relative education or work
+expertise to invest in certain private offerings, regardless
+of their income or net worth. In addition to providing Main
+Street households with greater opportunities to build wealth,
+H.R. 1585 would expand the pool of capital available to
+private businesses.
+H.R. 1645, the ``Fostering Innovation Act of 2017,'' would
+extend the Sarbanes-Oxley 404(b) internal controls exemption
+for certain emerging growth companies (EGCs) from five years
+to ten. This change would prevent the premature phase out of
+one of the more popular provisions of the 2012 Jumpstart our
+Business Startups (``JOBS'') Act, and would provide a further
+incentive for companies to enter public markets.
+H.R. 2201, the ``Micro Offering Safe Harbor Act,'' would
+provide a means for businesses to solicit and raise limited
+amounts of capital without running afoul of securities laws.
+Private businesses would be permitted to seek community-based
+financing of up to $500,000 per year in order to expand or
+hire new employees. Importantly, the bill includes a number
+of robust investor protections that would help prevent fraud
+and abuse in the market.
+H.R. 2396, the ``Privacy Notification Technical
+Clarification Act,'' would amend the 1999 Gramm-Leach-Bliley
+Act by clarifying that financial institutions are only
+required to send customers annual privacy notifications if
+there have been changes in the institution's privacy
+policies. It also clarifies that such notices need not be
+physically provided to a customer if they are made available
+online at the customer's request. These provisions would save
+costs for consumers and mitigate confusion related to privacy
+notices.
+H.R. 2706, the ``Financial Institution Customer Protection
+Act of 2017,'' would help prevent another ``Operation
+Chokepoint'' by prohibiting federal agencies from directing a
+financial institution to terminate an account without a
+material, documented reason for doing so. This bill would
+ensure that agencies do not unjustifiably discriminate
+against certain industries. The bill would also clarify
+liability under the Financial Institutions Reform, Recovery,
+and Enforcement Act. A House investigation of Operation Choke
+Point revealed the Obama administration Department Of Justice
+had radically and inappropriately reinterpreted the law.
+H.R. 3299, the ``Protecting Consumers Access to Credit Act
+of 2017,'' would codify the ``valid-when-made'' doctrine,
+which states that the characteristics of a loan are valid at
+origination, and are not unenforceable when assigned to
+another party. The recent Second Circuit decision in the
+Madden vs. Midland Funding, LLC case has undermined this
+doctrine and threatens to impose a chilling effect on credit
+markets nationwide. H.R. 3299 would restore the longstanding
+``valid-when-made'' legal principle and protect consumers and
+businesses that rely on robust credit markets.
+H.R. 3312, the ``Systemic Risk Designation Improvement Act
+of 2017,'' would replace Dodd-Frank's arbitrary asset
+threshold for labeling a bank ``systemically important'' with
+a multi-factor, tailored assessment that considers size,
+interconnectedness, substitutability, complexity, and cross-
+jurisdictional. Mid-size and regionals banks do not generate
+systemic risk and are critical to small business lending. By
+tailoring regulation and rejecting a one-size-fits-all
+approach, H.R. 3312 would promote Main Street access to
+credit and unlock economic growth.
+H.R. 3857, the ``Protecting Advice for Small Savers (PASS)
+Act of 2017,'' would repeal the misguided ``fiduciary rule''
+issued by the Department of Labor (DOL) in 2016. The DOL rule
+was built upon a fundamentally flawed and theoretical
+analysis that has been refuted by real life experience. A
+recent Chamber survey demonstrated the harm that DOL's rule
+is already inflicting upon investors, and we have long called
+for the SEC to assert its jurisdiction regarding standards of
+conduct for broker-dealers and investment advisers. H.R. 3857
+would rightly direct SEC to craft a rulemaking under the
+securities laws to protect investors and preserve access to
+investment choice.
+H.R. 3903, the ``Encouraging Public Offerings Act of
+2017,'' would allow any company--regardless of size or EGC
+status--to take advantage of the popular provisions under
+Title I of the 2012 JOBS Act, which include allowing
+investors to submit confidential draft registration
+statements with the SEC and to ``test the waters'' before
+filing an IPO. Title I of the JOBS Act has proven to be a
+true policy success, and Congress and the SEC should continue
+to explore how more companies can take advantage of its
+provisions.
+H.R. 3911, the ``Risk-Based Credit Examinations Act of
+2017,'' would authorize the SEC to utilize `risk-based'
+examinations of Nationally Recognized Statistical Rating
+Organizations (NRSROs), which would allow the SEC to focus
+its limited resources and prioritize its examination agenda,
+while reducing unnecessary compliance burdens on regulated
+entities.
+H.R. 3948, the ``Protection of Source Code Act,'' would
+amend the Securities Act of 1933 to require that the SEC
+actually issue a subpoena before requiring a person or entity
+to produce trading ``source code.'' Source code is the
+intellectual property of certain market participants, and
+there is no reason for the SEC to put into place a broad
+collection mechanism for such sensitive information. This
+legislation is necessary after past attempts by the Commodity
+Futures Trading Commission (CFTC) to collect source code
+without a subpoena.
+H.R. 3972, the ``Family Office Technical Correction Act of
+2017,'' would provide certainty for ``family offices''
+defined under securities laws by clarifying that such offices
+are accredited investors. This bill would preserve the
+ability of family offices to invest in certain private
+offerings and help them remain an important source of capital
+for growing businesses.
+H.R. 3973, the ``Market Data Protection Act of 2017,''
+would delay any reporting to the consolidated audit trail
+(CAT) until the SEC, Financial Industry Regulatory Authority
+(FINRA), and CAT operators develop sufficient cybersecurity
+protocols to protect the information that is set to be
+collected under the CAT. Recent cyberattacks have
+demonstrated that vulnerabilities exist within our capital
+markets, and H.R. 3973 would help safeguard the personal and
+sensitive information of market participants. The SEC should
+also explore alternatives to using personally-identifiable
+information as part of its data collection efforts under the
+CAT.
+Collectively, these bills would modernize capital markets,
+preserve consumer choice and access to credit, and require
+more transparency and accountability of the federal financial
+regulators. We look forward to working with the Committee and
+Congress as these bills advance through the legislative
+process.
+Sincerely,
+Neil Bradley.
+[[Page H8671]]
+____
+Heritage Action for America.
+To: Interested Parties
+From: Heritage Action for America
+Date: November 7, 2017
+Subject: Micro-Offering Safe Harbor Act (H.R. 2201)
+The Micro-Offering Safe Harbor Act (H.R. 2201) would remove
+unnecessary regulatory impediments for the smallest
+businesses seeking to raise capital to launch, to grow and to
+create jobs. It would create an exemption to the Securities
+Act registration requirement for businesses that make a
+securities offering to 35 or fewer people with whom they have
+a pre-existing relationship and that raise $500,000 or less.
+This will reduce the need for main street businesses to
+retain sophisticated securities counsel and improve their
+access to capital.
+Heritage Action supports this legislation.
+____
+Engine,
+San Francisco, CA, October 11, 2017.
+Hon. Jeb Hensarling,
+Chairman, House Committee on Financial Services, House of
+Representatives, Washington, DC.
+Hon. Maxine Waters,
+Ranking Member, House Committee on Financial Services, House
+of Representatives, Washington, DC.
+Dear Chairman Hensarling and Ranking Member Waters: On
+behalf of Engine and our community of startups,
+entrepreneurs, investors, and innovators, I write to express
+support for several bills scheduled for consideration before
+the House Committee on Financial Services tomorrow.
+Specifically, Engine reiterates its support for H.R. 2201,
+the ``Micro Offering Safe Harbor Act,'' which will facilitate
+capital access for promising startups.
+Engine is a nonprofit and advocacy group that supports
+high-growth, high-tech startups through research, advocacy,
+and policy analysis. We work to foster and promote forward-
+looking government policies and a regulatory environment in
+which entrepreneurs can launch innovative, new companies that
+grow and thrive. Through conversations with diverse startups
+across the country, we know that capital access remains a top
+challenge in getting a business off the ground.
+A large portion of startups rely on small, nonpublic
+offerings (also known as a ``private placements''), such as a
+``friends and family'' round, to raise seed capital. In fact,
+a 2014 survey by the Kauffman Foundation found that over 28
+percent of startups raised some amount of funding from their
+personal network. However, the Securities Act does not
+clearly define what constitutes a public offering, or
+conversely, a nonpublic offering, making it easy for early
+stage companies to unintentionally run afoul of the law when
+doing a private placement.
+H.R. 2201 would create three bright line safe harbor
+exemptions for non-public offerings. Under the legislation,
+offerings would be exempt from registration with the
+Securities and Exchange Commission (SEC) if each purchaser
+has a substantive pre-existing relationship with the issuer,
+there are 35 or fewer purchasers, or the amount being raised
+does not exceed $500,000. These exemptions would bring much
+needed clarity for startups and ensure that a company doing a
+small, private placement is not forced to complete burdensome
+paperwork or spend precious resources on an expensive lawyer
+in order to comply with ambiguous regulatory requirements.
+Finally, H.R. 2201 would exempt these micro-offerings from
+state blue sky registration and qualification laws,
+decreasing the regulatory complexity for startups doing a
+small raise.
+Engine appreciates the Committee's consideration of this
+bill and its continued work on capital access issues for
+emerging firms. We look forward to further engagement with
+the bills' sponsors and Committee members on these important
+issues.
+Sincerely,
+Evan Engstrom,
+Executive Director.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield such time as he
+may consume to the gentleman from Rhode Island (Mr. Cicilline).
+Mr. CICILLINE. Mr. Speaker, I thank the gentlewoman for yielding.
+I want to begin, Mr. Speaker, by responding to the gentleman from
+Texas, who began this debate by saying how this was a continuation of
+an ongoing effort by Republicans to promote progrowth tax reform in
+particular.
+I want to be very clear, Mr. Speaker. The proposal that is currently
+before this House with respect to the tax changes is a tax scam. It is
+not a tax plan. It is a scam. It gives $1.5 trillion in tax cuts to the
+wealthiest Americans, the biggest corporations, and the millionaires
+and billionaires. It increases taxes on tens of millions of middle
+class families. It pays for this big gift back to corporations and
+billionaires and millionaires by deep cuts in Medicare, Medicaid,
+infrastructure spending, education--the things that actually create
+jobs.
+It creates additional incentives to ship American jobs overseas,
+creates incentives for American companies to take jobs here and ship
+them overseas, not to keep them here in our own country. It is another
+maybe more robust example of trickle-down economics. It has failed
+before. It will fail again.
+The American people might have the benefit of understanding this more
+completely if there were actually a process where this was debated,
+witnesses testified, and experts came in to talk about the implications
+of this. But this is being done in the dark of night, at the speed of
+light so the American people won't find out what is about to happen to
+them. So the idea of describing this as progrowth in this context, both
+with the provisions and the process, seems, to me, laughable.
+Let me just give the American people a couple of examples:
+It denies individuals the right to deduct State and local taxes but
+preserves that right for corporations;
+It denies the worker who is forced to leave his home and move because
+his employer is moving--either do that or he loses his job--from
+deducting the cost of moving, but it preserves the right of a company
+who is offshoring jobs overseas to take a deduction for the cost of
+moving those American jobs overseas.
+Those are just two examples. So this isn't a progrowth tax policy.
+This is trickle-down economics designed to let the people at the very
+top hold onto more of their money and corporations to keep more of
+their profits in the hope that it will trickle down to the rest of the
+American people.
+It doesn't work. It doesn't represent a progrowth tax policy. It is a
+tax scam, and so I want to just correct the record, Mr. Speaker, with
+all due respect to the gentleman from Texas.
+Mr. Speaker, I rise, in addition to that, to express my strong
+opposition to H.R. 2201, the Micro Offering Safe Harbor Act.
+In light of the devastating 2008 financial crisis and the regulatory
+weaknesses revealed by the Wells Fargo and Equifax scandals, we should
+be considering legislation that will bolster consumer and investor
+protections; but today, instead, we are considering H.R. 2201, which
+will enable abusive financial practices.
+Generally, a company that seeks to make public offerings must
+register them with the Securities and Exchange Commission or must fit
+into one of several exceptions that are designed to balance investor
+protections with regulatory burdens on smaller companies. This
+legislation would allow so-called microcap offerings, offerings valued
+at $500,000 or less in a single year to be sold to 35 or fewer
+investors, subject only to the requirement that each investor have a
+substantive preexisting relationship with the company.
+Despite the similarity of these provisions to some restrictions
+currently imposed on unregistered security offerings, H.R. 2201 omits
+several critical investor protections that are characteristic of
+existing exemptions. In particular, microcap offerings would be exempt
+from important regulatory protections set up in the 1933 Securities
+Act, including registration, disclosure, and fraud protections.
+Oversight in the smaller offering space such as the one proposed in
+H.R. 2201 is important because the SEC has found fraud in the microcap
+stock markets is of increasing concern to regulators, as such markets
+have proven to be fertile grounds for fraud and abuse.
+Without core protections, H.R. 2201 would leave investors vulnerable
+to an array of investment scams and abuses, with unsophisticated
+investors particularly at risk. For example, the bill has no
+restriction on resale. In the past, failure to restrict the resale of
+unregistered securities has exposed secondary investors to fraudulent
+pump-and-dump schemes, as the gentlewoman from California mentioned.
+Additionally, groups like Americans for Financial Reform, Center for
+American Progress, and Public Citizen oppose H.R. 2201 because it would
+enable a type of investment scam known as affinity fraud. In these
+schemes, scam artists prey upon members of identifiable groups, such as
+ethnic or religious communities or the elderly, often by enlisting
+respected community or religious members to help convince victims that
+a dubious investment is legitimate. The proliferation of affinity fraud
+in low-income communities demonstrates that H.R. 2201's preexisting
+relationship requirement would not provide safeguards against such
+abuse.
+[[Page H8672]]
+Given existing exemptions for smaller companies would provide ample
+opportunity for companies to raise capital while also protecting
+investors, H.R. 2201 is, at best, unnecessary. This bill would simply
+create a loophole that undermines protections against the kind of
+financial abuses and recklessness that we have already seen damage our
+financial system and hurt people.
+Mr. Speaker, I urge my colleagues to oppose H.R. 2201.
+I thank the gentlewoman again for yielding.
+Mr. HENSARLING. Mr. Speaker, I yield myself 30 seconds, just to say,
+as I listen to the gentleman from Rhode Island and the ranking member,
+their comments are very interesting, but everything they described is
+already illegal. Their remarks acknowledge that the SEC can and does
+bring actions to enforce the securities laws and shut down fraud when
+they discover the fraud.
+Nothing in H.R. 2201 eliminates the DOJ's ability to pursue criminal
+prosecutions or fraud. Nothing in it impacts the SEC's ability to
+pursue civil actions against issuers who engage in fraud under section
+17(a) of the Securities Act of 1933. It is just a red herring. It is
+one of the reasons we have had such poor economic growth under the
+Democratic regime.
+Mr. Speaker, I yield 3 minutes to the gentleman from Missouri (Mr.
+Luetkemeyer), chairman of the Financial Institutions and Consumer
+Credit Subcommittee of our committee.
+Mr. LUETKEMEYER. Mr. Speaker, I thank Chairman Hensarling for his
+leadership on this issue. I also want to thank the gentleman from
+Minnesota (Mr. Emmer) for taking a lead on this important legislation.
+As an elected official, I have the opportunity to interact with
+individuals across my district who strive to create new or expand
+existing small businesses. These are folks who work hard to provide for
+their families and serve as the backbones of their communities.
+Unfortunately, for many entrepreneurs, overregulation has stifled
+their ability to innovate and grow. The National Federation of
+Independent Business published a recent study showing that 30 percent
+of small business respondents cited taxes, regulations, and red tape as
+their most significant business problem.
+While certain sectors are reaping the benefits of a strong economy,
+the reality is that startups and small businesses are sitting on the
+sidelines with limited access to credit. It is something I hear about
+from businessmen and -women every single day, be they bankers,
+retailers, farmers, doctors, and every profession in between.
+We also know that many startups and businesses have historically
+turned to local financial institutions for initial financing. In the
+years after passage of Dodd-Frank, small bank lending is down
+dramatically, leaving many commercial customers scrambling to find
+other forms of reasonably priced financing.
+Across the board, we are enabling a burdensome system that penalizes
+entrepreneurship. We need to reverse course if we want to see a
+resurgence of small business creation and growth.
+H.R. 2201 is commonsense legislation that seeks to reverse one
+impediment to entrepreneurship. Mr. Emmer's bill offers a thoughtful
+approach to a problem that has hindered and, in some cases, prevented
+small offerings across the Nation. It will appropriately scale Federal
+rules and regulatory compliance and will allow small businesses to
+access the capital necessary for growth.
+More specifically, this legislation will exempt certain nonpublic
+micro offerings from the SEC requirements. The bill features guardrails
+that allow for investor protection and subjects any and all exempted
+micro offerings to the full suite of Federal and State antifraud laws.
+The result will be a less burdensome regulation that stifles
+innovation and increases access to capital for startups and small
+businesses that comply with the parameters included in the bill. This
+bill is about Main Street, about the small-business men and women in
+each of our districts.
+Mr. Speaker, I want to again thank and applaud the gentleman from
+Minnesota for his hard work on this legislation, and I ask my
+colleagues to join me in voting in favor of the legislation.
+Ms. MAXINE WATERS of California. Mr. Speaker, may I inquire as to how
+much time I have remaining.
+The SPEAKER pro tempore. The gentlewoman has 18\1/2\ minutes
+remaining. The gentleman from Texas has 16 minutes remaining.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, we have laid out this morning exactly how vulnerable
+groups and individuals can be taken advantage of with legislation like
+this. I don't know exactly where this legislation originated, but I can
+almost guarantee you that we are creating opportunities for individuals
+who don't have the best interest of our constituents at heart to
+literally get small groups together, 35, I guess, or less, and sell
+them on ideas where they are raising funds that probably will not
+result in profits as expected by those who are investing in these
+schemes.
+{time}  0945
+No, there are no protections. There is no notice. The SEC will not
+know when and where these schemes are arising. So I would say to my
+colleagues on the opposite side of the aisle: When are we going to act
+as if we have the best interests of our constituents at heart? When are
+we going to be about protecting consumers rather than opening up
+opportunities for them to be the victims of fraud?
+We have fraudulent schemes that are directed at the most vulnerable
+people. I know where those people who are organizing these schemes will
+go. They will go to our churches where well-meaning ministers and
+parishioners will be taken advantage of.
+In these vulnerable communities that are always taken advantage of,
+we have people who are the victims of payday loans where they are
+paying 400 percent for moneys that they are borrowing when they are
+desperate in between paychecks. We have rent-to-own schemes. We have
+all kinds of schemes where these convenience stores, in places where we
+have food deserts, are charging extremely high prices for food that is
+basically being sold for regular, ordinary, good prices in other
+communities.
+In some communities, even in California, the gas taxes are rising. We
+have the rental market that is going off the scale all over this
+country with people not being able to afford a decent lease or a decent
+rental space, and so here we are just opening up another opportunity
+for folks to be ripped off.
+It is going to happen; I can guarantee you that. When you have
+something like this that is passed by the Congress of the United
+States, it is going to be taken advantage of, and the way that this is
+constructed, it almost begs to be taken advantage of.
+So do you know what happens when this kind of thing takes place and
+Members of Congress put their reputations on passing this kind of
+legislation? When the rip-offs start and people are harmed a few years
+later, then they are going to come back with legislation talking about
+how they are correcting the fraud and the rip-offs that we caused in
+the first place.
+When is this going to stop? We have a Consumer Financial Protection
+Bureau that is struggling every day to protect our consumers. Prior to
+Dodd-Frank, we had our oversight agencies with the responsibility of
+protecting consumers, but they didn't have any real protection. So
+Dodd-Frank reforms helped to create opportunities for Members of
+Congress to be able to protect their consumers and not to be involved
+in these kinds of schemes.
+But the opposite side of the aisle has spent an inordinate amount of
+time trying to kill off the Consumer Financial Protection Bureau, and
+they have done it in so many ways. Not only do they come up with
+amendments time and time again to try and shut down the Consumer
+Financial Protection Bureau, they treat the Director of the Consumer
+Financial Protection Bureau so badly that they almost deny him the
+opportunity to come before our committee and to be heard.
+So I don't know whose side legislators are on who create this kind of
+crap. I don't understand why it is deemed to be important to open up
+the opportunity for schemes and to not give the SEC the ability to know
+when they are getting started, to have the
+[[Page H8673]]
+kind of disclosures, and to have the kind of oversight that would
+protect the most vulnerable people in our society.
+Mr. Speaker, yes, this legislation will probably pass today. The
+Republicans have the majority votes in this Congress, and I suppose
+they are going to get all of their people to vote for this bill that is
+going to rip off some of their constituents, and, again, we won't be
+able to stop it because, again, they have the majority votes.
+But I want the people of this country to know and understand what is
+happening, who is doing it to them, and why they are having a difficult
+time. At a time when the rental market is going off the scale and they
+can't afford to pay the first and the last month's rent to get into a
+place, I want them to know who is creating the difficulties in their
+lives when their jobs have not increased their pay, they are still
+trying to have a decent quality of life for their families, despite the
+fact that the pay does not match the job that they are doing, and they
+haven't had the pay increases.
+When are we going to show that we stand up for the least of these?
+When your churches get ripped off--and we are working on some of those
+schemes now where, even with the responsibilities that the SEC has, we
+have people who are getting ripped off, and here we come with another
+piece of legislation. Then what we do is we shade it in terms of this
+is for small business development. Then we hear from the opposite side
+about all the other companies who started as little-bitty companies in
+their garage. Well, they all started without this bill. They didn't
+need this bill to start.
+So why are you doing this? Yeah, you are right; there are a lot of
+companies, and you have named them, particularly in the high tech
+industries that started, and they had some of their own money to get
+started with, and maybe the family helped them, I don't know, but they
+didn't have this legislation. They didn't need this legislation. Nobody
+needs this legislation.
+This legislation is harmful, and I would ask my colleagues to vote
+against the bill. If there are any Members on the opposite side of the
+aisle who really are concerned about their constituents, I would ask
+them to defy their leadership and vote against this bill.
+Mr. Speaker, I reserve the balance of my time.
+Mr. HENSARLING. Mr. Speaker, number one, I was very pleased to hear
+one of the most compelling indictments of 8 years of the Obama
+administration I have ever heard on the House floor, and I thank the
+ranking member for it.
+Mr. Speaker, I yield 3 minutes to the gentleman from Pennsylvania
+(Mr. Rothfus), who is the vice chairman of the Financial Institutions
+and Consumer Credit Subcommittee.
+Mr. ROTHFUS. Mr. Speaker, I thank the chairman for yielding.
+Jobs, jobs, jobs. That is why, Mr. Speaker, I rise today to express
+my support for the Micro Offering Safe Harbor Act.
+Whose side am I on? The tens of millions of folks who don't have jobs
+out there who want job opportunities. We know from some studies that,
+over the last 8 years of wrong regulation, 650,000 small businesses
+have not been created. That means 6\1/2\ million jobs, 6\1/2\ million
+people who are not paying Medicare tax, and 6\1/2\ million people who
+are not paying Social Security tax. We need these people in the game,
+Mr. Speaker, and this act can help them get into the game.
+This is an important piece of pro-jobs legislation, and I thank my
+colleague, Mr. Emmer, for introducing it.
+We all want our economy to become vibrant once again so it can
+generate opportunity and prosperity for all Americans. Unfortunately,
+regulatory burdens--both new and preexisting--often get in the way of
+raising capital and building a business.
+At hearing after hearing at the Financial Services Committee, we have
+heard from financial institutions that are unable to lend to small
+businesses or are afraid to do so. We have also heard from businesses
+that cannot find the capital they need to expand or to retool. All of
+this has an impact on jobs and wages as well as on our overall economy.
+The Micro Offering Safe Harbor Act is a targeted, commonsense bill
+that will make it easier for small businesses to access capital that
+they need to grow.
+Specifically, H.R. 2201 will permit businesses to issue a limited
+number of securities to individuals with whom principals have a
+preexisting relationship. This would include family and friends who are
+often early investors in startups.
+Businesses will only be able to issue a small amount of securities--
+$500,000 a year--but that is a step in the right direction toward
+helping businesses that need funding.
+This is good policy that will make it easier for small businesses to
+get off the ground, grow, and add jobs.
+At the same time, this bill ensures that our regulators can continue
+to police fraud and abuse, and to do so aggressively. On that point,
+there is no ambiguity. Fraud is illegal, and it will not be tolerated
+or excused.
+Again, I strongly support the Micro Offering Safe Harbor Act. It is
+good for the economy and good for hardworking Americans. It is good for
+jobs, jobs, jobs.
+Mr. Speaker, I urge my colleagues to support this legislation.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, by allowing entities to sell unregistered securities
+based solely on a preexisting relationship with the investor, H.R. 2201
+would create a road map for affinity fraud.
+Affinity fraud is a type of investment scam where swindlers prey upon
+members of identifiable groups such as ethnic or religious communities
+or the elderly. Often, affinity fraudsters take advantage of
+preexisting relationships to engender trust and convince victims that a
+dubious investment is legitimate.
+The Securities and Exchange Commission has found that such frauds
+pose heightened risks to investors because they can be difficult for
+regulators or law enforcement officials to detect, particularly where
+the fraudsters have used respected community or religious leaders to
+convince others to join the investment.
+The following cases represent a sampling of recent affinity fraud
+actions from around the United States.
+In August, 2013, the SEC halted an offering fraud scheme where Steven
+Bruce Heinz, a Utah resident purporting to be an investment adviser,
+sold phony investment contracts to more than 15 of his former clients,
+family members, and friends. According to the SEC's complaint, Heinz
+raised $4 million in investor funds he used to engage in high-risk
+trading of future contracts and to pay his own personal expenses such
+as family vacations to Mexico and a $600,000 loan.
+Among the investors taken in by Heinz scam was ``the recent widow of
+a church associate of Heinz who invested with Heinz after he
+volunteered to assist her with her finances and investments after her
+spouse died.''
+In 2012, the SEC stopped a $7.5 million fraud operation targeting the
+Persian-Jewish community in Los Angeles. The SEC's assistant regional
+director stated that Shervin Neman ``deceived members of his own
+community to raise money in this fraudulent Ponzi scheme. By exploiting
+investors' trust in him, Neman was continually able to raise more money
+to pay back existing investors and finance an extravagant lifestyle.''
+According to the SEC's complaint, among other things, Neman spent
+investor funds to pay for his wedding and honeymoon, his wife's
+engagement ring, luxury cars, and VIP tickets to entertainment venues.
+In 2015, the SEC permanently barred John Allan Russell from the
+securities industry after Russell pled guilty to securities fraud in
+Colorado State court. The SEC's administrative law judge found that
+Russell obtained almost $300,000 by selling debt securities to an
+elderly victim who suffered from dementia and Alzheimer's disease. The
+ALJ also determined that ``Russell's scheme may have involved affinity
+fraud because the misconduct began a few years after the victim acted
+as Russell's godfather at his baptism.''
+These cases demonstrate that H.R. 2201's preexisting relationship
+requirement would not provide any meaningful deterrent against abuse.
+On the contrary, it would encourage opportunistic conduct targeting
+communities.
+[[Page H8674]]
+Mr. Speaker, I urge my colleagues to join me in voting ``no'' for
+this bill.
+Given all that the SEC is able to do, they can't keep up with these
+schemes, and now you are going to open up the door for them to have to
+wrestle with trying to help people who are victims of these kinds of
+schemes.
+Mr. Speaker, I reserve the balance of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 3 minutes to the gentleman from
+Colorado (Mr. Tipton), who is the vice chairman of the Oversight and
+Investigations Subcommittee.
+{time}  1000
+Mr. TIPTON. Mr. Speaker, I rise today to join my colleagues in
+support of the gentleman from Minnesota's legislation, the Micro
+Offering Safe Harbor Act.
+As I have traveled through my district back in Colorado, I have often
+been dismayed by the ever-increasing number of storefronts, once
+thriving businesses, which now have ``for sale'' and ``for lease''
+signs out front.
+Small businesses are essential to job creation and job innovation,
+but they have been so hamstrung by the burden of compliance with
+regulations intended for large public companies that their ability to
+be able to create jobs and innovate has been stifled.
+The Micro Offering Safe Harbor Act will exempt certain micro
+offerings from the registration requirements of the Securities Act of
+1933, thereby removing obstacles to obtaining funding in capital
+markets for Main Street businesses. It is hard for capitalism to work,
+Mr. Speaker, without capital.
+This legislation tackles that problem and creates opportunities for
+hardworking small businesses to be able to go public to raise that
+initial capital in the early stage and to be able to develop that seed
+capital that is needed. Growth is often contingent on capital. Without
+investment, it is easy for small businesses to falter.
+By defining the ``nonpublic offering'' exemption under the Securities
+Act, this legislation will provide small businesses with much-needed
+clarity and a renewed confidence in what the proper procedure is for a
+nonpublic offering that does not violate the law and helps to be able
+to grow businesses.
+Removing this confusion will provide small businesses with much-
+needed certainty and allow them to be able to focus their resources on
+growth, rather than on compliance.
+For this reason, I support the measure that is before us today, and I
+would encourage my colleagues to do the same. I commend Mr. Emmer for
+introducing this legislation to alleviate the burdensome compliance
+environment that is imposed on small businesses. Again, I encourage my
+colleagues to support this legislation.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, the North American Securities Administrators Association
+sent this letter of concern. They said that H.R. 2201 would result in
+an overly broad Federal exemption that would allow public solicitation
+and sales to any investor, regardless of sophistication or financial
+wherewithal, subject only to the requirement that there be a previously
+existing relationship, a standard that is not difficult to establish.
+In practical terms, this means that Main Street investors could be
+solicited and sold up to $500,000 in private security by bad actors,
+including persons having been convicted of crimes or subject to one or
+more previous State enforcement actions, without any disclosure to the
+investor and without any notice to State or Federal regulators.
+There is no valid basis for Congress to prevent State officials
+charged with protecting their constituents from making decisions about
+purely local or regional issues that would rely on the exemption
+established by H.R. 2201.
+Further, preemption of State review or even notification for the type
+of small, localized offerings contemplated by H.R. 2201 would
+effectively handcuff the regulators best positioned to oversee such
+offerings.
+Public Citizen said this bill ``would permit small offerings with no
+investor protections, such as notice of the offerings. It will enable a
+type of affinity fraud, where the seller can unload dubious securities,
+provided there is some relationship between seller and purchaser. This
+bill assumes that a preexisting relationship will deter abuse, which is
+a tenuous foundation, at best. Further, the relationship can begin with
+the offer.''
+They don't have to have a previous relationship. It would start when
+the offer takes place.
+Public Citizen further stated that ``the bill says the relationship
+must only exist before the purchase.''
+Mr. Speaker, I include in the Record letters from these groups, as
+well as a letter from Americans for Financial Reform.
+North American Securities
+Administrators Association, Inc.,
+Washington, DC, November 7, 2017.
+Re H.R. 2201--The Micro-Offering Safe Harbor Act.
+Hon. Paul Ryan,
+Speaker, House of Representatives,
+Washington, DC.
+Hon. Nancy Pelosi,
+Democratic Leader, House of Representatives,
+Washington, DC.
+Dear Speaker Ryan and Leader Pelosi: On behalf of the North
+American Securities Administrators Association (``NASAA''), I
+write to express concern and raise specific objections to
+certain provisions of H.R. 2201, The Micro-Offering Safe
+Harbor Act, which is scheduled to be considered by the House
+of Representatives this week. The legislation would amend
+securities laws in ways that could be profoundly detrimental
+to investors, and detract from the viability of the
+marketplace for offerings from new or smaller issuers that
+are compliant with securities law.
+The Micro-Offering Safe Harbor Act amends Section 4 of the
+Securities Act of 1933 to create a new exemption from
+registration. To qualify for the exemption, an offering would
+have to meet certain criteria regarding the number of
+purchasers, their relationship to the issuer, and the amount
+of capital raised. However, as more fully discussed below,
+the legislation fails to include critical investor protection
+measures and would preempt state regulatory authority.
+State securities regulators understand the need of small
+businesses to efficiently raise capital and the role strong
+investor protection plays in facilitating this goal.
+Unfortunately, the changes embodied in H.R. 2201, while well
+intended, are ill-advised and potentially quite dangerous.
+For example, unregistered securities purchased under the
+exemption established by H.R. 2201 would not be
+``restricted,'' and could thus be sold immediately, exposing
+investors to classic ``pump and dump'' schemes. Furthermore,
+NASAA is aware of no evidence to support the proposition that
+Congress should create a ``safe harbor'' to permit
+unregistered securities offerings to be offered and sold,
+including through general solicitation, regardless of
+investor sophistication or financial wherewithal. Even as the
+bill stands to introduce new and totally unnecessary risk
+into securities markets--failing to even disqualify ``bad
+actors'' from these markets--the goal of the legislation
+remains unclear and its necessity is, at best, not well-
+established. It is clear, however, from the terms of the
+exemption, and its failure to impose even the modicum of
+regulatory oversight that exists for similar ``private''
+offerings under SEC Regulation D Rule 506, that offerings
+made under the new exemption are likely to be
+disproportionately risky and illiquid. This fact alone should
+be cause for concern by Congress.
+Beyond stark new risks to investors, this legislation
+threatens to jeopardize the continued viability of
+established markets geared to smaller issuers, many of which
+operate lawfully within existing federal and state securities
+laws. Such markets include securities sold pursuant to SEC
+Rule 506, new federal exemptions established by the JOBS Act,
+and exemptions adopted in many states to permit intrastate
+crowdfunding. Without effective investor protection measures
+a potential effect of H.R. 2201 could be to cause investors
+to abandon the markets for smaller issues.
+In closing, NASAA reiterates strong opposition to the
+preemption of state registration and notice filing authority
+in H.R. 2201. There is no valid basis for Congress to prevent
+states from making decisions about the local or regional
+issues that H.R. 2201 seeks to encourage. Failure to register
+or at the very least, to notice file with state regulators
+results in unknown sales, by unknown actors of unknown
+enterprises and result in no gatekeeper function to protect
+retail investors whose only source of recourse for fraudulent
+sales are the state securities regulators. At a minimum H.R.
+2201 should:
+1) Include bad actor disqualifications;
+2) Establish a holding period to reduce the likelihood of
+``pump and dump'' schemes;
+3) Provide at least a notice filing with state regulators
+so that in the event of a fraudulent offering, state
+regulators can begin an investigation to try and protect
+retail investors;
+4) Limit the sale amount to retail investors so that
+investors are not ``encouraged'' to place all their eggs in
+one basket; and
+5) Prohibit or restrict general solicitation of what are
+clearly high risk securities.
+Thank you for your consideration of NASAA's views.
+Sincerely,
+Joseph P. Borg,
+NASAA President and Alabama
+Securities Director.
+[[Page H8675]]
+____
+Public Citizen,
+November 7, 2017.
+Hon. Member,
+House of Representatives,
+Washington, DC.
+Dear Honorable Member: On behalf of more than 400,000
+members and supporters of Public Citizen, we urge you to vote
+``NO'' on three bills coming to the floor this week that
+would weaken financial protections that were put in place to
+protect American consumers. HR 3911 and HR 2148 will be
+considered under suspension. HR 2201 will be considered under
+regular order.
+H.R. 2148, Clarifying Commercial Real Estate Loans
+This bill would reduce the capital requirements for High
+Volatility Commercial Real Estate (HVCRE). During the recent
+financial crisis, this sector caused major losses, especially
+at smaller banks. The U.S. Government Accountability Office
+(GAO) found that failures of small banks ``were largely
+driven by credit losses on commercial real estate (CRE)
+loans, particularly loans secured by real estate to finance
+land development and construction.'' Further, this sector has
+grown rapidly in recent years, raising further concerns about
+prudential lending standards. We must assure that this type
+of lending remains properly capitalized to prevent against
+failures that could become economic contagions.
+H.R. 2201, Micro Offering Safe Harbor Act
+This bill removes basic protections from offering
+securities provided that the purchasers have a preexisting
+relationship with an officer, director, or shareholder with
+10 percent or more of the shares of the issuer, and the
+aggregate amount of all securities sold by the issuer does
+not exceed $500,000 during a 12-month period. This would
+permit small offerings with no investor protections, such as
+a notice of the offering. It will enable a type of affinity
+fraud, where the seller can unload dubious securities
+provided there is some relationship between seller and
+purchaser. The bill assumes that a pre-existing relationship
+will deter abuse, which is a tenuous foundation, at best.
+Further, the relationship can begin with the offer. The bill
+says the relationship must only exist before the purchase.
+Finally, the bill pre-empts state regulatory oversight.
+Removing supervisors closest to potential problems is unwise
+and leaves small investors exposed to exploitation.
+H.R. 3911, Risk-Based Credit Examinations Act of 2017
+This bill would allow the Securities and Exchange
+Commission (SEC's) Office of Credit Ratings (OCR) to reduce
+its oversight of nationally recognized statistical rating
+organizations (NRSROs), also known as credit rating agencies.
+Credit rating agencies essentially sold their high marks to
+large banks that were securitizing loans, a major factor
+leading to the financial crash of 2008. In response to the
+inflated credit ratings for otherwise toxic securitizations,
+Congress mandated creation of the OCR and directed it to
+conduct annual examinations of each NRSRO and make its
+reports public. It must examine eight areas: (i) whether the
+NRSRO conducts business in accordance with its policies,
+procedures, and rating methodologies; (ii) the management of
+conflicts of interest by the NRSRO; (iii) the implementation
+of ethics policies by the NRSRO; (iv) the internal
+supervisory controls of the NRSRO; (v) the governance of the
+NRSRO; (vi) the activities of the Designated Compliance
+Officer (DCO) of the NRSRO; (vii) the processing of
+complaints by the NRSRO; and (viii) the policies of the NRSRO
+governing the post-employment activities of its former
+personnel. This bill would allow the SEC to reduce these
+categories of inspection to save staff resources. The answer
+is not to reduce inspections, but to increase the funding for
+the SEC.
+These bills fail to advance investor interests or the
+safety of the market. Instead, they move in the opposite
+direction, ignoring the financial trauma from which Main
+Street is still recovering.
+Sincerely,
+Public Citizen.
+____
+Americans for Financial Reform,
+Washington, DC, November 8, 2017.
+Dear Representative: On behalf of Americans for Financial
+Reform (AFR), we are writing to urge you to vote against H.R.
+2201, which is being considered on the House floor today.
+This legislation would remove crucial investor protections
+and open the door to affinity fraud in private securities
+offerings.
+The registration requirement under the Securities Act of
+1933 has two basic objectives: to allow investors access to
+information they need to evaluate the securities being
+offered and ``to prohibit deceit, misrepresentations, and
+other frauds in the sale of securities.''
+H.R. 2201 would create needless exemptions from those key
+protections for so-called ``micro-cap offerings''--i.e.,
+offerings valued at $500,000 or less in a single year. This
+legislation would allow micro offerings to be sold to
+financially unsophisticated and lower income investors,
+provided only that the investors have a ``pre-existing
+relationship'' with an officer, director, or major
+shareholder of the issuer. These conditions alone do not
+represent any protection for investors, nor do they guarantee
+access to minimum essential information to evaluate a private
+offering and make an informed decision about it.
+H.R. 2201 would dismantle the protections afforded to
+small-dollar-amount investors by the Securities Act of 1933.
+Those protections include some minimal disclosures,
+transparency standards, and access to the information
+necessary to evaluate potentially risky and illiquid private
+offerings. The legislation would also eliminate restrictions
+on rapid sale of the securities, exposing investors in the
+small offerings market to potential ``pump and dump''
+schemes.
+As the state securities administrators (NASAA) point out in
+their opposition letter to this bill, H.R. 2201 also
+obstructs primary regulators by preempting state regulatory
+authorities. This legislation does not include any: limits on
+purchaser sophistication (e.g. the securities could be sold
+to non-accredited investors), measures to prevent offerings
+by bad actors, restrictions on secondary sales, or
+prohibition on general solicitation. This disturbing lack of
+protections would permit bad faith actors to direct shady
+private securities to investors.
+Affinity frauds and Ponzi schemes are typically carried out
+by individuals who are members of the group or community they
+are trying to defraud--i.e., those with a ``pre-existing
+relationship'' with others in their group. Similarly, the
+SEC's red flags for Ponzi schemes include secretive
+investments and ``investments that are not registered with
+the SEC or with state regulators.'' By permitting the sale of
+unregistered securities not subject to state regulation
+within groups of investors with a ``pre-existing
+relationship'', H.R. 2201 would facilitate affinity fraud and
+Ponzi schemes.
+Congress should not support statutory exemptions that
+loosen restraints on fraudsters. We urge you to reject this
+bill.
+Sincerely,
+Americans for Financial Reform.
+Ms. MAXINE WATERS of California. Mr. Speaker, I don't understand why
+Members of Congress would disregard what the State regulators are
+saying. State regulators are saying: Don't do this. Don't preempt us.
+Don't pass legislation that would undermine our ability to protect your
+constituents.
+Yet they are ignoring this altogether. I know that they received this
+information. I know that they know that the association had cautioned
+against this legislation. Let me just make sure that everybody knows.
+It is the North American Securities Administrators Association. They
+represent all of the States in cautioning against this legislation.
+Mr. Speaker, I reserve the balance of my time.
+Mr. HENSARLING. Mr. Speaker, I yield myself 10 seconds just to say I
+heard the word ``protection'' often used by my friend, the ranking
+member, but she and her friends on the other side of the aisle had 10
+years to protect paychecks, protect savings, and protect economic
+opportunity and the American Dream, and they failed miserably.
+Mr. Speaker, I yield 2 minutes to the gentleman from Ohio (Mr.
+Davidson), a member of the Financial Services Committee.
+Mr. DAVIDSON. Mr. Speaker, I thank Mr. Emmer for his leadership on
+this bill.
+As a small businessman, prior to coming to Congress, I have raised
+capital for startups, and I can tell you that one option is no option.
+I can tell you that the regulatory framework, particularly made worse
+by Dodd-Frank, is crippling access to capital for small- and medium-
+sized businesses. This is a very important thing.
+One option is no option, and it is great to have this for small,
+early-stage companies that are trying to raise capital in private
+placements. Right now, most of this is done for accredited investors.
+Effectively, this protects deal flow for people that are already
+wealthy. It locks people out of access to capital. Importantly, for the
+entrepreneur, sometimes in disadvantaged communities, they don't have
+this vast network of accredited investors to go to. They don't know how
+to access the SEC. They certainly don't have the time or money to spend
+working with the SEC on regulation. They have a business to grow. They
+need to have access to their friends and family and this early-stage
+capital to come in. $500,000 isn't much, but it is a start.
+I hope that we can not just secure this win, but grow the
+protections, so that we can raise even more capital in this way.
+Mr. Speaker, I urge my colleagues to support this bill.
+Ms. MAXINE WATERS of California. Mr. Speaker, I reserve the balance
+of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 2 minutes to the gentleman from
+Indiana (Mr. Hollingsworth), another member of the Financial Services
+Committee.
+[[Page H8676]]
+Mr. HOLLINGSWORTH. Mr. Speaker, I thank the chairman for yielding.
+I, too, stand in strong support of this legislation.
+A recent poll out by Ernst & Young showed that millennials are
+starting businesses at a rate that is only one-third of prior
+generations. When asked why they are not starting businesses, those
+millennials responded that they have insufficient financial means in
+order to start businesses, despite a deep desire and will to start
+businesses. Over 78 percent said that they wanted to start a small
+business eventually, but they had insufficient means to do so. This
+bill starts to rectify that problem.
+Those millennials could go to expensive and fancy investment bankers,
+but that is prohibitively expensive. Who they are going to turn to are
+their friends and family, those who most believe not only in the
+product, but in themselves.
+I want to see us enable small businesses to get started back home.
+That is what I continue to hear as I go door to door in the district
+and as I talk to people. They want to be in control of their financial
+future. They want to have all of the opportunities that were afforded
+to their parents and their grandparents.
+This bill begins to push back against a regulatory environment that
+has for too long smothered opportunity in Indiana in favor of more
+opportunity in D.C. We must rectify that. This legislation goes a long
+way towards that.
+I am supportive of the legislation, supportive of small businesses
+back home, and supportive of the many Hoosiers who want to start small
+businesses.
+Ms. MAXINE WATERS of California. Mr. Speaker, I reserve the balance
+of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 2 minutes to the gentleman from
+South Carolina (Mr. Norman), he is not a member of the Financial
+Services Committee, but we would be proud if he were.
+Mr. NORMAN. Mr. Speaker, as I listen to my liberal colleagues, the
+answer to every business is more government, more regulations. The
+American people are rejecting that.
+As a small-business owner, I can tell you the stifling effects of
+overregulation. That is what this bill takes away. That is what this
+bill accomplishes.
+So I strongly support H.R. 2201, the Micro Offering Safe Harbor Act.
+This bill is a critical step to reduce unnecessary burdens on economic
+growth and ensure that small businesses have access to the capital they
+need. I applaud Representative Emmer for championing this legislation.
+As a member of the House Small Business Committee and a businessman
+myself, I understand the need of the number of challenges faced by
+small businesses, especially if that business wants to grow through
+tapping into the capital markets. Due to onerous SEC regulations, the
+cost of registration is expensive and out of reach for so many of the
+businesses wanting to expand.
+We all know that the SEC provides an important function, which is to
+prevent securities fraud and protect the integrity of the market.
+However, we must be wary of a regulatory regime that fails to provide
+sufficient flexibility for businesses to raise capital while not
+providing any additional protection for investors.
+The central purpose of H.R. 2201 is to strike the proper balance
+between protection and investment. The bill achieves this objective
+through empowering businesses to sell a limited number of securities to
+a limited numbers of investors without needing to comply with a number
+of SEC registration requirements.
+Also, it is important to note that this narrowly tailored exemption
+only applies to investors that have substantive preexisting
+relationships with businesses.
+Finally, nothing in this bill undermines existing investor
+protections. Fraud is still illegal and the SEC and the Department of
+Justice has the authority to prosecute bad actors.
+I urge my colleagues to support this important legislation to
+implement a commonsense solution and stimulate small business growth.
+Ms. MAXINE WATERS of California. Mr. Speaker, I reserve the balance
+of my time.
+Mr. HENSARLING. Mr. Speaker, I yield 1 minute to the gentleman from
+Wisconsin (Mr. Duffy), the chairman of the Housing and Insurance
+Subcommittee.
+Mr. DUFFY. Mr. Speaker, I thank the gentleman for yielding.
+Mr. Speaker, I thank Mr. Emmer, my colleague and friend from the
+neighboring State of Minnesota, for offering such a commonsense piece
+of legislation.
+I frequently hear horror stories of fraud and abuse. All of us stand
+against fraud and abuse. I have a news flash for everybody: This law
+doesn't change that fraud is illegal. It was illegal before this bill
+and it will be illegal after this bill. Fraud is illegal.
+All we are doing is saying we are going to keep the promise that all
+of us say that we have to small entrepreneurs and startups to make sure
+that they get seed capital and make sure they can thrive and grow and
+create jobs in our community.
+All we are trying to do is give clarity to what constitutes a
+nonpublic offering. What is wrong with clarity? What is wrong with
+bright lines that they know that they can operate in between without
+violating the rule?
+This is simple. It is straightforward, it is common sense, and it
+supports everything we say we support, which is small businesses, and I
+think this is a great piece of legislation.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mr. HENSARLING. Mr. Speaker, I yield an additional 30 seconds to the
+gentleman from Wisconsin.
+Mr. DUFFY. I would ask all of my colleagues to stand together. Let's
+not play partisanship with the smallest businesses in our communities,
+the ones that we both agree create jobs. This is a time for unity.
+Let's work together, especially when it is common sense.
+I love the passion from the ranking member, but on this one, it is
+passion without a cause. It makes sense. It gives bright lines.
+Let's stand up for small businesses that create jobs in our
+community. Mr. Emmer's bill does that. I ask us all to stand up and
+support small businesses and this bill.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+For my colleagues on the opposite side of the aisle who are bemoaning
+the fact that small businesses don't have access to capital, they have
+these relationships with all of these big banks.
+Why don't they get to the big banks and tell them they ought to be
+making loans to small businesses?
+{time}  1015
+I don't hear them, as a part of, you know, their rhetoric, talking
+about how many of the big banks are not being responsible. And so my
+colleague on the opposite side of the aisle and my friend talk about
+what is common sense. I tell you what is common sense. Common sense is
+not to place vulnerable people in a position where they are going to
+get ripped off.
+Mr. Speaker, H.R. 2201 is a harmful bill that would simply serve as
+an invitation for investment scams. The bill fails to take into account
+the numerous other exemptions we have for small-dollar offerings,
+including under regulation D, regulation A, and crowdfunding rules.
+These exemptions already permit small businesses to raise capital while
+also protecting against fraud.
+In light of these exemptions, there seems to be no reasonable
+explanation for the amount of legislative effort that has been wasted
+on this bill. Instead of H.R. 2201, which is unwarranted and may
+actually harm investors and the integrity of our markets, the House
+should be focused on passing legislation that can actually improve the
+lives of the Americans whom we serve.
+Mr. Speaker, I urge my colleagues to vote ``no'' on H.R. 2201. Don't
+be a part of enacting one more scheme that is going to rip off our
+constituents, and then, you know, a few years later, come back here and
+talk about what a terrible thing it is that people are being ripped off
+by these investors, some of them who are criminals, but nobody knows
+it. The disclosure does not have to take place. They don't know that
+they have people who have already been involved in crimes who are
+coming to them talking about: let me help you earn some profits on this
+investment.
+[[Page H8677]]
+We know better. Common sense tells us better. If, in fact, we are
+committed to the proposition that we have a responsibility to protect
+our constituents from rip-offs, from fraud, from being taken advantage
+of, we will not support this bill. And I would hope that my friends on
+the opposite side of the aisle, despite how far they have gone in
+trying to represent that this bill is something that it is not, would
+at least change their minds today and support their constituents and
+vote ``no'' on this bill.
+Mr. Speaker, I yield back the balance of my time.
+Mr. HENSARLING. Mr. Speaker, I yield myself the balance of my time.
+Mr. Speaker, as always, I listen very carefully to my friend, the
+ranking member. I know that she started off her closing remarks by
+saying: We don't need this bill, H.R. 2201, because the big banks can
+loan to the small businesses.
+Well, that is fascinating to me, Mr. Speaker, because of the Dodd-
+Frank Act, which she so jealously supports, all of a sudden, the risk-
+based capital standards say that the banks have to reserve more for
+small business loans than they do for sovereign debt and municipal
+debt.
+So all of a sudden, it is because of Dodd-Frank. In addition, we know
+that the ranking member supports the Federal Reserve policy of paying
+interest on excess reserves where the Federal Reserve takes taxpayer
+money to pay the big banks not to loan money. So if the ranking member
+was curious why the big banks aren't loaning to the small businesses,
+which they aren't--and prior to the Trump administration, we know that
+small business lending by banks was at a 25-year low--it is the very
+reason, Mr. Speaker, that we need the bill, the legislation of the
+gentleman from Minnesota (Mr. Emmer) so that we can unlock this.
+Again, there is no surprise why, after 8 years of Obamanomics and the
+thinking from my friends on the other side of the aisle, small
+businesses have languished and why the economy has dropped down to a
+1\1/2\ to 2 percent GDP growth. In fact, I think President Obama is one
+of the few Presidents in American history never to enjoy a year of 3
+percent economic growth.
+Now, he may personally have enjoyed it, but the American people
+didn't, Mr. Speaker. But the good news is that there is a change in
+administration and a change of attitude. That is why it is so important
+that we be able to get capital to our entrepreneurs, to our small
+businesses. Let them thrive again on Main Street.
+We hear so often the ranking member decry Wall Street. We are talking
+about offerings of a half a million dollars. No on in Wall Street would
+touch that with a 10-foot pole. This is about Main Street, not Wall
+Street, Mr. Speaker.
+It is interesting, as I listen to my friend, the ranking member,
+decry the fact that someone might be able to raise capital under this
+particular set of circumstances. Well, I have a news flash for all my
+colleagues. Already the SEC can grant a private offering for exactly
+the set of circumstances that my friend, the gentleman from Minnesota,
+puts into his bill. All the gentleman is doing is creating a bright
+line, safe harbor, so that the next Nike or the next Amazon isn't
+stopped from launching their enterprise by having to spend a million
+dollars on lawyers and accountants trying to navigate this uncertain
+murky labyrinth of SEC waters trying to determine what is a private
+offering and what is a public offering. That is all he is doing.
+Again, this is already legal. It simply is discretionary to decide
+what is a private offering and what is a public offering by the
+Securities and Exchange Commission.
+We now, Mr. Speaker, have had two quarters of 3-plus percent economic
+growth. We are seeing working Americans. We are seeing their paychecks
+increase yet again. We are seeing hope and resilience in the American
+Dream yet again, but we have so much more work to do, and that is why
+H.R. 2201 is so critical.
+It takes small businesses today to be the big businesses of tomorrow.
+They are the creators. They are the job engine of America. They are the
+drivers of increased paychecks, greater economic opportunity, and a
+bigger, bolder American Dream. I thank the gentleman from Minnesota for
+this great legislation. I encourage all of my colleagues to adopt it.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. All time for debate on the bill has expired.
+Amendment Offered by Mr. Emmer
+Mr. EMMER. Mr. Speaker, I have an amendment at the desk.
+The SPEAKER pro tempore. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Page 3, line 14, strike ``The transactions'' and insert the
+following:
+``(1) In general.--The transactions''.
+Page 3, line 19, strike ``(1)'' and insert ``(A)'' and
+adjust the margin 2 ems to the right.
+Page 3, line 24, strike ``(2)'' and insert ``(B)'' and
+adjust the margin 2 ems to the right.
+Page 4, line 5, strike ``(3)'' and insert ``(C)'' and
+adjust the margin 2 ems to the right.
+Page 4, line 10, strike the quotation mark and final period
+and insert after such line the following:
+``(2) Disqualification.--
+``(A) In general.--The exemption provided under subsection
+(a)(8) shall not be available for a transaction involving a
+sale of securities if any person described in subparagraph
+(B) would have triggered disqualification pursuant to section
+230.506(d) of title 17, Code of Federal Regulations.
+``(B) Persons described.--The persons described in this
+subparagraph are the following:
+``(i) The issuer.
+``(ii) Any predecessor of the issuer.
+``(iii) Any affiliated issuer.
+``(iv) Any director, executive officer, other officer
+participating in the offering, general partner, or managing
+member of the issuer.
+``(v) Any beneficial owner of 20 percent or more of the
+issuer's outstanding voting equity securities, calculated on
+the basis of voting power.
+``(vi) Any promoter connected with the issuer in any
+capacity at the time of such sale.
+``(vii) Any investment manager of an issuer that is a
+pooled investment fund.
+``(viii) Any person that has been or will be paid (directly
+or indirectly) remuneration for solicitation of purchasers in
+connection with such sale of securities.
+``(ix) Any general partner or managing member of any such
+investment manager or solicitor.
+``(x) Any director, executive officer, or other officer
+participating in the offering of any such investment manager
+or solicitor or general partner or managing member of such
+investment manager or solicitor.''.
+The SPEAKER pro tempore. Pursuant to House Resolution 609, the
+gentleman from Minnesota (Mr. Emmer) and a Member opposed each will
+control 5 minutes.
+The Chair recognizes the gentleman from Minnesota.
+Mr. EMMER. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, the amendment I am offering today will enhance antifraud
+and consumer protections for small businesses and startups seeking to
+take advantage of the micro offering exemption outlined in the
+underlying bill.
+While the legislation itself requires three specific criteria to be
+met simultaneously in order to trigger a safe harbor exemption for a
+security offering, my amendment adds an additional layer of protection
+to further safeguard investors from bad actors.
+Specifically, my amendment prohibits the exemption from being
+available for those who have been disqualified under the bad actor
+disqualification standard established by the SEC. This language was
+included with the support of my colleagues from both sides of the aisle
+during consideration in committee in the 114th Congress, and I am
+hopeful they will support its inclusion again in the 115th.
+I want to reiterate that nothing in the base text of this bill erodes
+or limits the ability of Federal or State regulators to prosecute
+fraud, nor would it prevent private common law causes of action for
+fraud or breach of contract between the interested parties.
+This amendment builds upon these existing protections and drives home
+the point that the Micro Offering Safe Harbor Act is purely focused on
+helping our small businesses and entrepreneurs access the tools they
+need to grow and create jobs in an orderly and legal manner.
+Mr. Speaker, I reserve the balance of my time.
+Ms. MAXINE WATERS of California. Mr. Speaker, I claim the time in
+opposition to the amendment, even though I am not opposed.
+The SPEAKER pro tempore. Without objection, the gentlewoman is
+recognized for 5 minutes.
+[[Page H8678]]
+There was no objection.
+Ms. MAXINE WATERS of California. Mr. Speaker, under the current
+language of H.R. 2201, investors could be sold private securities by
+persons who have committed fraud or have violated security laws.
+Representative Emmer's amendment purports to add a layer of investor
+protections by adding a provision to so-called disqualify certain bad
+actors from utilizing the exemption.
+While I applaud Mr. Emmer's attempt to add this most basic guardrail
+to a bill that otherwise creates an unmitigated safe harbor for
+fraudsters, I wonder why this provision was dropped from a similar bill
+that Mr. Emmer introduced last Congress.
+Unfortunately, this amendment is woefully inadequate to address the
+otherwise dangerous new exemption created by H.R. 2201. Because the
+underlying bill requires no disclosure to investors and imposes no
+obligation to notify regulators of the offering, even if amended, H.R.
+2201 would lead convicted fraudsters and lawbreakers to police
+themselves.
+Moreover, the bill ties the hands of State securities regulators, who
+are the primary watchdogs over small, local securities offerings. If
+enacted, H.R. 2201 would leave a gaping hole in oversight of the very
+offerings it permits.
+H.R. 2201 is a misguided attempt to support small businesses that is
+not meaningfully improved by the meager protections of this amendment.
+For these reasons, I continue to oppose this bill, and I urge all of my
+colleagues to vote ``no'' on H.R. 2201.
+Mr. Speaker, I reserve the balance of my time.
+Mr. EMMER. Mr. Speaker, I will close at this point.
+Mr. Speaker, I want to thank the ranking member for her encouragement
+and her compliments, and I want to just point out that the Micro
+Offering Safe Harbor Act was actually improved as a direct result of
+the ranking member's suggestions.
+So, again, I want to thank her for her compliments here today, her
+encouragement in helping us make this an even better bill for
+entrepreneurs and small businesses across the country. At this point, I
+would encourage support for the amendment.
+Mr. Speaker, I yield back the balance of my time.
+Ms. MAXINE WATERS of California. Mr. Speaker, I would like to warn
+the Members of this House not to take the compliments seriously that
+are being given by the gentleman who would have you believe that
+somehow I have totally embraced this amendment because I think it is
+going to change the fact that there is no disclosure to those who would
+be investing and no notice to the SEC.
+So don't take him seriously when he talks about thanking me for
+encouraging and embracing. I have not done that. I am going to tolerate
+this amendment. It is late. It doesn't do what he says it is going to
+do. The bill is still a bad bill. It is a bill that is going to harm
+people. It is a bill that targets the most vulnerable people in our
+society. It is a bill where fraudsters are going to go into churches
+and convince ministers and parishioners that they are out to help them.
+Members of Congress, do the right thing. Today, stand up against
+another attempt by misguided folks who would have you believe that they
+are helping people when, in fact, they are opening up opportunities for
+them to be ripped off one more time, ripped off in ways that could have
+been avoided.
+Mr. Speaker, I oppose this bill. I ask everybody to vote against this
+bill.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. Pursuant to the rule, the previous question
+is ordered on the bill and on the amendment offered by the gentleman
+from Minnesota (Mr. Emmer).
+The question is on the amendment by the gentleman from Minnesota (Mr.
+Emmer).
+The amendment was agreed to.
+The SPEAKER pro tempore. The question is on the engrossment and third
+reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+The SPEAKER pro tempore. The question is on the passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Ms. MAXINE WATERS of California. Mr. Speaker, on that I demand the
+yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further
+proceedings on this question will be postponed.
+____________________

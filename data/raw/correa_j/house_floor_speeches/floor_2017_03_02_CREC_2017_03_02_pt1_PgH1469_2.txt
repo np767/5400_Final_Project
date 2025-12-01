@@ -1,0 +1,4030 @@
+[Congressional Record Volume 163, Number 37 (Thursday, March 2, 2017)]
+[House]
+[Pages H1469-H1484]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+{time}  0915
+REGULATORY INTEGRITY ACT OF 2017
+General Leave
+Mr. MITCHELL. Mr. Speaker, I ask unanimous consent that all Members
+have 5 legislative days to revise and extend their remarks and include
+extraneous materials on H.R. 1004.
+The SPEAKER pro tempore (Mr. Katko). Is there objection to the
+request of the gentleman from Michigan?
+There was no objection.
+The SPEAKER pro tempore. Pursuant to House Resolution 156 and rule
+XVIII, the Chair declares the House in the Committee of the Whole House
+on the state of the Union for the consideration of the bill, H.R. 1004.
+The Chair appoints the gentleman from Idaho (Mr. Simpson) to preside
+over the Committee of the Whole.
+{time}  0916
+In the Committee of the Whole
+Accordingly, the House resolved itself into the Committee of the
+Whole House on the state of the Union for the consideration of the bill
+(H.R. 1004) to amend chapter 3 of title 5, United States Code, to
+require the publication of information relating to pending agency
+regulatory actions, and for other purposes, with Mr. Simpson in the
+chair.
+The Clerk read the title of the bill.
+The CHAIR. Pursuant to the rule, the bill is considered read the
+first time.
+The gentleman from Michigan (Mr. Mitchell) and the gentleman from
+Maryland (Mr. Raskin) each will control 30 minutes.
+The Chair recognizes the gentleman from Michigan.
+Mr. MITCHELL. Mr. Chairman, I yield myself such time as I may
+consume.
+H.R. 1004 is sponsored by Representative Tim Walberg, my colleague
+from Michigan. Cosponsors include Representative Farenthold,
+Representative Meadows, Representative Gosar, and myself.
+I rise today in support of H.R. 1004, the Regulatory Integrity Act of
+2017.
+Every year, agencies promulgate thousands of new regulations and
+impose billions of dollars in regulatory costs on the American public.
+Those rules are conceived of, developed, written, and imposed by
+unelected agency officials--bureaucrats.
+In return for the authority to issue regulations, Congress and the
+American people require two simple things from agencies. First,
+agencies must inform the public about their intended regulatory
+actions--early and accurately--to provide ample time for thoughtful
+feedback and consideration from the public. Second, we want the
+agencies to listen to what the public has to say about the proposed
+regulatory action.
+Making sure the public has an opportunity to participate in this
+process is key. The public comment period is an essential part of
+upholding our democratic values. It ensures Americans have a voice
+heard in the Federal Government's regulatory process.
+H.R. 1004 helps preserve and strengthen the integrity of the public
+comment process in several ways. First, the bill defines the parameters
+of how an agency should communicate when asking for and offering a
+proposal and asking for public feedback. H.R. 1004 requires the agency
+to identify itself in communications on the proposal. Imagine that. We
+ask them to identify themselves. The agency must clearly state whether
+it is accepting comments or considering alternatives.
+Most importantly, agency communications during this process must use
+a neutral, unbiased tone. This bill requires agencies to do only what
+you would expect them to do if the request for feedback was genuine and
+sincere. This bill will uphold the purpose and value of the notice and
+comment process enshrined in the Administrative Procedures Act.
+When issuing new regulations, agencies must provide notice of the
+regulation and accept comments from the public before finalizing the
+regulation. Often, regulated entities, small businesses, and subject-
+matter experts can provide new insights and perspectives agency
+officials simply do not have and do not understand. The notice and
+comment period allows the public to provide valuable insight to the
+agencies to help them make better regulations, more effective
+regulations, and minimize the adverse impacts.
+However, not every agency takes this opportunity to really listen to
+the public. Often, agencies develop a proposed regulation and assume it
+is the end of the story. In effect, agencies reduce the notice and
+comment process to checking the box.
+A perfect example, unfortunately, is when EPA developed the waters of
+the United States rule, known as WOTUS, EPA's behavior during the
+notice and comment period indicated that the EPA had little interest in
+listening to the public. Quite the contrary.
+EPA used Thunderclap, an online social media platform, to disseminate
+government-sourced messages through unaffiliated individuals to
+encourage the public to provide positive comments. They did not
+identify themselves and used a third party to source comments that
+would support their
+[[Page H1470]]
+perspective. The goal was clearly to pad the administrative record with
+positive feedback rather than soliciting genuine input in an effort to
+measure the rule's effect on the public.
+In fact, the Government Accountability Office found the EPA undertook
+a covert propaganda campaign by soliciting social media comments in
+support of their proposed rule. Let me say that again: a covert
+propaganda campaign.
+GAO also told EPA to report this violation to the President and
+Congress because the agency's appropriations were not available for
+those prohibited purposes. They spent taxpayer money--our money--on
+something that was prohibited.
+H.R. 1004, the Regulatory Integrity Act of 2017, seeks to shine a
+light on how agencies are communicating about pending regulatory
+actions. This bill simply tells agencies they need to keep to the facts
+and avoid soliciting support when they ought to be soliciting comments.
+H.R. 1004 also establishes transparency requirements for the agency
+in how it communicates to the public. The bill requires agencies to
+post on their website some basic information about each communication
+about a pending regulatory action. For each communication, the public
+will be able to see a copy of the communication, the intended audience,
+the method of communication, and the date it was issued--simple
+transparency expectations. Additionally, H.R. 1004 requires agencies to
+post information online about each of their regulatory actions.
+Mr. Chairman, the Regulatory Integrity Act will bring integrity back
+to the rulemaking process with transparency and simple guidelines for
+effective and appropriate communication.
+The Regulatory Integrity Act is a good, bipartisan bill. This bill
+received support in the previous Congress, and the House of
+Representatives passed the bill last Congress.
+On February 14, 2017, the Committee on Oversight and Government
+Reform approved this bill without amendment.
+I thank Congressman Walberg for his leadership on this issue. I urge
+my colleagues to support this bill.
+Mr. Chairman, I reserve the balance of my time.
+Mr. RASKIN. Mr. Chairman, I yield myself such time as I may consume.
+Mr. Chairman, I am delighted to be with my distinguished colleague
+from Michigan on this legislation, which is part of a package of bills
+brought forward by the majority, which we believe undermine the ability
+of Federal agencies to effectively promote the public interest.
+To begin with, it is quite clear that this legislation is
+unnecessary. Current law already bans the use of agency funds for
+``publicity or propaganda purposes.'' Current law also currently bars
+agency employees from grassroots lobbying campaign designed to pressure
+Members of Congress to support or to oppose agency proposals.
+So, at the very least, all of this is duplicative, which wouldn't be
+so bad just to add another level of red tape and legislation, except
+for this: If you look at the legislation, under Restriction, part 2, it
+says:
+``Any public communication issued by an Executive agency that refers
+to a pending agency regulatory action, other than an impartial
+communication that requests comment on or provides information
+regarding the pending agency regulatory action, may not--
+``(A) directly advocate, in support of or against the pending agency
+regulatory action, for the submission of information to form part of
+the record of review for the pending agency regulatory action. . . .''
+So let's parse that for a moment. What they are saying is that the
+agency may not directly advocate to the public: Please tell us whether
+you are for or against this regulation and why.
+They are not trying to prevent a viewpoint-specific propaganda
+intervention by the agency. This would actually stifle the ability of
+the agency to solicit anybody's point of view to go out on Facebook and
+ask, ``What is your position about this,'' and to use social media to
+solicit the public's input.
+So although the legislation masquerades as an attempt to promote
+government transparency, it actually radically undercuts government
+transparency and the ability of the agencies to solicit the widest
+possible input.
+It also says that the agency may not appeal to the public or solicit
+a third party to undertake advocacy in support of or against the
+pending agency regulatory action.
+Now, I would have no problem if what they were trying to do is simply
+restate the current ban on one-sided propaganda inquiries by an agency
+to get one side to come out and support or oppose an agency rulemaking,
+but that is already against the law.
+What they are trying to do is to cut off the ability of the agency to
+solicit any public input on all sides of the issue.
+Why would we place that kind of duct tape over the Administrative
+Procedure Act?
+Well, one thought, if you look at this proposal in the context of
+everything else they have brought forward this week, they want to try
+to reduce everything to a cost-benefit analysis. That is, what would
+the cost to polluters be? What would the cost to the violators of the
+public interest be?
+They never look at what the benefit to the public is of the
+regulations, and they want to do it behind closed doors and then
+prevent the agencies from going out and aggressively soliciting the
+input of the public on all sides of the issue.
+So we don't see what the need for this proposal is. We believe that
+it will have a severely chilling effect on the ability of agencies to
+do their job. They continually talk about one case, the WOTUS case, the
+waters of the United States case, where I cheerfully and readily admit
+that the agency went too far in terms of campaigning for its proposal.
+But they were called on that. The GAO already determined that they ran
+afoul of the prohibitions.
+So they have one case which was dealt with completely legitimately
+within the law, and they have not cited another case.
+I would gladly yield my time to my distinguished colleague from
+Michigan if he can invoke one other case where there was a problem or
+explain why the resolution of this problem was not sufficient in this
+case, because I think everybody understood that the agency had gone too
+far. It was dealt with. The problem is over.
+So now we have a so-called cure, which is far worse than the
+underlying disease because the so-called cure is going to stifle and
+chill the ability of every Federal agency in the United States
+Government to go out and aggressively solicit public input. That is
+what we want in the agency process.
+Now, yesterday, they just voted to create a new roving
+supercommission that would pore through the rules of all the different
+Federal agencies and bring back a package and then ask us to give a
+thumbs up or a thumbs down so they can just more readily dismantle
+public regulation.
+Let's be very clear about it. We're talking about regulation that
+protects clean air. They rejected an amendment that would carve out the
+Clean Air Act from that bill. We're talking about regulation that
+protects clean water. We're talking about regulation that protects the
+purity of our food and our drugs. We're talking about regulations that
+advance our interests in a clean environment and reduces greenhouse gas
+emissions.
+So it seems like they want to put the whole Federal regulatory
+process into a straitjacket, prevent the public from being involved,
+and prevent the agencies from going out and soliciting public input.
+That doesn't sound like giving government back to the people. That
+sounds like giving government over to billionaires, special interests,
+and big corporate powers that have all the lobbyists in Washington and
+know how to get things done behind closed doors.
+Mr. Chair, I invite my distinguished colleague from Michigan to
+address any of the questions I have if there are any examples that he
+can provide of problems that would yield the need for such a dramatic
+shutdown on the ability of agencies to solicit public input.
+Mr. Chairman, I reserve the balance of my time.
+Mr. MITCHELL. Mr. Chairman, I yield such time as he may consume to
+the gentleman from Michigan (Mr. Walberg), who is my colleague and good
+friend.
+[[Page H1471]]
+{time}  0930
+Mr. WALBERG. Mr. Chairman, I thank my colleague for leading this
+floor debate today.
+Mr. Chairman, I rise today in support of my bipartisan bill, H.R.
+1004, the Regulatory Integrity Act of 2017.
+Regardless of the chatter that I believe simply confuses what we want
+to do in good government, this bill, H.R. 1004, is a good government
+transparency bill that is simple in nature and seeks to preserve the
+integrity of the regulatory process; specifically, the public comment
+period.
+Whether it is EPA or the Department of Labor or any other agencies or
+departments, they have their purpose, but they have to follow the law.
+The public comment period is an essential part of upholding our
+democratic values because it ensures that Americans will have their
+voices heard in the Federal Government's regulatory process.
+Agencies must take the comment period seriously. Unfortunately, we
+have seen instances where agencies seem to believe that the regulatory
+process is simply a perfunctory act that the agency must undertake in
+order to reach a prearranged outcome.
+This became abundantly clear during the EPA's Waters of the U.S., or
+WOTUS, rulemaking process. During that process, Mr. Chairman, the EPA
+undertook a campaign to solicit support and artificially inflate the
+positive reaction to the WOTUS rule. The EPA used the skewed results as
+evidence of public support.
+Mr. Chairman, I include in the Record two letters coming from the
+National Association of Home Builders and the Michigan Farm Bureau to
+attest to this problem.
+National Association of
+Home Builders,
+Washington, DC, February 14, 2017.
+Hon. Timothy Walberg,
+House of Representatives,
+Washington, DC.
+Dear Representative Walberg: On behalf of the 140,000
+members of the National Association of Home Builders (NAHB),
+I am writing to express NAHB's strong support for H.R. 1004,
+the Regulatory Integrity Act of 2017. This legislation would
+force agencies to follow an open and transparent federal
+regulatory rulemaking process by making all aspects of a
+rulemaking publicly available and preventing federal agencies
+from illegally influencing the public in order to generate
+support for a rulemaking.
+Federal agencies are prohibited, by law, from engaging in
+lobbying, grassroots, and propaganda activities designed to
+advance a policy agenda. However, in recent rulemakings, the
+Environmental Protection Agency (EPA) has ignored these
+restrictions and used social media platforms to perpetuate
+propaganda campaigns that advance their rulemakings. These
+actions only support the notion that the agency is not
+interested in a transparent and fair rulemaking process.
+An excellent example of this is when the EPA created a
+social media campaign on Twitter, Facebook, and YouTube to
+counter opposition to its ``Waters of the US'' rulemaking.
+The agency concealed the fact that its social media messages
+were coming from within the EPA and deceptively engaged in
+lobbying efforts designed to kill legislation that was not
+favorable to their proposed rulemaking. In December 2015, the
+Government Accountability Office released a report outlining
+how the EPA participated in covert propaganda and grassroots
+lobbying and condemned the agency for violating federal law.
+Federal agencies must respect and uphold the law, and the
+passage of H.R. 1004 will help to ensure that federal
+agencies are not lobbying against America's small businesses.
+For these reasons, NAHB urges the House Oversight and
+Government Reform Committee to support H.R. 1004, the
+Regulatory Integrity Act of 2017, in order to bring
+transparency and neutrality to the regulatory process.
+Thank you for giving consideration to our views.
+Sincerely,
+James W. Tobin III.
+____
+Michigan Farm Bureau,
+Lansing, Michigan, February 13, 2017.
+Hon. Jason Chaffetz,
+Chairman, Committee on Oversight and Government Reform, House
+of Representatives, Washington, DC.
+Hon. Elijah Cummings,
+Ranking Member, Committee on Oversight and Government Reform,
+House of Representatives, Washington, DC.
+Dear Chairman Chaffetz and Ranking Member Cummings:
+Michigan Farm Bureau strongly supports the Regulatory
+Integrity Act of 2017. The bill is a step in the right
+direction to hold government agencies accountable and for
+citizens to maintain trust in the government that serves
+them. Introduced by Rep. Tim Walberg, the bill is scheduled
+to come before the House Oversight and Government Reform
+Committee later this week.
+Last year, we heard about an EPA grant being used to fund
+whatsupstream.com in the state of Washington. This initiative
+used the following billboard message: ``Unregulated
+agriculture is putting our waterways at risk'' to urge the
+public to contact state elected officials. In a similar
+campaign, GAO issued a legal opinion that EPA violated
+federal lobbying laws by funding advocacy efforts on the
+Waters of the United States (WOTUS) rule. Michigan farmers
+are frustrated when they read about federal agencies trying
+to sway the public in a way that promotes their own proposed
+rule before all stakeholders have had a chance to weigh in
+the rule's merits. These examples only undermine the trust
+our members place in the agencies meant to serve and protect
+our citizens.
+We believe it is critical that Congress pass the Regulatory
+Integrity Act of 2017. We urge all members of the Committee
+to support this bill.
+Sincerely,
+John Kran,
+Associate National Legislative Counsel.
+Mr. WALBERG. The nonpartisan Government Accountability Office
+concluded the EPA overstepped and issued a report saying the EPA
+violated the law and undertook ``covert propaganda'' and grassroots
+lobbying during the process.
+My bill simply seeks to preserve the spirit and purpose of the
+regulatory process by simply telling agencies that they need to keep to
+the facts and not solicit support when they ought to be soliciting
+constructive comments.
+H.R. 1004 simply requires an agency to; one, identify itself as the
+source of information; two, clearly state whether the agency is
+accepting public comments or considering alternatives; and, three, and
+most importantly, speak about the regulations in a neutral, unbiased
+tone.
+People need to have the confidence that the Federal agencies,
+regardless of whether it is a Republican or Democrat administration,
+are open to their insights an constructive criticism.
+H.R. 1004 will restore the integrity to our regulatory process by
+ensuring agencies are honestly asking for feedback, constructive
+criticism, and dialogue about how to improve upon the agency's existing
+thoughts, not advocating for a predetermined outcome.
+Mr. Chairman, this is a bipartisan issue. This bill passed the House
+last Congress with bipartisan support. In fact, a similar version was
+offered by my colleague, Representative Peterson from Minnesota, as an
+amendment to H.R. 5 earlier this year. That amendment was approved with
+strong bipartisan support.
+So, once again, I urge my colleagues to support the Regulatory
+Integrity Act.
+Mr. RASKIN. Mr. Chairman, I yield myself such time as I may consume.
+Again, the advocates for the legislation returned to this one single
+case, which we all agree about. The GAO ruled that the EPA ran afoul of
+the prohibition on propaganda and on campaigning.
+So the law worked there. The GAO blew the whistle on that. They
+shouldn't be coming out on one side of an issue and running a
+propaganda campaign. The government should not be engaged in
+propaganda. We all agree to that.
+This legislation does something completely different. This
+legislation, rather than just saying a good day's work to the GAO for
+blowing the whistle, it says: Now we are going to tell all the Federal
+agencies and departments that have been out soliciting public input on
+all sides of issues, saying there is a regulation that has come up
+about clean air, about clean water, about food, about drugs, about the
+disposal of nuclear waste, about radioactive materials, and it tells
+them you can't do that anymore. You can't go out and solicit public
+input.
+It places a complete chill on the ability of the government to go out
+and invite public participation in our government. Why? They keep
+returning to one case where the GAO blew the whistle where everybody
+agrees they were out of bounds.
+A flag was thrown on the play, but now they want to use that in order
+to essentially impose a gag rule on Federal agencies across the land
+who are doing our work. The much reviled regulation that the agencies
+are engaged in is an attempt to flesh out the laws that we pass in this
+body because we don't want to be setting all of the particular rules
+about exactly how many pollutants can be in this water, in this
+[[Page H1472]]
+stream, in this river, in this creek, and so on, because we are not
+scientific experts on how many pollutants can be put into the air here
+and there. So it is delegated to government agencies.
+But when they go through the Administrative Procedure Act and they
+have a rule and comment process, they should be able to go out and
+invite the public to participate.
+Again, I invite my distinguished and thoughtful colleagues on the
+other side to cite one other case. Can they cite one case where the GAO
+did not blow the whistle? Can they cite some other litany of examples
+where there has been a real problem with government agencies being
+overzealous where it has not been corrected by the GAO?
+The silence is deafening.
+They have used the example of one problem that was caught, that was
+corrected, in order to try to demolish the ability of Federal agencies
+to go out and solicit the public's input.
+To me, that is a familiar experience now, because I have been in the
+House of Representatives for just 2 months, and, in the committees I
+serve on, we continue to vote on bills where we have not had a single
+public hearing. We are not hearing from any of the groups.
+I have a letter here objecting to this legislation that has been
+signed by the AFL-CIO, AFSCME, American Association for Justice,
+American Association of University Women, Americans for Financial
+Reform, Asbestos Disease Awareness Organization, Autistic Self Advocacy
+Network, BlueGreen Alliance, Center for Biological Diversity, Clean
+Water Action, Consumer Action, Consumer Federation of America,
+Consumers for Auto Reliability and Safety, Demand Progress,
+Earthjustice, Economic Policy Institute, Environment America,
+Environmental Working Group, Food & Water Watch, Greenpeace, Homeowners
+Against Deficient Dwellings, Institute for Agriculture and Trade
+Policy, International Union of United Automobile, Aerospace, and
+Agricultural Implement Workers, League of Conservation Voters, National
+Association of Consumer Advocates, and on and on and on.
+I would like to have heard from these people in this process, but it
+seems like all we are getting from the other side is an attempt to have
+a curtain of darkness fall over all public process. We would like to
+have hearings. We want groups to be involved. But these people were not
+invited to testify. They didn't have a chance to opine on this.
+Mr. Chair, in general, the problem here is that, rather than making
+government more transparent, we are making government more opaque.
+Rather than making government more open, we are making government
+more closed. Rather than reaching out to the public and inviting it
+into the rulemaking process, we are shutting the door and closing the
+blinds on it.
+Mr. Chairman, I reserve the balance of my time.
+Mr. MITCHELL. Mr. Chairman, I yield myself such time as I may
+consume.
+Mr. Chairman, one thing is clear to me, even as a freshman: we need
+to correct the record here.
+My colleague from the minority suggests that somehow, magically, the
+GAO just determined they were the police officer, they cried foul, they
+stopped them.
+Let's be clear about this. First, the GAO intervened because they
+were asked to do so by Chairman Inhofe. They investigated after the
+chairman asked them to look into it because of the concerns; not in
+advance, not because they found it independently, but because it was
+such a significant and egregious action that the chairman of the
+committee said: We need to look at this. And they did so.
+Second, it was after the fact. What they found was that it was so
+extraordinarily egregious, they actually cited them for inappropriately
+spending taxpayer money.
+Now, let's talk about what they did. We talk about chilling
+communication. Knowingly, why would you put out something on a social
+media site such as Thunderclap sourcing messages, not identifying
+yourself, if for any other purpose but to create propaganda? Why would
+you do that?
+H.R. 1004 simply requires--and I will repeat them, because the
+minority seems to have a problem understanding this--the agency
+identified itself in its communication on a proposal: hello, this is
+the EPA. We are talking about this problem.
+They make clear they are accepting public comments for and against:
+What do you think about it; what are the problems; will this work?
+Imagine that concept.
+They require that agencies provide feedback on the comments that is
+genuine and sincere and not have already written the final bill--as my
+colleagues says, the perfunctory process.
+That is what it requires. I have a difficult time understanding how
+that chills input from the public. And to be absolutely blunt with you,
+if it chills a few bureaucrats from deciding what they think is best
+rather than what this body believes is best, or, frankly, what the
+courts believe is best, then we have achieved our objective here today.
+So, again, I urge my colleagues to support this bill.
+Mr. Chairman, I reserve the balance of my time.
+Mr. RASKIN. Mr. Chairman, I yield myself such time as I may consume.
+Mr. Chairman, I think we are finally having some light here on the
+subject.
+My distinguished colleague and fellow freshman from Michigan is most
+concerned about what did take place in the Waters of the United States
+case. He praises the GAO for responding to Senator Inhofe's inquiry.
+We all agree that the GAO determined that the EPA ran afoul of
+existing prohibitions in law on propaganda, on taking a side in an
+issue. A flag was called on the play and the problem was dealt with.
+If you find a kid shoplifting a candy bar, and you catch him, you
+remove him from the store, you tell him not to do it again. You don't
+then go pass a law saying that anybody under 18 cannot enter any
+commercial establishment in the country. The law worked in that
+specific case.
+But, you see, they have taken a sledgehammer to a mosquito, and the
+mosquito was already killed. So now what they are busting up is the
+ability of agencies across the country simply to use the social media
+to go out and to solicit and invite public input into the rulemaking
+process. What are we afraid of?
+Justice Brandeis said that sunshine is the great disinfectant. We
+want the public involved. We want the public's engagement.
+So, again, I invite my thoughtful colleagues on the other side to
+cite one case of an agency doing this that was not dealt with by the
+GAO. I can cite you countless examples of cases where Federal agencies
+have gone online to invite public input in a completely objective and
+neutral way. Now we are creating a chill over that process because of
+this ban on soliciting advocacy from the public on either side of the
+issue.
+So I simply don't get it, and I am puzzled why they continually talk
+about one case which was happily resolved under existing law.
+Mr. Chairman, I reserve the balance of my time.
+{time}  0945
+Mr. MITCHELL. Mr. Chairman, I have no further speakers on the bill.
+I reserve the balance of my time.
+Mr. RASKIN. Mr. Chairman, I include in the Record several letters
+opposing the bill.
+Coaltion for
+Sensible Safeguards,
+February 28, 2017.
+Re House floor vote of H.R. 1004, the Regulatory Integrity
+Act.
+Dear Representative: The Coalition for Sensible Safeguards
+(CSS), an alliance of over 150 labor, scientific, research,
+good government, faith, community, health, environmental, and
+public interest groups, strongly oppose H.R. 1004, the
+Regulatory Integrity Act.
+The bill is a brazen attack on the public's right to know
+by micro-managing the type of information that agencies are
+allowed to communicate to all of us when taking actions to
+protect the public, our economy, and the environment. An open
+government that prioritizes democratic public participation
+requires agencies to be able to effectively convey
+information to the public and make agency policy positions
+clear to the public. This bill will make our government less
+open and less democratic and should therefore be rejected.
+H.R. 1004 will significantly inhibit federal agencies'
+ability to engage and inform the public in a meaningful and
+transparent way regarding its work on important science-based
+rulemakings that will greatly benefit the public. As a
+result, the bill will lead to
+[[Page H1473]]
+decreased public awareness and participation in the
+rulemaking process in direct contradiction of the
+Administrative Procedure Act and agencies' authorizing
+statutes, which specifically provide for broad stakeholder
+engagement.
+Substantial ambiguities in the bill threaten to create
+uncertainty and confusion among agencies about what public
+communications are permissible, and thus risks discouraging
+them from keeping the public apprised of the important work
+that they do on its behalf. In an era when agencies should be
+increasingly embracing innovative 21st century communications
+technologies needed to reach the public, including social
+media, H.R. 1004 sends exactly the wrong message.
+The legislation strictly prohibits agencies from issuing
+``public communications'' that ``emphasize the importance''
+of a particular agency action unless the communication has
+the ``clear purpose of informing the public of the substance
+or status'' of the particular action. The legislation applies
+to a wide swath of regulatory actions including rulemakings,
+guidance, policy statements, directives and adjudications.
+While H.R. 1004 assumes that the distinction between
+informing the public of an agency action and emphasizing the
+importance of that action is self-evident, in practice the
+distinction is anything but clear. As a result, agencies are
+likely to avoid any public communications that risk running
+afoul of this ambiguous prohibition, no matter how
+informative the communication might be for the public.
+For example, various executive orders and statutes compel
+agencies to conduct cost-benefit analysis on their pending
+rulemakings, and thus to determine whether the rule's
+benefits outweigh its costs. As currently written, the
+Regulatory Integrity Act could potentially prohibit an agency
+from communicating the results of such an analysis when it
+concludes that a particular rule generates net benefits.
+After all, that conclusion is tantamount to declaring that
+the rule makes society better off on balance. Instead, the
+agency would likely be forced to simply share the basic
+information that they had conducted a cost-benefit analysis
+of the regulation without being able to share the further
+crucial information that the regulation's benefits exceeded
+the costs. Given that many of the bill's sponsors
+enthusiastically endorse the expanded use of cost-benefit
+analysis in the rulemaking process, these kinds of arbitrary
+prohibitions on communications concerning cost-benefit
+analysis seem especially peculiar.
+Agencies would encounter this problematic scenario when
+deciding to share vital information, such as:
+How many lives would be saved by a regulation;
+How much property damage would be averted;
+How much money consumers would save; and
+Any of the other myriad public benefits that regulations
+are designed to provide.
+The stark absence of any clear bright-lines in the
+legislation delineating what is and what is not prohibited
+public communications is sure to have a chilling effect on
+agencies, with the predictable result that agencies will be
+less willing to share crucial information with the public and
+that the public will be less informed about government
+activities.
+H.R. 1004 also will severely impede, rather than enable,
+agency use of new communication technologies, most notably
+social media platforms, to reach the public. Regulatory
+experts and scholars agree that agencies should be using
+social media forums and platforms.
+Agencies will find it difficult, if not impossible, to
+communicate with the public through social media under H.R.
+1004 since the bill prevents any usage of social media that
+both conveys information about a regulatory action but also
+promotes the importance of that action.
+For example, the U.S. Department of Interior operates a
+Twitter and Instagram account that is very popular with the
+public because it regularly features photos of beautiful
+landscapes and wildlife from national parks across the United
+States. Under the Regulatory Integrity Act, the Department
+might be prohibited from posting such photos on Twitter and
+Instagram because they are not solely informational in nature
+and could be interpreted as promoting the importance of the
+department's work in environmental and wildlife preservation.
+Enactment of H.R. 1004 will lead to less transparency in
+the government, make it more difficult for agencies to use
+new communication technologies popular with the public, and
+generally chill agency communications with the public on
+important matters due to the lack of any bright-line
+standards for agencies to follow.
+We strongly urge you to oppose H.R. 1004, the Regulatory
+Integrity Act.
+Sincerely,
+Robert Weissman,
+President,
+Public Citizen Chair.
+____
+League of Conservation Voters,
+Washington, DC, February 27, 2017.
+Re Oppose H.R. 998, 1004, & 1009--Assaults on Environmental
+Safeguards in the Guise of ``Regulatory Reform.''
+House of Representatives,
+Washington, DC.
+Dear Representative: On behalf of our millions of members,
+the League of Conservation Voters (LCV) works to turn
+environmental values into national, state, and local
+priorities. Each year, LCV publishes the National
+Environmental Scorecard, which details the voting records of
+members of Congress on environmental legislation. The
+Scorecard is distributed to LCV members, concerned voters
+nationwide, and the media.
+LCV urges you to vote NO on H.R. 998, the SCRUB Act, H.R.
+1004, the Regulatory Integrity Act, and H.R. 1009, the OIRA
+Insight, Reform, And Accountability Act. LCV joins our
+partners in the Coalition for Sensible Safeguards--an
+alliance of consumer, public health, labor, good government,
+environmental, and scientific groups--in strongly opposing
+this trio of extreme bills that have far-reaching and
+damaging consequences for vital public health and
+environmental safeguards.
+H.R. 998, the SCRUB Act, would jeopardize critical
+environmental safeguards that have been in place for decades
+and would make it extremely difficult to develop new
+standards in response to threats to public health and the
+environment. This legislation creates a regulatory review
+commission that would disregard the public benefits of
+environmental safeguards and only consider the costs to
+industries. By creating a misguided ``cut-go'' system for
+safeguards, this bill would result in key public health
+protections being eliminated.
+H.R. 1004, the Regulatory Integrity Act, would
+significantly hinder communications between federal agencies
+and the public and would discourage agencies from using
+social media platforms. This legislation would reduce
+government transparency and would leave the public less
+informed about government activities. The vague guidelines
+about what public communications are allowed would result in
+agencies being less willing to share key information with the
+public.
+H.R. 1009, the OIRA Insight, Reform, And Accountability
+Act, would endanger clean air and clean water protections by
+opening them up to more litigation. The bill would
+effectively rewrite dozens of laws in which Congress mandated
+that agencies prioritize public health, safety and the
+preservation of clean air and water over concerns about
+industry profits.
+LCV urges you to REJECT H.R. 998, 1004, & 1009 and will
+strongly consider including votes on these bills in the 2017
+Scorecard.
+Sincerely,
+Gene Karpinski,
+President.
+____
+Good Morning Everyone: I am writing to express the
+opposition of the American Association for Justice (AAJ) to
+the three anti regulation bills that will be voted on on the
+House floor this week. The Searching for and Cutting
+Regulations that are Unnecessarily Burdensome Act of 2017
+(SCRUB Act); The Regulatory Integrity Act of 2017; and the
+OIRA Insight, Reform, and Accountability Act all impede the
+ability of federal agencies to appropriately protect the
+health, safety and well-being of the American public. As a
+result, we urge your boss to vote NO on all three bills. See
+below and attached for additional information on each bill.
+Please let us know if you have any questions or concerns.
+Sarah Rooney,
+Director of Regulatory Affairs,
+American Association for Justice.
+H.R. 998, The SCRUB Act
+The SCRUB Act would establish a new regulatory review
+commission charged with identifying duplicative and/or
+redundant regulations to repeal. In addition, the bill
+provides for a blanket percentage reduction in the cumulative
+regulatory cost to industry without adequately considering
+the benefits bestowed upon the public by these same
+regulations. Under the severe SCRUB Act regulatory cost
+considerations, targeted regulations could be repealed even
+when the benefits of these rules are significant, appreciated
+by the public, and far outweigh the costs.
+The SCRUB Act also contains entirely ineffective cut-go
+provisions. Under the bill's cut-go provisions, an agency
+would be required to remove an existing regulation of equal
+or greater cost from its cut-go list before it can issue a
+new regulation. As a result of these provisions, agencies
+will be unable to respond to any emerging hazard with any new
+public regulatory protections or guidance.
+H.R. 1004, The Regulatory Integrity Act of 2017
+The Regulatory Integrity Act of 2017 significantly limits
+the types of communications federal agencies can have with
+the public regarding pending regulatory actions and prohibits
+agencies from soliciting support for its regulatory actions.
+These inappropriately restrictive provisions have two goals:
+stymieing important public protections and preventing the
+public from knowing about the positive impact pending
+regulations may provide.
+H.R. 1009, The OIRA Insight, Reform, and Accountability Act
+Lastly, the OIRA Insight, Reform, and Accountability Act
+creates yet another duplicative and unnecessary commission to
+provide for the repeal of regulations, while also providing
+for numerous additional hurdles in the regulatory review
+process. It would codify the numerous burdensome regulatory
+review requirements and make them subject to judicial review
+which would provide for extensive challenge and delay of
+important protections. More concerning, this bill would
+[[Page H1474]]
+severely damage the impact of dozens of Congressionally
+passed public interest laws that require agencies to
+prioritize public health and safety and protecting the
+environment and instead focus on cost to industry. It also
+would make federal agency science much more vulnerable to
+judicial review. Lastly, the bill would effectively undermine
+Congressionally chartered independent agencies by putting
+them under the influence of the Office of the President.
+Mr. RASKIN. Mr. Chairman, I thank my colleague for his thoughtful
+presentation and thank the Chair for his indulgence.
+I yield back the balance of my time.
+Mr. MITCHELL. Mr. Chairman, I will make my statement brief. As you
+know, I believe in a little bit of brevity around here. Let me suggest
+that we have talked at length on the content of the bill and the intent
+of the bill. Let me suggest that my colleague may have used the wrong
+example or analogy because we all know, where there is one mosquito,
+there is more. Where there is one, there is more. At this point in
+time, this bill says we are going to take care of his mosquitoes. With
+all due respect, I ask my colleagues to support the bill, as I believe
+it puts the transparency required in rulemaking that will require
+agencies to disclose they are asking for comments and who is making the
+comment. It is one more step in getting the government accountable to
+the people rather than accountable to itself.
+Mr. Chairman, I urge adoption of the bill, and I yield back the
+balance of my time.
+The CHAIR. All time for general debate has expired.
+Pursuant to the rule, the bill shall be considered for amendment
+under the 5-minute rule. The bill shall be considered as read.
+The text of the bill is as follows:
+H.R. 1004
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Regulatory Integrity Act of
+2017''.
+SEC. 2. PUBLICATION OF INFORMATION RELATING TO PENDING
+REGULATORY ACTIONS.
+(a) Amendment.--Chapter 3 of title 5, United States Code,
+is amended by inserting after section 306 the following new
+section:
+``Sec. 307. Information regarding pending agency regulatory
+action
+``(a) Definitions.--In this section:
+``(1) Agency regulatory action.--The term `agency
+regulatory action' means guidance, policy statement,
+directive, rule making, or adjudication issued by an
+Executive agency.
+``(2) Public communication.--The term `public
+communication'--
+``(A) means any method (including written, oral, or
+electronic) of disseminating information to the public,
+including an agency statement (written or verbal), blog,
+video, audio recording, or other social media message; and
+``(B) does not include a notice published in the Federal
+Register pursuant to section 553 or any requirement to
+publish pursuant to this section.
+``(3) Rule making.--The term `rule making' has the meaning
+given that term under section 551.
+``(b) Information To Be Posted Online.--
+``(1) Requirement.--The head of each Executive agency shall
+make publicly available in a searchable format in a prominent
+location either on the website of the Executive agency or in
+the rule making docket on Regulations.gov the following
+information:
+``(A) Pending agency regulatory action.--A list of each
+pending agency regulatory action and with regard to each such
+action--
+``(i) the date on which the Executive agency first began to
+develop or consider the agency regulatory action;
+``(ii) the status of the agency regulatory action;
+``(iii) an estimate of the date of upon which the agency
+regulatory action will be final and in effect; and
+``(iv) a brief description of the agency regulatory action.
+``(B) Public communication.--For each pending agency
+regulatory action, a list of each public communication about
+the pending agency regulatory action issued by the Executive
+agency and with regard to each such communication--
+``(i) the date of the communication;
+``(ii) the intended audience of the communication;
+``(iii) the method of communication; and
+``(iv) a copy of the original communication.
+``(2) Period.--The head of each Executive agency shall
+publish the information required under paragraph (1)(A) not
+later than 24 hours after a public communication relating to
+a pending agency regulatory action is issued and shall
+maintain the public availability of such information not less
+than 5 years after the date on which the pending agency
+regulatory action is finalized.
+``(c) Requirements for Public Communications.--
+``(1) In general.--Any public communication issued by an
+Executive agency that refers to a pending agency regulatory
+action--
+``(A) shall specify whether the Executive agency is
+considering alternatives;
+``(B) shall specify whether the Executive agency is
+accepting or will be accepting comments; and
+``(C) shall expressly disclose that the Executive agency is
+the source of the information to the intended recipients.
+``(2) Restriction.--Any public communication issued by an
+Executive agency that refers to a pending agency regulatory
+action, other than an impartial communication that requests
+comment on or provides information regarding the pending
+agency regulatory action, may not--
+``(A) directly advocate, in support of or against the
+pending agency regulatory action, for the submission of
+information to form part of the record of review for the
+pending agency regulatory action;
+``(B) appeal to the public, or solicit a third party, to
+undertake advocacy in support of or against the pending
+agency regulatory action; or
+``(C) be directly or indirectly for publicity or propaganda
+purposes within the United States unless otherwise authorized
+by law.
+``(d) Reporting.--
+``(1) In general.--Not later than January 15 of each year,
+the head of an Executive agency that communicated about a
+pending agency regulatory action during the previous fiscal
+year shall submit to each committee of Congress with
+jurisdiction over the activities of the Executive agency a
+report indicating--
+``(A) the number pending agency regulatory actions the
+Executive agency issued public communications about during
+that fiscal year;
+``(B) the average number of public communications issued by
+the Executive agency for each pending agency regulatory
+action during that fiscal year;
+``(C) the 5 pending agency regulatory actions with the
+highest number of public communications issued by the
+Executive agency in that fiscal year; and
+``(D) a copy of each public communication for the pending
+agency regulatory actions identified in subparagraph (C).
+``(2) Availability of reports.--The head of an Executive
+agency that is required to submit a report under paragraph
+(1) shall make the report publicly available in a searchable
+format in a prominent location on the website of the
+Executive agency.''.
+(b) Technical and Conforming Amendment.--The table of
+sections for chapter 3 of title 5, United States Code, is
+amended by adding after the item relating to section 306 the
+following new item:
+``307. Information regarding pending agency regulatory action.''.
+The CHAIR. No amendment to the bill shall be in order except those
+printed in part A of House Report 115-21. Each such amendment may be
+offered only in the order printed in the report, by a Member designated
+in the report, shall be considered as read, shall be debatable for the
+time specified in the report, equally divided and controlled by the
+proponent and an opponent, shall not be subject to amendment, and shall
+not be subject to a demand for division of the question.
+Amendment No. 1 Offered by Ms. Jackson Lee
+The CHAIR. It is now in order to consider amendment No. 1 printed in
+part A of House Report 115-21.
+Ms. JACKSON LEE. Mr. Chairman, I have an amendment at the desk.
+The CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Page 3, after line 17, insert the following new paragraph
+(and redesignate subsequent paragraphs accordingly):
+``(2) Propaganda; publicity; advocacy.--The terms
+`propaganda', `publicity', and `advocacy' mean information,
+statements, or claims (or using such information, statement,
+or claim, as applicable) that--
+``(A) are not widely accepted in the scientific community;
+or
+``(B) are beliefs or assertions that are unsupported by
+science or empirical data.''.
+The CHAIR. Pursuant to House Resolution 156, the gentlewoman from
+Texas (Ms. Jackson Lee) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentlewoman from Texas.
+Ms. JACKSON LEE. I yield myself such time as I may consume.
+Mr. Chairman, I thank the Chair and the managers of the bill, in this
+instance Mr. Raskin and his collaborator, the Republican manager as
+well. I thank them for their very thoughtful discussion. I also want to
+indicate that this regulation does have a perspective of excessiveness
+on a matter that can be confined to instructions to the agencies that
+have the responsibility of implementing the laws that we pass here in
+the United States Congress.
+My amendment improves the present underlying bill by making clear
+that
+[[Page H1475]]
+communication of information statements or claims that are generally
+accepted by the scientific community or supported by empirical data is
+not restricted by this bill.
+H.R. 1004 directs each Federal agency to make information regarding
+their regulatory actions publicly available in a searchable format on a
+prominent website. That information would have to include the date a
+regulation was considered, its current status, an estimate of when the
+regulation will be final, and a brief description of the regulation. In
+addition, agencies will be required to track the details of all public
+communications about pending regulatory actions.
+But it further provides that:
+``Any public communication issued by an Executive agency that refers
+to a pending agency regulatory action, other than an impartial
+communication that requests comment on or provides information
+regarding the pending agency regulatory action,'' among other things,
+``may not--be directly or indirectly for publicity or propaganda
+purposes within the United States. . . .''
+I want to make sure that if an agency is telling the truth, then that
+agency is not going to be charged, as was said by Mr. Raskin, using a
+sledgehammer, that they can't make those communications. Take, for
+example, someone claiming that global warming is a hoax, but, if you
+read the facts, you will find out that a landmark 2013 study assessed
+4,000 peer-reviewed papers by 10,000 climate scientists that gave an
+opinion on the cause of climate change. It showed 97 percent of the
+authors attributed climate change to manmade causes. That may be a
+simple statement made by an agency based on science and empirical
+study. That should not be prohibited.
+The Jackson Lee amendment will protect Federal agency employees who
+might otherwise be ostracized, marginalized, discriminated against,
+wrongfully terminated or mistreated, or the whole regulation process
+imploded for statements made even though the statement is externally
+valid, logical, rooted in fact, or supported by empirical data,
+although contrary to an administration's political agenda. I want this
+to be straight up. I want these agency representatives to do what is
+right, so I ask my colleagues to support the Jackson Lee amendment.
+Mr. Chair, I wish to thank the Chair and Ranking Member of the Rules
+Committee for making the Jackson Lee Amendment in order.
+I also wish to thank Chairman Chaffetz and Ranking Member Cummings
+for their work in bringing the legislation before us to the floor.
+Mr. Chair, thank you for this opportunity to explain the Jackson Lee
+Amendment to H.R. 1004.
+The Jackson Lee Amendment improves H.R. 1004 by making clear that
+Communication of information, statements or claims that are generally
+accepted by the scientific community or supported by empirical data is
+not restricted by the bill.
+H.R. 1004 directs each federal agency to make information regarding
+their regulatory actions publicly available in a searchable format on a
+prominent website.
+That information would have to include the date a regulation was
+considered, its current status, an estimate of when the regulation
+would be final, and a brief description of the regulation.
+In addition, agencies would be required to track the details of all
+public communications about pending regulatory actions.
+H.R. 1004 further provides that ``any public communication issued by
+an Executive agency that refers to a pending agency regulatory action,
+other than an impartial communication that requests comment on or
+provides information regarding the pending agency regulatory action,
+among other things, may not ``be directly or indirectly used for
+publicity or propaganda purposes within the United States unless
+otherwise authorized by law.''
+Thus, in addition to requiring each federal agency to make
+information regarding regulatory action publicly available and
+accessible online, H.R. 1004 places restrictions on the type and
+quality of communications agencies may make.
+This vague phrase--``publicity or propaganda purposes''--creates
+substantial uncertainty and confusion as to what public communications
+are permissible, and risks discouraging agencies from keeping the
+public apprised of the important work they do on its behalf.
+The Jackson Lee Amendment will protect federal agency employees who
+might otherwise be ostracized, marginalized, discriminated against,
+wrongfully terminated, or mistreated for statements made even though
+the statement is externally valid, logical, rooted in fact, or
+supported by empirical data, although contrary to an administration's
+political agenda.
+Under the Jackson Lee Amendment, for example, a communication that
+human activity is a major contributor to climate change is not
+propaganda because it is an assertion supported by an overwhelming
+consensus of the scientific community.
+On the other hand, a claim that there is `widespread voter fraud' in
+presidential elections could be considered propaganda, because there is
+no reliable and statistically significant empirical data to support
+such a claim.
+Federal agencies' ability to engage and inform the public in a
+meaningful and transparent way regarding their work on important
+science-based rulemakings that will greatly benefit the public is a
+public good that we must nurture and protect.
+While propaganda may corrupt information or ideas by an interested
+party in a tendentious way in order to encourage particular attitudes
+and responses, information, supported by facts or empirical evidence,
+on the other hand, does not.
+The Jackson Lee Amendment safeguards the legitimacy and transparency
+of communications issued by federal agencies, ensuring that the
+information disseminated to the public is accurate and reliable.
+I urge my colleagues to preserve the bedrock principles of empirical
+research, scientific method, and free inquiry that are indispensable to
+free societies by voting for the Jackson Lee Amendment.
+[From cnbc.com, February 17, 2017]
+Murray Energy CEO Claims Global Warming Is a Hoax, Says 4,000
+Scientists Tell Him So
+(By Tom DiChristopher)
+Murray Energy Chairman and CEO Robert Murray on Friday
+claimed global warming is a hoax and repeated a debunked
+claim that the phenomenon cannot exist because the Earth's
+surface is cooling.
+Murray appeared on CNBC's ``Squawk Box'' to discuss
+Republicans' rollback of an Obama-era rule that would have
+restricted coal mining near waterways. President Donald Trump
+signed the measure on Thursday in front of Murray and a group
+of Murray Energy workers.
+Murray Energy is the country's largest coal miner. Many of
+its mines are in Appalachia, a region that would suffer some
+of the biggest impacts of the rule. Murray also successfully
+sued to delay implementation of the Clean Power Plan, which
+would regulate planet-warming carbon emissions from power
+plants.
+Asked about the economic analysis behind President Barack
+Obama's energy regulations, Murray said, ``There's no
+scientific analysis either. I have 4,000 scientists that tell
+me global warming is a hoax. The Earth has cooled for 20
+years.''
+It was not immediately clear who the 4,000 scientists
+Murray referenced are.
+Asked for clarification, a spokesperson for Murray Energy
+sent links to the Manhattan Declaration on Climate Change,
+which says ``human-caused climate change is not a global
+crisis,'' and the Global Warming Petition Project, a list of
+science degree holders who don't think humans cause climate
+change.
+Murray's claim that there is no scientific analysis behind
+climate change is not true.
+A landmark 2013 study assessed 4,000 peer-reviewed papers
+by 10,000 climate scientists that gave an opinion on the
+cause of climate change. It showed 97 percent of the authors
+attributed climate change to manmade causes.
+His second claim that Earth is cooling is also false.
+Temperatures were the warmest on record last year,
+according to NASA and the National Oceanic and Atmospheric
+Administration. It was the third year in a row global average
+temperatures set a record.
+``The planet's average surface temperature has risen about
+2.0 degrees Fahrenheit (1.1 degrees Celsius) since the late
+19th century,' a change driven largely by increased carbon
+dioxide and other human-made emissions into the atmosphere,''
+NASA and NOAA said.
+Climate change skeptics sometimes point to cool land
+temperatures to dispute global warming. Scientists have
+repeatedly noted that water covers 70 percent of the Earth's
+surface, so it is highly misleading to cast temperatures on
+land as a representation of global-scale temperatures.
+Land also heats and cools more quickly than the ocean, The
+Weather Channel noted while debunking a recent Breitbart News
+article that was widely found to have cherry-picked data to
+cast doubt on climate change.
+Ms. JACKSON LEE. Mr. Chairman, I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I claim the time in opposition to the
+amendment.
+The CHAIR. The gentleman from Texas is recognized for 5 minutes.
+Mr. FARENTHOLD. Mr. Chairman, I appreciate my colleague from Texas
+seeking to make this better, but I am going to have to oppose this
+amendment. It is confusing, unnecessary, and
+[[Page H1476]]
+overly restrictive on agencies. This amendment would create a single
+definition of three different words: propaganda, publicity, and
+advocacy. Those are different words. Under this amendment, publicity,
+advocacy, and propaganda would mean making a statement not widely
+accepted by the scientific community. Are we going to create a test of
+two out of three dentists agree? It is going to be difficult to do. I
+mean, it could be anything. Is it propaganda for me to say I love my
+wife? I only know a couple of scientists, there is not going to be a
+broad, general consensus in the scientific community about that, but it
+is certainly not propaganda. It is a statement of my feeling.
+Publicity and propaganda and advocacy are different words. They don't
+mean the same thing, and they certainly don't have the definition my
+friend from Texas is suggesting. Check out the dictionary. You can do
+it on your smartphone. These definitions that are proposed in this
+amendment are unworkable. I urge my colleagues to oppose this
+amendment.
+Mr. Chairman, I reserve the balance of my time.
+Ms. JACKSON LEE. Mr. Chairman, I have no doubt that my good friend
+from Texas loves his wife. I would also suggest to him that there might
+be a number of individuals who are experts that would be able to
+confirm that, certainly those who are around him, and they might be
+able to say that that is not propaganda or publicity, and, therefore,
+his statement stands.
+But when you are talking about thousands upon thousands of executive
+agency staff, servants of the United States Government wanting to do
+what is right, and you come down with this massive, oppressive document
+that says here is what you have to do, but don't do propaganda and
+don't do publicity, there should be a determination or a standard that
+says if it is based in fact, you have no problem, that is information
+that you can disseminate in order to edify those who may be wanting to
+comment by edifying the particular regulatory scheme or structure that
+you are putting forward for comment.
+Why should my friends on the other side be afraid of good, strong
+information to make the input valuable so that if I am dealing with a
+clean air regulation that I am able to hear from those who are for and
+against, but I can provide documentation, scientific documentation
+about the quality of air pollution, why this regulatory scheme is
+appropriate. I ask my colleagues, again, to support the Jackson Lee
+amendment.
+Mr. Chairman, I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I come back to the purpose of this
+bill: we want our regulatory agencies to be neutral. They propose a
+rule, they have done the research, and they have done the science. They
+wouldn't be proposing it if they didn't believe that it needed to be
+done. Where they crossed the line is using taxpayer money to go out and
+promote and advocate for it. The idea behind public comments, the whole
+thought behind public input is to get a diversity of ideas, but, if the
+solicitations seeking that comment are biased, or if the agency is
+advocating it, it potentially suppresses the other side. We want to get
+both sides of the matter.
+Let's look at the actual definition of propaganda. I googled it while
+Ms. Jackson Lee was just speaking. Propaganda is information,
+especially of a biased or misleading nature used to promote a
+particular cause or point of view. Advocacy is another one that has a
+definition. It is public statements for or a recommendation of a
+particular cause or policy. So those definitions basically say you are
+pushing a point of view. We don't want to limit those.
+The definition and the purpose behind this legislation is to make our
+agencies fair about seeking comment and fair about listening to those
+comments. We don't want the agencies going into this with preconceived
+notions and advocating it. We want the public comment to work the way
+the public comment is supposed to work. The scientific community,
+whether they are for it or against it, can weigh in in those public
+comments, and the public and the agency will know what their consensus
+is based on the fair comments fairly solicited. So again, I urge
+opposition to this amendment.
+Mr. Chairman, I reserve the balance of my time.
+Ms. JACKSON LEE. How much time is remaining on both sides?
+The CHAIR. The gentlewoman from Texas has 30 seconds remaining. The
+gentleman from Texas has 1\1/2\ minutes remaining.
+Ms. JACKSON LEE. Mr. Chairman, let me say to the gentleman that what
+we are suggesting is that propaganda can be confusing. I want truth and
+honesty, and I want our agencies to be able to reach out and to help
+the American people. Therefore, my amendment says that if by chance
+they say something but it has facts or empirical evidence, it is not
+propaganda, it is not publicity, they can go forward and protect our
+water, they can protect our health, they can protect our air. Why are
+we hiding on this floor?
+I ask my colleagues to support the Jackson Lee amendment. It only
+makes this bill more refined as to how we can help the American people
+pass a regulatory scheme that enhances local communities and cities.
+That is why we need the Jackson Lee amendment.
+Mr. Chairman, I yield back the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, in closing, the purpose of the
+underlying legislation here is to make sure we have a fair process and
+the Federal Government isn't pushing a point of view, it is listening
+to all sides. This amendment takes that away. For that reason, I urge
+opposition.
+I yield back the balance of my time.
+The CHAIR. The question is on the amendment offered by the
+gentlewoman from Texas (Ms. Jackson Lee).
+The question was taken; and the Chair announced that the noes
+appeared to have it.
+Ms. JACKSON LEE. Mr. Chairman, I demand a recorded vote.
+The CHAIR. Pursuant to clause 6 of rule XVIII, further proceedings on
+the amendment offered by the gentlewoman from Texas will be postponed.
+Amendment No. 2 Offered by Mr. Farenthold
+The Acting CHAIR (Mr. Hultgren). It is now in order to consider
+amendment No. 2 printed in part A of House Report 115-21.
+Mr. FARENTHOLD. Mr. Chairman, as the designee of the gentleman from
+Indiana (Mr. Messer), I have an amendment at the desk.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Page 4, line 24, strike ``; and'' and insert a semicolon.
+Page 5, line 2, strike the period at the end and insert ``;
+and''.
+Page 5, after line 2, insert the following new clause:
+``(v) if applicable, a list of agency regulatory actions
+issued by the Executive agency, or any other Executive
+agency, that duplicate or overlap with the agency regulatory
+action.''.
+The Acting CHAIR. Pursuant to House Resolution 156, the gentleman
+from Texas (Mr. Farenthold) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentleman from Texas.
+Mr. FARENTHOLD. Mr. Chairman, this is a simple transparency measure
+that adds a disclosure requirement under the underlying bill.
+Understanding which regulations are duplicative or overlapping allows
+the public to be better informed as they participate in the rulemaking
+process. We want to know what is going on as members of the public. Too
+many times agencies develop regulations without consideration or
+coordination with other Federal agencies, State and local governments,
+or, in some cases, even the public. They issue proposed rules that are
+unnecessary, duplicative, or overcomplicated.
+This simple amendment helps draw the public's attention to potential
+areas of concern while the rule is still in the proposed phase of
+rulemaking. I urge my colleagues to support this amendment.
+Mr. Chairman, I reserve the balance of my time.
+Mr. RASKIN. Mr. Chairman, I claim the time in opposition to the
+amendment.
+The Acting CHAIR. The gentleman from Maryland is recognized for 5
+minutes.
+Mr. RASKIN. Mr. Chairman, I do want to express my opposition to this
+amendment because it is perfectly duplicative, and it does nothing to
+cure
+[[Page H1477]]
+the very serious deficiencies in the underlying bill. Executive Order
+13563, which was issued by President Obama, requires each agency to
+``periodically review existing significant regulations to determine
+whether any such regulations should be modified, streamlined, expanded,
+or repealed, so as to make the agency's regulatory program more
+effective or less burdensome in achieving the regulatory objectives.''
+Because there is little doubt that this executive order covers the
+review and elimination of duplicative and overlapping regulatory
+actions, there is no need for the additional reporting requirements
+that this amendment would redundantly impose. More importantly, this
+amendment simply fails to address the profound flaws in the underlying
+bill. It fails to provide the bright lines for what an agency can
+communicate to the public safely within the stringent new guidelines.
+It fails to eliminate the unnecessarily burdensome and onerous
+requirements in the bill that seem to have no purpose but to reduce the
+amount of information agencies would be able to release to the public
+and invite from the public.
+{time}  1000
+The amendment fails to eliminate the prohibition against agencies
+making public communications that directly advocate for or oppose the
+submission of public comments or expert analysis of a pending rule. The
+amendment fails to remove the serious impediments this bill places in
+the way of agency use of social media platforms. Most importantly, the
+amendment does nothing to cure the serious chilling effect that the
+bill would have on agency communications and the negative effects that
+this imposition would have on the ability of agencies to educate
+millions of Americans about the costs and benefits of a particular
+regulation and to invite their input into the rulemaking process.
+Because the amendment does nothing to improve the flaws of this bill
+and is duplicative of work that agencies are already required to do, I
+urge all Members to oppose this amendment.
+I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I think my colleague across the aisle
+actually makes the case for me. The executive branch already requires
+that this work be done by the agencies.
+Leaving behind the constitutional authority of this body to direct
+that happen in the nature of executive orders that can be changed by
+the next executive, this actually codifies a good part of the executive
+order that is already in place, so the agencies wouldn't have to do any
+work.
+What this does add, however, to that executive order and why it is so
+important is it adds a transparency requirement. An agency is required
+to look to see what regulations are out there that may be duplicative
+under the executive order. This requires them to tell us about it. Why
+would they want to hide from the American people that they are creating
+a duplicative regulation?
+This is a simple transparency amendment that improves the quality of
+the underlying bill, improves the amount of information accessible to
+the public, and holds executive branch agencies accountable to make
+sure they are not putting unnecessary and duplicative burdens on the
+American people.
+I urge my colleagues to support this amendment.
+I reserve the balance of my time.
+Mr. RASKIN. Mr. Chairman, I rise only to note the remarkable irony of
+the gentleman making an argument for the reduction of duplicative
+regulations by adding another duplicative regulation.
+I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, we are simply codifying an executive
+order here, as the gentleman pointed out, but we are adding one more
+thing. We are adding transparency to it so the American people know
+what these alphabet soups of government agencies are up to and give us,
+as watchdogs in Congress, or private organizations or a member of the
+public with internet access the ability to see how the CFR is expanding
+and expanding with more and more duplicative Federal rules.
+I yield back the balance of my time.
+Mr. RASKIN. Mr. Chairman, this redundant and duplicative and, again,
+chilling amendment will only add more red tape, divert the time of
+agency officials to produce more paperwork that is unnecessary, and
+point us right back to the central flaw of the legislation.
+My distinguished opponents have mobilized all of one case to
+demonstrate the necessity of this legislation, and it was a case which
+was properly resolved by the GAO, and everybody agrees to it. So I
+understand the urge to get up and say we need more legislation to do
+what we have already been able to accomplish under existing law, I
+understand that everybody wants to make a point about the righteousness
+of legislative change, but sometimes we just don't need another law.
+The law works as it was. We don't need another law.
+And again, I am just impressed by the irony of saying we need another
+law to eliminate excessive and redundant regulation when the current
+law already does it. It is almost like a caricature of what we do here
+in Congress.
+I yield back the balance of my time.
+Mr. MESSER. Mr. Chair, my amendment is simple.
+It would require an executive agency to report any new rule or
+regulatory action that would duplicate or otherwise overlap with
+existing agency rules and regulations.
+So much of government's excess is created by unelected officials who
+wield enormous influence over our everyday lives.
+Last year, Federal agencies issued 18 rules and regulations for every
+one law that passed Congress.
+That is a grand total of 3,853 regulations in 2016 alone. In 2015,
+Federal regulations cost the American economy nearly $1.9 trillion --T,
+trillion dollars--in lost growth and productivity.
+Think about that for a second. A $1.9 trillion tax, a government
+burden on the American people. That means lost jobs, stagnant wages,
+and decreasing benefits for workers.
+When the House passed the REINS Act in January, I offered an
+amendment to require at least 1 rule be overturned for every new rule
+finalized by the executive branch.
+President Trump recently took that one step further by issuing an
+executive order which required at least 2 rules be overturned for every
+new rule.
+My amendment builds on those initiatives by requiring any agency
+issuing a duplicative regulation to indicate as much when making the
+online disclosure required by the underlying bill.
+The truth is, the federal government is all too often a fountain of
+unnecessary regulations.
+And while some may debate the merits of any given regulation, few
+would agree the federal government should issue identical iterations of
+the same regulation multiple times over.
+Mr. Speaker, it is past time we stop bureaucratic abuse and shift the
+balance of power from government back to the people, where it belongs.
+That can start today by passing the Regulatory Integrity Act and
+putting our government on a path to reduce the amount of red tape that
+our businesses and the American people deal with every day.
+Mr. Speaker, I would like to thank my colleague from Michigan for his
+hard work on this commonsense legislation.
+I urge my colleagues to support my amendment and the underlying bill.
+The Acting CHAIR. The question is on the amendment offered by the
+gentleman from Texas (Mr. Farenthold).
+The question was taken; and the Acting Chair announced that the ayes
+appeared to have it.
+Mr. RASKIN. Mr. Chairman, I demand a recorded vote.
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, further
+proceedings on the amendment offered by the gentleman from Texas will
+be postponed.
+Amendment No. 3 Offered by Ms. Jackson Lee
+The Acting CHAIR. It is now in order to consider amendment No. 3
+printed in part A of House Report 115-21.
+Ms. JACKSON LEE. Mr. Chairman, I have an amendment at the desk.
+The Acting CHAIR. The Clerk will designate the amendment.
+The text of the amendment is as follows:
+Page 8, after line 12, insert the following new subsection:
+(c) Applicability.--Section 307 of title 5, United States
+Code, as added by subsection (a), does not apply to any
+communication that is protected under the First Amendment to
+the Constitution.
+The Acting CHAIR. Pursuant to House Resolution 156, the gentlewoman
+from Texas (Ms. Jackson Lee) and a Member opposed each will control 5
+minutes.
+The Chair recognizes the gentlewoman from Texas.
+Ms. JACKSON LEE. Mr. Chairman, with all good intentions of the
+underlying bill, the Regulatory Integrity Act
+[[Page H1478]]
+of 2017, which has a very distinguished name, I am really concerned,
+and my colleague should be concerned, of the chilling effect of this
+particular legislation. Let me tell you what the problem is.
+My good friend from Texas Mr. Farenthold, Congresswoman Jackson Lee,
+and Professor Raskin will not be bending over the shoulder of some
+hardworking public servant for the Federal Government trying to
+interpret what this new law means. Can I speak? Can I send information
+out? What a chilling effect. What a First Amendment violation this
+legislation might entail.
+Take, for example, Chairman Pai of the FCC. He decided to publish the
+full text of proposals and regulations that the public would otherwise
+never see until after they had been finalized and approved. Suppose he
+was then charged with a violation of this bill? Chilling effect,
+undermining the public's ability to even understand what a very
+important agency such as the FCC is doing.
+My amendment simply states that nothing in this bill shall be
+interpreted to prohibit any communication that is protected under the
+First Amendment to the United States Constitution. For those of us who
+love the Constitution, that is the First Amendment, and it is a simple,
+simple statement. Your freedom of speech is protected because it
+enables people to obtain information from a diversity of sources, makes
+decisions, and communicates those decisions to the government.
+Let me recite a 1927 case from Justice Louis Brandeis, Whitney v.
+California. There is a joy in reading it because he wrote and said:
+``Freedom to think as you will and to speak as you think are means
+indispensable to the discovery and spread of political truth.''
+The Framers of the Constitution knew, to quote Justice Brandeis:
+``that order cannot be secured merely through fear of punishment for
+its infraction; that it is hazardous to discourage thought, hope and
+imagination; that fear breeds repression; that repression breeds
+hate.''
+The question is: Some worker who is responsible for this, what will
+they think?
+I ask my colleagues to support the Jackson Lee amendment that
+indicates the First Amendment will not be chilled.
+Mr. Chair, I wish to thank the Chair and Ranking Member of the Rules
+Committee for making the Jackson Lee Amendment in order.
+I also wish to thank Chairman Chaffetz and Ranking Member Cummings
+for their work in bringing the legislation before us to the floor.
+Mr. Chair, thank you for this opportunity to explain this Jackson Lee
+Amendment to H.R. 1004.
+The Jackson Lee Amendment is simple and straightforward.
+It simply states that ``nothing in the bill shall be interpreted to
+prohibit any communication that is protected under the First Amendment
+to the U.S. Constitution.''
+The amendment is necessary because not only does H.R. 1004 direct
+that certain information be made publicly available by agencies
+regarding their regulatory actions, the legislation also imposes
+restrictions on the type and quality of communications that can be made
+by agencies and agency personnel.
+Mr. Chair, it is useful to explain briefly why the First Amendment's
+protection of speech is central to the effective functioning of the
+American political system.
+Freedom of speech and a vibrant and robust democracy are inextricably
+intertwined.
+Freedom of speech enables people to obtain information from a
+diversity of sources, make decisions, and communicate those decisions
+to the government.
+The First Amendment also provides American people with a
+``marketplace of ideas.''
+Rather than having the government establish and dictate the truth,
+freedom of speech enables the truth to emerge from diverse opinions.
+In Whitney v. California (1927), Justice Louis Brandeis wrote that
+``freedom to think as you will and to speak as you think are means
+indispensable to the discovery and spread of political truth.''
+Free speech facilitates democratic governance because it is only
+through talking that we encourage consensus and form a collective will.
+Over the long run, free speech improves our public decision-making
+because just as we Americans generally believe in free markets in
+economic matters, we also generally believe in free markets when it
+comes to ideas, and this includes governmental affairs.
+Freedom of speech strengthens public confidence in the American
+governmental system of checks and balances.
+Speech is thus a means of empowering people, through which they
+learn, grow, and share; correct errors; and remedy violations of the
+public trust.
+Mr. Chair, the framers of the Constitution knew, to quote Justice
+Brandeis again in Whitney v. California:
+that order cannot be secured merely through fear of
+punishment for its infraction;
+that it is hazardous to discourage thought, hope and
+imagination;
+that fear breeds repression;
+that repression breeds hate;
+that hate menaces stable government[.]
+Free societies like the United States accept that openness fosters
+resiliency and that free debate dissipates more hate than it stirs.
+Not only does freedom of speech serve the ends of democracy, it is
+also an indelible part of human personality and human dignity.
+In the words of Justice Thurgood Marshall in the 1974 case Procunier
+v. Martinez:
+The First Amendment serves not only the needs of the polity
+but also those of the human spirit--a spirit that demands
+self-expression.
+Freedom of speech is intimately connected to the human desire to
+think, imagine, create, wonder, inquire, and believe.
+While freedom of speech is not unlimited, the American tradition is
+to view such limits with caution and skepticism and to embrace freedom
+of speech as a transcendent constitutional value.
+In Branzburg v. Hayes, 408 U.S. 665 (1972), Justice Douglas reminded
+us that:
+effective self-government cannot succeed unless the people
+are immersed in a steady, robust, unimpeded, and uncensored
+flow of opinion and reporting which are continuously
+subjected to critique, rebuttal, and re-examination.
+In other words, Mr. Chair, freedom of speech is fundamental to the
+American identity and psyche.
+And that is why I have proposed the Jackson Lee Amendment to ensure
+that nothing in H.R. 1004 shall be interpreted to prohibit any
+communication that is protected under the precious First Amendment to
+the U.S. Constitution.
+I urge my colleagues to support the Jackson Lee amendment.
+I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chairman, I rise in opposition to the amendment.
+The Acting CHAIR. The gentleman from Texas is recognized for 5
+minutes
+Mr. FARENTHOLD. Mr. Chairman, this amendment is unnecessary and
+confusing. As I am sure my colleague from Texas (Ms. Jackson Lee)
+knows, the Constitution is the supreme law of the land.
+The First Amendment applies to everybody in this country. We couldn't
+write a law that infringes upon the First Amendment and have it
+withstand scrutiny by the Supreme Court or under the Constitution, and
+I certainly wouldn't support a law that did this.
+The underlying legislation is designed to stop public agencies from
+using your taxpayer dollars and my taxpayer dollars for promoting one
+side of an issue. It is not designed to chill any Federal employees of
+First Amendment rights.
+In fact, the Supreme Court, in 1994, in Waters v. Churchill, held
+that public employees do have a right to free speech. We are not going
+to be leaning over people's necks seeing what they are putting on their
+personal Twitter accounts, but we are going to say that, if you are a
+government agency spending taxpayer dollars to promote a point of view
+on something before your agency, that is a no-no. That is what this
+underlying legislation does.
+Ms. Jackson Lee's amendment is simply unnecessary because we can't
+suppress the First Amendment rights even if we want to. And we do not--
+I say do not--ever want to violate the Constitution and interfere with
+people's First Amendment rights. And, listen, I agree with the
+underlying intent of my colleague's amendment. Simply, we can't do it.
+Unfortunately, this amendment is not only unnecessary, it could be
+harmful. If we say First Amendment protections apply in this law, are
+we going to have to go out and in every law we pass, put in something
+that says the First Amendment applies? Come on. We already know the
+First Amendment applies because the Constitution is the supreme law of
+the land.
+So it creates unnecessary confusion that could ultimately harm
+people's
+[[Page H1479]]
+First Amendment rights. Can you see the lawsuits? Well, Congress didn't
+say in there it protected my First Amendment right. So we would have to
+go and rewrite every law on the books.
+The Constitution is there and it works. It is an unnecessary
+amendment. So I hope my clarification that the First Amendment applies
+assuages the concerns of the gentlewoman from Texas and she withdraws
+the amendment. If she doesn't, however, I am going to have to oppose it
+as unnecessary and potentially confusing to the entire body of law of
+this country.
+Mr. Chair, I reserve the balance of my time.
+Ms. JACKSON LEE. Mr. Chair, how much time is remaining?
+The ACTING CHAIR. The gentlewoman from Texas has 2\1/2\ minutes
+remaining. The gentleman from Texas has 2\1/2\ minutes remaining.
+Ms. JACKSON LEE. Well, let me say this.
+Mr. Chair, first of all, before I yield to the gentleman from the
+great State of Maryland, the reason why we need my amendment is because
+this deals with speech. This regulatory bill deals with speech, what
+you can say and what you cannot say.
+So this is not a reflection that we need this in every legislative
+initiative. I would love for it to be there. But this is a bill that
+deals with what our agencies can say. And if the Chairman of the FCC
+put out all of these proposals specifically so that the public could
+see, just think if this bill unclarified what the protection of the
+First Amendment reiterated, his speech would be chilled.
+I am delighted to yield 30 seconds to the distinguished gentleman
+from Maryland (Mr. Raskin).
+Mr. RASKIN. Mr. Chair, a regime of fear has descended on the Federal
+workforce, and I have got 88,000 Federal employees in my district.
+If they insist on this legislation--unnecessary, redundant,
+confusing, and chilling--at the very least, we must pass the
+gentlewoman's amendment to say that it does not trench on the First
+Amendment rights of our citizens who are simply exercising in a
+viewpoint-neutral, in a content-neutral way the determination of the
+agencies to solicit public input.
+You say you support on your side the input of the public. You say you
+support the intent of the amendment. Let's accept the amendment, and
+let's all embrace the First Amendment together.
+Mr. FARENTHOLD. I would just like to point out that Commissioner
+Pai's release of that information would not be prohibited under this
+bill. It is not advocacy. It is releasing facts. So it would not be
+prohibited.
+Again, the First Amendment already applies to every law that we make
+in this body and every law we have made. The Constitution trumps what
+we do here.
+So, with that, I continue to argue that this amendment is unnecessary
+and potentially confusing, and I reserve the balance of my time.
+Ms. JACKSON LEE. Again, Mr. Chair, can the Chair tell us the time
+remaining.
+The ACTING CHAIR. The gentlewoman from Texas has 1\1/4\ minutes
+remaining. The gentleman from Texas has 2 minutes remaining.
+Ms. JACKSON LEE. Mr. Chair, let me indicate that the gentleman just
+argued my point. Clarity is what we need. My amendment provides
+clarity.
+Again, what does this bill do? This bill tells Federal employees
+about their speech: what level of speech, containing speech, how much
+speech, what they can say, what is propaganda, what is publicity.
+Therefore, I think it is important to avoid the chilling effect on
+public servants who are doing the task on behalf of the American
+people.
+Being the American people's defendant, I believe that we should, in
+fact, have this language. In Branzburg v. Hayes, Justice Douglas
+reminded us that an effective self-government cannot succeed unless the
+people are immersed in a steady, robust, unimpeded, and uncensored flow
+of opinion and reporting which are continuously subjected to critique,
+rebuttal, and reexamination. That is the protection of the First
+Amendment.
+Mr. Chair, I reserve the balance of my time.
+Mr. FARENTHOLD. Mr. Chair, I think the utmost clarity is in the First
+Amendment. I am going to read it here.
+``Congress shall make no law respecting an establishment of religion,
+or prohibiting the free exercise thereof; or abridging the freedom of
+speech, or of the press, or the right of the people to peaceably
+assemble, and to petition the Government for a redress of grievances.''
+{time}  1015
+That applies to everything we do, every law we make. This amendment
+is unnecessary, and I urge opposition.
+Mr. Chair, I reserve the balance of my time.
+Ms. JACKSON LEE. Mr. Chair, I am prepared to close, and I yield
+myself the balance of my time.
+Let me reemphasize: Clarity in the First Amendment cannot be a bad
+thing. This bill kills speech. Let's clarify that that speech is
+protected by the First Amendment to not chill the hard work of our
+hardworking Federal employees trying to provide for the safety and
+security of the American people.
+I ask my colleagues to support the Jackson Lee amendment, and I yield
+back the balance of my time.
+Mr. FARENTHOLD. Mr. Chair, at the risk of sounding repetitious, the
+First Amendment applies to all we do in this body. This amendment is
+unnecessary.
+Mr. Chair, I yield back the balance of my time.
+The Acting CHAIR. The question is on the amendment offered by the
+gentlewoman from Texas (Ms. Jackson Lee).
+The question was taken; and the Acting Chair announced that the noes
+appeared to have it.
+Ms. JACKSON LEE. Mr. Chair, I demand a recorded vote.
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, further
+proceedings on the amendment offered by the gentlewoman from Texas will
+be postponed.
+Announcement by the Acting Chair
+The Acting CHAIR. Pursuant to clause 6 of rule XVIII, proceedings
+will now resume on those amendments printed in part A of House Report
+115-21 on which further proceedings were postponed, in the following
+order:
+Amendment No. 1 by Ms. Jackson Lee of Texas.
+Amendment No. 2 by Mr. Farenthold of Texas.
+Amendment No. 3 by Ms. Jackson Lee of Texas.
+The Chair will reduce to 2 minutes the minimum time for any
+electronic vote after the first vote in this series.
+Amendment No. 1 Offered by Ms. Jackson Lee
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentlewoman from Texas
+(Ms. Jackson Lee) on which further proceedings were postponed and on
+which the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The vote was taken by electronic device, and there were--ayes 180,
+noes 234, not voting 15, as follows:
+[Roll No. 122]
+AYES--180
+Adams
+Aguilar
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Brady (PA)
+Brownley (CA)
+Bustos
+Butterfield
+Capuano
+Carbajal
+Cardenas
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Cleaver
+Clyburn
+Cohen
+Connolly
+Conyers
+Correa
+Courtney
+Crist
+Crowley
+Cuellar
+Cummings
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Ellison
+Engel
+Eshoo
+Espaillat
+Esty
+Evans
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Garamendi
+Gonzalez (TX)
+Gottheimer
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hanabusa
+Hastings
+Heck
+Higgins (NY)
+Himes
+Hoyer
+Huffman
+Jackson Lee
+Jayapal
+Jeffries
+Kaptur
+Keating
+Kelly (IL)
+Kennedy
+Khanna
+Kihuen
+Kildee
+Kilmer
+Kind
+Krishnamoorthi
+Kuster (NH)
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee
+Levin
+Lewis (GA)
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham, M.
+Lujan, Ben Ray
+Lynch
+[[Page H1480]]
+Maloney, Carolyn B.
+Maloney, Sean
+Matsui
+McCollum
+McEachin
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Napolitano
+Neal
+Nolan
+Norcross
+O'Halleran
+O'Rourke
+Pallone
+Panetta
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Pingree
+Pocan
+Polis
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Richmond
+Rosen
+Roybal-Allard
+Ruiz
+Ruppersberger
+Ryan (OH)
+Sanchez
+Sarbanes
+Schakowsky
+Schiff
+Schneider
+Schrader
+Scott (VA)
+Serrano
+Sewell (AL)
+Shea-Porter
+Sherman
+Sinema
+Sires
+Slaughter
+Smith (WA)
+Soto
+Speier
+Suozzi
+Swalwell (CA)
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tonko
+Torres
+Tsongas
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--234
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Arrington
+Babin
+Bacon
+Banks (IN)
+Barletta
+Barr
+Barton
+Bergman
+Biggs
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Black
+Blackburn
+Blum
+Bost
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Budd
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Chaffetz
+Cheney
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Comstock
+Conaway
+Cook
+Cooper
+Costa
+Costello (PA)
+Cramer
+Crawford
+Culberson
+Curbelo (FL)
+Davidson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Dunn
+Emmer
+Farenthold
+Faso
+Ferguson
+Fitzpatrick
+Fleischmann
+Flores
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Gaetz
+Gallagher
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guthrie
+Harper
+Harris
+Hartzler
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Higgins (LA)
+Hill
+Holding
+Hollingsworth
+Huizenga
+Hultgren
+Hunter
+Hurd
+Issa
+Jenkins (KS)
+Jenkins (WV)
+Johnson (LA)
+Johnson (OH)
+Johnson, Sam
+Jones
+Joyce (OH)
+Katko
+Kelly (MS)
+Kelly (PA)
+King (IA)
+King (NY)
+Kinzinger
+Knight
+Kustoff (TN)
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+Lewis (MN)
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+MacArthur
+Marchant
+Marino
+Marshall
+Massie
+Mast
+McCarthy
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mitchell
+Moolenaar
+Mooney (WV)
+Mullin
+Murphy (PA)
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Poe (TX)
+Poliquin
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (SC)
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney, Francis
+Rooney, Thomas J.
+Ros-Lehtinen
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce (CA)
+Russell
+Rutherford
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Smucker
+Stefanik
+Stewart
+Stivers
+Tenney
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Wagner
+Walberg
+Walden
+Walker
+Walorski
+Walters, Mimi
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams
+Wilson (SC)
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Zeldin
+NOT VOTING--15
+Boyle, Brendan F.
+Brown (MD)
+Chu, Judy
+Gallego
+Hudson
+Johnson (GA)
+Johnson, E. B.
+Jordan
+McGovern
+Nadler
+Rush
+Scott, David
+Taylor
+Wittman
+Young (AK)
+{time}  1038
+Messrs. ABRAHAM, POSEY, THOMAS J. ROONEY of Florida, ROTHFUS,
+LUETKEMEYER, and WESTERMAN changed their vote from ``aye'' to ``no.''
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Mr. BROWN of Maryland. Mr. Speaker, I was unavoidably detained. Had I
+been present, I would have voted ``yea'' on rollcall No. 122.
+Amendment No. 2 Offered by Mr. Farenthold
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentleman from Texas (Mr.
+Farenthold) on which further proceedings were postponed and on which
+the ayes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 263,
+noes 145, not voting 21, as follows:
+[Roll No. 123]
+AYES--263
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Arrington
+Babin
+Bacon
+Banks (IN)
+Barletta
+Barr
+Barton
+Bera
+Bergman
+Biggs
+Bilirakis
+Bishop (GA)
+Bishop (MI)
+Bishop (UT)
+Black
+Blackburn
+Blum
+Bost
+Brady (TX)
+Brat
+Bridenstine
+Brooks (IN)
+Brownley (CA)
+Buchanan
+Buck
+Bucshon
+Budd
+Burgess
+Bustos
+Byrne
+Calvert
+Carbajal
+Carter (GA)
+Carter (TX)
+Chabot
+Chaffetz
+Cheney
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Conaway
+Cook
+Cooper
+Correa
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crist
+Cuellar
+Culberson
+Curbelo (FL)
+Davidson
+Davis, Rodney
+Delaney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Dunn
+Emmer
+Farenthold
+Faso
+Ferguson
+Fleischmann
+Flores
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Gabbard
+Gaetz
+Gallagher
+Gallego
+Garrett
+Gibbs
+Gohmert
+Gonzalez (TX)
+Goodlatte
+Gosar
+Gottheimer
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Green, Gene
+Griffith
+Grothman
+Guthrie
+Gutierrez
+Harper
+Harris
+Hartzler
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Higgins (LA)
+Hill
+Himes
+Holding
+Hollingsworth
+Huizenga
+Hultgren
+Hunter
+Hurd
+Issa
+Jenkins (KS)
+Jenkins (WV)
+Johnson (LA)
+Johnson (OH)
+Johnson, Sam
+Jones
+Joyce (OH)
+Katko
+Kelly (MS)
+Kelly (PA)
+Kihuen
+Kind
+King (IA)
+King (NY)
+Kinzinger
+Knight
+Kuster (NH)
+Kustoff (TN)
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+Lewis (MN)
+Lieu, Ted
+Lipinski
+LoBiondo
+Loebsack
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+MacArthur
+Marino
+Marshall
+Massie
+Mast
+McCarthy
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mitchell
+Moolenaar
+Mooney (WV)
+Moulton
+Mullin
+Murphy (FL)
+Murphy (PA)
+Newhouse
+Noem
+Nolan
+Nunes
+O'Halleran
+O'Rourke
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peters
+Peterson
+Pittenger
+Poliquin
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (SC)
+Roby
+Roe (TN)
+Rogers (AL)
+Rokita
+Rooney, Francis
+Rooney, Thomas J.
+Ros-Lehtinen
+Rosen
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce (CA)
+Ruiz
+Russell
+Rutherford
+Sanford
+Scalise
+Schneider
+Schrader
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Sinema
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Smucker
+Stefanik
+Stewart
+Stivers
+Suozzi
+Tenney
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Vela
+Wagner
+Walberg
+Walden
+Walker
+Walorski
+Walters, Mimi
+Walz
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams
+Wilson (SC)
+Womack
+Woodall
+Yoder
+Yoho
+Young (IA)
+Zeldin
+NOES--145
+Adams
+Aguilar
+Barragan
+Beatty
+Beyer
+Blumenauer
+Blunt Rochester
+Bonamici
+Brady (PA)
+Brown (MD)
+Butterfield
+Capuano
+Cardenas
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Chu, Judy
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Cleaver
+Clyburn
+Cohen
+Connolly
+Conyers
+Courtney
+Crowley
+Cummings
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Ellison
+Engel
+Eshoo
+Espaillat
+Esty
+Evans
+Foster
+Frankel (FL)
+Fudge
+Garamendi
+Green, Al
+Grijalva
+Hanabusa
+Hastings
+Heck
+Higgins (NY)
+Hoyer
+Huffman
+Jackson Lee
+Jayapal
+Jeffries
+Johnson (GA)
+Kaptur
+Kelly (IL)
+Kennedy
+Khanna
+Kildee
+Kilmer
+Krishnamoorthi
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee
+Levin
+Lewis (GA)
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham, M.
+Lujan, Ben Ray
+Lynch
+Maloney, Carolyn B.
+Maloney, Sean
+Matsui
+McCollum
+McEachin
+McNerney
+Meeks
+Meng
+Moore
+Napolitano
+Neal
+Norcross
+Pallone
+Panetta
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Pingree
+Pocan
+Polis
+Price (NC)
+Quigley
+Raskin
+Richmond
+Rohrabacher
+Roybal-Allard
+Ruppersberger
+Ryan (OH)
+Sanchez
+Sarbanes
+Schakowsky
+Schiff
+Scott (VA)
+Serrano
+[[Page H1481]]
+Sewell (AL)
+Shea-Porter
+Sherman
+Sires
+Slaughter
+Smith (WA)
+Soto
+Speier
+Swalwell (CA)
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tonko
+Torres
+Tsongas
+Vargas
+Veasey
+Velazquez
+Visclosky
+Wasserman Schultz
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOT VOTING--21
+Bass
+Boyle, Brendan F.
+Brooks (AL)
+Comstock
+Fitzpatrick
+Hudson
+Johnson, E. B.
+Jordan
+Keating
+Marchant
+McGovern
+Nadler
+Poe (TX)
+Rice (NY)
+Rogers (KY)
+Rush
+Scott, David
+Taylor
+Waters, Maxine
+Wittman
+Young (AK)
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1043
+Mr. HIMES changed his vote from ``no'' to ``aye.''
+So the amendment was agreed to.
+The result of the vote was announced as above recorded.
+Stated for:
+Mr. FITZPATRICK. Mr. Speaker, I was unavoidably detained. Had I been
+present, I would have voted ``yea'' on rollcall No. 123.
+Amendment No. 3 Offered by Ms. Jackson Lee
+The Acting CHAIR. The unfinished business is the demand for a
+recorded vote on the amendment offered by the gentlewoman from Texas
+(Ms. Jackson Lee) on which further proceedings were postponed and on
+which the noes prevailed by voice vote.
+The Clerk will redesignate the amendment.
+The Clerk redesignated the amendment.
+Recorded Vote
+The Acting CHAIR. A recorded vote has been demanded.
+A recorded vote was ordered.
+The Acting CHAIR. This will be a 2-minute vote.
+The vote was taken by electronic device, and there were--ayes 189,
+noes 232, not voting 8, as follows:
+[Roll No. 124]
+AYES--189
+Adams
+Aguilar
+Barragan
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brown (MD)
+Brownley (CA)
+Bustos
+Butterfield
+Capuano
+Carbajal
+Cardenas
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Chu, Judy
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Cleaver
+Clyburn
+Cohen
+Connolly
+Conyers
+Correa
+Costa
+Courtney
+Crist
+Crowley
+Cuellar
+Cummings
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Duncan (TN)
+Engel
+Eshoo
+Espaillat
+Esty
+Evans
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gonzalez (TX)
+Gottheimer
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hanabusa
+Hastings
+Heck
+Higgins (NY)
+Himes
+Hollingsworth
+Hoyer
+Huffman
+Jackson Lee
+Jayapal
+Jeffries
+Johnson (GA)
+Jones
+Kaptur
+Keating
+Kelly (IL)
+Kennedy
+Khanna
+Kihuen
+Kildee
+Kilmer
+Krishnamoorthi
+Kuster (NH)
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee
+Levin
+Lewis (GA)
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham, M.
+Lujan, Ben Ray
+Lynch
+Maloney, Sean
+Matsui
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Napolitano
+Neal
+Nolan
+Norcross
+O'Halleran
+O'Rourke
+Pallone
+Panetta
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Pingree
+Pocan
+Polis
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Richmond
+Rosen
+Roybal-Allard
+Ruiz
+Ruppersberger
+Ryan (OH)
+Sanchez
+Sarbanes
+Schakowsky
+Schiff
+Schneider
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Shea-Porter
+Sherman
+Sinema
+Sires
+Slaughter
+Smith (WA)
+Soto
+Speier
+Suozzi
+Swalwell (CA)
+Takano
+Thompson (CA)
+Thompson (MS)
+Tiberi
+Titus
+Tonko
+Torres
+Tsongas
+Upton
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--232
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Arrington
+Babin
+Bacon
+Banks (IN)
+Barletta
+Barr
+Barton
+Bergman
+Biggs
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Black
+Blackburn
+Blum
+Bost
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Budd
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Chaffetz
+Cheney
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Comstock
+Conaway
+Cook
+Cooper
+Costello (PA)
+Cramer
+Crawford
+Culberson
+Curbelo (FL)
+Davidson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Donovan
+Duffy
+Duncan (SC)
+Dunn
+Ellison
+Emmer
+Farenthold
+Faso
+Ferguson
+Fitzpatrick
+Fleischmann
+Flores
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Gaetz
+Gallagher
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guthrie
+Harper
+Harris
+Hartzler
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Higgins (LA)
+Hill
+Holding
+Huizenga
+Hultgren
+Hunter
+Hurd
+Issa
+Jenkins (KS)
+Jenkins (WV)
+Johnson (LA)
+Johnson (OH)
+Johnson, Sam
+Joyce (OH)
+Katko
+Kelly (MS)
+Kelly (PA)
+Kind
+King (IA)
+King (NY)
+Kinzinger
+Knight
+Kustoff (TN)
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+Lewis (MN)
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+MacArthur
+Maloney, Carolyn B.
+Marchant
+Marino
+Marshall
+Massie
+Mast
+McCarthy
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mitchell
+Moolenaar
+Mooney (WV)
+Mullin
+Murphy (PA)
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Poe (TX)
+Poliquin
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (SC)
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney, Francis
+Rooney, Thomas J.
+Ros-Lehtinen
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce (CA)
+Russell
+Rutherford
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Smucker
+Stefanik
+Stewart
+Stivers
+Tenney
+Thompson (PA)
+Thornberry
+Tipton
+Trott
+Turner
+Valadao
+Wagner
+Walberg
+Walden
+Walker
+Walorski
+Walters, Mimi
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams
+Wilson (SC)
+Womack
+Woodall
+Yoder
+Yoho
+Young (AK)
+Young (IA)
+Zeldin
+NOT VOTING--8
+Bass
+Hudson
+Johnson, E. B.
+Jordan
+Nadler
+Rush
+Taylor
+Wittman
+Announcement by the Acting Chair
+The Acting CHAIR (during the vote). There is 1 minute remaining.
+{time}  1050
+So the amendment was rejected.
+The result of the vote was announced as above recorded.
+Stated for:
+Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, during rollcall
+vote No. 124, on H.R. 1004, I mistakenly recorded my vote as ``no''
+when I should have voted ``yes.''
+The Acting CHAIR (Mr. Fleischmann). There being no further
+amendments, under the rule, the Committee rises.
+Accordingly, the Committee rose; and the Speaker pro tempore (Mr.
+Hultgren) having assumed the chair, Mr. Fleischmann, Acting Chair of
+the Committee of the Whole House on the state of the Union, reported
+that that Committee, having had under consideration the bill (H.R.
+1004) to amend chapter 3 of title 5, United States Code, to require the
+publication of information relating to pending agency regulatory
+actions, and for other purposes, and, pursuant to House Resolution 156,
+he reported the bill back to the House with an amendment adopted in the
+Committee of the Whole.
+The SPEAKER pro tempore. Under the rule, the previous question is
+ordered.
+The question is on the amendment.
+The amendment was agreed to.
+The SPEAKER pro tempore. The question is on the engrossment and third
+reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+Motion to Recommit
+Ms. JAYAPAL. Mr. Speaker, I have a motion to recommit at the desk.
+The SPEAKER pro tempore. Is the gentlewoman opposed to the bill?
+Ms. JAYAPAL. Mr. Speaker, I am opposed.
+The SPEAKER pro tempore. The Clerk will report the motion to
+recommit.
+The Clerk read as follows:
+Ms. Jayapal moves to recommit the bill H.R. 1004 to the
+Committee on Oversight and Government Reform with
+instructions to report the same back to the House forthwith
+with the following amendments:
+Page 6, line 13, after ``Executive agency'' insert the
+following: ``or the President of the United States''.
+[[Page H1482]]
+Page 6, line 17, after ``regulatory action,'' insert the
+following: ``or that refers to a business in which the
+President has an equity interest,''.
+Page 7, line 1, after ``regulatory action'' insert the
+following: ``or business''.
+Mr. FARENTHOLD. Mr. Speaker, I reserve a point of order against the
+motion.
+The SPEAKER pro tempore. A point of order is reserved.
+The gentlewoman from Washington is recognized for 5 minutes.
+Ms. JAYAPAL. Mr. Speaker, this is the final amendment to the bill,
+which will not kill the bill or send it back to committee. If adopted,
+the bill will immediately proceed to final passage, as amended.
+Simply put, Mr. Speaker, this amendment restricts the President from
+making public statements to promote his own business interests in the
+same way that the bill restricts statements by agencies on pending
+rules. If we intend to hold agencies accountable for their statements,
+we should certainly be willing to hold the President of the United
+States to those same standards. Donald Trump's enormous web of business
+interests and conflicts of interest make it clear that it is necessary
+to explicitly expand this restriction to the President.
+It is deeply disturbing, Mr. Speaker, that the President has refused
+to release his tax returns or create a blind trust for the proceeds of
+his assets. Numerous U.S. Presidents have placed their financial
+holdings into a blind trust that is managed by a trustee without any
+input from the President. This allows for the President to minimize any
+conflicts of interest and any suggestion that the Presidency of the
+United States is being used for his own personal profits.
+This President, however, has avoided those calls for him to sell his
+assets or place them into a blind trust. Instead, documents obtained
+through public records requests show that President Trump has moved the
+assets over, just in name, to his son and a longtime employee, but that
+Trump himself, the President of the United States, is the sole
+beneficiary of all of those trusts.
+In other words, there is no wall erected between his businesses and
+his Presidency, and anyone who wants to buy influence can simply do so
+openly. His entire Presidency can be seen as a promotion of his
+business interests and be used by domestic and foreign governments to
+curry favor and produce benefit to his personal empire.
+Trump Tower in D.C. is one example of this. The building, which is
+leased to him by the Federal Government, stipulates in its lease that
+``any elected official of the Government of the United States'' may not
+derive any benefit from that agreement. At 12:01 p.m. on Inauguration
+Day, Trump was in violation of this clause. That lease should be
+terminated effective immediately.
+Just last week, the Kuwaiti Embassy held its annual event to
+celebrate the country's national day at the President's D.C. hotel. The
+event was initially scheduled to take place at the Four Seasons, and,
+in fact, a ``save the date'' went out with the Four Seasons location.
+But Kuwait canceled that reservation just a few days after the
+election, and moved the event to the President's hotel after that
+happened.
+These are not isolated instances. They constitute a pattern of
+conflicts of interest every time a foreign government holds a reception
+or rents a room at a Trump property, a problem so important to this
+country that it was put into the Emoluments Clause of the Constitution
+of the United States of America.
+The American people should also be deeply concerned about conflicts
+of interest at the President's Mar-a-Lago resort. On January 1, 2017,
+just 2 months after the election of Donald Trump, the exclusive resort
+doubled its membership initiation fee from $100,000 to $200,000. When
+Trump took Japanese Prime Minister Shinzo Abe there, it created even
+more free publicity for the resort as several social media posts were
+made throughout the weekend.
+Conducting government affairs in public settings not only has serious
+national security concerns, but indicates that anyone who wants to be a
+member of the club will have access to the President of the United
+States, and the President will personally profit off of their
+membership.
+Mr. Speaker, the American people have a right to know what the entire
+web of conflicts of interest are, but we have yet to get this
+information because we have not received--we have yet to get any
+information from this President, his tax returns, or any of the
+documents that help us to ensure that he is complying with the
+Constitution of the United States of America, that document that he
+swore to uphold and protect, so that we can make sure that he is not
+using the highest office of this land to profit.
+{time}  1100
+The American people have the right to demand that this President put
+their interests first rather than his own business interests.
+I urge all of my colleagues to pass this motion to recommitment and
+demand that we uphold our Constitution, protect this democracy and the
+duty of this President to work not for the business interests, but for
+we the people.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. Members are reminded to refrain from
+engaging in personalities toward the President.
+Mr. FARENTHOLD. Mr. Speaker, I withdraw my point of order.
+The SPEAKER pro tempore. The point of order is withdrawn.
+Mr. FARENTHOLD. Mr. Speaker, I claim the time in opposition.
+The SPEAKER pro tempore. The gentleman from Texas is recognized for 5
+minutes.
+=========================== NOTE ===========================
+March 2, 2017, on page H1482, the following appeared: Mr.
+FARENTHOLD. Mr. Speaker, I withdraw my point of order and claim
+time in opposition. The SPEAKER pro tempore. The gentleman from
+Texas is recognized for 5 minutes.
+The online version has been corrected to read: Mr. FARENTHOLD.
+Mr. Speaker, I withdraw my point of order. The SPEAKER pro
+tempore. The point of order is withdrawn. Mr. FARENTHOLD. Mr.
+Speaker, I claim the time in opposition. The SPEAKER pro tempore.
+The gentleman from Texas is recognized for 5 minutes.
+========================= END NOTE =========================
+Mr. FARENTHOLD. Mr. Speaker, as a great supporter of transparency,
+this bill is designed to promote transparency in executive branch
+agencies.
+Unfortunately, I think the motion to recommit would actually be
+violative of the Constitution. The President and the executive branch
+agencies we are seeking to regulate under this law are creations of
+Congress administered by the executive branch.
+The Presidency is created by the Constitution, and it is my belief
+that it would be unconstitutional to pass this motion to recommit. For
+that reason alone, I urge my colleagues to oppose it.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. Without objection, the previous question is
+ordered on the motion to recommit.
+There was no objection.
+The SPEAKER pro tempore. The question is on the motion to recommit.
+The question was taken; and the Speaker pro tempore announced that
+the noes appeared to have it.
+Recorded Vote
+Ms. JAYAPAL. Mr. Speaker, I demand a recorded vote.
+A recorded vote was ordered.
+The SPEAKER pro tempore. Pursuant to clause 9 of rule XX, the Chair
+will reduce to 5 minutes the minimum time for any electronic vote on
+the question of passage of the bill.
+This is a 5-minute vote.
+The vote was taken by electronic device, and there were--ayes 189,
+noes 232, not voting 8, as follows:
+[Roll No. 125]
+AYES--189
+Adams
+Aguilar
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brown (MD)
+Brownley (CA)
+Bustos
+Butterfield
+Capuano
+Carbajal
+Cardenas
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Chu, Judy
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Cleaver
+Clyburn
+Cohen
+Connolly
+Conyers
+Cooper
+Correa
+Costa
+Courtney
+Crowley
+Cuellar
+Cummings
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Ellison
+Engel
+Eshoo
+Espaillat
+Esty
+Evans
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gonzalez (TX)
+Gottheimer
+Green, Al
+Green, Gene
+Grijalva
+Gutierrez
+Hanabusa
+Hastings
+Heck
+Higgins (NY)
+Himes
+Hoyer
+Huffman
+Jackson Lee
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson, E. B.
+Jones
+Kaptur
+Keating
+Kelly (IL)
+Kennedy
+Khanna
+Kihuen
+Kildee
+Kilmer
+Kind
+Krishnamoorthi
+Kuster (NH)
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee
+Levin
+Lewis (GA)
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham, M.
+Lujan, Ben Ray
+Lynch
+Maloney, Carolyn B.
+Maloney, Sean
+Matsui
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Murphy (FL)
+Napolitano
+Neal
+Nolan
+Norcross
+O'Halleran
+O'Rourke
+Pallone
+Panetta
+Pascrell
+[[Page H1483]]
+Payne
+Perlmutter
+Peters
+Pingree
+Pocan
+Polis
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Richmond
+Rosen
+Roybal-Allard
+Ruiz
+Ruppersberger
+Ryan (OH)
+Sanchez
+Sarbanes
+Schakowsky
+Schiff
+Schneider
+Schrader
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Shea-Porter
+Sherman
+Sinema
+Sires
+Slaughter
+Smith (WA)
+Soto
+Speier
+Suozzi
+Swalwell (CA)
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tonko
+Torres
+Tsongas
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOES--232
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Arrington
+Babin
+Bacon
+Banks (IN)
+Barletta
+Barr
+Barton
+Bergman
+Biggs
+Bilirakis
+Bishop (MI)
+Bishop (UT)
+Black
+Blackburn
+Blum
+Bost
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Budd
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Chaffetz
+Cheney
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Comstock
+Conaway
+Cook
+Costello (PA)
+Cramer
+Crawford
+Culberson
+Curbelo (FL)
+Davidson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Dunn
+Emmer
+Farenthold
+Faso
+Ferguson
+Fitzpatrick
+Fleischmann
+Flores
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Gaetz
+Gallagher
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guthrie
+Harper
+Harris
+Hartzler
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Higgins (LA)
+Hill
+Holding
+Hollingsworth
+Huizenga
+Hultgren
+Hunter
+Hurd
+Issa
+Jenkins (KS)
+Jenkins (WV)
+Johnson (LA)
+Johnson (OH)
+Johnson, Sam
+Joyce (OH)
+Katko
+Kelly (MS)
+Kelly (PA)
+King (IA)
+King (NY)
+Kinzinger
+Knight
+Kustoff (TN)
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+Lewis (MN)
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+MacArthur
+Marchant
+Marino
+Marshall
+Massie
+Mast
+McCarthy
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mitchell
+Moolenaar
+Mooney (WV)
+Mullin
+Murphy (PA)
+Newhouse
+Noem
+Nunes
+Olson
+Palazzo
+Palmer
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Poe (TX)
+Poliquin
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (SC)
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney, Francis
+Rooney, Thomas J.
+Ros-Lehtinen
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce (CA)
+Russell
+Rutherford
+Sanford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Smucker
+Stefanik
+Stewart
+Stivers
+Tenney
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Wagner
+Walberg
+Walden
+Walker
+Walorski
+Walters, Mimi
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams
+Wilson (SC)
+Womack
+Woodall
+Yoder
+Yoho
+Young (AK)
+Young (IA)
+Zeldin
+NOT VOTING--8
+Crist
+Hudson
+Jordan
+Nadler
+Pelosi
+Rush
+Taylor
+Wittman
+Announcement by the Speaker Pro Tempore
+The SPEAKER pro tempore (during the vote). There are 2 minutes
+remaining.
+{time}  1107
+So the motion to recommit was rejected.
+The result of the vote was announced as above recorded.
+personal explanation
+Mr. HUDSON. Mr. Speaker, on rollcall No. 109 through 113, 118, 119,
+122, 124, and 125, I was unable to cast my vote in person due to an
+unexpected illness. Had I been present, I would have voted ``nay.''
+The SPEAKER pro tempore. The question is on the passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Recorded Vote
+Mr. RASKIN. Mr. Speaker, I demand a recorded vote.
+A recorded vote was ordered.
+The SPEAKER pro tempore. This is a 5-minute vote.
+The vote was taken by electronic device, and there were--ayes 246,
+noes 176, not voting 7, as follows:
+[Roll No. 126]
+AYES--246
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Arrington
+Babin
+Bacon
+Banks (IN)
+Barletta
+Barr
+Barton
+Bergman
+Biggs
+Bilirakis
+Bishop (GA)
+Bishop (MI)
+Bishop (UT)
+Black
+Blackburn
+Blum
+Bost
+Brady (TX)
+Brat
+Bridenstine
+Brooks (AL)
+Brooks (IN)
+Buchanan
+Buck
+Bucshon
+Budd
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Chaffetz
+Cheney
+Coffman
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Comstock
+Conaway
+Cook
+Cooper
+Correa
+Costa
+Costello (PA)
+Cramer
+Crawford
+Crist
+Cuellar
+Culberson
+Curbelo (FL)
+Davidson
+Davis, Rodney
+Denham
+Dent
+DeSantis
+DesJarlais
+Diaz-Balart
+Donovan
+Duffy
+Duncan (SC)
+Duncan (TN)
+Dunn
+Emmer
+Farenthold
+Faso
+Ferguson
+Fitzpatrick
+Fleischmann
+Flores
+Fortenberry
+Foxx
+Franks (AZ)
+Frelinghuysen
+Gaetz
+Gallagher
+Garrett
+Gibbs
+Gohmert
+Goodlatte
+Gosar
+Gottheimer
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Griffith
+Grothman
+Guthrie
+Gutierrez
+Harper
+Harris
+Hartzler
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Higgins (LA)
+Hill
+Holding
+Hollingsworth
+Huizenga
+Hultgren
+Hunter
+Hurd
+Issa
+Jenkins (KS)
+Jenkins (WV)
+Johnson (LA)
+Johnson (OH)
+Johnson, Sam
+Jones
+Joyce (OH)
+Katko
+Kelly (MS)
+Kelly (PA)
+King (IA)
+King (NY)
+Kinzinger
+Knight
+Kustoff (TN)
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Latta
+Lewis (MN)
+LoBiondo
+Long
+Loudermilk
+Love
+Lucas
+Luetkemeyer
+MacArthur
+Marchant
+Marino
+Marshall
+Massie
+Mast
+McCarthy
+McCaul
+McClintock
+McHenry
+McKinley
+McMorris Rodgers
+McSally
+Meadows
+Meehan
+Messer
+Mitchell
+Moolenaar
+Mooney (WV)
+Mullin
+Murphy (FL)
+Murphy (PA)
+Newhouse
+Noem
+Nunes
+O'Halleran
+Olson
+Palazzo
+Palmer
+Panetta
+Paulsen
+Pearce
+Perry
+Peterson
+Pittenger
+Poe (TX)
+Poliquin
+Posey
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (SC)
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rokita
+Rooney, Francis
+Rooney, Thomas J.
+Ros-Lehtinen
+Rosen
+Roskam
+Ross
+Rothfus
+Rouzer
+Royce (CA)
+Russell
+Rutherford
+Sanford
+Scalise
+Schrader
+Schweikert
+Scott, Austin
+Sensenbrenner
+Sessions
+Shimkus
+Shuster
+Simpson
+Sinema
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Smucker
+Stefanik
+Stewart
+Stivers
+Tenney
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Trott
+Turner
+Upton
+Valadao
+Wagner
+Walberg
+Walden
+Walker
+Walorski
+Walters, Mimi
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams
+Wilson (SC)
+Womack
+Woodall
+Yoder
+Yoho
+Young (AK)
+Young (IA)
+Zeldin
+NOES--176
+Adams
+Aguilar
+Barragan
+Bass
+Beatty
+Bera
+Beyer
+Blumenauer
+Blunt Rochester
+Bonamici
+Boyle, Brendan F.
+Brady (PA)
+Brown (MD)
+Brownley (CA)
+Bustos
+Butterfield
+Capuano
+Carbajal
+Cardenas
+Carson (IN)
+Cartwright
+Castor (FL)
+Castro (TX)
+Chu, Judy
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Cleaver
+Clyburn
+Cohen
+Connolly
+Conyers
+Courtney
+Crowley
+Cummings
+Davis (CA)
+Davis, Danny
+DeFazio
+DeGette
+Delaney
+DeLauro
+DelBene
+Demings
+DeSaulnier
+Deutch
+Dingell
+Doggett
+Doyle, Michael F.
+Ellison
+Engel
+Eshoo
+Espaillat
+Esty
+Evans
+Foster
+Frankel (FL)
+Fudge
+Gabbard
+Gallego
+Garamendi
+Gonzalez (TX)
+Green, Al
+Green, Gene
+Grijalva
+Hanabusa
+Hastings
+Heck
+Higgins (NY)
+Himes
+Hoyer
+Huffman
+Jackson Lee
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson, E. B.
+Kaptur
+Keating
+Kelly (IL)
+Kennedy
+Khanna
+Kihuen
+Kildee
+Kilmer
+Kind
+Krishnamoorthi
+Kuster (NH)
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee
+Levin
+Lewis (GA)
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Lujan Grisham, M.
+Lujan, Ben Ray
+Lynch
+Maloney, Carolyn B.
+Maloney, Sean
+Matsui
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Moulton
+Napolitano
+Neal
+Nolan
+Norcross
+O'Rourke
+Pallone
+Pascrell
+Payne
+Perlmutter
+Peters
+Pingree
+Pocan
+Polis
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Richmond
+Rohrabacher
+Roybal-Allard
+Ruiz
+Ruppersberger
+Ryan (OH)
+Sanchez
+Sarbanes
+Schakowsky
+Schiff
+Schneider
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Shea-Porter
+Sherman
+Sires
+Slaughter
+Smith (WA)
+Soto
+Speier
+Suozzi
+Swalwell (CA)
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tonko
+Torres
+Tsongas
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Welch
+Wilson (FL)
+Yarmuth
+NOT VOTING--7
+Hudson
+Jordan
+Nadler
+Pelosi
+Rush
+Taylor
+Wittman
+[[Page H1484]]
+{time}  1114
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+personal explanation
+Mr. HUDSON. Mr. Speaker, on rollcall No. 114 through 117, 120, 121,
+123, and 126, I was unable to cast my vote in person due to an
+unexpected illness. Had I been present, I would have voted ``Yea.''
+Mr. WITTMAN. Mr. Speaker, I missed votes on Thursday, March 2, 2017.
+Had I been present, I would have voted ``Nay'' on rollcall No. 122,
+``Yea'' on rollcall No. 123, ``nay'' on rollcall No. 124, ``nay'' on
+rollcall No. 125 and ``Yea'' on rollcall 126.
+____________________

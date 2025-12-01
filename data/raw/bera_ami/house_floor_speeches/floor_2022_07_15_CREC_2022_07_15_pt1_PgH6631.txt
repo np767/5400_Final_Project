@@ -1,0 +1,2563 @@
+[Congressional Record Volume 168, Number 117 (Friday, July 15, 2022)]
+[House]
+[Pages H6631-H6647]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+WOMEN'S HEALTH PROTECTION ACT OF 2022
+Mr. PALLONE. Madam Speaker, pursuant to House Resolution 1224, I call
+up the bill (H.R. 8296) to protect a person's ability to determine
+whether to continue or end a pregnancy, and to protect a health care
+provider's ability to provide abortion services, and ask for its
+immediate consideration.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore. Pursuant to House Resolution 1224, the bill
+is considered read.
+The text of the bill is as follows:
+H.R. 8296
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Women's Health Protection
+Act of 2022''.
+SEC. 2. FINDINGS AND PURPOSE.
+(a) Findings.--Congress finds the following:
+(1) On June 24, 2022, in its decision in Dobbs v. Jackson
+Women's Health Organization, the Supreme Court overruled Roe
+v. Wade, reversing decades of precedent recognizing the
+constitutional right to terminate a pregnancy before fetal
+viability, and to terminate a pregnancy after fetal viability
+where it is necessary, in the good-faith medical judgment of
+the treating health care professional, for the preservation
+of the life or health of the person who is pregnant.
+(2) In their joint dissent, Justices Breyer, Sotomayor, and
+Kagan write, ``[The majority] says that from the very moment
+of fertilization, a woman has no rights to speak of. A State
+can force her to bring a pregnancy to term, even at the
+steepest personal and familial costs.''.
+(3) The dissenting Justices continue, ``The Mississippi law
+at issue here bars abortions after the 15th week of
+pregnancy. Under the majority's ruling, though, another
+State's law could do so after ten weeks, or five or three or
+one--or, again, from the moment of fertilization. States have
+already passed such laws, in anticipation of today's ruling.
+More will follow.''.
+(4) The dissenting Justices also stated, ``one result of
+[the] decision is certain; the curtailment of women's rights,
+and of their status as free and equal citizens.''.
+(5) Indeed, some States acted to ban abortion outright in
+the immediate aftermath of the Dobbs decision, with half the
+States in the country expected to ban abortion entirely in
+the days and weeks to come.
+(6) Even before Roe was overturned, access to abortion
+services had been obstructed across the United States in
+various ways, including blockades of health care facilities
+[[Page H6632]]
+and associated violence, prohibitions of, and restrictions
+on, insurance coverage; parental involvement laws
+(notification and consent); restrictions that shame and
+stigmatize people seeking abortion services; and medically
+unnecessary regulations that neither confer any health
+benefit nor further the safety of abortion services, but
+which harm people by delaying, complicating access to, and
+reducing the availability of, abortion services.
+(7) Abortion services are essential to health care, and
+access to those services is central to people's ability to
+participate equally in the economic and social life of the
+United States. Abortion access allows people who are pregnant
+to make their own decisions about their pregnancies, their
+families, and their lives.
+(8) Reproductive justice requires every individual to have
+the right to make their own decisions about having children
+regardless of their circumstances and without interference
+and discrimination. Reproductive Justice is a human right
+that can and will be achieved when all people, regardless of
+actual or perceived race, color, national origin, immigration
+status, sex (including gender identity, sex stereotyping, or
+sexual orientation), age, or disability status have the
+economic, social, and political power and resources to define
+and make decisions about their bodies, health, sexuality,
+families, and communities in all areas of their lives, with
+dignity and self-determination.
+(9) Reproductive justice seeks to address restrictions on
+reproductive health, including abortion, that perpetuate
+systems of oppression, lack of bodily autonomy, white
+supremacy, and anti-Black racism. This violent legacy has
+manifested in policies including enslavement, rape, and
+experimentation on Black women; forced sterilizations;
+medical experimentation on low-income women's reproductive
+systems; and the forcible removal of Indigenous children.
+Access to equitable reproductive health care, including
+abortion services, has always been deficient in the United
+States for Black, Indigenous, and other People of Color
+(BIPOC) and their families.
+(10) The legacy of restrictions on reproductive health,
+rights, and justice is not a dated vestige of a dark history.
+Presently, the harms of abortion-specific restrictions fall
+especially heavily on people with low incomes, BIPOC,
+immigrants, young people, people with disabilities, and those
+living in rural and other medically underserved areas.
+Abortion-specific restrictions are even more compounded by
+the ongoing criminalization of people who are pregnant,
+including those who are incarcerated, living with HIV, or
+with substance-use disorders. These communities already
+experience health disparities due to social, political, and
+environmental inequities, and restrictions on abortion
+services exacerbate these harms. Removing medically
+unjustified restrictions on abortion services would
+constitute one important step on the path toward realizing
+Reproductive Justice by ensuring that the full range of
+reproductive health care is accessible to all who need it.
+(11) Abortion-specific restrictions are a tool of gender
+oppression, as they target health care services that are used
+primarily by women. These paternalistic restrictions rely on
+and reinforce harmful stereotypes about gender roles, women's
+decision-making, and women's need for protection instead of
+support, undermining their ability to control their own lives
+and well-being. These restrictions harm the basic autonomy,
+dignity, and equality of women, and their ability to
+participate in the social and economic life of the Nation.
+(12) The terms ``woman'' and ``women'' are used in this
+bill to reflect the identity of the majority of people
+targeted and affected by restrictions on abortion services,
+and to address squarely the targeted restrictions on
+abortion, which are rooted in misogyny. However, access to
+abortion services is critical to the health of every person
+capable of becoming pregnant. This Act is intended to protect
+all people with the capacity for pregnancy--cisgender women,
+transgender men, non-binary individuals, those who identify
+with a different gender, and others--who are unjustly harmed
+by restrictions on abortion services.
+(13) Since 2011, States and local governments have passed
+nearly 500 restrictions singling out health care providers
+who offer abortion services, interfering with their ability
+to provide those services and the patients' ability to obtain
+those services.
+(14) Many State and local governments have imposed
+restrictions on the provision of abortion services that are
+neither evidence-based nor generally applicable to the
+medical profession or to other medically comparable
+outpatient gynecological procedures, such as endometrial
+ablations, dilation and curettage for reasons other than
+abortion, hysteroscopies, loop electrosurgical excision
+procedures, or other analogous non-gynecological procedures
+performed in similar outpatient settings including vasectomy,
+sigmoidoscopy, and colonoscopy.
+(15) Abortion is essential health care and one of the
+safest medical procedures in the United States. An
+independent, comprehensive review of the state of science on
+the safety and quality of abortion services, published by the
+National Academies of Sciences, Engineering, and Medicine in
+2018, found that abortion in the United States is safe and
+effective and that the biggest threats to the quality of
+abortion services in the United States are State regulations
+that create barriers to care. These abortion-specific
+restrictions conflict with medical standards and are not
+supported by the recommendations and guidelines issued by
+leading reproductive health care professional organizations
+including the American College of Obstetricians and
+Gynecologists, the Society of Family Planning, the National
+Abortion Federation, the World Health Organization, and
+others.
+(16) Many abortion-specific restrictions do not confer any
+health or safety benefits on the patient. Instead, these
+restrictions have the purpose and effect of unduly burdening
+people's personal and private medical decisions to end their
+pregnancies by making access to abortion services more
+difficult, invasive, and costly, often forcing people to
+travel significant distances and make multiple unnecessary
+visits to the provider, and in some cases, foreclosing the
+option altogether. For example, a 2018 report from the
+University of California San Francisco's Advancing New
+Standards in Reproductive Health research group found that in
+27 cities across the United States, people have to travel
+more than 100 miles in any direction to reach an abortion
+provider.
+(17) An overwhelming majority of abortions in the United
+States are provided in clinics, not hospitals, but the large
+majority of counties throughout the United States have no
+clinics that provide abortion.
+(18) These restrictions additionally harm people's health
+by reducing access not only to abortion services but also to
+other essential health care services offered by many of the
+providers targeted by the restrictions, including--
+(A) screenings and preventive services, including
+contraceptive services;
+(B) testing and treatment for sexually transmitted
+infections;
+(C) LGBTQ health services; and
+(D) referrals for primary care, intimate partner violence
+prevention, prenatal care and adoption services.
+(19) The cumulative effect of these numerous restrictions
+has been to severely limit, and now eliminate entirely, the
+availability of abortion services in some areas, creating a
+patchwork system where the provision of abortion services is
+legal in some States and illegal in others. A 2019 report
+from the Government Accountability Office examining State
+Medicaid compliance with abortion coverage requirements
+analyzed seven key challenges (identified both by health care
+providers and research literature) and their effect on
+abortion access, and found that access to abortion services
+varied across the States and even within a State.
+(20) International human rights law recognizes that access
+to abortion is intrinsically linked to the rights to life,
+health, equality and non-discrimination, privacy, and freedom
+from ill-treatment. United Nations (UN) human rights treaty
+monitoring bodies have found that legal abortion services,
+like other reproductive health care services, must be
+available, accessible, affordable, acceptable, and of good
+quality. UN human rights treaty bodies have likewise
+condemned medically unnecessary barriers to abortion
+services, including mandatory waiting periods, biased
+counseling requirements, and third-party authorization
+requirements.
+(21) Core human rights treaties ratified by the United
+States protect access to abortion. For example, in 2018, the
+UN Human Rights Committee, which oversees implementation of
+the ICCPR, made clear that the right to life, enshrined in
+Article 6 of the ICCPR, at a minimum requires governments to
+provide safe, legal, and effective access to abortion where a
+person's life and health is at risk, or when carrying a
+pregnancy to term would cause substantial pain or suffering.
+The Committee stated that governments must not impose
+restrictions on abortion which subject women and girls to
+physical or mental pain or suffering, discriminate against
+them, arbitrarily interfere with their privacy, or place them
+at risk of undertaking unsafe abortions. Furthermore, the
+Committee stated that governments should remove existing
+barriers that deny effective access to safe and legal
+abortion, refrain from introducing new barriers to abortion,
+and prevent the stigmatization of those seeking abortion.
+(22) UN independent human rights experts have expressed
+particular concern about barriers to abortion services in the
+United States. For example, at the conclusion of his 2017
+visit to the United States, the UN Special Rapporteur on
+extreme poverty and human rights noted concern that low-
+income women face legal and practical obstacles to exercising
+their constitutional right to access abortion services,
+trapping many women in cycles of poverty. Similarly, in May
+2020, the UN Working Group on discrimination against women
+and girls, along with other human rights experts, expressed
+concern that some states had manipulated the COVID-19 crisis
+to restrict access to abortion, which the experts recognized
+as ``the latest example illustrating a pattern of
+restrictions and retrogressions in access to legal abortion
+care across the country'' and reminded U.S. authorities that
+abortion care constitutes essential health care that must
+remain available during and after the pandemic. They noted
+that barriers to abortion access exacerbate systemic
+inequalities and cause particular harm to marginalized
+communities, including low-income people, people of color,
+immigrants, people with disabilities, and LGBTQ people.
+[[Page H6633]]
+(23) Abortion-specific restrictions affect the cost and
+availability of abortion services, and the settings in which
+abortion services are delivered. People travel across State
+lines and otherwise engage in interstate commerce to access
+this essential medical care, and more would be forced to do
+so absent this Act. Likewise, health care providers travel
+across State lines and otherwise engage in interstate
+commerce in order to provide abortion services to patients,
+and more would be forced to do so absent this Act.
+(24) Health care providers engage in a form of economic and
+commercial activity when they provide abortion services, and
+there is an interstate market for abortion services.
+(25) Abortion restrictions substantially affect interstate
+commerce in numerous ways. For example, to provide abortion
+services, health care providers engage in interstate commerce
+to purchase medicine, medical equipment, and other necessary
+goods and services. To provide and assist others in providing
+abortion services, health care providers engage in interstate
+commerce to obtain and provide training. To provide abortion
+services, health care providers employ and obtain commercial
+services from doctors, nurses, and other personnel who engage
+in interstate commerce and travel across State lines.
+(26) It is difficult and time and resource-consuming for
+clinics to challenge State laws that burden or impede
+abortion services. Litigation that blocks one abortion
+restriction may not prevent a State from adopting other
+similarly burdensome abortion restrictions or using different
+methods to burden or impede abortion services. There is a
+history and pattern of States passing successive and
+different laws that unduly burden abortion services.
+(27) When a health care provider ceases providing abortion
+services as a result of burdensome and medically unnecessary
+regulations, it is often difficult or impossible for that
+health care provider to recommence providing those abortion
+services, and difficult or impossible for other health care
+providers to provide abortion services that restore or
+replace the ceased abortion services.
+(28) Health care providers are subject to license laws in
+various jurisdictions, which are not affected by this Act
+except as provided in this Act.
+(29) Congress has the authority to enact this Act to
+protect abortion services pursuant to--
+(A) its powers under the commerce clause of section 8 of
+article I of the Constitution of the United States;
+(B) its powers under section 5 of the Fourteenth Amendment
+to the Constitution of the United States to enforce the
+provisions of section 1 of the Fourteenth Amendment; and
+(C) its powers under the necessary and proper clause of
+section 8 of Article I of the Constitution of the United
+States.
+(30) Congress has used its authority in the past to protect
+access to abortion services and health care providers'
+ability to provide abortion services. In the early 1990s,
+protests and blockades at health care facilities where
+abortion services were provided, and associated violence,
+increased dramatically and reached crisis level, requiring
+Congressional action. Congress passed the Freedom of Access
+to Clinic Entrances Act (Public Law 103-259; 108 Stat. 694)
+to address that situation and protect physical access to
+abortion services.
+(31) Congressional action is necessary to put an end to
+harmful restrictions, to federally protect access to abortion
+services for everyone regardless of where they live, and to
+protect the ability of health care providers to provide these
+services in a safe and accessible manner.
+(b) Purpose.--It is the purpose of this Act--
+(1) to permit health care providers to provide abortion
+services without limitations or requirements that single out
+the provision of abortion services for restrictions that are
+more burdensome than those restrictions imposed on medically
+comparable procedures, do not significantly advance
+reproductive health or the safety of abortion services, and
+make abortion services more difficult to access;
+(2) to promote access to abortion services and women's
+ability to participate equally in the economic and social
+life of the United States; and
+(3) to invoke Congressional authority, including the powers
+of Congress under the commerce clause of section 8 of article
+I of the Constitution of the United States, its powers under
+section 5 of the Fourteenth Amendment to the Constitution of
+the United States to enforce the provisions of section 1 of
+the Fourteenth Amendment, and its powers under the necessary
+and proper clause of section 8 of article I of the
+Constitution of the United States.
+SEC. 3. DEFINITIONS.
+In this Act:
+(1) Abortion services.--The term ``abortion services''
+means an abortion and any medical or non-medical services
+related to and provided in conjunction with an abortion
+(whether or not provided at the same time or on the same day
+as the abortion).
+(2) Government.--The term ``government'' includes each
+branch, department, agency, instrumentality, and official of
+the United States or a State.
+(3) Health care provider.--The term ``health care
+provider'' means any entity or individual (including any
+physician, certified nurse-midwife, nurse practitioner, and
+physician assistant) that--
+(A) is engaged or seeks to engage in the delivery of health
+care services, including abortion services; and
+(B) if required by law or regulation to be licensed or
+certified to engage in the delivery of such services--
+(i) is so licensed or certified; or
+(ii) would be so licensed or certified but for their past,
+present, or potential provision of abortion services
+permitted by section 4.
+(4) Medically comparable procedure.--The term ``medically
+comparable procedures'' means medical procedures that are
+similar in terms of health and safety risks to the patient,
+complexity, or the clinical setting that is indicated.
+(5) Pregnancy.--The term ``pregnancy'' refers to the period
+of the human reproductive process beginning with the
+implantation of a fertilized egg.
+(6) State.--The term ``State'' includes the District of
+Columbia, the Commonwealth of Puerto Rico, and each territory
+and possession of the United States, and any subdivision of
+any of the foregoing, including any unit of local government,
+such as a county, city, town, village, or other general
+purpose political subdivision of a State.
+(7) Viability.--The term ``viability'' means the point in a
+pregnancy at which, in the good-faith medical judgment of the
+treating health care provider, based on the particular facts
+of the case before the health care provider, there is a
+reasonable likelihood of sustained fetal survival outside the
+uterus with or without artificial support.
+SEC. 4. PERMITTED SERVICES.
+(a) General Rule.--A health care provider has a statutory
+right under this Act to provide abortion services, and may
+provide abortion services, and that provider's patient has a
+corresponding right to receive such services, without any of
+the following limitations or requirements:
+(1) A requirement that a health care provider perform
+specific tests or medical procedures in connection with the
+provision of abortion services, unless generally required for
+the provision of medically comparable procedures.
+(2) A requirement that the same health care provider who
+provides abortion services also perform specified tests,
+services, or procedures prior to or subsequent to the
+abortion.
+(3) A requirement that a health care provider offer or
+provide the patient seeking abortion services medically
+inaccurate information in advance of or during abortion
+services.
+(4) A limitation on a health care provider's ability to
+prescribe or dispense drugs based on current evidence-based
+regimens or the provider's good-faith medical judgment, other
+than a limitation generally applicable to the medical
+profession.
+(5) A limitation on a health care provider's ability to
+provide abortion services via telemedicine, other than a
+limitation generally applicable to the provision of medical
+services via telemedicine.
+(6) A requirement or limitation concerning the physical
+plant, equipment, staffing, or hospital transfer arrangements
+of facilities where abortion services are provided, or the
+credentials or hospital privileges or status of personnel at
+such facilities, that is not imposed on facilities or the
+personnel of facilities where medically comparable procedures
+are performed.
+(7) A requirement that, prior to obtaining an abortion, a
+patient make one or more medically unnecessary in-person
+visits to the provider of abortion services or to any
+individual or entity that does not provide abortion services.
+(8) A prohibition on abortion at any point or points in
+time prior to fetal viability, including a prohibition or
+restriction on a particular abortion procedure.
+(9) A prohibition on abortion after fetal viability when,
+in the good-faith medical judgment of the treating health
+care provider, continuation of the pregnancy would pose a
+risk to the pregnant patient's life or health.
+(10) A limitation on a health care provider's ability to
+provide immediate abortion services when that health care
+provider believes, based on the good-faith medical judgment
+of the provider, that delay would pose a risk to the
+patient's health.
+(11) A requirement that a patient seeking abortion services
+at any point or points in time prior to fetal viability
+disclose the patient's reason or reasons for seeking abortion
+services, or a limitation on the provision or obtaining of
+abortion services at any point or points in time prior to
+fetal viability based on any actual, perceived, or potential
+reason or reasons of the patient for obtaining abortion
+services, regardless of whether the limitation is based on a
+health care provider's degree of actual or constructive
+knowledge of such reason or reasons.
+(b) Other Limitations or Requirements.--The statutory right
+specified in subsection (a) shall not be limited or otherwise
+infringed through, in addition to the limitations and
+requirements specified in paragraphs (1) through (11) of
+subsection (a), any limitation or requirement that--
+(1) is the same as or similar to one or more of the
+limitations or requirements described in subsection (a); or
+(2) both--
+(A) expressly, effectively, implicitly, or as implemented
+singles out the provision of abortion services, health care
+providers who
+[[Page H6634]]
+provide abortion services, or facilities in which abortion
+services are provided; and
+(B) impedes access to abortion services.
+(c) Factors for Consideration.--Factors a court may
+consider in determining whether a limitation or requirement
+impedes access to abortion services for purposes of
+subsection (b)(2)(B) include the following:
+(1) Whether the limitation or requirement, in a provider's
+good-faith medical judgment, interferes with a health care
+provider's ability to provide care and render services, or
+poses a risk to the patient's health or safety.
+(2) Whether the limitation or requirement is reasonably
+likely to delay or deter some patients in accessing abortion
+services.
+(3) Whether the limitation or requirement is reasonably
+likely to directly or indirectly increase the cost of
+providing abortion services or the cost for obtaining
+abortion services (including costs associated with travel,
+childcare, or time off work).
+(4) Whether the limitation or requirement is reasonably
+likely to have the effect of necessitating a trip to the
+offices of a health care provider that would not otherwise be
+required.
+(5) Whether the limitation or requirement is reasonably
+likely to result in a decrease in the availability of
+abortion services in a given State or geographic region.
+(6) Whether the limitation or requirement imposes penalties
+that are not imposed on other health care providers for
+comparable conduct or failure to act, or that are more severe
+than penalties imposed on other health care providers for
+comparable conduct or failure to act.
+(7) The cumulative impact of the limitation or requirement
+combined with other new or existing limitations or
+requirements.
+(d) Exception.--To defend against a claim that a limitation
+or requirement violates a health care provider's or patient's
+statutory rights under subsection (b), a party must
+establish, by clear and convincing evidence, that--
+(1) the limitation or requirement significantly advances
+the safety of abortion services or the health of patients;
+and
+(2) the safety of abortion services or the health of
+patients cannot be advanced by a less restrictive alternative
+measure or action.
+SEC. 5. APPLICABILITY AND PREEMPTION.
+(a) In General.--
+(1) Except as stated under subsection (b), this Act
+supersedes and applies to the law of the Federal Government
+and each State government, and the implementation of such
+law, whether statutory, common law, or otherwise, and whether
+adopted before or after the date of enactment of this Act,
+and neither the Federal Government nor any State government
+shall administer, implement, or enforce any law, rule,
+regulation, standard, or other provision having the force and
+effect of law that conflicts with any provision of this Act,
+notwithstanding any other provision of Federal law, including
+the Religious Freedom Restoration Act of 1993 (42 U.S.C.
+2000bb et seq.).
+(2) Federal statutory law adopted after the date of the
+enactment of this Act is subject to this Act unless such law
+explicitly excludes such application by reference to this
+Act.
+(b) Limitations.--The provisions of this Act shall not
+supersede or apply to--
+(1) laws regulating physical access to clinic entrances;
+(2) insurance or medical assistance coverage of abortion
+services;
+(3) the procedure described in section 1531(b)(1) of title
+18, United States Code; or
+(4) generally applicable State contract law.
+(c) Defense.--In any cause of action against an individual
+or entity who is subject to a limitation or requirement that
+violates this Act, in addition to the remedies specified in
+section 8, this Act shall also apply to, and may be raised as
+a defense by, such an individual or entity.
+SEC. 6. EFFECTIVE DATE.
+This Act shall take effect immediately upon the date of
+enactment of this Act. This Act shall apply to all
+restrictions on the provision of, or access to, abortion
+services whether the restrictions are enacted or imposed
+prior to or after the date of enactment of this Act, except
+as otherwise provided in this Act.
+SEC. 7. RULES OF CONSTRUCTION.
+(a) In General.--In interpreting the provisions of this
+Act, a court shall liberally construe such provisions to
+effectuate the purposes of the Act.
+(b) Rule of Construction.--Nothing in this Act shall be
+construed to authorize any government to interfere with,
+diminish, or negatively affect a person's ability to obtain
+or provide abortion services.
+(c) Other Individuals Considered as Government Officials.--
+Any person who, by operation of a provision of Federal or
+State law, is permitted to implement or enforce a limitation
+or requirement that violates section 4 of this Act shall be
+considered a government official for purposes of this Act.
+SEC. 8. ENFORCEMENT.
+(a) Attorney General.--The Attorney General may commence a
+civil action on behalf of the United States against any State
+that violates, or against any government official (including
+a person described in section 7(c)) that implements or
+enforces a limitation or requirement that violates, section
+4. The court shall hold unlawful and set aside the limitation
+or requirement if it is in violation of this Act.
+(b) Private Right of Action.--
+(1) In general.--Any individual or entity, including any
+health care provider or patient, adversely affected by an
+alleged violation of this Act, may commence a civil action
+against any State that violates, or against any government
+official (including a person described in section 7(c)) that
+implements or enforces a limitation or requirement that
+violates, section 4. The court shall hold unlawful and set
+aside the limitation or requirement if it is in violation of
+this Act.
+(2) Health care provider.--A health care provider may
+commence an action for relief on its own behalf, on behalf of
+the provider's staff, and on behalf of the provider's
+patients who are or may be adversely affected by an alleged
+violation of this Act.
+(c) Equitable Relief.--In any action under this section,
+the court may award appropriate equitable relief, including
+temporary, preliminary, or permanent injunctive relief.
+(d) Costs.--In any action under this section, the court
+shall award costs of litigation, as well as reasonable
+attorney's fees, to any prevailing plaintiff. A plaintiff
+shall not be liable to a defendant for costs or attorney's
+fees in any non-frivolous action under this section.
+(e) Jurisdiction.--The district courts of the United States
+shall have jurisdiction over proceedings under this Act and
+shall exercise the same without regard to whether the party
+aggrieved shall have exhausted any administrative or other
+remedies that may be provided for by law.
+(f) Abrogation of State Immunity.--Neither a State that
+enforces or maintains, nor a government official (including a
+person described in section 7(c)) who is permitted to
+implement or enforce any limitation or requirement that
+violates section 4 shall be immune under the Tenth Amendment
+to the Constitution of the United States, the Eleventh
+Amendment to the Constitution of the United States, or any
+other source of law, from an action in a Federal or State
+court of competent jurisdiction challenging that limitation
+or requirement.
+SEC. 9. SEVERABILITY.
+If any provision of this Act, or the application of such
+provision to any person, entity, government, or circumstance,
+is held to be unconstitutional, the remainder of this Act, or
+the application of such provision to all other persons,
+entities, governments, or circumstances, shall not be
+affected thereby.
+The SPEAKER pro tempore. The bill shall be debatable for 1 hour
+equally divided among and controlled by the chair and ranking minority
+member of the Committee on Energy and Commerce or their respective
+designees.
+The gentleman from New Jersey (Mr. Pallone) and the gentlewoman from
+Washington (Mrs. Rodgers) each will control 30 minutes.
+The Chair recognizes the gentleman from New Jersey.
+General Leave
+Mr. PALLONE. Madam Speaker, I ask unanimous consent that all Members
+may have 5 legislative days in which to revise and extend their remarks
+and add extraneous material on H.R. 8296, the Women's Health Protection
+Act of 2022.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from New Jersey?
+There was no objection.
+Mr. PALLONE. Madam Speaker, I yield myself such time as I may
+consume.
+Madam Speaker, I rise today in strong support of H.R. 8296, the
+Women's Health Protection Act.
+This bill is necessary now more than ever following the Republican-
+controlled Supreme Court's extreme decision ripping away a woman's
+right to abortion. The Court's ideological decision ignored nearly 50
+years of precedent and is the culmination of decades of unrelenting
+efforts by Republican politicians to control women and their bodies.
+The consequences of last month's decision have been swift and severe.
+Already, abortion bans are in effect in nine States, and more than a
+dozen more are expected to either ban or severely limit abortion soon.
+As a result, women are being forced to travel long distances to
+States where abortion remains lawful or, for those who lack logistical
+or financial support to travel, continue pregnancies against their
+wishes. There have been devastating stories of patients being denied
+care and doctors hesitating to provide lifesaving healthcare services
+out of fear of criminalization.
+States have enacted dangerous laws banning abortion without any
+exceptions, inciting citizens to track and report women in need of an
+abortion and criminalizing providers or those assisting someone in
+obtaining care.
+These laws turn back the clock on the health, well-being, and
+equality of women across the Nation. Republicans have made it clear:
+This is just the beginning. Congressional Republicans are
+[[Page H6635]]
+already pushing a nationwide abortion ban that would criminalize
+abortion in all 50 States.
+That is why this House is acting today on the Women's Health
+Protection Act to restore the right to abortion nationwide. This
+legislation ensures that no matter where you live, you have a right to
+comprehensive healthcare that is free from unnecessary restrictions
+that are intended only to impede access.
+Madam Speaker, I urge my colleagues to support this legislation to
+protect the right to abortion and ensure that all Americans are
+entitled to make their own healthcare decisions.
+Madam Speaker, I reserve the balance of my time.
+Mrs. RODGERS of Washington. Madam Speaker, I yield myself such time
+as I may consume.
+Madam Speaker, to protect the helpless, most powerless, most innocent
+among us, I rise in strong opposition to H.R. 8296, the abortion on
+demand until birth act.
+This is not about codifying Roe v. Wade. Why? Because it nationalizes
+abortion for all 9 months of pregnancy--all 9 months. This would make
+America as radical as China and North Korea.
+The abortion on demand until birth act would legalize discriminatory
+abortion based upon sex, race, and disability, including Down syndrome.
+It overrides State laws that protect women from coercion. It would
+weaken conscience protections to force pro-life doctors to perform
+abortions and end a life.
+This is especially frightening for pregnancy centers, faith-based
+providers, and medical professionals who are using amazing medical
+achievements in treating both mothers and their babies in the wombs as
+patients. We are doing prenatal heart surgery today in the United
+States of America.
+The abortion on demand until birth act has nothing to do with
+protecting the health of women. It has everything to do with forcing an
+extreme agenda on the American people.
+Rather than prey on women's vulnerabilities and fears and nationalize
+abortion for all 9 months, we should be coming together to support
+women and their families at every stage of pregnancy and beyond.
+Every mother matters. Seventy-six percent of women seeking abortions
+say they would choose life if their circumstances were different. The
+focus should be on how to change their circumstances, help them access
+the care and support that they need, and improve their lives.
+Presenting abortion up until birth as a woman's only option is a
+false choice. There are nearly 3,000 pregnancy centers in all 50
+States. They outnumber Planned Parenthood by more than 2,000
+facilities. These pregnancy centers, which are right now under violent
+attack by pro-abortion groups, provide medical care, resources,
+education, and mentoring to women. They must be protected, not
+undermined and threatened by an extreme abortion agenda.
+The Supreme Court has affirmed the American people's rights to speak
+through their elected officials and enact laws that protect unborn
+children. The question upon us today is: How are we going to respond?
+How is this body going to respond to the greatest human rights issue of
+our generation? That is the question. This is the human rights issue of
+our generation.
+Do not close your ears. Do not close your eyes. Do not close your
+heart.
+Is it by dehumanizing life and promoting a culture that destroys the
+weakest among us? Is that how we are going to do it? Or is it by making
+abortion unthinkable by leading a new era where every person's God-
+given, unalienable human right to life, liberty, and the pursuit of
+happiness for all be the way we will define ourselves?
+Let's come together. Let's protect the human rights of the unborn. We
+cannot deny life to the most disadvantaged and marginalized among us.
+They have no voice to defend themselves.
+Madam Speaker, abortion for all 9 months is not the will of the
+American people.
+Madam Speaker, I urge opposition to H.R. 8296, the abortion on demand
+until birth act because all lives are worth living, and I reserve the
+balance of my time.
+{time}  0945
+Mr. PALLONE. Madam Speaker, I yield 2 minutes to gentlewoman from
+California (Ms. Chu), the sponsor of this legislation.
+Ms. CHU. Madam Speaker, I rise today in strong support of my bill,
+the Women's Health Protection Act, or WHPA.
+WHPA is the bill that will protect the right to access abortion after
+the tragic fall of Roe v. Wade. It ensures in Federal law the right to
+abortion care for every woman in every State and ensures States may not
+erode that right.
+You will hear Republicans say our bill goes too far, but that is
+simply not true. Our bill preserves the protections of Roe that we have
+lived with for 50 years, affirmed through decades of subsequent court
+decisions. WHPA prohibits the bans and restrictions that violate the
+spirit of Roe, from outright bans to laws forcing women to undergo
+invasive ultrasounds, unnecessary waiting periods, or forcing doctors
+to give patients medically inaccurate information.
+You will hear Republicans repeat over and over again that Democrats
+are voting for abortion up until the moment of birth. Actually, for 50
+years the Court had the provision of an exception for late-term
+abortion in Roe to preserve the life or the health of the mother. It is
+because they valued the life of the mother.
+Do Republicans actually believe the mother's life is expendable?
+Apparently so.
+What you will not hear is Republicans say that the vast majority of
+Americans do not want Roe to be overturned.
+You will not hear an apology to the 10-year-old who was raped and had
+to travel to Indiana for an abortion because it was prohibited in her
+home State.
+You will not hear an acknowledgment that women are capable of
+deciding for themselves whether to terminate a pregnancy.
+This bill respects our right to make our own decisions about our
+bodies. It is time to put control of our bodies back in our hands. Now
+is the time to pass the Women's Health Protection Act.
+Mrs. RODGERS of Washington. Madam Speaker, I reserve the balance of
+my time.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Texas (Ms. Escobar).
+Ms. ESCOBAR. Madam Speaker, it has been 22 days since the Supreme
+Court overturned Roe v. Wade, taking away women's ability to make
+choices about their own future, setting us back nearly 50 years. But
+even that is not enough for Republicans.
+In the last 24 hours alone, we have gotten a glimpse into the dark
+future Republicans have in store for women, doctors, and vulnerable
+children:
+The Indiana attorney general says he is investigating the doctor who
+treated a 10-year-old rape victim.
+Texas sues the Biden administration for requiring abortions in
+medical emergencies so that women's lives could be saved.
+And the National Right to Life official who said the 10-year-old
+should have had her baby.
+Yes, according to Republicans, even a little girl impregnated by a
+brutal rape should be denied an abortion and have to endure a
+government-mandated birth.
+Remember, this is the same party that has voted against:
+Paid family and medical leave for parents of that baby.
+Childcare for babies.
+Universal pre-K for babies.
+The Child Tax Credit, which helps babies.
+School lunch programs that help babies.
+Commonsense gun violence prevention measures that keep those babies
+safe in school, and much more.
+The Republicans' war on women has never been more dangerous. Today,
+we will vote on the Women's Health Protection Act to ensure that women
+across this country have access to abortion and the freedom to make
+their own decisions about their bodies and their futures.
+America, Democrats have your back.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 2 minutes to the
+gentlewoman from Florida (Mrs. Cammack), a dynamic example of life in
+her own testimony.
+[[Page H6636]]
+Mrs. CAMMACK. Madam Speaker, I include in the Record some articles
+that I feel are relevant to this debate.
+[From the New York Times, July 3, 2022]
+Abortion Laws Around the World
+The U.S. Supreme Court's ruling on abortion quickly led to
+bans in at least eight states, a shift toward criminalization
+that runs counter to recent easings in countries that had
+longstanding bans.
+The Supreme Court's elimination of the constitutional right
+to abortion, after nearly a half-century, has made the United
+States one of the few countries actively strengthening
+abortion restrictions.
+Abortion is now banned in at least eight states, a shift
+toward criminalization that runs counter to the longstanding
+policies of some close allies, like Canada, and to recent
+easings in several nations that had long imposed bans, like
+Ireland, Mexico and South Korea.
+But no nations share the same history regarding abortion,
+nor does any part of the world have uniform laws: Women
+seeking abortions everywhere must navigate distinct rules, in
+a variety of health care systems, if access is available at
+all. The following examples, while not comprehensive,
+illustrate the diversity of those laws--and how they're
+changing.
+Canada
+No laws restrict abortion in Canada, where it is covered by
+provincial and territorial public health care systems as an
+essential medical procedure within 20 weeks of conception
+and, under some circumstances, after that point, such as when
+a pregnancy threatens the mother's life. Access and
+exceptions vary by province, and sometimes by hospital.
+Until 1988, criminal laws allowed abortions only if
+approved by committees of physicians. That year, the Supreme
+Court struck down the laws in a landmark case. Most legal
+scholars agree that if the issue were to reach the court
+again, it would make the right to abortion explicit.--Ian
+Austen
+Mexico
+Before a court ruling last year, abortion was largely
+restricted, with Mexico City and only three of 31 states
+permitting the procedure up to 12 weeks of fetal gestation.
+But the Supreme Court ruled unanimously in the fall that
+penalizing women who undergo abortions was unconstitutional,
+and in the months since, five more states have moved to
+legalize abortions.
+The justices did not specify how far into a pregnancy
+abortion was permitted, leaving the details to the states.
+For the states that still ban abortion, legislatures will
+need to change laws to permit the procedure.--Maria Abi-Habib
+nicaragua
+Abortion is completely illegal and punishable by jail for
+the woman and the doctors.
+The Legislature eliminated all exceptions in 2006, ending a
+century of law that allowed abortions in cases of life-
+threatening complications or pregnancies caused by rape.
+President Daniel Ortega, a strong supporter of criminalizing
+abortion, has received support from Evangelical leaders in
+Nicaragua and the United States.--Yubelka Mendoza and Maria
+Abi-Habib
+Britain
+Abortions have been legal in England, Scotland and Wales
+for more than 50 years, protected by the Abortion Act of
+1967. Abortions can be legally performed up to the 24th week
+of pregnancy and must be medically approved by two doctors.
+The 1967 law allows some exceptions for later-term
+abortions, including when the pregnancy endangers the woman's
+health or if a prenatal scan reveals a fetus abnormality. A
+provision of the law allowing abortion if the fetus carries
+significant risk of serious disability was at the center of a
+court case last year.
+In rare circumstances, such as when a woman, without
+doctors' consent, takes medicine intended to terminate a
+pregnancy, an abortion could be prosecuted as a criminal act.
+The 1967 law did not cover Northern Ireland, which for
+decades prohibited almost all abortions.
+British lawmakers overturned that ban in 2019, legalizing
+``unconditional termination'' of pregnancy within the first
+12 weeks. But with resistance coming from anti-abortion and
+church groups, abortion services remain limited.--Saskia
+Solomon
+Ireland
+A 1983 constitutional amendment banned nearly all abortion,
+reflecting the Roman Catholic Church's deep influence in the
+country. That influence had waned by 2018, when a referendum
+to end the ban was approved by 66 percent of voters.
+Lawmakers then legalized abortion in the Health Act of
+2018, allowing abortion for any reason up to the end of the
+first trimester. The law provides exceptions beyond 12 weeks
+in cases of fetal abnormalities considered fatal after birth
+or a potential risk to the woman's health.--Saskia Solomon
+Poland
+Soviet-era Poland offered some of Europe's broadest
+abortion access, and it became a destination for women
+seeking abortions. But after the Soviet Union's collapse, and
+under the influence of the Catholic Church, the Polish
+Parliament in 1993 passed one of Europe's strictest bans,
+asserting that ``every human being shall have an inherent
+right to life from the moment of conception.''
+It allowed three categories of exception: danger to the
+mother's health or life; rape or incest; severe fetal
+abnormalities.
+Despite mass protests, the ban was tightened last year by
+the nationalist Law and Justice Party, eliminating the most-
+used exception--fetal abnormalities--which accounted for
+almost all of the roughly 1,000 legal abortions a year. An
+estimated 100,000 to 150,000 illegal abortions take place
+very year in the country, activists say.
+The remaining exceptions are problematic for abortion
+seekers. Rape victims face a deadline of the 12th week of
+pregnancy, and they require a certificate from a prosecutor,
+which takes a long time to acquire. And the definition of
+what constitutes a ``serious'' risk to a woman's health is
+too vague for doctors to always act decisively. In a small
+number of cases, women have died of sepsis after doctors
+refused to intervene while the fetus's heart was still
+beating.
+Women cannot be punished for taking an abortion pill or
+undergoing an abortion abroad.
+Anyone deemed to have aided or abetted an illegal abortion
+faces up to eight years in prison.--Katrin Bennhold
+India
+A total ban was eased in 1971 with the Medical Termination
+of Pregnancy Act, which made some abortions legal.
+But activists continued to seek further easing, to include
+abortion in cases of fetal anomaly or pregnancy caused by
+rape. In 2021, the federal government amended the law,
+expanding the criteria for legal abortions and adding a
+privacy clause to protect women who went to clinics.
+The law allows women to terminate pregnancies until 20
+weeks. Between 20 and 24 weeks, a woman needs two doctors to
+approve an abortion, and after 24 weeks, abortions are
+allowed only when the woman's health is at risk. Women can
+now terminate unwanted pregnancies caused by contraceptive
+failure regardless of marital status; before the amendment,
+only a married couple could do that.
+Still, abortions done in violation of the law are
+punishable by up to seven years in prison for the woman and
+medical personnel.--Sameer Yasir
+China
+Abortion has been legal in some form since 1953. By the
+1970s, as the ruling Chinese Communist Party grew
+increasingly worried about overpopulation, abortion became
+more widely accessible, and the one-child policy led to some
+forced abortions.
+Sex-selective abortions are illegal, meant to counter the
+widespread preference for boys over girls. In response to
+recent concerns over declining birthrates and an aging
+population, families may now have three children without
+penalty. Given the government's invasive family planning
+policies, some women fear it will restrict abortion access.
+The authorities last year said they intended to reduce
+``medically unnecessary abortions,'' without explaining how.
+Access to abortion services varies by region, with some
+requiring women to produce certificates of medical necessity.
+In Jiangxi Province, women who are more than 14 weeks
+pregnant need three signatures from medical personnel.
+Scholars, activists and some foreign governments have
+accused the authorities of using family planning policies to
+suppress ethnic minorities, which the government denies.--
+Vivian Wang
+Kenya
+Under the 2010 Constitution, abortion is permitted if a
+trained health professional determines a need for emergency
+treatment, or if the pregnancy endangers the life or health
+of the mother. In other circumstances, abortion providers can
+face up to 14 years in prison under Kenya's penal code.
+In practice, many women who could obtain a legal abortion
+cannot because of poverty, lack of access to health services
+or a lack of information about their rights.--Matthew Mpoke
+Bigg
+Benin
+Last fall, Benin joined South Africa and Mozambique as one
+of the few African countries to broadly legalize abortion
+within 12 weeks.
+Under the new law, abortion will be allowed ``when the
+pregnancy is likely to aggravate or cause a situation of
+material, educational, professional or moral distress
+incompatible with the interest of the woman and/or the unborn
+child.'' In doing so, Benin became the third country in
+Africa, along with Ethiopia and Zambia, to allow abortion
+based on the social or economic needs of the woman.
+The previous law authorized abortion only if the pregnancy
+endangered the woman's life or was the result of rape or
+incest, or if the fetus was malformed. The new law will take
+effect after the authorities detail how it will be applied,
+which could take months.--Elian Peltier
+Egypt
+A strict anti-abortion law has been on the books for 85
+years, derived from the French Penal Code of the colonial era
+that bans the procedure under nearly any circumstances. The
+woman and doctor face imprisonment if convicted.
+It does have one loophole, which is based on the medical
+code of ethics: Doctors are allowed--but not legally
+obligated--to terminate a pregnancy if it puts the woman's
+life
+[[Page H6637]]
+at risk and she signs a document saying the procedure was
+lifesaving.
+Though convictions are uncommon, the law and social stigma
+have pushed abortion practices out of public sight, where the
+woman's safety cannot be protected and the procedure can be
+prohibitively expensive.--Nada Rashwan
+Turkey
+Since 1983, abortion has been legal up to 10 weeks after
+conception. Married women need spousal consent. The law
+allows exceptions after 10 weeks when the pregnancy threatens
+the life of the woman, if the doctor concludes the fetus has
+a grave disability, and in cases of rape.
+Violators face prosecution and prison--for both the woman
+and the doctor.
+Abortion remains a divisive issue. In 2012, Recep Tayyip
+Erdogan, now the president and then prime minister, called
+abortion murder and urged more restrictions. After popular
+outrage, the law was never amended, but in practice, abortion
+services are unavailable in many state hospitals--Safak Timur
+____
+[From CATHOLICVOTE, June 9, 2022]
+Summer of Rage: Tracking Attacks on Pregnancy Centers and Pro-Life
+Groups
+attacks since supreme court leak
+CV News Feed--More than 50 pregnancy resource centers and
+offices of pro-life groups have been attacked and vandalized
+since a draft Supreme Court opinon overturning Roe v. Wade
+was leaked in early May. Pro-abortion domestic terrorists
+have claimed responsibility--and are promising more attacks
+in a ``summer of rage''.
+Pregnancy centers are bracing for more attacks and acts of
+vandalism after the Supreme Court issued its final ruling
+overturning Roe v. Wade on June 24, 2022. The Department of
+Homeland Security issued a memo the same day warning that
+``domestic violent extremists'' would exploit the decision to
+commit acts of violence against various targets, specifically
+naming Jane's Revenge. Various terror groups have issued
+threats against them on social media since the decision was
+made, with one group urging its followers to ``mask up, stay
+dangerous''.
+Some attacks are going unreported because pregnancy
+resource centers want to protect their clients. This post
+covers attacks which have been reported in the news media,
+sent as tips directly to CatholicVote, or uncovered from
+terrorist groups online. If you know of an attack which is
+not covered here, please email
+[email protected]
+. All
+tips are anonymous and your identity will not be revealed.
+The map and this post will be updated as the new develops.
+This list covers attacks on pregnancy centers and offices
+of pro-life organizations. Attacks on Catholic churches are
+covered here.
+List of attacks:
+Austin, Texas--Trotter House (May 3, 2022).
+Frederick, Maryland--CareNet Frederick (May 4, 2022).
+Portland, Oregon--Southeast Portland Pregnancy Resource
+Center (May 5, 2022).
+Concord, California--Options Health (June 25, 2022).
+Iowa City, Iowa--Informed Choices Clinic (June 25, 2022).
+Portland, Oregon--First Image (June 26, 2022).
+Winter Haven Florida--LifeChoice Pregnancy Center (June 26,
+2022).
+Burlington. Vermont--BirthRight (June 26, 2022).
+Everett, Washington--Two Hearts Pregnancy Aid (June 27,
+2022).
+Dayton, Ohio--Women's Centers of Ohio (June 27, 2022).
+Littleton. New Hampshire--Pathways Pregnancy Center (June
+28, 2022).
+Nashville, Tennessee--Hope Clinic for Women (June 29,
+2022).
+Yuba City, California--A Woman's Friend Pregnancy Resource
+Clinic (June 29, 2022).
+Hialeah, Florida--Pregnancy Help Medical Clinic (July 3,
+2022).
+St. Paul, Minnesota--BirthRight of St. Paul (July 5, 2022).
+Kenmore, Washington--Care Net Pregnancy & Family Services
+of Puget Sound (July 5. 2022).
+Moab, Utah--Arches New Hope Pregnancy Center (July 5,
+2022).
+Oreland, Pennsylvania--Pro-Life Union of Greater
+Philadelphia (July 6, 2022).
+Worcester, Massachusetts--Problem Pregnancy Resource Center
+(July 6, 2022).
+Worcester, Massachusetts--Clearway Clinic (July 6, 2022).
+Akron, Ohio--Northeast Ohio Right to Life (July 8, 2022).
+Mrs. CAMMACK. Madam Speaker, I rise today to fight for life and in
+strong opposition to H.R. 8296, the abortion on demand until birth act.
+You know, I never thought that I would have to stand here on the House
+floor and debate the fact that killing someone for their gender, their
+sex, their race--but here we are.
+We are debating a bill that is being pushed by my colleagues on the
+other side that would legalize abortions based on a baby's sex, race,
+or potential disability. I am going to say that again because I think
+that is perhaps the most outrageous, horrific, regressive, sexist, and
+racist part of this legislation.
+This bill allows for abortions up until the day of natural delivery
+because the child maybe isn't the right sex or the right race,
+according to the mother, who is a woman, by the way. We need to stop
+this lie that suddenly abortion is healthcare--it is not.
+I have heard repeatedly talk about this 10-year-old girl who was
+brutally raped--this is a heartbreaking situation--yet, not a single
+peep about the man who did this. He was an illegal who crossed our
+border, who never should have been in our country in the first place,
+who committed this crime. Not one peep.
+In our country, we are based really, quite frankly, on a simple
+notion that we are of equal opportunity, not equal outcome. Abortion,
+that is equal outcome. We know the outcome.
+All I am asking today is that my colleagues think a little bit
+critically about what they are doing and what they are saying, the
+message that they are sending--that they believe in equal outcome, not
+opportunity because they are, quite frankly, denying the right for
+every single one of these children the opportunity to live.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Florida (Ms. Lois Frankel).
+Ms. LOIS FRANKEL of Florida. Madam Speaker, my, my, my, here we go
+again--or should I say to my colleagues on the other side of the
+aisle--lie, lie, lie.
+The United States Supreme Court has dismantled access to legal
+abortion giving the very, very personal decision concerning a person's
+reproductive health, their life and future to strange politicians.
+Now, Republicans across the country and in Congress are moving full
+steam ahead toward their dark and extreme goal of a nationwide abortion
+ban that will throw doctors into jail, force children to bear children,
+lead to tragic deaths, and life-changing hardships for people in our
+country.
+That is why I rise in support of the Women's Health Protection Act
+that will facilitate access to legal abortion care regardless of a
+person's ZIP Code.
+Let me warn everyone that the Republican agenda includes even more
+drastic intrusions into our personal lives--banning legal abortion is
+just the start. We will fight back.
+Mrs. RODGERS of Washington. Madam Speaker, I reserve the balance of
+my time.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Colorado (Ms. DeGette), the chairwoman of Oversight and
+Investigations Subcommittee.
+Ms. DeGETTE. Madam Speaker, the horror of a 10-year-old girl, the
+victim of rape, re-victimized when her parents were forced to take her
+out of State because of Ohio's abortion law.
+A woman who was having a miscarriage, whose doctor refused to give
+her the medical procedure she needed because of fear of being
+prosecuted.
+A woman trying to get long-acting birth control, whose pharmacist
+refused to prescribe the necessary medication for the procedure.
+The chaos in the wake of the terrible Dobbs decision is only going to
+get worse from here.
+The Supreme Court and the Republican Party have declared a war on
+Americans' healthcare rights. Every single American has the right and
+the freedom to make the healthcare decisions that they need, including
+abortion.
+We passed this bill last September. We passed it in September after
+the first decision in the Supreme Court. We are going to pass this bill
+today in the U.S. House of Representatives. We are going to pass this
+bill, which codifies Roe v. Wade, every time we need to, to protect
+Americans' rights to healthcare and to protect everybody's equality.
+Mrs. RODGERS of Washington. Madam Speaker, I don't know of any State
+laws that prevent birth control. Miscarriages are obviously a tragedy.
+The question before us today is on the legislation that would allow
+for abortion up until birth, 9 months. It is not the will of the
+American people; it is the extreme agenda of those that are promoting
+abortion.
+Madam Speaker, I yield 1 minute to the gentleman from Kentucky (Mr.
+Guthrie), the leader on the Health Subcommittee.
+[[Page H6638]]
+Mr. GUTHRIE. Madam Speaker, I rise in opposition to the abortion on
+demand until birth act.
+This Supreme Court ruled each individual State can decide the rights
+for the unborn. This bill would override State laws to nationalize
+abortion for any reason at any stage of pregnancy up until birth.
+This does not merely ban pre-viability restrictions on abortion, as
+supporters say that it does. This bill allows the person doing the
+abortion to decide what qualifies as pre-viability. This is
+unacceptable.
+The majority of Americans do not support abortions with no limits. In
+fact, 80 percent of the Americans say abortions should be illegal in
+the third trimester. This is a radical bill, and I urge a ``no'' vote.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentleman
+from New York (Mr. Tonko), who chairs our Environment and Climate
+Change Subcommittee.
+Mr. TONKO. Madam Speaker, I rise in resounding support of the Women's
+Health Protection Act.
+This bill will restore a fundamental constitutional right that has
+been simply stripped away by a rogue rightwing Supreme Court.
+While my Republican colleagues celebrate this injustice and cook up
+plans for a nationwide abortion ban, Americans across the country are
+already feeling the devastating effects of the decision to overturn Roe
+v. Wade.
+Stories of a 10-year-old child having to travel to neighboring States
+to receive care, or women bleeding from ectopic pregnancies have
+shocked the world--as red States, many with some of the highest
+maternal mortality rates in the country, have rolled back abortion
+access.
+None of the courts, nor States, nor politicians should have a say in
+women's ability to make their own decisions about their health, their
+well-being, and their future. That rests with their loved ones, their
+doctor, and their God.
+If we claim to love freedom--to be a free and just society--we must
+ensure that this basic human right is finally enshrined into law.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 1 minute to the
+gentleman from Georgia (Mr. Carter), a health provider saving lives
+every day and a champion for life.
+{time}  1000
+Mr. CARTER of Georgia. Madam Speaker, I thank the gentlewoman for
+yielding.
+Madam Speaker, I include in the Record two articles of attacks on
+churches and pro-life pregnancy centers.
+[From the National Catholic Register]
+Attacks on Churches, Pro-Life Pregnancy Centers Continue
+A pro-life sign at St. Teresa of Avila Catholic Church in
+Hutchinson, Kansas, about 50 miles northwest of Wichita, was
+vandalized over the weekend.
+Since the Dobbs v. Jackson Women's Health Organization
+decision on Friday, attacks on Catholic churches and pro-life
+pregnancy centers have been reported in West Virginia,
+Washington, Virginia, Louisiana, Colorado, California, Texas,
+Florida, New York, and Indiana.
+Below are the latest recorded attacks since the decision.
+Matt Vainer, a spokesperson for the Diocese of Wichita,
+said that the perpetrator was followed by a witness who
+called the police. The perpetrator was arrested, he said.
+The pastor of St. Teresa of Avila, Father Aaron Spexarth,
+placed the sign underneath a crucifix in the church, as he
+believed it was most appropriate to place it at Christ's
+feet, Vainer confirmed to CNA.
+All Saints Catholic Church in Portland, Oregon had its sign
+defaced with pro-abortion graffiti June 25.
+A photo of the vandalism shows the words ``If abortions
+aren't safe, neither are you!--XOXO Jane.'' The FBI is
+investigating, Barbara Custer, a parish secretary at the
+church, told CNA.
+A Woman's Friend Pregnancy Resource Clinic in Yuba City,
+California was vandalized June 27.
+The clinic had one of its windows smashed by what seems to
+be one perpetrator according to video footage, the clinic's
+executive director Kristen Bird told CNA.
+Video shows the perpetrator throwing three rocks at the
+window until it broke. Repairs will cost anywhere between
+$700 and $900. The FBI is investigating, Bird said.
+____
+[From the Daily Caller, July 12, 2022]
+Elizabeth Warren Calls To `Shut Down' Crisis Pregnancy Centers Amid
+Pro-Abortion Attacks
+(By Nicole Silverio)
+Democratic Massachusetts Sen. Elizabeth Warren called on
+crisis pregnancy centers to be ``shut down'' across the
+country Tuesday as pro-abortion groups vandalize and commit
+arson on centers throughout the nation.
+The senator claimed the centers ``fool'' and ``torture''
+women into carrying their pregnancies to term as they seek
+abortion access. She lamented that the centers outnumber
+abortion clinics in Massachusetts by 3 to 1.
+``In Massachusetts right now, those crisis pregnancy
+centers that are there to fool people who are looking for
+pregnancy termination help outnumber true abortion clinics by
+3 to 1, she said. ``We need to shut them down here in
+Massachusetts and we need to shut them down all around the
+country,'' she told NBC 10 Boston. ``You should not be able
+to torture a pregnant person like that,''
+Warren's criticisms of crisis pregnancy centers follow
+multiple attacks on the centers facilitated by pro-abortion
+activists since the Supreme Court draft majority opinion
+leaked in May.
+Surveillance footage showed a suspect spray painted the
+words ``If Abortions Aren't Safe, You Aren't Either'' and
+broke the windows of the Next Step Pregnancy Center in
+Lynwood, Washington, in late May. An unknown pro-abortion
+group splattered the Capitol Hill Crisis Pregnancy Center
+with red paint and marked the words ``Jane Says Revenge'' in
+graffiti.
+Police arrested 10 pro-abortion protesters for allegedly
+throwing smoke bombs at an Oregon pregnancy center on June
+27. The activist group Jane's Revenge allegedly firebombed
+crisis pregnancy center in Amherst, New York, overnight on
+June 7, while arsonists attacked Wisconsin Family Action in
+Madison. The Oregon Right to Life offices in Keizer, Oregon,
+were also firebombed with Molotov cocktails.
+The centers offer free or low-cost pregnancy testing,
+education on adoption services, ultrasounds, STD testing and
+treatment, prenatal and parenting lessons, after abortion
+recovery counseling and sexual risk avoidance education,
+according to the Charlotte Lozier Institute.
+The Massachusetts senator has repeatedly called for the
+construction of abortion clinics on federal lands and
+national parks since the Supreme Court overturned Roe v.
+Wade, handing states the right to regulate abortion. She
+suggested that tents and trained medical personnel be set up
+on federally funded property to allow women to access
+abortion.
+In a New York Times op-ed, she and Democratic Minnesota
+Sen. Tina Smith advocated the use of ``federal property and
+resources to protect people seeking abortion services
+locally.''
+Warren and several prominent Democratic lawmakers signed a
+letter urging President Joe Biden increase access to
+medication abortion and establish a medical ombudsman at the
+Department of Human Health and Services and Department of
+Justice to analyze data on the types of reproductive services
+needed and provide that on federal lands.
+``The Department of Justice and all relevant agencies could
+analyze the types of reproductive health services that could
+be provided on federal property, especially in states where
+such services are limited by state law or regulation,'' the
+letter stated.
+The senator's push for clinics on federal lands is
+currently prevented by the Hyde Amendment, which prohibits
+federal funding toward abortions except in cases endangering
+the mother's life. Many activists estimate that the Hyde
+Amendment prevents at least 60,000 abortion per year.
+Mr. CARTER of Georgia. Madam Speaker, I rise today to oppose the
+unconscionable abortion on demand until birth act.
+This bill creates a national standard to allow for abortions of
+unborn children for any reason and at any stage of pregnancy up until
+birth. As a father and grandfather of six precious grandchildren, I am
+sickened by the attempt to allow abortion on demand until birth.
+Now, Madam Speaker, I will speak for just a second about something
+that was brought up by one of my colleagues across the aisle about
+pharmacists dispensing prescriptions for abortion.
+Also, Madam Speaker, if you could, do me a favor and get a message to
+the President who is trying to sign an executive order to force
+pharmacists to fill prescriptions against their will for abortion. Let
+me assure you, you can pass all the legislation you want, and you can
+sign every executive order that you want to sign, but if you think you
+are going to force a pharmacist to go against their moral obligation to
+take care of patients and to take care of babies and dispense a
+prescription that is going to be used for abortion, good luck with
+that.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from New York (Ms. Clarke), who is a member of our committee.
+Ms. CLARKE of New York. Madam Speaker, I rise today to stand against
+the vile war for reproductive rights of the women in America.
+[[Page H6639]]
+Just under 50 years ago, Roe v. Wade established that every woman
+holds autonomy over her own body and her reproductive choices. To
+reject this critical ruling one-half century later at a time when
+America's maternal healthcare standards are so disgracefully abysmal,
+particularly for Black and Brown women, is as hateful as it is cruel.
+We will not stand for this blatant and brazen attempt to control
+women. We will not stand for yet another assault that diminishes women
+by taking away their autonomy of their bodies. We will not stand by and
+watch extremists erase us from our Constitutional protections.
+No. We will not stand for it today. I and my Democratic colleagues
+will pass the Women's Health Protection Act of 2022 and the Ensuring
+Women's Right to Reproductive Freedom Act of 2022.
+Madam Speaker, I urge our Senators to find the compassion, courage,
+and their humanity for the women of America by doing the same.
+Mrs. RODGERS of Washington. Madam Speaker, I would ask what about the
+marginalized Black and Hispanic babies who are more likely to be
+aborted?
+Abortion has had a disproportionate impact on minorities and
+individuals with disabilities.
+Madam Speaker, I reserve the balance of my time.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentleman
+from California (Mr. Cardenas), who is also a member of the Energy and
+Commerce Committee.
+Mr. CARDENAS. Madam Speaker, I rise today in support of the Women's
+Health Protection Act and lend my voice to the chorus of calls across
+the country for urgent action on abortion rights.
+When I first heard the news of the Dobbs decision, I felt as if I
+were thrown into another country--a country without our Constitution.
+How is it that such a fundamental right to our autonomy over one's
+body, over one's life, and over one's future can be stripped away so
+callously?
+We are talking about far-right Justices telling women that they
+cannot get the care that they need and telling doctors that they cannot
+treat their patients to the best of their ability. Yes, these five
+Justices with no medical expertise stole the fundamental freedom of
+controlling the health of one's own body and opened the floodgates to
+criminalize doctors for doing their job.
+Make no mistake, Madam Speaker: this is a stain on our healthcare
+system and a flat-out assault on health equity, and it is a self-
+inflicted wound.
+This resolution will leave women--especially women of color and low-
+income women, including White women--in the lurch. So in the absence of
+any respect or compassion for reproductive health in this country, we,
+as a body, must show our leadership. It is incumbent upon us elected
+officials to ensure that the basic right is restored and finally
+written into law.
+The Women's Health Protection Act will do that. It would restore 50
+years of precedent and right a deeply invasive wrong. History has its
+eyes on us.
+Madam Speaker, I urge my colleagues to vote ``yes.''
+Mrs. RODGERS of Washington. Madam Speaker, I yield 2 minutes to the
+gentlewoman from Iowa (Mrs. Miller-Meeks), who is another healthcare
+provider. Dr. Mariannette Miller-Meeks has worked hard to improve the
+lives of many throughout her career.
+Mrs. MILLER-MEEKS. Madam Speaker, I thank my colleague, the Honorable
+Representative Rodgers, for yielding me time.
+Madam Speaker, I rise today in opposition to H.R. 8296. The Supreme
+Court recently took the important and correct step to return the power
+to regulate abortion back to State legislators and voters within the
+individual States while recognizing the sanctity of life.
+This concept is so novel and repugnant to the Democrats that they
+would put forward a radical and extreme abortion bill that would permit
+abortion even up until birth for any reason. Only seven countries,
+including China and North Korea, are this extreme.
+As a doctor, I am knowledgeable that mid- to late-term abortion is a
+barbaric procedure which can include dismemberment of the baby and
+crushing of the skull. This is far more cruel than many of the laws of
+States that define prisoner abuse of convicted felons and what
+constitutes animal cruelty. It is a procedure done when the mother is
+given anesthesia, but the baby can feel pain. Madam Speaker, even
+though you cannot hear it scream, it can respond to music and respond
+to touch and the voice of its mother.
+We wouldn't allow animals to be treated this cruelly.
+Do Democrats think that this elevates women and is compassionate?
+Madam Speaker, I include in the Record an article from the Charlotte
+Lozier Institute.
+[From the Charlotte Lozier Institute, Feb. 2014]
+Gestational Limits on Abortion in the United States Compared to
+International Norms
+(By Angelina Baglini, J.D.)
+Abstract: The United States is one of only seven countries
+in the world that permit elective abortion past 20 weeks.
+Upholding laws restricting abortion on demand after 20 weeks
+would situate the United States closer to the international
+mainstream, instead of leaving it as an outlying country with
+ultra-permissive abortion policies.
+This report compares gestational limits in United States
+abortion law with gestational limits in the abortion law of
+the international community. The goal is to determine where
+the United States stands in comparison to international
+norms, with its federal policy enshrined in Roe v. Wade,
+which allows abortion past 20 weeks and without restriction
+until fetal viability.
+The sample group for this project included a total of 198
+countries, independent states, and semi-autonomous regions
+with populations exceeding 1 million. Of these 198 countries,
+independent states, and regions worldwide, 59 allow abortion
+without restriction as to reason, otherwise known as elective
+abortion or abortion on demand. The remaining 139 countries
+require some reason to obtain an abortion ranging from most
+restrictive (to save the life of the mother or completely
+prohibited) to least restrictive (socioeconomic grounds) with
+various reasons in between (e.g., physical health, mental
+health).
+Currently, the United States permits abortion on demand
+through viability, which is usually marked around 24 weeks.
+For this report, it is appropriate to compare the United
+States with the other 58 countries that allow abortion on
+demand up to some point in pregnancy. The remaining 139
+countries require some reason to obtain an abortion (that is
+to say, they do not permit abortion on demand) and are, by
+definition, more restrictive than the United States on the
+issue of gestational limits. To require some reason before
+obtaining an abortion is inherently more restrictive than not
+requiring any reason at all.
+This report finds that the United States is one of only
+seven countries in the world that permit elective abortion
+past 20 weeks. This finding suggests that current proposals
+in the United States to restrict elective abortions past 20
+weeks would move the United States from the fringe, ultra-
+permissive end of the spectrum to a position closer to
+international norms.
+Terminology and Method of Comparison
+Not all countries or statutes use the same terminology when
+drafting restrictions on late-term elective abortion. When
+drafting a restriction on elective abortion past 20 weeks of
+pregnancy, the most common measurement of ``weeks of
+pregnancy'' is gestational age, or in short form
+``gestation.'' Gestational age marks the duration of
+pregnancy, which is most commonly and medically measured from
+the date of the woman's last menstrual period. The woman's
+last menstrual period is the most identifiable date by which
+to measure the duration of pregnancy, and occurs
+approximately two weeks before conception or fertilization.
+The vast majority of countries in this international survey
+of abortion laws use gestational age to measure duration of
+pregnancy. Over 80 percent of countries maintaining some
+restriction on elective abortion use gestational age as the
+method of calculating duration of pregnancy. However, a
+minority of countries measures duration of pregnancy from
+``conception'' or ``fertilization.'' One country measures
+from the time of ``implantation,'' which occurs approximately
+one week after conception or fertilization. Some statutes do
+not even specify a method of measurement, simply using the
+vague term ``weeks of pregnancy'' without indicating a
+precise method measuring the duration of pregnancy.
+Conception or fertilization is the moment when an ovum and
+sperm unite, which creates a unique human organism. The date
+of conception or fertilization is often difficult to
+determine, as few women know the exact date they conceived.
+Because the last menstrual period is a more ascertainable
+date, in many cases doctors add two weeks to the woman's last
+menstrual period to approximate the date of conception or
+fertilization.
+This report uses gestation to compare restrictions based on
+duration of pregnancy. More than 80 percent of countries
+already use gestation in establishing duration of pregnancy
+restrictions on elective abortion
+[[Page H6640]]
+and measuring the age of the unborn child using gestation is
+in line with common medical practice.
+For those countries that use a different measurement of
+age, such as conception or fertilization or pregnancy, this
+study converts the measurement of age into gestation by
+adding two weeks to date back to the woman's last menstrual
+period. Using gestation as a common method of measuring
+duration of pregnancy restrictions on elective abortion
+produces a more meaningful comparison.
+International Gestational Limitations on Elective Abortion
+The sample group of countries for this project included a
+total of 198 countries, independent states, and semi-
+autonomous regions with populations exceeding 1 million.
+Of these 198 countries, independent states, and regions
+worldwide, 59 allow abortion without restriction as to
+reason, otherwise known as elective abortion or abortion on
+demand.
+The remaining 139 countries require some reason to obtain
+an abortion ranging from most restrictive (to save the life
+of the mother or completely prohibited) to least restrictive
+(socioeconomic grounds) with various reasons in between
+(e.g., physical health, mental health).
+Of the 59 countries permitting elective abortion:
+9 countries limit elective abortion before the 12th week of
+gestation,
+36 countries limit elective abortion at 12 weeks gestation,
+6 countries limit elective abortion between 12 and 20 weeks
+gestation,
+7 countries permit elective abortion past 20 weeks or have
+no gestational limit.
+1 country maintains a federal system where abortion policy
+is determined at the state/territory level, and at least two
+of those states permit elective abortion past 20 weeks
+Australia is the one country where a federal system is in
+place, but abortion policy is determined on the state or
+territory level. Three states or territories within Australia
+permit elective abortion, and two allow elective abortion
+past 20 weeks. However, other states and territories of
+Australia maintain more restrictive abortion policies and
+some do not permit elective abortion at all. Due to the
+diverse range of abortion policy in Australia, from
+restrictive to ultra-permissive, this study does not include
+Australia, as a whole, as a country that permits elective
+abortion past 20 weeks.
+More than 75 percent of the countries permitting abortion
+without restriction as to reason do not permit elective
+abortions past l2 weeks gestation.
+Only 12 percent (7 out of 59) of the countries permitting
+abortion without restriction as to reason permit elective
+abortion past 20 weeks gestation.
+The U.S. is among these 7 countries that permit elective
+abortion past 20 weeks. This is true whether 20 weeks is
+measured from the last menstrual period (gestational age),
+conception, or implantation. No matter how duration of
+pregnancy is measured, whether by gestational age or
+conception or fertilization, or implantation, all countries
+in this category pass the 20-week threshold. These countries/
+territories are:
+Canada (no restriction in law)
+China (no restriction in law)
+Netherlands (24 weeks)
+North Korea (no restriction in law)
+Singapore (24 weeks)
+United States (viability)
+Vietnam (no restriction in law)
+The United States is within the top 4 of most permissive
+abortion policies in the world (7 out of 198) when analyzing
+restrictions on elective abortion based on duration of
+pregnancy.
+Implications for Current Policy in the United States
+Under U.S. law, abortion on demand is permitted without
+restriction through viability. Viability can vary, and is
+decreasing in terms of weeks of gestation as perinatal
+medicine advances, but normally occurs no earlier than 24
+weeks.
+Recently, in the United States there has been great
+interest in restricting abortion on demand after 20 weeks.
+Two states have had 20-week laws on the books since before
+Roe v. Wade. Eleven more states have enacted 20-week laws in
+recent years. A proposed 20-week law in Albuquerque, New
+Mexico failed to gain majority support in 2013 but was
+notable for the engaged citizen activism that resulted in the
+proposal being put on a municipal ballot for a direct vote.
+There is also interest at the federal level in restricting
+elective abortion after 20 weeks. In 2013, the U.S. House of
+Representatives passed a 20-week law. A similar law has been
+introduced in the U.S. Senate.
+Permitting abortion on demand past 20 weeks places the
+United States among the top 4 percent of most-permissive
+countries in the world based on duration of pregnancy
+restrictions on abortion. If the United States adopts a
+federal policy restricting elective abortion past 20 weeks,
+or if more states adopt such policies, the U.S. will more
+closely align itself with the international norm that limits
+elective abortion past 12 weeks. Policies imposing
+gestational limits on elective abortion have been
+overwhelmingly adopted by countries permitting abortion on
+demand, indicating policies that encourage woman's safety in
+limiting abortion to early pregnancy and policies that
+protect unborn children from pain and prolonged exposure to
+the risk of-abortion.
+Conclusions
+In terms of gestational limits, the United States ranks
+among 7 countries with the most permissive abortion policies.
+The clear norm among countries that permit elective abortion
+is to limit abortion to before 20 weeks gestation, and
+elective abortion is more commonly limited to 12 weeks (the
+first trimester).
+Twenty-week abortion laws in the United States are neither
+extreme nor unreasonable. Rather, they move the United States
+closer to international norms of legislating what is safe and
+healthy for the mother and what grants unborn children more
+protection in the womb.
+Mrs. MILLER-MEEKS. Madam Speaker, I ask all my colleagues on every
+seat in every aisle of this Chamber to vote against this extreme,
+radical, and cruel abortion bill, H.R. 8296.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Minnesota (Ms. Craig), who is a member of the Energy and Commerce
+Committee.
+Ms. CRAIG. Madam Speaker, exactly 3 weeks ago, five Justices on an
+activist, extremist Supreme Court handed down a decision that upended
+nearly 50 years of precedent and rolled back fundamental rights for
+millions of Americans.
+In the weeks since, I have watched in horror as State after State has
+triggered laws that now prevent a woman or a girl from accessing an
+abortion even in the case of rape and incest. These events have been
+shocking to Americans, not only for millions of women across the
+country but for the country as a whole.
+You call yourselves conservative. We are talking about 50 years of
+precedent in our Nation.
+Because no Government has a place interfering in the decisions
+between a woman and her doctor, criminalizing abortion, or restricting
+women's healthcare options.
+This is not a controversial position to the American people. A strong
+majority of my constituents believe that the right to an abortion
+should be protected by law. This is a freedom and a privacy issue, and
+the government--not politicians in this room and not politicians in any
+State in our Nation--should not have any part in this conversation at
+all. This is a very personal decision between a woman, her family, her
+doctor, and her faith.
+Madam Speaker, I encourage all of my colleagues to join me in voting
+``yes'' to protect Roe today.
+Mrs. RODGERS of Washington. Madam Speaker, I reserve the balance of
+my time.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from the State of Washington (Ms. Schrier). Dr. Schrier is also a
+member of the Energy and Commerce Committee.
+Ms. SCHRIER. Madam Speaker, I will tell you, my constituents are up
+in arms. They are emailing me, and they are calling my office outraged
+that the freedoms that they have had for 50 years are being stripped
+away from women in one-half of the States in this country. They are
+furious when they hear about victims of rape not being able to end a
+pregnancy and when they see a 10-year-old girl who has to flee to a
+neighboring State so she won't be forced to carry a pregnancy to term--
+a 10-year old.
+This is barbaric. My constituents are worried about what might come
+next in our home State of Washington.
+I am the only pro-choice woman doctor in all of Congress. In fact, I
+am a pediatrician. And I have been in the exam room with teens facing
+unplanned pregnancies and with mothers who find out that the pregnancy
+they are so excited about is not a viable one. These are deeply
+personal circumstances. Frankly, when, whether, and under what
+circumstances to become a mother is the single most important decision
+a woman will ever make, and that must be hers to make. The government
+has no place in the exam room.
+Today I am voting to make sure that every woman--no matter where she
+lives--can access abortion, to plan their pregnancies, protect their
+health, and chart the course of their lives. I want my constituents to
+know I will fight every day to protect their rights.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 3 minutes to the
+gentleman from New Jersey (Mr. Smith) who spent his life defending the
+voiceless.
+[[Page H6641]]
+Mr. SMITH of New Jersey. Madam Speaker, I thank my good friend, Cathy
+McMorris Rodgers, the ranking member, for her eloquent defense of the
+unborn child and their mothers because there are two co-victims in
+every abortion: mother and baby. I thank her for her leadership. It is
+extraordinary.
+Madam Speaker, according to the January 2022 Marist Poll, only 17
+percent of Americans believe that ``abortion should be available to a
+woman any time she wants one during her entire pregnancy.''
+When Americans were asked in late June--June 28 to 29--in a Harvard/
+Harris Poll, a nationwide poll supervised by Mark Penn--and many of us
+know him; he is a very effective pollster--and the question was put:
+``Do you think your State should allow abortions up to 9 months'' only
+10 percent said ``yes.''
+H.R. 8296 would legally authorize and enable the violent death of
+unborn baby girls and boys by dismemberment, beheading, forced
+expulsion from the womb, deadly poisons, or other methods at any time
+and for any reason until birth.
+Don't believe it?
+Read section 4 of the bill. It couldn't be clearer.
+This bill is far outside the American mainstream and goes far beyond
+Roe v. Wade.
+As a matter of fact, when the Harvard/Harris Poll asked whether or
+not we should be doing what we are doing today in Congress, they
+found--and I was a little bit astonished by this--that less than one-
+third of voters--31 percent--say that abortion laws should be federally
+set by a congressional vote.
+Let me point out to my colleagues because mention was made of this
+earlier in the debate. Let me be clear, abortion is not healthcare
+unless one construes the precious life of an unborn child to be
+analogous to a tumor to be excised or a disease to be vanquished.
+This legislation constitutes an existential threat to unborn
+children. Since Roe v. Wade, approximately 63\1/2\ million babies have
+been killed by dismemberment, chemical poisoning, and beheading--a
+number that equates with the entire population of everyone living in
+the country of Italy.
+If enacted, this bill would nullify almost every pro-life restriction
+ever enacted by the States, including parental involvement laws in 37
+States and pain-capable unborn child protection laws in 19 States.
+I remember when a woman from Virginia formed a group called Mothers
+Against Minors' Abortion. That mom found out about her daughter's
+abortion when she was hemorrhaging in her bed. She came and testified
+before Congress and said: Please, we need to know. We love our
+daughters. Parental notification laws do work.
+Sadly, these will be nullified by this bill.
+For decades abortion advocates have gone through extraordinary
+lengths to ignore, trivialize, or cover up the battered baby victim.
+But today, thanks to ultrasound, unborn babies are more visible than
+ever before. Today science informs us that birth is an event--albeit,
+an important one--but only an event in the life of a child. Life is a
+continuum.
+Madam Speaker, I ask my colleagues to oppose this bill. The youngest
+patients and their mothers need protection.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from New Hampshire (Ms. Kuster), who is a member of our committee.
+Ms. KUSTER. Madam Speaker, I rise today in support of the Women's
+Health Protection Act and to speak for the generation of women who have
+lost their freedom to make healthcare decisions for themselves. The
+government has no place inserting itself into people's personal
+healthcare decisions.
+I never expected to be on the floor of the House talking about
+miscarriage, ectopic pregnancy, or fertility treatments, but here we
+are.
+For many, pregnancy is not an easy path. One in eight pregnancies end
+in miscarriage, and 1 in 50 women experience ectopic pregnancies--an
+outcome that always leads to pregnancy loss and poses serious risk of
+life to the mother.
+{time}  1015
+For countless others, getting pregnant requires costly, exhausting,
+and complex procedures such as IVF.
+Regardless of the circumstances, reproductive health is private.
+Pregnancy can be unpredictable. The government has no place in
+deciding what care patients can receive and doctors can administer.
+Like all healthcare, decisions surrounding reproductive health should
+be between a patient and their doctor.
+As an adoption attorney, I worked with hundreds of birth mothers
+making the most personal, consequential decisions of their lives, and
+not one of those women looked to the government to make that decision
+for them.
+I support the Women's Health Protection Act, and I urge my colleagues
+to vote ``yes.''
+Mrs. RODGERS of Washington. Madam Speaker, I reserve the balance of
+my time.
+Mr. PALLONE. Madam Speaker, may I inquire how much time remains on
+both sides.
+The SPEAKER pro tempore. The gentleman from New Jersey has 13 minutes
+remaining. The gentlewoman from Washington has 16 minutes remaining.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from California (Ms. Eshoo), the chairwoman of our Health Subcommittee.
+Ms. ESHOO. Madam Speaker, I rise in the strongest support possible of
+the Women's Health Protection Act.
+In February 2020, I held the first legislative hearing in two decades
+to protect access to reproductive health. Since then, we have seen the
+steady rollback of abortion rights in Republican-controlled States.
+This means that low-income women and minorities have been living in a
+post-Roe reality for years now.
+Now, the Supreme Court has fully revoked the constitutional right to
+abortion, leaving States to outlaw and criminalize abortion if they
+choose to. This devastating decision has created a patchwork of States
+with differing laws and restrictions, causing societal chaos and
+confusion across our country.
+It is a huntdown of women. It is a huntdown of women.
+The Women's Health Protection Act makes sure that every American has
+equal access to reproductive healthcare, no matter where they live. I
+am eager to vote for this legislation, once again, and I call on my
+Senate counterparts to codify these vital protections into law.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 1 minute to the
+gentleman from Pennsylvania (Mr. Joyce), a member of the Energy and
+Commerce Committee and another medical provider.
+Mr. JOYCE of Pennsylvania. Madam Speaker, I thank the gentlewoman for
+yielding.
+I rise today in opposition to this legislation that would legalize
+abortion on demand up until the moment of birth.
+As a physician, I first swore an oath to do no harm. As legislators,
+we cannot, in good conscience, vote to pass legislation that would
+claim the lives of unborn children in late-term abortions.
+This poorly written legislation would put our Nation alongside
+countries like China and North Korea by allowing discriminatory
+abortions based on sex, based on race, even based on disability. This
+is unacceptable, and it is gut-wrenching that Congress would even
+consider passing such legislation.
+This abortion on demand act would override pro-life laws passed in
+our States and prohibit State-level elected officials from passing
+legislation to protect unborn children in our communities.
+It is time for all Members of Congress to vote against this poorly
+written bill.
+The SPEAKER pro tempore. The time of the gentleman has expired.
+Mrs. RODGERS of Washington. Madam Speaker, I yield an additional 30
+seconds to the gentleman.
+Mr. JOYCE of Pennsylvania. It is time for all Members of Congress to
+vote against this poorly written bill. I urge a ``no'' vote.
+Madam Speaker, I include in the Record two articles, ``Democrats
+Launch Ads in Lifestyle Mags in All Out Push for Abortion'' from the
+Daily Caller and ``Ohio Right to Life Says Offices Targeted Twice by
+Pro-Abortion Vandals with Rocks, Spray Paint'' from FOX News.
+[[Page H6642]]
+[From the Daily Caller, July 13, 2022]
+Democrats Launch Ads In Lifestyle Mags In All Out Push For Abortion
+(By Mary Rooke)
+The Democratic National Committee (DNC) launched a digital
+ad campaign Tuesday in several lifestyle magazines telling
+readers that Republicans want to outlaw abortion nationwide.
+The DNC purchased at least $10,000 in digital ads in over
+20 lifestyle publications to focus on abortion rights issues
+as the midterms approach, the Associated Press reported.
+Magazines like Teen Vouge, Elle, Refinery29, Essence, GQ,
+Esquire, Men's Health, Cosmopolitan and Glamour, hosted the
+DNC's ads, reported the AP.
+The ad showed Republican Kentucky Sen. Mitch McConnell next
+to blue, pink, and white lettering that read: ``Republicans
+are pushing to ban abortion nationally. Join us in fighting
+back,'' according to the report.
+The DNC is looking to launch a separate abortion-centered
+ad campaign with plans to spend six figures, reported the AP.
+The DNC's ads promoting a ``week of action'' to defend
+abortion are in response to the U.S. Supreme Court's decision
+to overturn Roe v. Wade, sending abortion law-making back to
+the state legislatures.
+``With this Defend Choice Week of Action, we're giving
+people across the country a chance to turn their anger into
+action by holding anti-choice Republicans accountable and
+helping to elect Democrats,'' DNC chair Jaime Harrison said,
+according to the AP.
+The DNC held a virtual launch for its ``all-hands-on-deck
+effort to defend choice'' on Tuesday night, according to the
+DNC website.
+``This fight isn't over and we need all hands on deck. This
+event will serve as the kickoff for our Week of Action, which
+we'll highlight how to get involved with on the call,'' The
+DNC event description stated.
+The latest Associated Press-NORC poll released Friday
+showed that only 16% of Americans feel abortion is the
+biggest issue facing the U.S. In comparison, 40% of U.S.
+adults said they were more worried about inflation and 33%
+said gas prices, according to the poll.
+The survey polled, 1,053 adults nationwide from June 23-27
+with a margin of error of
++/-4.0%.
+____
+[From Fox News, July 13, 2022]
+Ohio Right to Life Says Offices Targeted Twice by Pro-Abortion Vandals
+With Rocks, Spray Paint
+(By Emma Colton)
+Dozens of pro-life centers have been targeted across the
+country since a leaked Supreme Court draft opinion signaled
+Roe V. Wade would be overturned In May, followed by the
+nation's highest court ultimately ruling as such in June.
+For one pro-life organization in Ohio, it has been targeted
+twice since last month.
+``As pro-lifers, we know that our work might cost us
+something and that very well could be our physical safety,''
+the executive director of the Right to Life of Northeast Ohio
+Allie Frazier told Fox News Digital. ``I think that it's
+important in moments like this for the pro-life movement to
+be really clear that we're not going to be intimidated. We
+will save babies. We will protect women. And we're not going
+to let threats of violence stop us from doing that.''
+Offices for the Right to Life of Northeast Ohio were most
+recently targeted on July 8, Frazier said, when al least one
+suspect was caught on camera lobbing rocks at the building,
+breaking windows and spray-painting menacing messages.
+``If abortion isn't safe, neither are you,'' the suspect,
+who was seen wearing a face mask, scrawled on the sidewalk of
+the offices. The phrase has been spray-painted at similar
+offices across the country, often by members of pro-abortion
+extremist group Jane's Revenge.
+Frazier said it's likely that Jane's Revenge is behind this
+attack, noting that among other spray-painted messages, the
+name ``Jane'' was written on the ground.
+``I think It would be easy for a situation like this to be
+a copycat scenario. But as far as I'm concerned, if any pro-
+abortion individual decides to take that next step, to take
+that bad step, and use violence against pro-lifers, that is
+something that I am going to work hard to protect my staff
+against,'' she said.
+The incident was reported to the Akron Police Department,
+Frazier said. The Akron Police Department has not responded
+to multiple Fox News inquiry requests on the matter.
+Frazier said that the damage caused by the vandalism was
+``significant,'' but ``undoable,'' noting that repairs were
+being made to the broken windows as she spoke to Fox News
+Digital.
+``I know that the intention of this attack was to stop us.
+It was to stop our peaceful activism. It was to stop the ways
+that we are impacting women and babies in this community for
+a positive. And they didn't even stop that. I was already
+back to work in my office within a few hours,'' she said.
+It was the second time the offices were targeted, Frazier
+said. Activists posted pro-abortion posters at the office on
+June 24, the day Roe was officially overturned, hung a coat
+hanger on an office door knob, and rang a Ring security
+camera before flashing a middle finger to the camera,
+according to Frazier.
+She said that the attacks pro-life centers have recently
+faced should ``100%'' be investigated as hate crimes.
+``(Pro-abortion vandals] are not afraid of using violence
+to get what they want. This is absolutely a threat against
+the peaceful pro-life movement. And we do ask that law
+enforcement and local, state, and federal leaders continue to
+lead the way and say, `Hey, violence is never okay,' '' she
+said.
+Pro-life activists have repeatedly called on Presiden1
+Biden to forcefully condemn the attacks on pregnancy centers
+and churches, including Frazier who called on the president
+to not ``be complicit in this violence.''
+``Regardless of how people feel on the issue of abortion,
+everybody should be able to condemn acts of violence against
+peaceful nonprofits. Whether that's an advocacy organization
+like Right to Life of Northeast Ohio, or a pro-life pregnancy
+center that are literally meeting the needs of women and
+babies in crisis,'' she told Fox News Digital.
+The White House has previously condemned the violence at
+pro-life centers but has come under scrutiny for not doing
+more.
+``Instead of supporting and defending more pro-life
+pregnancy centers that provide health care and support to
+women at every stage of life, President Joe Biden and the
+Left are working to dismantle the work of these amazing
+centers. They won't strongly condemn the violence and threats
+pregnancy centers are facing,'' the Republican House Energy
+and Commerce Committee posted on Tuesday, demanding Biden
+``MUST condemn the violence and threats.''
+Dozens of pro-life centers have faced attack since May,
+including a pro-life Christian pregnancy center in Buffalo,
+New York, that was allegedly ``firebombed,'' and a pregnancy
+center in Dearborn, Michigan, that saw every ``window and
+door along the front face of our building'' smashed.
+Jane's Revenge has taken responsibility for a handful of
+the attacks and declared ``open season'' on pro-life
+pregnancy crisis centers in a letter published last month.
+``We offered an honourable way out,'' the letter read.
+``You could have walked away. Now the leash is off. And we
+will make it as hard as possible for your campaign of
+oppression to continue.''
+But to Frazier, the pro-life movement will remain unchanged
+and committed to protecting women and babies.
+``We must be willing to do what it takes to protect women
+and babies and be ready to take any backlash from that . . .
+Don't be afraid. We got this,'' she said of her message to
+pro-life Americans, adding that pro-lifers can also reach out
+to their local pregnancy centers to check in on staff and see
+if they need any additional resources.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from California (Ms. Lee), who is co-chair of the Pro-Choice Caucus.
+Ms. LEE of California. Madam Speaker, I thank the chairman for
+yielding, for his work, and for bringing this bill to the floor.
+Let me also take a moment to thank our good friend, a great leader,
+Congresswoman Judy Chu, for her vision and her persistent leadership,
+and Chairman Pallone for bringing this to the floor, once again.
+Last month's Supreme Court decision is having devastating impacts
+across the country. Now, I remember the days before Roe, and now that
+the Court has ended Roe, we are truly in a state of a national health
+emergency.
+Abortion bans affect everyone, but their impact falls hardest on
+folks who face serious barriers to care and already have these barriers
+presented because of the lack of equity in our healthcare system--women
+of color, people working to make ends meet, rural people, young people.
+It is terrifying now that people could be criminalized for exercising
+their own personal healthcare decisions. That is wrong. It is morally
+wrong.
+Already, across this country, people are unable to get care and are
+denied the freedom to make their own decisions about their health and
+about their futures. Our personal liberties and our freedoms are being
+taken away. This is just another step in the erosion of our democracy.
+It has never been more critical than now that we pass legislation to
+protect the right to access abortion and ensure that abortion and
+comprehensive reproductive healthcare are accessible and available for
+all.
+Mrs. RODGERS of Washington. Madam Speaker, I reserve the balance of
+my time.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Pennsylvania (Ms. Dean).
+Ms. DEAN. Madam Speaker, Roe became law when I was 13. For my entire
+adult life, the right to abortion care--to privacy and the freedom to
+make my own family planning and healthcare decisions--was guaranteed in
+all 50 States. It sickens me that it is not the case today. My
+daughters-in-law, my
+[[Page H6643]]
+granddaughters, and all women and girls have been stripped of human
+rights and relegated to second-class citizens.
+After a decades-long effort, Republicans have fixed the Supreme Court
+with a few Justices corruptly seated by an autocratic President, and
+they now behave not as constitutional lawyers but as theocrats.
+In overturning Roe and sending a woman's reproductive freedom to
+State politicians--largely White, male--these Justices have decided
+their faith should determine everyone else's rights, not the
+Constitution.
+This is a call to the Chamber, to this Chamber, to the Senate, to the
+administration. We must restore, expand, and protect rights. We must
+pass laws that combat this regressive, shrinking Court. No excuses.
+That is why we are here, yet again, with legislation to codify the
+right to abortion care.
+Last September, the House passed the Women's Health Protection Act,
+and the Senate sat on its hands. Today, we must pass it again.
+I will return to the floor every session, with Representative Chu and
+many others, until we protect and expand rights. I ask my colleagues to
+do the same.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 1\1/2\ minutes to
+the gentleman from Indiana (Mr. Bucshon), a doctor who understands what
+amazing technology is doing to save lives.
+Mr. BUCSHON. Madam Speaker, I thank the gentlewoman for yielding.
+Madam Speaker, I rise today in opposition to H.R. 8296.
+First, I would like to say, as a physician, my colleagues on the
+other side of the aisle need to focus on what their bill really does.
+Stop talking about ectopic pregnancies, which are a surgical emergency;
+fetal demise, where, for unknown reasons, the fetus has passed away;
+and miscarriages, which, clearly, in many cases, are surgical
+emergencies and are tragic. That is not what this bill is about.
+I have heard claims the bill only codifies provisions of the now-
+overturned Roe v. Wade decision. That is simply not true. H.R. 8296
+would create a national standard to allow abortions at any time up
+until birth.
+As a practicing heart surgeon for 15 years prior to coming to
+Congress, I operated on children in the neonatal intensive care unit as
+young as 23 weeks gestation. Even at 650 grams, or 1.4 pounds, and
+about 6 inches long, I saw life in my tiny patients' little bodies.
+This abortion on demand until birth act bill doesn't only allow
+abortions at any point in the pregnancy. It would also preempt and
+repeal State laws that require informed consent, ultrasounds, or other
+testing and counseling before undertaking an elective abortion.
+The American people deserve to know the facts about what is really in
+this bill. I find it troubling the supporters of this bill, most of
+whom have never taken care of a patient, continue to mislead the
+American people about what constitutes healthcare.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentleman
+from Oregon (Mr. Blumenauer).
+Mr. BLUMENAUER. Madam Speaker, I want to begin to acknowledge the
+pain that people have experienced in the wake of being stripped of
+their rights and being thrust into legal limbo.
+We have already seen the impact this horrific decision has had on
+increased wait times in clinics, and doctors forced to consult with
+lawyers because of State restrictions, while patients may be dying on
+operating tables.
+The barbaric treatment of the 10-year-old child, a victim of rape,
+made into a media circus, and the prospect of the doctor who provided
+her care being subjected to legal action.
+We know the Supreme Court has put us all on the wrong side of
+history. These appalling stories reinforce the fact that denying
+fundamental healthcare has dire and unforeseen circumstances far beyond
+the slogans that have been bandied around.
+I believe it is our duty to take responsibility to make progress in
+even these difficult circumstances to provide a path forward. This
+legislation does that.
+We owe it to American families to make progress, to protect them and
+improve access to this right, and spare them government intrusion into
+the most sensitive and personal matters. Our rage must be productive.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 2 minutes to the
+gentleman from Michigan (Mr. Walberg), another defender of life.
+Mr. WALBERG. Madam Speaker, my heart breaks today. I say that
+sincerely. My heart breaks to hear the words of my colleagues on the
+other side of the aisle, who I respect highly for many reasons, who
+disregard the fact that we are talking about life.
+On this floor, we have talked about the need for formula this morning
+for the same babies we are talking about. We have heard our Speaker
+many times imploring us to do it for the children. Who are we talking
+about today?
+It breaks my heart to think that my colleagues don't trust women to
+make decisions about life before life is conceived. It breaks my heart
+to think that we don't hold men accountable to make decisions to love
+our girls and women.
+It breaks my heart that we would say this is a human right to take
+life when our Declaration of Independence brought us into being with
+unalienable rights of life, liberty, and the pursuit of happiness.
+We are better than this. We have had 50 years of death. Think about
+the over 100 years before that we applauded life.
+Madam Speaker, it is time for us to stand for individuals taking
+responsibilities that God has made us capable of, to decide for the
+best interests of others, including those little children.
+Why is the safest place on Earth today the maternity ward nursery in
+a hospital, but not the womb?
+We must change. H.R. 8296 is a bill of death, and it is a bill that
+takes away responsibility for us, as adults, to do what we must do.
+{time}  1030
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentleman
+from New York (Mr. Jeffries), the chairman of our Democratic Caucus.
+Mr. JEFFRIES. Madam Speaker, I thank the distinguished chairman,
+Chairman Pallone, for his leadership in this critically important area,
+as well as Representative Fletcher for leading the charge in an area
+that is significantly important and consistent with the values of this
+great country; a country that embraces life, liberty, and the pursuit
+of happiness, land of the free, and home of the brave, liberty and
+justice for all.
+But liberty, justice, and freedom are under assault right now because
+of a radical, rightwing, illegitimate Supreme Court majority and their
+extreme co-conspirators here in the House of Representatives attacking
+freedom.
+But this legislation and House Democrats are going to do everything
+in our power to defend a woman's freedom to make her own reproductive
+healthcare decisions, a woman's freedom to make a deeply personal
+decision that should be between a woman and her doctor, not extremists
+trying to intervene, and her freedom to make the decision to travel to
+seek abortion care whenever and wherever is necessary.
+Those are the stakes. That is why this legislation is so important,
+and we will always defend these freedoms.
+Mrs. RODGERS of Washington. Madam Speaker, I am pleased to yield 1
+minute to the gentleman from Oklahoma (Mr. Hern), a defender of
+freedom, a defender of life, liberty, and the pursuit of happiness for
+all.
+Mr. HERN. Madam Speaker, I thank my colleague for yielding the time.
+Last month, our Constitution was upheld at the Supreme Court, and
+States like Oklahoma took immediate action to protect the lives of the
+unborn.
+This shouldn't be a hard vote. It is the right for children, fully
+formed in the womb, to be born.
+Our allies and like-minded nations around the world do not allow
+abortions up to the moment of birth, as this bill would do. It is
+simply barbaric. My colleagues know it is an unpopular position, which
+is why they have resorted to lies and deceptions about lifesaving care
+for pregnant women.
+Madam Speaker, I urge every Member of this Chamber to vote ``no'' on
+H.R. 8296 and protect the right of our future generations to be born.
+[[Page H6644]]
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from North Carolina (Ms. Adams).
+Ms. ADAMS. Madam Speaker, I thank the gentleman for yielding and for
+his extraordinary support.
+Madam Speaker, I rise today because I am pretty damn angry. You know
+the Supreme Court's decision overturning the right to abortion care is
+fundamentally wrong. The Supreme Court green-lit forced pregnancy,
+taking away the right to bodily autonomy for women.
+Abortion is still healthcare. People will still need to access it,
+and that is why I am supporting the Women's Health Protection Act.
+In the wake of the Dobbs decision, we have a State-by-State patchwork
+that denies women equal protection under the law.
+While abortion is still legal in my home State of North Carolina, the
+State of Texas is suing the government to compel women to carry
+pregnancies to term, even if it kills the mother.
+The attorney general of Indiana wants to force rape victims--even 10-
+year-old girls--to carry pregnancies to term.
+We have a responsibility to stop this draconian overreach by State
+governments, and we have got to make reproductive freedom--reproductive
+freedom--the law of the land.
+Mrs. RODGERS of Washington. Madam Speaker, may I inquire as to how
+much time is remaining in this debate.
+The SPEAKER pro tempore. The gentlewoman from Washington has 10\1/2\
+minutes remaining. The gentleman from New Jersey has 4\1/2\ minutes
+remaining.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 2 minutes to the
+gentleman from Texas (Mr. Burgess), a defender of life.
+Mr. BURGESS. Madam Speaker, I thank the ranking member for yielding
+time.
+You know, as we hold this debate, I remember back to a morning as a
+young resident at Parkland Hospital starting out in a residency in OB/
+GYN and our major professor, our department chairman, Jack Pritchard,
+addressing us and telling us that starting into a career in OB/GYN, we
+were in a unique position in medicine.
+Every time we took a case, either as a primary doctor or consultant,
+we would have the unique opportunity to be taking care of two patients
+who had a combined life expectancy of over 100 years.
+He said nowhere else in medicine are you going to be able to affect
+the future to the degree that you can as an OB/GYN.
+In nearly 30 years of practice back in Texas, I have taken care of
+women with ectopic pregnancies. We did it before. We will continue to
+do it. It is a surgical emergency, and you don't shy away from it.
+Unfortunately, some pregnancies do conclude in a miscarriage, and
+some of those do require the attention of a physician. I would not
+hesitate to do that, then or now.
+But what I would not do and could not do was disrupt a viable
+pregnancy where a child could issue from that care. None of that
+changes, either before or after the Supreme Court decision.
+Look, there have been times when I have had to step in when someone
+had care at another facility and sought refuge in my emergency room
+because of severe complications they were having from an abortion done
+elsewhere.
+I would have to step in and correct the problems from the
+abortionist. I didn't hesitate to do that and will continue to do it in
+the future, but what I will not do is end a life in a pregnancy.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Oregon (Ms. Bonamici).
+Ms. BONAMICI. Madam Speaker, I rise today in strong support of the
+Women's Health Protection Act which will provide--in law--the right for
+people to make their own reproductive healthcare decisions.
+The Supreme Court's Dobbs opinion overturning abortion rights is
+infuriating, it is heartbreaking, and it is dangerous.
+For almost 50 years, the intensely personal decision about whether to
+bear a child or have an abortion was where it belongs--with the person
+who is pregnant.
+I remember the days before Roe v. Wade when abortions done without
+medical care could, and often did, have tragic consequences.
+Colleagues, make no mistake: Overturning Roe will not end abortions.
+Make no mistake: Taking away the right to abortion care will
+disproportionately hurt families and individuals who are already
+struggling, and disproportionately hurt people in rural areas who will
+struggle to get the care they need.
+My colleagues, if you believe life begins at conception, don't get an
+abortion. But that is a belief, it is not science, and others do not
+share it.
+I don't think anyone over here would ever force someone with your
+beliefs to get an abortion, but you are forcing your beliefs on others,
+and that is wrong.
+We need to restore personal freedom and put the decision about
+whether or when to bear a child back where it belongs.
+Today, I will enthusiastically vote for the Women's Health Protection
+Act.
+Mrs. RODGERS of Washington. Madam Speaker, I am pleased to yield 1
+minute to the gentleman from Virginia (Mr. Cline), another defender of
+life.
+Mr. CLINE. Madam Speaker, I thank the gentlewoman for yielding time.
+``We hold these truths to be self-evident, that all men are created
+equal, that they are endowed by their creator with certain unalienable
+rights, that among these are life, liberty, and the pursuit of
+happiness.'' Life.
+Abortion is a termination of that life and a grave human rights
+abuse, and it must end. No one has the right to end the life of an
+innocent human being. The government has a duty to protect that right
+to life.
+Since 1973, more than 63 million unborn babies have had their lives
+cut short. That is a tragedy and simply unacceptable, and I stand here
+for the sake of millions of children, for the sake of the integrity of
+our Nation.
+Let's follow the science. Preborn humans are, in fact, humans and
+deserving of life. But, unfortunately, the pro-abortion left has
+decided that ``human'' doesn't automatically grant that right and that
+humans should only be accorded human rights depending on their
+location, level of dependency, or size.
+That mindset is a travesty, and the practice of abortion will go down
+in history as a great stain on this Nation.
+Mr. PALLONE. Madam Speaker, I reserve the balance of my time.
+Mrs. RODGERS of Washington. Madam Speaker, I am pleased to yield 1
+minute to the gentleman from Texas (Mr. Pfluger), a defender of life.
+Mr. PFLUGER. Madam Speaker, I thank the gentlewoman from Washington
+for yielding time.
+Madam Speaker, I rise in opposition to the Democrats' extreme pro-
+abortion agenda.
+Today, I am voting against two bills that go far beyond Roe v. Wade,
+which is the decision to move these types of unenumerated decisions to
+the State level, as the Constitution clearly says, backed up by the
+Supreme Court.
+But what my Democrat colleagues are pushing would permit elective
+abortions, up to and including a baby's due date, an extreme position
+legalizing abortion based on the child's race, sex, or disability.
+Tragic.
+Another of their initiatives opens up dangerous loopholes for child
+traffickers to cover up their crimes by forcing victims to receive
+abortions across State lines, and it criminalizes those who might
+encourage delaying an abortion, including parents or healthcare
+providers. Parents.
+Since the overturn of Roe v. Wade, Democrats at all levels, including
+the White House, have spread misinformation and fear surrounding the
+decision. Presenting the killing of a child as a woman's only avenue to
+success in her career or life is inhumane and wrong.
+Madam Speaker, I encourage all of my colleagues to vote against these
+bills.
+Mr. PALLONE. Madam Speaker, I yield 1\1/2\ minutes to the gentlewoman
+from Texas (Ms. Jackson Lee).
+Ms. JACKSON LEE. Madam Speaker, I thank all of the leaders who
+recognize that reproductive freedom is a constitutional right.
+I rise today, and I stand in the name of a 10-year-old rape victim
+who was denied an abortion and had to run to another State.
+[[Page H6645]]
+I stand in the name of the young woman who induced an abortion and
+became criminalized.
+I stand in the name of rape victims.
+I stand in the name of incest victims.
+I stand for reproductive freedom.
+And I stand in the name of the Constitution and the Ninth Amendment
+and the right of women with their faith leaders, their families, their
+extended knowledge, to be able to make their own decision about
+reproductive freedom.
+I stand for the Women's Health Protection Act because it prohibits a
+State, local, or Tribal Government from telling abortion providers that
+they should perform medically unnecessary procedures like ultrasounds
+and provide patients with medically inaccurate information. This would
+be prohibited by this particular legislation and, as well, to ensure
+that they would comply with credentialing or other conditions that do
+not apply to providers who offer medically comparable services.
+I stand in order for the Women's Health Protection Act to cover this
+United States and to ensure that the Constitution and Ninth Amendment
+prevails.
+I stand because the Supreme Court Justices who swore that they
+believe in precedent for 50 years of Roe v. Wade did, under oath,
+misrepresent to those who they were speaking to that they would adhere
+to stare decisis and the precedent.
+I stand because in Texas, the bounty hunters are seeking to
+criminalize and arrest persons. I stand for H.R. 5710 that will
+criminalize that activity.
+Madam Speaker, I am proud to rise in strong support of H.R. 8296, the
+Women's Health Protection Act of 2022.
+H.R. 8296, the ``Women's Health Protection Act of 2022'' of which I
+have been a long-time supporter, would prohibit certain government
+restrictions on access to abortion.
+The bill would ensure physicians' ability to prescribe certain drugs,
+offer abortion services via telemedicine, and provide immediate
+abortion services when the mother's health is at risk.
+Furthermore, the ``Women's Health Protection Act of 2022'' would put
+an end to the hurdles some states have placed in the way of women
+accessing abortion care.
+This bill would prohibit state, local, or tribal governments from
+requiring abortion providers to:
+Perform medically unnecessary procedures like ultrasounds;
+Provide patients with medically inaccurate information or;
+Comply with credentialing or other conditions that do not apply to
+providers who offer medically comparable services.
+It would also safeguard all abortions before fetal viability, and
+after fetal viability when a physician determines the continuation of
+pregnancy puts the mother's life at risk.
+Under this bill, patients would not be required to disclose the
+reasoning behind their decision to receive an abortion, nor would they
+be forced to attend medically unnecessary health visits before their
+procedure appointment.
+In the wake of the U.S. Supreme Court's decision to revoke the
+reproductive rights that women have enjoyed for half a century,
+Congress must act now to enshrine what is left of women's liberties
+into law.
+I stand in proud support of both H.R. 8296, the ``Women's Health
+Protection Act of 2022.''
+I urge my colleagues to stand up for women and girls and the
+providers who meet their medical needs every day.
+We cannot let those who wish to relegate women to second-class
+citizens turn back the clock any further.
+Mrs. RODGERS of Washington. Madam Speaker, I am pleased to yield 2
+minutes to the gentlewoman from Arizona (Mrs. Lesko), a strong defender
+of life, who is on the Energy and Commerce Committee.
+Mrs. LESKO. Madam Speaker, I rise in opposition to H.R. 8296 because
+Republicans care about women and babies.
+My colleagues across the aisle are unfortunately, once again,
+attempting to push their abortion on demand agenda, which most
+Americans find appalling.
+This bill is beyond extreme. It permits abortions on demand for any--
+any reason, up until the moment of birth.
+Eighty percent of Americans say that abortion should be illegal in
+the third trimester, and for good reason. The methods used in late-term
+abortions to end the life of the preborn baby are truly reprehensible.
+{time}  1045
+The bill before us today almost completely undermines the numerous
+pro-life laws that States have enacted since the U.S. Supreme Court
+overturned Roe v. Wade by imposing a national standard for abortion on
+demand.
+As a mother and grandmother, I can tell you that preborn babies are
+unquestionably human lives, and they are lives worth defending.
+I find it ironic that the party that tells us to follow the science
+denies basic science that says life begins at conception, that the
+first signs of a heartbeat can be detected after just 22 days, and that
+preborn babies can feel pain as early as 12 weeks inside the womb.
+Passing this legislation would be a stain on Congress. Women deserve
+better than this, and so do their preborn babies. Preborn babies are
+truly the most vulnerable and defenseless amongst us. We were elected
+to defend Americans' rights, and yet this Congress seeks to deny
+vulnerable persons', babies, the most basic right, the right to life.
+Mr. PALLONE. Madam Speaker, I have no additional speakers, so I
+continue to reserve the balance of my time.
+Mrs. RODGERS of Washington. Madam Speaker, I yield 3 minutes to the
+gentlewoman from Minnesota (Mrs. Fischbach), another defender of life.
+Mrs. FISCHBACH. Madam Speaker, I thank my colleague, a great defender
+of life, for yielding me this time, and I stand for life today.
+Madam Speaker, H.R. 8296, the so-called Women's Health Protection
+Act, is proof that the left wants to ensure limitless, taxpayer-funded
+abortion. This is truly outrageous, and the vast majority of Americans
+do not support abortion without limits.
+It is stunning that Congress is wasting its time on legislation that
+is so out of touch with the people it represents. What we should be
+focusing on is helping women and protecting the innocent lives of
+babies.
+For that reason, I rise today to offer a motion to recommit to
+instead consider H.R. 619, the Born-Alive Abortion Survivors Protection
+Act.
+Across the country, abortion providers are denying care to infants
+born alive after attempted abortions. We are talking about children who
+have already been born. We are talking about infanticide.
+Congress must act to protect innocent, defenseless babies who cannot
+protect themselves. The Born-Alive Abortion Survivors Protection Act is
+compassionate legislation that does just that. This bill simply ensures
+that babies who survive attempted abortions receive the same standard
+of care that any newborn should receive.
+It would require healthcare providers to exercise skill, care, and
+diligence to preserve the life and health of these children and then
+immediately transport and admit them to the hospital.
+It would impose penalties on providers who purposefully fail to give
+medical care to these babies.
+It would bar criminal prosecution of the mother.
+But most importantly, it would save lives.
+Coming to Congress, I knew there would be a lot of difficult
+conversations about the life of the unborn, but I am truly shocked and
+heartbroken that I have to stand here and defend lifesaving care for
+babies who have already been born.
+Madam Speaker, we can, and we should make every effort to protect the
+lives of newborn babies.
+To my colleagues, this is the simplest vote you will ever have to
+take. Either you support babies being denied lifesaving healthcare
+after they are born, or you do not.
+Madam Speaker, I ask unanimous consent to include the text of the
+amendment in the Record immediately prior to the vote on the motion to
+recommit.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from Minnesota?
+There was no objection.
+Mr. PALLONE. Madam Speaker, I am prepared to close, and I continue to
+reserve the balance of my time.
+Mrs. RODGERS of Washington. Madam Speaker, may I inquire as to how
+much time is remaining.
+The SPEAKER pro tempore. The gentleman from New Jersey has 1\1/2\
+minutes remaining. The gentlewoman from Washington has 1\1/2\ minutes
+remaining.
+[[Page H6646]]
+Mrs. RODGERS of Washington. Madam Speaker, I yield myself the balance
+of my time to close.
+Madam Speaker, abortion is the sharpest, most soul-searching question
+before us as a Nation. It pierces every heart. People have strongly
+held beliefs and stories, and both sides are guilty of dismissing one
+another.
+For those of us who stand for the right to life, we must do a better
+job of listening and loving. Fear and despair lead to more arguments,
+anger, discord, and insecurity.
+The abortion on demand bill, this bill before us today, though, is
+extreme. It is abortion for any reason, at any stage of pregnancy until
+birth. It is not the will of the American people.
+I recently spoke with a doctor who shared with me what is possible
+today. It is American technology and medical technology that allows us
+now to do surgeries inside the womb.
+I am a mom of three young kids, and anyone who has given birth knows
+that to be able, because of technology, to see the baby develop day by
+day is just amazing.
+Doctors are performing prenatal surgeries and treatments to save
+lives. This doctor was telling me they can perform a prenatal surgery
+on 20 different organs. That wasn't possible in 1973 when Roe v. Wade
+was decided. In fact, the first successful fetal surgery wasn't until
+1982.
+Many decades later, look how far we have come. Science has evolved.
+It is my hope that we learn from this and that we reject abortion
+because it is unthinkable. It is not following the science. It doesn't
+reflect the latest research or modern medicine. Reject this
+legislation.
+Madam Speaker, I yield back the balance of my time.
+Mr. PALLONE. Madam Speaker, I yield myself the balance of my time to
+close.
+Madam Speaker, the Supreme Court's extreme and dangerous decision in
+Dobbs turns back the clock and jeopardizes the health, well-being, and
+autonomy of women across the Nation. Access to comprehensive healthcare
+must include access to abortion, and the ability to access care should
+not depend on where you live.
+The bill before us, the Women's Health Protection Act, restores a
+right to an abortion nationwide, ensuring that all Americans,
+regardless of where they live, can make their own decisions about their
+lives and their futures.
+I urge my colleagues across the aisle to support this bill. While
+Republicans seek to punish and control women by criminalizing abortion
+nationwide, House Democrats will continue our fight to restore the
+right to abortion as the law of the land.
+Madam Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. All time for debate has expired.
+Pursuant to House Resolution 1224, the previous question is ordered
+on the bill.
+The question is on the engrossment and third reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+Motion to Recommit
+Mrs. FISCHBACH. Madam Speaker, I have a motion to recommit at the
+desk.
+The SPEAKER pro tempore. The Clerk will report the motion to
+recommit.
+The Clerk read as follows:
+Ms. Michelle Fischback of Minnesota moves to recommit the
+bill H.R. 8296 to the Committee on Energy and Commerce.
+The material previously referred to by Mrs. Fischbach is as follows:
+Strike all that follows the enacting clause and insert the
+following:
+SECTION 1. BORN-ALIVE ABORTION SURVIVORS PROTECTION.
+(a) Short Title.--This section may be cited as the ``Born-
+Alive Abortion Survivors Protection Act''.
+(b) Findings; Constitutional Authority.--
+(1) Findings.--Congress finds as follows:
+(A) If an abortion results in the live birth of an infant,
+the infant is a legal person for all purposes under the laws
+of the United States, and entitled to all the protections of
+such laws.
+(B) Any infant born alive after an abortion or within a
+hospital, clinic, or other facility has the same claim to the
+protection of the law that would arise for any newborn, or
+for any person who comes to a hospital, clinic, or other
+facility for screening and treatment or otherwise becomes a
+patient within its care.
+(2) Constitutional authority.--In accordance with the above
+findings, Congress enacts the following pursuant to Congress'
+power under--
+(A) section 5 of the 14th Amendment, including the power to
+enforce the prohibition on government action denying equal
+protection of the laws; and
+(B) section 8 of article I to make all laws necessary and
+proper for carrying into execution the powers vested by the
+Constitution of the United States, including the power to
+regulate commerce under clause 3 of such section.
+(c) Born-alive Infants Protection.--
+(1) Requirements pertaining to born-alive abortion
+survivors.--Chapter 74 of title 18, United States Code, is
+amended by inserting after section 1531 the following:
+``Sec. 1532. Requirements pertaining to born-alive abortion
+survivors
+``(a) Requirements for Health Care Practitioners.--In the
+case of an abortion or attempted abortion that results in a
+child born alive (as defined in section 8 of title 1, United
+States Code (commonly known as the `Born-Alive Infants
+Protection Act')):
+``(1) Degree of care required; immediate admission to a
+hospital.--Any health care practitioner present at the time
+the child is born alive shall--
+``(A) exercise the same degree of professional skill, care,
+and diligence to preserve the life and health of the child as
+a reasonably diligent and conscientious health care
+practitioner would render to any other child born alive at
+the same gestational age; and
+``(B) following the exercise of skill, care, and diligence
+required under subparagraph (A), ensure that the child born
+alive is immediately transported and admitted to a hospital.
+``(2) Mandatory reporting of violations.--A health care
+practitioner or any employee of a hospital, a physician's
+office, or an abortion clinic who has knowledge of a failure
+to comply with the requirements of paragraph (1) shall
+immediately report the failure to an appropriate State or
+Federal law enforcement agency, or to both.
+``(b) Penalties.--
+``(1) In general.--Whoever violates subsection (a) shall be
+fined under this title or imprisoned for not more than 5
+years, or both.
+``(2) Intentional killing of child born alive.--Whoever
+intentionally performs or attempts to perform an overt act
+that kills a child born alive described under subsection (a),
+shall be punished as under section 1111 of this title for
+intentionally killing or attempting to kill a human being.
+``(c) Bar to Prosecution.--The mother of a child born alive
+described under subsection (a) may not be prosecuted under
+this section, for conspiracy to violate this section, or for
+an offense under section 3 or 4 of this title based on such a
+violation.
+``(d) Civil Remedies.--
+``(1) Civil action by a woman on whom an abortion is
+performed.--If a child is born alive and there is a violation
+of subsection (a), the woman upon whom the abortion was
+performed or attempted may, in a civil action against any
+person who committed the violation, obtain appropriate
+relief.
+``(2) Appropriate relief.--Appropriate relief in a civil
+action under this subsection includes--
+``(A) objectively verifiable money damage for all injuries,
+psychological and physical, occasioned by the violation of
+subsection (a);
+``(B) statutory damages equal to 3 times the cost of the
+abortion or attempted abortion; and
+``(C) punitive damages.
+``(3) Attorney's fee for plaintiff.--The court shall award
+a reasonable attorney's fee to a prevailing plaintiff in a
+civil action under this subsection.
+``(4) Attorney's fee for defendant.--If a defendant in a
+civil action under this subsection prevails and the court
+finds that the plaintiff's suit was frivolous, the court
+shall award a reasonable attorney's fee in favor of the
+defendant against the plaintiff.
+``(e) Definitions.--In this section the following
+definitions apply:
+``(1) Abortion.--The term `abortion' means the use or
+prescription of any instrument, medicine, drug, or any other
+substance or device--
+``(A) to intentionally kill the unborn child of a woman
+known to be pregnant; or
+``(B) to intentionally terminate the pregnancy of a woman
+known to be pregnant, with an intention other than--
+``(i) after viability, to produce a live birth and preserve
+the life and health of the child born alive; or
+``(ii) to remove a dead unborn child.
+``(2) Attempt.--The term `attempt', with respect to an
+abortion, means conduct that, under the circumstances as the
+actor believes them to be, constitutes a substantial step in
+a course of conduct planned to culminate in performing an
+abortion.''.
+(2) Clerical amendment.--The table of sections for chapter
+74 of title 18, United States Code, is amended by inserting
+after the item pertaining to section 1531 the following:
+``1532. Requirements pertaining to born-alive abortion survivors.''.
+(3) Chapter heading amendments.--
+(A) Chapter heading in chapter.--The chapter heading for
+chapter 74 of title 18, United States Code, is amended by
+striking ``Partial-Birth Abortions'' and inserting
+``Abortions''.
+(B) Table of chapters for part i.--The item relating to
+chapter 74 in the table of
+[[Page H6647]]
+chapters at the beginning of part I of title 18, United
+States Code, is amended by striking ``Partial-Birth
+Abortions'' and inserting ``Abortions''.
+The SPEAKER pro tempore. Pursuant to clause 2(b) of rule XIX, the
+previous question is ordered on the motion to recommit.
+The question is on the motion to recommit.
+The question was taken; and the Speaker pro tempore announced that
+the noes appeared to have it.
+Mrs. FISCHBACH. Madam Speaker, on that I demand the yeas and nays.
+The SPEAKER pro tempore. Pursuant to section 3(s) of House Resolution
+8, the yeas and nays are ordered.
+Pursuant to section 8 of rule XX, further proceedings on this
+question are postponed.
+____________________

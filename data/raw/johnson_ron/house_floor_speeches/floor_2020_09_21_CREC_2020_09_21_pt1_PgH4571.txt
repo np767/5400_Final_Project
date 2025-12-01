@@ -1,0 +1,270 @@
+[Congressional Record Volume 166, Number 163 (Monday, September 21, 2020)]
+[House]
+[Pages H4571-H4573]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+COMPETITIVE HEALTH INSURANCE REFORM ACT OF 2020
+Ms. SCANLON. Mr. Speaker, I move to suspend the rules and pass the
+bill (H.R. 1418) to restore the application of the Federal antitrust
+laws to the business of health insurance to protect competition and
+consumers, as amended.
+The Clerk read the title of the bill.
+The text of the bill is as follows:
+H.R. 1418
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Competitive Health Insurance
+Reform Act of 2020''.
+SEC. 2. RESTORING THE APPLICATION OF ANTITRUST LAWS TO THE
+BUSINESS OF HEALTH INSURANCE.
+(a) Amendment to McCarran-Ferguson Act.--Section 3 of the
+Act of March 9, 1945 (15 U.S.C. 1013), commonly known as the
+McCarran-Ferguson Act, is amended by adding at the end the
+following:
+``(c)(1) Nothing contained in this Act shall modify,
+impair, or supersede the operation of any of the antitrust
+laws with respect to the business of health insurance
+(including the business of dental insurance and limited-scope
+dental benefits).
+``(2) Paragraph (1) shall not apply with respect to making
+a contract, or engaging in a combination or conspiracy--
+``(A) to collect, compile, or disseminate historical loss
+data;
+``(B) to determine a loss development factor applicable to
+historical loss data;
+``(C) to perform actuarial services if such contract,
+combination, or conspiracy does not involve a restraint of
+trade; or
+``(D) to develop or disseminate a standard insurance policy
+form (including a standard addendum to an insurance policy
+form and standard terminology in an insurance policy form) if
+such contract, combination, or conspiracy is not to adhere to
+such standard form or require adherence to such standard
+form.
+``(3) For purposes of this subsection--
+``(A) the term `antitrust laws' has the meaning given it in
+subsection (a) of the first section of the Clayton Act (15
+U.S.C. 12), except that such term includes section 5 of the
+Federal Trade Commission Act (15 U.S.C. 45) to the extent
+that such section 5 applies to unfair methods of competition;
+``(B) the term `business of health insurance (including the
+business of dental insurance and limited-scope dental
+benefits)' does not include--
+``(i) the business of life insurance (including annuities);
+or
+``(ii) the business of property or casualty insurance,
+including but not limited to--
+``(I) any insurance or benefits defined as `excepted
+benefits' under paragraph (1), subparagraph (B) or (C) of
+paragraph (2), or
+[[Page H4572]]
+paragraph (3) of section 9832(c) of the Internal Revenue Code
+of 1986 (26 U.S.C. 9832(c)) whether offered separately or in
+combination with insurance or benefits described in paragraph
+(2)(A) of such section; and
+``(II) any other line of insurance that is classified as
+property or casualty insurance under State law;
+``(C) the term `historical loss data' means information
+respecting claims paid, or reserves held for claims reported,
+by any person engaged in the business of insurance; and
+``(D) the term `loss development factor' means an
+adjustment to be made to reserves held for losses incurred
+for claims reported by any person engaged in the business of
+insurance, for the purpose of bringing such reserves to an
+ultimate paid basis.''.
+(b) Related Provision.--For purposes of section 5 of the
+Federal Trade Commission Act (15 U.S.C. 45) to the extent
+such section applies to unfair methods of competition,
+section 3(c) of the McCarran-Ferguson Act shall apply with
+respect to the business of health insurance without regard to
+whether such business is carried on for profit,
+notwithstanding the definition of ``Corporation'' contained
+in section 4 of the Federal Trade Commission Act.
+SEC. 3. DETERMINATION OF BUDGETARY EFFECTS.
+The budgetary effects of this Act, for the purpose of
+complying with the Statutory Pay-As-You-Go Act of 2010, shall
+be determined by reference to the latest statement titled
+``Budgetary Effects of PAYGO Legislation'' for this Act,
+submitted for printing in the Congressional Record by the
+Chairman of the House Budget Committee, provided that such
+statement has been submitted prior to the vote on passage.
+The SPEAKER pro tempore. Pursuant to the rule, the gentlewoman from
+Pennsylvania (Ms. Scanlon) and the gentleman from North Dakota (Mr.
+Armstrong) each will control 20 minutes.
+The Chair recognizes the gentlewoman from Pennsylvania.
+General Leave
+Ms. SCANLON. Mr. Speaker, I ask unanimous consent that all Members
+have 5 legislative days to revise and extend their remarks and include
+extraneous materials on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentlewoman from Pennsylvania?
+There was no objection.
+Ms. SCANLON. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, I rise in strong support of H.R. 1418, the Competitive
+Health Insurance Reform Act.
+This commonsense legislation repeals a longstanding antitrust
+exemption for the health insurance industry under the McCarran-Ferguson
+Act. It does so for price-fixing, bid-rigging, and market allocation--
+the most egregious kinds of anticompetitive conduct. There is
+absolutely no justification for this broad antitrust exemption for the
+business of health insurance.
+Congress passed the McCarran-Ferguson Act in response to a 1944
+Supreme Court decision finding that the antitrust laws applied to the
+business of insurance. Both insurance companies and the States
+expressed concern about that decision. Insurance companies worried that
+it could jeopardize certain collective practices, like joint rate-
+setting and the pooling of historical data, and the States were
+concerned about losing their authority to regulate and tax the business
+of insurance.
+To address these issues, McCarran-Ferguson provides that Federal
+antitrust laws apply to the business of insurance only to the extent
+that it is not regulated by State law. Unfortunately, this resulted in
+a broad antitrust exemption. Industry and State revenue concerns,
+rather than the vital goals of protecting competition and consumers,
+were the primary drivers of the act.
+In passing McCarran-Ferguson, Congress initially intended to provide
+only a temporary exemption and, unfortunately, gave little
+consideration to competition concerns.
+Not surprisingly, there is broad support for ending this safe harbor
+for antitrust violations that are criminally illegal. As the Antitrust
+Modernization Commission Report noted in 2007, the McCarran-Ferguson
+exemption should be repealed because it has outlived any utility it may
+have had and is among the most ill-conceived and egregious examples.
+Furthermore, it is far from clear that the McCarran-Ferguson
+antitrust exemption was ever justified in the first place. Antitrust
+exemption should be exceedingly rare and should be enacted only where
+there are strong policy reasons for such exemption.
+Carving out an entire part of a healthcare system from the antitrust
+laws should be unthinkable, particularly when healthcare costs are so
+high for many families. That is why it is time to repeal the special
+exemption for the insurance industry.
+Mr. Speaker, I thank my colleague, Chairman DeFazio, for his
+leadership on this important legislation. I urge my colleagues to
+support this bill, which previously passed the House with an
+overwhelming bipartisan vote of 416-7, and I reserve the balance of my
+time.
+Mr. ARMSTRONG. Mr. Speaker, I yield myself such time as I may
+consume.
+Mr. Speaker, under current law, the health and dental insurance
+industries are exempt from some Federal competition laws and related
+enforcement actions.
+Congress established this exemption in 1945 at a time when Federal
+antitrust law was less developed and more likely to disrupt
+procompetitive practices in the insurance industry under State laws.
+H.R. 1418 would update antitrust law and apply it to the business of
+health insurance in ways designed to better protect consumers. At the
+same time, H.R. 1418 would still permit the health insurance industry
+to engage in procompetitive collaboration that benefits customers.
+Mr. Speaker, this bill represents another small step designed to
+improve America's healthcare system. I encourage my colleagues to
+support this bill, and I reserve the balance of my time.
+Ms. SCANLON. Mr. Speaker, I yield 5 minutes to the gentleman from
+Oregon (Mr. DeFazio).
+Mr. DeFAZIO. Mr. Speaker, I thank the gentlewoman for yielding.
+Mr. Speaker, this bill, H.R. 1418, has 51 cosponsors in the House: 26
+Democrats, 25 Republicans. It is endorsed by 23 national organizations,
+including Consumer Reports, which estimates it will save consumers
+billions of dollars a year in health insurance costs, other consumer
+rights groups, the American Dental Association, Hospital Association,
+and more.
+There are only two for-profit industries in America that have an
+exemption from antitrust law: One is professional baseball, dating from
+the 1920s, and the other is the vital area of health insurance, dating
+to the 1940s. This bill will take away that exemption.
+What does that mean? Well, right now, insurance companies can and do
+get together and collude. Before COVID, they would go to some fancy
+resorts, get together, and say: How about you stay out of North Dakota;
+we will stay out of South Dakota? You stay out of Oregon; we will stay
+out of Washington. Let's divide up the pie here. You decide where you
+are selling, and we will decide where we are selling. Oh, and by the
+way, here are the things we don't want to cover. Here are the people we
+want to redline and exclude.
+That is all legal. That is all legal.
+What does it do? It drives up the cost and the availability is
+diminished for Americans. And now here we are in the midst of COVID and
+the estimates are that 5 million people have lost their health
+insurance during COVID--5 million people--yet, last year, the health
+insurance industry made an eye-popping $33 billion in profits. This
+year, the reports are they are doing even better, with more and more
+people uninsured.
+How are they doing that? Well, they are jacking up copays. They are
+jacking up deductibles. They are excluding all sorts of treatments from
+coverage. And it is all legal, and they can all get together and say:
+Hey, if you won't cover this, we won't cover it. That way we won't lose
+customers; you won't lose customers.
+What a sweet deal. What a sweet deal.
+Well, one in four Americans hesitated to go to the doctor--people who
+were insured--or to fill a prescription, get needed treatment because
+of the extraordinary copays and high deductibles. So a lot of people
+are paying 2,000, 3,000, 4,000, 5,000 bucks before they get any
+coverage on these so-called policies.
+What is this about? It is about greed. And it is time to end.
+This is a vital service for the American people. This bill was part
+of the original Affordable Care Act in the House--my provision. It was
+stripped
+[[Page H4573]]
+out in the Senate at the behest of a former insurance executive--good
+old Senate--so it didn't get into the final version of ACA. They took
+out a lot of other good things, too. The House bill was way preferable
+with national exchanges, not-for-profit, et cetera. But, in any case,
+it was stripped out.
+So the House held another vote after the passage of the Affordable
+Care Act in 2010. Tom Perriello, then-Representative for Virginia,
+offered my bill on the floor and it passed by 406-19.
+What kind of bills pass 406-19?
+And then my colead on the bill, Representative Gosar, introduced the
+bill in 2017, and it passed 416-7 in the most bitterly partisan
+atmosphere in Congress since post-Civil War--416-7.
+It is time to get this done.
+Finally, we are seeing some action in the Senate. Senator Leahy has
+introduced a bill, ranking member of the Committee on the Judiciary,
+and Senator Daines. So there are three Democrats, three Republicans on
+the bill. Hopefully, the Senate will see the wisdom in helping
+Americans afford health insurance, lowering their deductibles, lowering
+their copays, lowering their exclusions on prescription drugs.
+Mr. Speaker, even under Medicare part D, they are always jacking
+people around: Oh, sorry, you can't have that medication anymore. We
+just took it off the list last week.
+They can do it any time they want. And they can talk to the other
+insurers, and say: Hey, we are taking that drug off our list. Will you
+take it off your list, because we don't want people to switch to your
+plan.
+That is all legal now.
+Mr. Speaker, after this bill passes, it will no longer be legal. This
+will be a tremendous service to the American people at any time in
+history, but particularly now in times of COVID and crisis.
+Mr. Speaker, I urge my colleagues to support this legislation.
+Mr. ARMSTRONG. Mr. Speaker, this is a good bill. I urge my colleagues
+to support it, and I yield back the balance of my time.
+Ms. SCANLON. Mr. Speaker, I yield myself such time as I may consume.
+Healthy competition in health insurance markets is one of the most
+critical elements for ensuring that Americans have access to high-
+quality, affordable healthcare. When insurance companies are forced to
+compete, the American people win.
+Unfortunately, too many families are still paying higher premiums and
+out-of-pocket costs, in part, because of anticompetitive practices that
+health insurance giants are allowed to engage in under existing law.
+What is more, there is a statutory loophole for this conduct that
+allows insurers to engage in egregious actions like price-fixing, bid-
+rigging, and market allocation with total impunity so long as they are
+engaged in the business of insurance and it is regulated by a State.
+There should be no safe harbor whatsoever for this conduct which
+allows insurers to increase the cost of health insurance and impose
+additional burdens on families across our Nation when they are already
+struggling to make ends meet.
+Health insurance companies should be subject to antitrust liability
+to the extent that they collude or otherwise engage in anticompetitive
+behavior. H.R. 1418 would achieve this result.
+Mr. Speaker, I thank Chairman DeFazio for his leadership on this
+bill, and I urge my colleagues to vote in favor of this legislation
+that is long overdue.
+Mr. Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. The question is on the motion offered by the
+gentlewoman from Pennsylvania (Ms. Scanlon) that the House suspend the
+rules and pass the bill, H.R. 1418, as amended.
+The question was taken; and (two-thirds being in the affirmative) the
+rules were suspended and the bill, as amended, was passed.
+A motion to reconsider was laid on the table.
+____________________

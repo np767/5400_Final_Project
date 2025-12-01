@@ -1,0 +1,1572 @@
+[Congressional Record Volume 163, Number 60 (Thursday, April 6, 2017)]
+[House]
+[Pages H2759-H2767]
+From the Congressional Record Online through the Government Publishing Office [
+www.gpo.gov
+]
+{time}  0915
+SUPPORTING AMERICA'S INNOVATORS ACT OF 2017
+Mr. HUIZENGA. Mr. Speaker, pursuant to House Resolution 242, I call
+up the bill (H.R. 1219) to amend the Investment Company Act of 1940 to
+expand the investor limitation for qualifying venture capital funds
+under an exemption from the definition of an investment company, and
+ask for its immediate consideration in the House.
+The Clerk read the title of the bill.
+The SPEAKER pro tempore (Mr. Simpson). Pursuant to House Resolution
+242, the bill is considered read.
+The text of the bill is as follows:
+H.R. 1219
+Be it enacted by the Senate and House of Representatives of
+the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Supporting America's
+Innovators Act of 2017''.
+SEC. 2. INVESTOR LIMITATION FOR QUALIFYING VENTURE CAPITAL
+FUNDS.
+Section 3(c)(1) of the Investment Company Act of 1940 (15
+U.S.C. 80a-3(c)(1)) is amended--
+(1) in the matter preceding subparagraph (A), by inserting
+``(or, in the case of a qualifying venture capital fund, 250
+persons)'' after ``one hundred persons''; and
+(2) by adding at the end the following:
+``(C)(i) The term `qualifying venture capital fund' means a
+venture capital fund that has not more than $10,000,000 in
+aggregate capital contributions and uncalled committed
+capital, with such dollar amount to be indexed for inflation
+once every 5 years by the Commission, beginning from a
+measurement made by the Commission on a date selected by the
+Commission, rounded to the nearest $1,000,000.
+``(ii) The term `venture capital fund' has the meaning
+given the term in section 275.203(l)-1 of title 17, Code of
+Federal Regulations, or any successor regulation.''.
+The SPEAKER pro tempore. The gentleman from Michigan (Mr. Huizenga)
+and the gentlewoman from California (Ms. Maxine Waters) each will
+control 30 minutes.
+The Chair recognizes the gentleman from Michigan.
+General Leave
+Mr. HUIZENGA. Mr. Speaker, I ask unanimous consent that all Members
+may have 5 legislative days in which to revise and extend their remarks
+and to submit extraneous materials on the bill under consideration.
+The SPEAKER pro tempore. Is there objection to the request of the
+gentleman from Michigan?
+There was no objection.
+Mr. HUIZENGA. Mr. Speaker, I yield myself such time as I may consume.
+Mr. Speaker, we all know that small businesses and entrepreneurs are
+the heartbeat of the American economy. Access to financial capital is
+vital for entrepreneurs seeking to start up, operate, or expand their
+businesses. However, gaining access to capital has remained an enduring
+challenge for many small businesses.
+The financial crisis and the Great Recession made the situation
+worse, frankly, as capital became increasingly hard to access from
+institutional banks and various capital market players. While
+conditions have improved somewhat in recent years, many entrepreneurs
+continue to struggle with accessing the capital they need to compete
+and to grow.
+In order to succeed, these companies need capital and credit, the
+lifeblood for growth, expansion, and job creation. Yet the government
+continues to construct arbitrary walls that cut them off from essential
+financing, as smaller companies are caught in a sea of regulatory red
+tape created by Washington bureaucrats.
+We know that 60 percent of all net new jobs that have come into this
+country, that have been created here in the United States, come from
+these small businesses. They are oftentimes S corporations, LLCs, sole
+proprietorships. Small companies often have such owners also be
+operators. They are working alongside their fellow employees.
+That 60 percent of those jobs that have been created here in the
+United States isn't just a one-time blip. That is over the last 20
+years, the last two decades, that we have seen that trend.
+Congress has made strides in tailoring the regulatory environment for
+smaller companies, no doubt, most notably when we passed, with strong
+bipartisan support, the Jumpstart Our Business Startups, or JOBS, Act
+in 2012. This was a bipartisan bill that was signed into law by
+President Obama. The JOBS Act's benefits are notable as more and more
+companies use its provisions to raise investment capital in both the
+public and private markets.
+The JOBS Act has raised the cap on investors in a privately held
+company from 500 to 2,000 investors, but the limit on the number of
+investors acting as a coordinated group to invest in a company remained
+at 100, where it has been since 1940, some 77 years ago.
+As noted by Kevin Laws of AngelList in his written testimony before
+our Capital Markets Subcommittee: ``With online fundraising and general
+solicitation becoming more common because of the JOBS Act, companies
+are bumping up against the limit more frequently. The current limit . .
+. now acts as a brake on the amount of money the company wanted to
+raise, leaving tens of millions of dollars on the table that did not go
+into startups.''
+While H.R. 1219, the Supporting America's Innovators Act, a
+bipartisan bill introduced by the vice chairman of our Financial
+Services Committee, Representative Patrick McHenry, and Nydia Velazquez
+of New York, would amend the cap currently contained in the Investment
+Company Act to allow 250 investors for a ``qualified venture capital
+fund,'' therefore enhancing angel investors' ability to provide
+important funding to small businesses.
+This bill is a very modest increase to the current exemption that has
+been in place for nearly 77 years. Modernizing this cap is long overdue
+and reflects today's capital markets and the reality of the
+increasingly important role that angel investors and others play as
+they commit the funds necessary to help small businesses grow.
+The Securities and Exchange Commission, unfortunately, continues to
+ignore the backlog of good ideas to spur capital formation, which is
+recommended by entrepreneurs, small businesses, and market participants
+from their annual SEC Government-Business Forum on Capital Formation.
+This is a forum that is put together annually. They take and solicit
+ideas. They want to hear from people that are in the marketplace to
+figure out what ways they could go to improve that. Unfortunately, they
+have not acted on
+[[Page H2760]]
+this, and in the SEC's absence, Congress must act to promote market
+efficiency and capital formation.
+I think we can all agree that we support smart regulation that
+protects investors and maintains orderly and efficient markets. But
+outdated, excessive, and unnecessary regulation whose costs outweigh
+benefits is dumb regulation that overburdens smaller companies. Let's
+provide some regulatory relief by enacting the bipartisan bill that
+will ease the burdens on small businesses and job creators and help
+foster capital formation and get Americans back to work.
+Mr. Speaker, I would also like to note, in a hearing that we had on
+this bill last Congress, it passed our committee 52-2, including the
+ranking member voting for it. There were no dissenting minority views
+that were offered, and no amendments were offered at the Rules
+Committee on this. We have got a lot of consensus. I believe this is
+the right thing to do to move forward.
+Mr. Speaker, I reserve the balance of my time.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, H.R. 1219, the Supporting America's Innovators Act, is
+legislation that certainly shows that sometimes we can get together and
+we can support a good idea. This act is such a thing. It shows how well
+we can work together to craft bipartisan solutions that support our
+Nation's innovators and the jobs that they create.
+Last Congress, Mr. McHenry came to me with a problem: Sophisticated
+angel investors who fund promising startup businesses want to pool
+their money together, but the law effectively caps them at 100
+investors per fund. If more than 100 people want to invest, the fund is
+forced to exclude some of them from the deal to avoid registration and
+regulation as an ``investment company'' under the securities laws. That
+means investors willing to commit capital are being turned away and
+startups are losing out on important early-stage funding.
+Because of Congresswoman Nydia Velazquez and Mr. Patrick McHenry
+working together, working out any concerns that had been identified on
+either side of the aisle, we now, today, have a piece of legislation, a
+bill, that would narrowly increase the investor limitation from 100 to
+250 persons for certain venture capital funds, provided that the fund
+does not have more than $10 million in total investor capital.
+This type of fund structure is used today by AngelList, an angel
+investing platform that connects investors meeting certain income and
+asset thresholds with one another so they can pool their money into
+special-purpose funds which then invest them in a particular startup
+company. Importantly, both the companies and the investors benefit from
+this structure.
+Compared with making hundreds of smaller direct investments, a
+company, for example, only has as a single point of contact, the angel
+fund advised by a fiduciary, rather than hundreds of investors who must
+all individually approve corporate actions such as mergers and
+acquisitions and expanding ownership.
+Investors also like this structure because they can delegate
+monitoring the startups they invest in to the investment adviser to the
+fund. Such monitoring may be significant, considering that investors,
+recognizing that most early-stage companies fail, typically diversify
+their investments among 30 to 80 companies.
+H.R. 1219 reasonably promotes this fund structure for startup
+investments by providing a narrowly tailored exemption for certain
+venture capital funds which must invest at least 80 percent of their
+funds in small businesses. Under the bill, the venture capital funds
+must have no more than 250 investors and no more than $10 million in
+investor capital, ensuring that they are small enough that investors
+are able to monitor and manage their investments.
+The bill's limits also ensure that we aren't creating a loophole for
+other investment companies, like mutual funds, to avoid regulation; nor
+are we providing relief to other private funds, like hedge funds or
+private equity funds, that have very little restriction and investor
+protection.
+Mr. Speaker, too often Congress seeks to help small businesses by
+repealing sensible guardrails and rules of the road with little to no
+thought of the impact on investors or market integrity. This is a
+mistake since it is investors that provide the money necessary for
+small businesses to grow. If investors don't trust the markets to
+operate fairly, they will decline to invest or raise costs on the very
+businesses we want to help. H.R. 1219 is different and reflects a
+measured, bipartisan approach to promoting our Nation's startups and
+the investors who take a chance on them.
+I thank Mr. McHenry and Ms. Velazquez for their leadership on this
+bill. I urge all of my colleagues to vote ``yes.''
+Mr. Speaker, I reserve the balance of my time.
+Mr. HUIZENGA. Mr. Speaker, I yield 2 minutes to the gentleman from
+North Carolina (Mr. McHenry), our vice chairman and the sponsor of this
+bill.
+Mr. McHENRY. Mr. Speaker, it is an honor to be here today, the day
+after the fifth anniversary of the JOBS Act.
+Five years ago, yesterday, in a bipartisan way, this divided House,
+this divided government that got next to nothing done, in a bipartisan
+way, was able to achieve a huge bipartisan victory to help small
+businesses raise capital. In light of that and in that history, in that
+spirit, we have reached across the aisle, and Representative Velazquez
+and Ranking Member Waters worked with me to craft a very good bill here
+today.
+This bill is targeted at small businesses across the rest of the
+country. We know that 78 percent of venture capital goes to just three
+States. If you are in Austin, Boston, or the Silicon Valley, you have
+capital flowing to you; you have funds for your idea. The rest of the
+country, whether you are in an urban area or rural area, is starved for
+capital.
+In light of that problem, we are trying to work for a solution for
+those small businesses, those innovators with good ideas that maybe
+don't have the best access to capital. We raised the cap on angel
+investing, thereby allowing more people to participate at a lower
+threshold dollar amount while still including important investor
+protection.
+Today is a great victory for small-business folks that need access,
+that need capital to take their idea to market. Mr. Speaker, I urge my
+colleagues to support this measure.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield as much time as
+she may consume to the gentlewoman from New York (Ms. Velazquez).
+Ms. VELAZQUEZ. Mr. Speaker, let me take this opportunity to thank the
+ranking member for yielding me time.
+Mr. Speaker, I rise in support of H.R. 1219, the Supporting America's
+Innovators Act of 2017, which I am proud to cosponsor with Mr. McHenry.
+Throughout my career here in Congress, I have always supported and
+encouraged legislation that creates jobs and fosters innovation for
+America's entrepreneurs and small businesses. The bill we are
+considering today will further that goal.
+Mr. Speaker, I always say access to capital is access to opportunity.
+That is exactly what this legislation does.
+The Investment Company Act of 1940 currently limits the number of
+accredited investors in a venture fund to no more than 100 individuals,
+but most funds try not to reach that limit in order to adjust for
+unforeseen circumstances. This artificially low limit restricts the
+number of individuals that can invest in small businesses and startups.
+That means less opportunity for entrepreneurs.
+Our bill will address this problem by allowing up to 250 accredited
+investors to participate in venture funds with up to $10 million in
+capital.
+{time}  0930
+It is important to stress that these are accredited investors. They
+have at least $200,000 in minimum income or $1 million in net assets.
+These are sophisticated investors comfortable with the risks involved
+in the startup sector.
+Many of these investors pool their money together either in local or
+national groups. More recently, many have gotten involved in online
+crowdfunding platforms, which were created through the JOBS Act, to
+funnel more capital to small businesses and startups.
+[[Page H2761]]
+Our bill will create greater access for women-owned and women-led
+businesses. The types of funds empowered to attract more investors
+under this bill are often a good capital source for women-owned firms.
+I am proud that our bipartisan legislation has garnered a wide range
+of attention and support from the industry. The Angel Capital
+Association and the Internet Association have endorsed the bill. These
+are groups dedicated to expanding capital opportunities for small
+businesses.
+This bill has also moved through the legislative process with strong
+bipartisan support every step of the way. Last month, we passed this
+bill out of the Financial Services Committee with a broad bipartisan
+vote of 54-2. The same day, the Senate Banking Committee was busy
+passing its bipartisan companion version, S. 444, sponsored by Senators
+Heitkamp and Heller. It is also important to recognize that, last year,
+this Chamber passed a nearly identical version of our bill by a vote of
+388-9.
+It is time to see this legislation enacted. It will create more
+capital for small businesses and it will mean more jobs throughout the
+Nation.
+Let me take a moment to thank Mr. McHenry for working with me on this
+bill, as well as Chairman Hensarling. And let me also thank Ranking
+Member Waters for her leadership and hard work.
+Again, a vote for this bill is a vote for America's entrepreneurs. I
+urge my colleagues to vote ``yes.''
+Mr. HUIZENGA. Mr. Speaker, I yield 2 minutes to the gentleman from
+Ohio (Mr. Chabot), the chairman of the Committee on Small Business here
+in the House of Representatives and a strong supporter of this bill.
+Mr. CHABOT. Mr. Speaker, I thank the gentleman from North Carolina
+(Mr. McHenry) for the work that he has done on H.R. 1219, the
+Supporting America's Innovators Act, and the entire Financial Services
+Committee for their work on this important topic.
+As chairman of the House Small Business Committee--and I would note
+that you have here not only the Republican chair, but we just heard
+speak the ranking member of the Small Business Committee, Ms.
+Velazquez; both in support of this legislation. It is bipartisan,
+which, as Patrick McHenry mentioned, doesn't happen around here often
+enough, but it did in this case.
+I often hear from entrepreneurs and small-business folks that the
+process to obtain capital is too rigid for them to expand and create
+jobs. Access to capital is a major issue that we need to address, and
+that is what we are doing here.
+When it comes to helping small businesses get off the ground, no
+effort we can make is too small. The Supporting America's Innovators
+Act could make all the difference for an entrepreneur, and that is why,
+again, we are here to support it.
+Commonsense reforms like this one, which raises the cap on the number
+of people who can invest in a venture fund, can go a long way for the
+Nation's entrepreneurs, startups, and small businesses. With 28 small
+businesses in the United States and nearly half of all private sector
+workers employed by one, the Nation's economic future lies squarely
+with this Nation's smallest companies and firms.
+Those who risk everything and sacrifice much to take a shot at
+building the next great American company should be operating in a
+business environment that is free from overly burdensome rules and
+regulations. They should be able to concentrate on expanding their
+companies, gaining more customers, and job creation, not compliance
+issues and outdated capital formation rules that prevent the largest
+pool of investors from investing in these companies.
+As this economic recovery continues to take shape, let's stand with
+our small businesses and create an environment for growth. This bill is
+another important step in that direction.
+Mr. Speaker, I urge my colleagues on both sides of the aisle to
+support this very good legislation.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield 4 minutes to
+the gentlewoman from New York (Mrs. Carolyn B. Maloney), the ranking
+member of the Financial Services Committee's Subcommittee on Capital
+Markets, Securities, and Investments.
+Mrs. CAROLYN B. MALONEY of New York. Mr. Speaker, I thank the ranking
+member for her leadership on this bill and in so many other areas. I
+also thank Chairmen Hensarling and Huizenga; and, of course, my good
+friend and colleague from the great State of New York, Nydia Velazquez,
+the champion for small businesses; and Mr. McHenry, who has spent a
+great deal of his time focusing on job creation and access to capital
+for small businesses.
+This bill passed in the last Congress under suspension with
+overwhelming bipartisan support. This bill is intended to make it
+easier for startup companies to raise money from sophisticated
+investors by allowing sophisticated angel investors to pool their money
+into a single venture capital fund, which allows them to leverage their
+resources and make investments more effectively.
+The bill does this by increasing the number of investors who can
+invest in venture capital funds that are exempt from SEC oversight.
+Under current law, a fund can be exempt from SEC oversight if it has
+fewer than 100 investors and its securities are not offered publicly.
+This is the exemption that the majority of venture capital funds
+currently rely on.
+Venture capital funds are long-term investors that provide much-
+needed equity capital to startups and other small companies. The fact
+that venture capital funds are subject to the same limitation on the
+number of investors they can have as other private funds, like hedge
+funds and private equity funds, has limited the growth of venture
+capital funds.
+Specifically, it has limited the ability of angel investors--all of
+whom are sophisticated, accredited investors--to coordinate their
+investments by grouping together into a single venture capital fund in
+order to invest in a promising startup company.
+This bill will accommodate these types of angel investors who want to
+coordinate their investments by increasing the number of accredited
+investors they can have before they are required to register with the
+SEC--from 100 investors to 250 investors.
+The bill is also narrowly tailored to avoid raising investor
+protection concerns. It only raises the investor threshold to 250 for
+venture capital funds that meet the SEC's rigorous five-part definition
+of a venture capital fund.
+Finally, the bill is limited to funds that have less than $10 million
+in capital invested. So we are only providing relief to relatively
+small venture capital funds that do not pose a huge risk to the capital
+markets.
+This bill is the product of genuine hard work and bipartisan
+compromise. Again, I thank Mr. McHenry for his leadership, along with
+Ms. Velazquez, Ranking Member Waters, and Chairman Hensarling for their
+hard work on this bill.
+I urge my colleagues to join me--and I believe the majority in this
+body--in supporting this important bill to provide easier and better
+access to capital for small businesses.
+Mr. HUIZENGA. Mr. Speaker, I yield 2 minutes to the gentleman from
+Illinois (Mr. Hultgren), the vice chairman of our Subcommittee on
+Capital Markets, Securities, and Investments.
+Mr. HULTGREN. Mr. Speaker, I rise today to speak in support of H.R.
+1219, the Supporting America's Innovators Act of 2017. This is another
+example of great bipartisan legislation that has been produced by the
+House Financial Services Committee. Mr. McHenry and Ms. Velazquez
+should be commended for their hard work on this important piece of
+legislation.
+Startups and small businesses are the primary job creators and
+engines for growth in our economy. Unfortunately, the Securities and
+Exchange Commission has not been focused enough on capital formation
+aspects of its tripartite mission. This has left thousands of companies
+interested in raising capital stuck complying with outdated regulations
+that make it more difficult for them to invest in growing their
+businesses. This means job creation and wealth building are not
+reaching their full potential.
+Certainly, the SEC should not overlook investor protection, but the
+number one concern of my constituents is jobs. This directly impacts
+their ability to put food on the table, get the car repaired, and pay
+for college.
+[[Page H2762]]
+Today we have the opportunity to consider a noncontroversial bill
+that will make it easier for companies to raise capital without
+undermining investor production.
+The Supporting America's Innovators Act of 2017 increases the limit
+on the number of individuals who can invest in certain venture capital
+funds before those funds must register with the SEC as investment
+companies. Currently, the Investment Company Act limits the number of
+investors in an investment company fund to 100 if the fund is to be
+exempt from registration with the SEC, a burdensome requirement.
+This would permit angel funds, which run syndicates that allow
+accredited investors to participate in investing in startups, to obtain
+funds from a greater number of investors. As a result, investors will
+benefit from investment opportunities that otherwise they would have no
+access to.
+As noted by Kevin Laws of AngelList in written testimony before the
+Subcommittee on Capital Markets, Securities and Investments:
+``With online fundraising and general solicitation becoming more
+common because of the JOBS Act, companies are bumping up against the
+limit more frequently. The current limit now acts as a brake on the
+amount of money the company wanted to raise, leaving tens of millions
+of dollars on the table that did not go into startups.''
+Mr. Speaker, I urge all of my colleagues to vote in support of this
+legislation. A nearly identical bill passed the House last Congress
+with 388 votes in support, and we passed the bill out of the Financial
+Services Committee with almost no opposition.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield 3 minutes to
+the gentleman from Illinois (Mr. Foster), a member of the Subcommittee
+on Capital Markets, Securities, and Investments.
+Mr. FOSTER. Mr. Speaker, I rise today in support of H.R. 1219, the
+Supporting America's Innovators Act of 2017.
+This bill will increase the number of accredited investors who can
+invest in an angel or venture fund before requiring the fund to
+register as an investment company. This will encourage capital
+formation in one of the major types of funds that seed startups and
+helps bring new ideas to market.
+Innovation and invention are integral to economic growth, but new
+ideas are only the first step in the type of businesses that can grow
+the economic pie. It is crucial that these companies have access to
+capital to grow and to bring the product to market. Competition from
+startups, bolstered by access to funding, creates jobs and forces
+incumbent firms to stay aggressive in their own research and
+development.
+H.R. 1219 is exactly the type of bipartisan legislation that Congress
+should be considering to facilitate capital formation.
+This bill will make it easier to form a fund made up of sophisticated
+investors who can assess and bear the risks that come with investing in
+startups. These funds are capped at $10 million in paid-in and callable
+capital. This means the funds will largely be engaged in angel
+investing that helps early-stage investors build a better mousetrap.
+These funds can often be cheaper for the company and can be structured
+as equity debt or a combination of both.
+A fund like this can bring expertise and connections that increase
+the likelihood of success for the inventor. It can also spread the risk
+and rewards for investors because it is important to note that not
+every invention will turn into the next big thing.
+We need a startup ecosystem that encourages the testing of new ideas
+and products with a wide range of risks and rewards. This bill is a
+targeted measure to help create that ecosystem by enhancing the ability
+of early-stage companies to get funding.
+Mr. Speaker, I urge my colleagues to support the bill today.
+Mr. HUIZENGA. Mr. Speaker, I yield 2 minutes to the gentleman from
+Maine (Mr. Poliquin).
+Mr. POLIQUIN. Mr. Speaker, the responsibility of those of us in
+Congress is to create a predictable and streamlined set of regulations,
+such that we have an environment for the private sector, for businesses
+to invest, to grow, and to hire more of our constituents. And when that
+happens, Mr. Speaker, the folks in America live better lives with
+fatter paychecks and better futures.
+Now, we all know that small businesses need more help than large
+companies when it comes to dealing with the regulatory environment
+because they don't have the firepower, the horsepower, the manpower to
+deal with these complex regulations.
+When you start a small business, one of the most important
+ingredients is access to capital. You need investment funds, whether
+you are starting a bakery in Lewiston, Maine, or an auto body shop in
+Oxford, Maine. Now, that is why H.R. 1219 is important, and I want to
+congratulate Congressman Patrick McHenry for bringing this to the
+floor.
+By increasing the number of investors capped from 100 to 250
+individuals who are qualified to make these investments to help small
+businesses, it will provide more money, more funding, more capital for
+small businesses and startups to grow, to start, and to create more
+jobs for folks back home.
+Government is in the business and should be in the business to help
+our families, not hurt them. That is why I encourage all of my fellow
+colleagues here in the House, Republicans and Democrats, to support
+this good, commonsense bill.
+Ms. MAXINE WATERS of California. Mr. Speaker, I yield myself such
+time as I may consume.
+Mr. Speaker, we have received tremendous support for this
+legislation, and we are extremely hopeful that we will be able to come
+together on both sides of the aisle and continue to give support to our
+small businesses. As a matter of fact, we have a lot of those in the
+Congress of the United States--a lot of Members, rather--who talk about
+supporting small businesses, but we don't often see real legislation
+that can do that. This is such legislation, and I cannot thank Ms.
+Velazquez and Mr. McHenry enough for the way that they have worked on
+this legislation together.
+{time}  0945
+Mr. Speaker, I include in the Record some of the letters of support
+that we have received from the Center for American Entrepreneurship,
+the Internet Association, TechNet, Angel Capital Association, and
+AngelList.
+Center for
+American Entrepreneurship,
+April 25, 2016.
+Hon. Jeb Hensarling,
+Chairman, Committee on Financial Services, House of
+Representatives, Washington, DC.
+Hon. Maxine Waters,
+Ranking Member, Committee on Financial Services, House of
+Representatives, Washington, DC.
+Dear Chairman Hensarling and Ranking Member Waters: On
+behalf of the Center for American Entrepreneurship, I write
+today to express our strong support for legislation offered
+by Rep. Patrick McHenry: H.R. 4854, the ``Supporting
+America's Innovators Act of 2016,'' and H.R. 4855, the ``Fix
+Crowdfunding Act of 2016.'' Both bills will significantly
+enhance American entrepreneurs' access to the capital they
+need to launch and grow new businesses and, in doing so,
+accelerate economic growth and job creation.
+CAE is a nonpartisan policy and advocacy organization whose
+mission is to engage policymakers in Washington and across
+the nation regarding the critical importance of entrepreneurs
+and start-ups to innovation, economic growth, and job
+creation, and to pursue a comprehensive policy agenda
+intended to significantly enhance the circumstances for new
+business formation, survival, and growth.
+As you may know, recent research has demonstrated that
+start-ups are disproportionately responsible for the
+innovations that drive economic growth and account for
+virtually all net new job creation. Alarmingly, recent
+research has also demonstrated that, despite impressive
+strength in certain cities around the country, rates of new
+business formation in America have been declining for 30
+years, and the decline is occurring in all 50 states, in all
+but a handful of the 360 metro areas examined, and across a
+broad range of industry sectors, including high-technology.
+Given the importance of thriving entrepreneurship to
+innovation, economic growth, and job creation, such
+circumstances amount to nothing less than a national
+emergency.
+When asked or surveyed, entrepreneurs across the country
+report that access to sufficient capital on affordable terms
+remains among their principal challenges. The legalization of
+crowdfunding by way of the Jumpstart Our Business Start-ups
+(JOBS) Act in 2012 was a major step forward in meaningfully
+enhancing innovators' access to investment capital. But
+further reforms are necessary to realize the Act's full
+potential to promote entrepreneurship, growth, greater
+opportunity, and job creation.
+H.R. 4854, the ``Supporting America's Innovators Act''
+would amend an exemption
+[[Page H2763]]
+under the Investment Company Act of 1940 by increasing the
+investor limitation from 100 to 500 persons for qualifying
+venture capital funds that purchase no more than $10 million
+in securities in any one issuer, adjusted for inflation.
+Lifting the current arbitrary cap would not only increase
+entrepreneurs' access to additional investors, but will
+protect investors through a greater diversification of risk.
+H.R. 4855, the ``Fix Crowdfunding Act'' would amend the
+crowdfunding aspects of the JOBS Act in a number of important
+ways:
+Raising the annual issuance amount from $1 million to $5
+million;
+Exempting the beneficial owners of crowdfunding securities
+from counting towards the Exchange Act 12(g) requirement
+triggering public reporting;
+Exempting special purpose vehicles (SPVs) created for the
+purpose of investing in a single issuer of crowdfunding
+securities from registration as investment companies under
+the Investment Company Act, and permitting SPVs considered as
+``venture capital funds'' to offer crowdfunding securities;
+Revising the investment cap so that investors earning
+$100,000 or less may invest up to 5 percent of their annual
+income or net worth, and investors earning more than $100,000
+to invest up to 10 percent of their annual income or net
+worth;
+Defining the requirements for a crowdfunding intermediary
+to disqualify an issuer when the intermediary, through a
+background check or other means, determines that the issuer
+knowingly made untrue statements or omissions related to
+material facts, or engaged in fraud;
+Defining a crowdfunding intermediary's potential liability
+to include only instances when the intermediary knowingly
+makes untrue statements or omissions related to material
+facts or knowingly engages in fraud;
+Permitting an issuer to ``test the waters'' by soliciting
+non-binding commitments of interest from potential investors
+without filing information with the SEC, provided that no
+funds are accepted by the issuer and any material changes
+that occur between the solicitation and the offer are
+highlighted to potential investors; and,
+Providing a 5-year grace period for portals to make a good-
+faith effort to comply with all crowdfunding rules, and
+prohibits the SEC from bringing any enforcement actions
+during that period.
+Both bills help strike a more appropriate balance between
+the twin priorities of capital formation and investor
+protection. In doing so, these reforms significantly enhance
+the prospects for new business formation, survival, and
+growth at a time when faster economic growth is necessary to
+address challenges such as underemployment, stagnant middle-
+class wages, the income and wealth gaps, and alarmingly high
+levels of poverty and dependence.
+CAE commends you for your leadership to promote American
+entrepreneurship and innovation and greatly appreciates your
+thoughtful consideration of the reforms in H.R. 4854 and H.R.
+4855. We look forward to continuing to work with you, the
+bills' sponsors, and the Committee's distinguished members on
+behalf of American entrepreneurs and start-ups.
+Sincerely,
+Robert E. Litan,
+Chairman, Center for American
+Entrepreneurship.
+____
+Internet Association,
+June 10, 2016.
+Hon. Jeb Hensarling,
+Chairman, Committee on Financial Services, House of
+Representatives, Washington, DC.
+Hon. Maxine Waters,
+Ranking Member, Committee on Financial Services, House of
+Representatives, Washington, DC.
+Dear Chairman Hensarling and Ranking Member Waters: The
+Internet Association appreciates your attention to the issues
+impacting startups, and urges support for the Supporting
+America's Inventors Act of 2016 (H.R. 4854) and Fix
+Crowdfunding Act (H.R. 4855). Both bills are common-sense,
+meaningful reforms that will improve startups' access to
+capital across the United States. There are a number of
+internet based funding platforms that will benefit directly
+from this legislation as well as the broader internet
+ecosystem.
+The Internet Association works to advance policies that
+foster innovation, promote economic growth, and empower
+people through the free and open internet. Access to capital
+funding is critical to internet companies as they scale
+innovative business models that now account for six percent,
+or nearly $1 billion, of our GDP. Empowering startups through
+efficient mechanisms for investors and innovators to access
+capital will ultimately grow our economy and help create the
+internet industry leaders of tomorrow. The internet industry
+is unique in the low barrier to entry for new ideas and
+increased competition. Legislation that promotes growth
+through internet platforms and for internet startups will
+benefit the economy at large.
+The Supporting America's Inventors Act of 2016 and Fix
+Crowdfunding Act both take common sense steps to empower
+innovators through access to capital. The Supporting
+America's Inventors Act of 2016 raises the number of
+investors permitted in qualifying venture capital funds from
+100 to 500 persons, eliminating an arbitrary cap and instead
+creating a more efficient environment for investors to grow
+startups. The Fix Crowdfunding Act would make necessary
+reforms to Title III of the JOBS Act allowing for more
+efficient and attractive investment crowdfunding, including
+raising the annual limit on issuers and clarifying certain
+definitions.
+We commend Representative McHenry for his commitment to
+create a thriving startup ecosystem by enhancing the
+opportunity for investment in our innovation economy. We urge
+the Committee to support these bills.
+Respectfully Submitted,
+Michael Beckerman,
+President & CEO.
+____
+TechNet,
+Washington, DC, June 10, 2016.
+Hon. Patrick McHenry,
+House Majority Chief Deputy Whip,
+Washington, DC.
+Dear Representative McHenry: TechNet, the national,
+bipartisan network of innovation economy CEOs and senior
+executives, is pleased to offer our support for your efforts
+to provide American innovators with the tools necessary to
+launch, fund, and scale their companies.
+In particular, we are pleased to support the Supporting
+America's Innovators Act of 2016 (H.R. 4854) and the Fix
+Crowdfunding Act (H.R. 4855), both of which provide much
+needed reforms to the laws governing early stage financing of
+dynamic startups.
+The Supporting America's Innovators Act will expand the
+pool of investors eligible to participate in venture capital
+funds, creating a more robust venture funding marketplace and
+increasing the amount of capital startups can potentially
+raise.
+The Fix Crowdfunding Act contains a number of sensible and
+timely reforms to the recently finalized Title III
+crowdfunding rules of the JOBS Act. In particular, the
+legislation defines the requirements and authority by which
+intermediaries can disqualify issuers who make untrue
+statements or engage in fraud. The legislation also makes
+important reforms that will allow more companies to ``test
+the waters'' and solicit non-binding commitments from
+potential crowdfunding investors without filing with the
+Securities and Exchange Commission. Finally, the legislation
+creates a powerful incentive for more crowdfunding portals to
+enter the marketplace by providing a 5-year grace period for
+portals to make a good-faith effort to comply with all
+crowdfunding rules.
+Taken together, these bills will expand access to early-
+stage funding, improving the process by which innovators
+scale their companies and create American jobs.
+Thank you for your leadership on these important issues
+affecting the innovation economy. TechNet looks forward to
+working with you to advance this legislation.
+Sincerely,
+Linda Moore,
+President and CEO.
+____
+Angel Capital Association,
+Overland Park, KS, March 7, 2017.
+Hon. Jeb Hensarling,
+Chairman, Committee on Financial Services,
+Washington, DC.
+Dear Chairman Hensarling: On behalf of the 13,000 members
+of the Angel Capital Association representing accredited
+individual angel investors, accredited on-line platforms and
+family offices, we write in support of H.R. 1219, Supporting
+America's Innovators Act of 2017 sponsored by Reps. Patrick
+T. McHenry (R-NC) and Nydia M. Velazquez (D-NY).
+Angel investors are directly engaged in supporting American
+startup companies and providing much needed early stage
+capital and mentoring to emerging businesses and
+entrepreneurs. Angel investors invest their capital in new
+ways, with many now choosing to pool their money in an angel
+fund or syndicate on an online investing platform for
+accredited investors. Two of the most well-known are the
+Golden Seeds fund which invests nationally in women-led
+companies and AngelList, which supports numerous investor
+syndicates on its platform. Changes created in the JOBS Act
+have allowed angel funds and online platforms of accredited
+investors to catalyze investors across the country to support
+startups. Platforms such as AngelList, FundersClub and
+CircleUp have opened opportunities for entrepreneurs to reach
+more investors and have expanded the capital opportunities
+for startups.
+The ability of these venture funds has been limited by out-
+of-date regulations which have restricted these funds to no
+more than 99 investors. This 99-investor cap is in reality
+more like 90 investors because fund managers need to take
+into effect potential splitting of assets in divorce, death
+or other unforeseen circumstances.
+H.R. 1219 will allow up to 250 accredited investors--
+investors with at least $200,000 in minimum income (or
+$300,000 for a couple or $1,000,000 in net worth, not
+including their residence--to invest in an angel fund or
+syndicate with a maximum of $10 million in assets. This
+change in legislation will allow more investors to invest in
+these venture funds, creating more capital opportunities for
+American entrepreneurs and more American jobs.
+The Angel Capital Association worked closely with the
+Investment Company Institute and other stakeholders to craft
+what has become bi-partisan legislation by Representatives
+McHenry and Velazquez. We
+[[Page H2764]]
+urge the Members of the Committee to support this legislation
+and seek quick consideration by the broader House of
+Representatives.
+Sincerely,
+Marianne Hudson,
+Executive Director.
+____
+AngelList,
+San Francisco, CA, June 9, 2016.
+Hon. Jeb Hensarling,
+Chairman, Committee on Financial Services, House of
+Representatives, Washington, DC.
+Hon. Maxine Waters,
+Ranking Member, Committee on Financial Services, House of
+Representatives, Washington, DC.
+Dear Chairman Hensarling and Ranking Member Waters: Thank
+you for your recent hearings on ``The JOBS Act at Four:
+Examining Its Impact and Proposals to Further Enhance Capital
+Formation.'' I was honored to testify on the positive impacts
+the JOBS Act has had on startup capital formation and the
+potential improvements to the JOBS Act.
+AngelList helps early stage companies raise financing based
+on the statutes laid out in the JOBS Act and subsequent SEC
+no-action letters. To date, we have helped over a quarter
+billion dollars from accredited investors reach almost one
+thousand companies using the online portal provisions to make
+such financings much more efficient.
+We have learned a great deal about the early stage capital
+markets and how they function online. From that perspective,
+we believe that several of the bills under consideration
+would improve startup financing.
+H.R. 4854, the ``Supporting America's Innovators Act of
+2016'', lifts the investor limit on LLCs created to finance
+companies. One very good outcome of the move online has been
+that more investors can invest smaller amounts. This allows
+diversification for investors and more access to capital for
+companies. However, smaller investors often band together in
+a formal vehicle (usually a limited liability company or
+LLC). This means the company deals with a single investor
+(the LLC) and the investors can rely on a trusted lead to
+review the documents and make decisions on behalf of the
+investors. The JOBS Act lifted the shareholder limit to
+2,000, but left in place the 99 limit on organized investors
+that the LLC is subject to. This act lifts that limit to 499
+to allow more investors in and more capital be raised by the
+companies.
+As an online platform, most of our investors expect our
+investments to be structured that way, and many angel groups
+also form them to invest in startups. We believe this law
+allows more sophisticated accredited investor activity.
+H.R. 4855, the ``Fix Crowdfunding Act'', takes into account
+much of what has been learned in the accredited investor
+space in the last 3 years and applies it to the recently
+released crowdfunding regulations. There are three areas in
+particular this bill addresses that we believe are important.
+First, it fixes the so-called ``12g'' problem by which
+crowdfunded companies are subject to public reporting
+requirements at a very low asset threshold. That issue makes
+it difficult for crowdfunded companies to raise subsequent
+financing rounds and would dissuade many high growth
+companies from using the provision. Fixing that problem makes
+it more likely that high growth companies will consider
+crowdfunding as an option. Second, the act allows special
+purpose vehicles (like those LLCs referred to above in the
+paragraph on H.R. 4854) to be used for crowdfunded offerings.
+These benefit both investors and the companies. Finally, we
+believe the ``test the waters'' provision is critical. Most
+companies do not know whether they will be attractive to
+investors beforehand; imposing high costs prior to finding
+that out serves as a deterrent without any offsetting
+investor protection benefit. The ``test the waters''
+provision will allow a crowdfunded company to incur the legal
+costs only after it knows that it is likely to raise (but
+still prior to accepting any investor funds).
+Finally, we feel that H.R. 4852, the ``Private Placement
+Improvement Act of 2016'' addresses several issues that
+affect the startup community. It clarifies that the JOBS Act
+was intended to remove burdensome filing requirements that
+would be difficult for early stage startups without full-time
+lawyers to help. We at AngelList believe transparency has a
+very positive effect on markets. We have made several
+suggestions in a letter to the SEC (
+https://www.sec.gov/
+comments/s7-06-13/s70613-37.pdf
+) as to how this can be
+achieved without significant burden through use of modern
+technology. We believe this act would provide good guidelines
+to the SEC about the intent of the JOBS Act in ways that
+would encourage that avenue to transparency rather than
+additional burden that we do not believe helps investors.
+We look forward to engaging where we can to help further
+both investor protections and capital formation.
+Thank You,
+Kevin Laws,
+Chief Investments Officer.
+Ms. MAXINE WATERS of California. Mr. Speaker, I reserve the balance
+of my time.
+Mr. HUIZENGA. Mr. Speaker, I yield 2 minutes to the distinguished
+gentleman from Arkansas (Mr. Hill).
+Mr. HILL. Mr. Speaker, I rise in strong support today of H.R. 1219,
+the Supporting America's Innovators Act, introduced by the gentleman
+from North Carolina (Mr. McHenry), the chief deputy whip. I am proud to
+have his leadership in promoting capital formation in our country.
+Yesterday, as he has noted, marks the fifth anniversary of the JOBS
+Act, which has had a positive impact on easing capital formation woes
+for small businesses and startups.
+I am proud to represent and have the opportunity to work every day
+with The Venture Center in Little Rock and its FinTech Accelerator
+program, and the innovation hub in North Little Rock and its medical
+technology innovation hub. These high-tech innovations, combined with
+angel funds, give good-paying job opportunities to people out in the
+heartland and not just on the East and West Coasts.
+But in order for these innovative startups to grow, they have got to
+have access to greater sources of angel capital, and raising capital in
+rural America is a challenge.
+Having helped design and offer private placements for emerging
+companies during my whole career, and participating in angel funds in 2
+decades prior to coming to Congress, I know firsthand the importance of
+having a multitude of options for our small businesses to raise
+capital, no matter what their stage of formation.
+This bill builds on the success of the JOBS Act by providing an
+update to a limit set in 1940, Mr. Speaker, limiting the number of
+accredited investors that can participate in a qualified venture fund.
+I am glad we are rushing to a change since 1940. And this simple change
+from 100 to 250 really allows more angel investors to participate in
+funds of this nature across the country and gives particular advantage
+off the East and West Coasts.
+I thank the chairman for the time and my good friend from North
+Carolina for his leadership. I urge my colleagues on both sides of the
+aisle to support this worthy measure.
+Ms. MAXINE WATERS of California. Madam Speaker, I continue to reserve
+the balance of my time.
+Mr. HUIZENGA. Madam Speaker, I yield 2 minutes to the gentleman from
+Minnesota (Mr. Emmer).
+Mr. EMMER. Madam Speaker, I rise today in support of the Supporting
+America's Innovators Act of 2017.
+Far too often, during my travels throughout Minnesota's Sixth
+District, I hear frustrations from small-business owners and
+entrepreneurs about the difficulties they face gaining access to
+working capital.
+With Dodd-Frank's one-size-fits-all regulation being imposed on the
+banks and credit unions that drive America, our Nation's job creators
+struggle to grow existing businesses and to even start new ones.
+Today's small business is tomorrow's big business, and if our
+entrepreneurs and job creators are to succeed, we must remove the
+roadblocks currently standing in their way.
+Companies that started in a garage are now Fortune 500 companies and
+global giants that provide goods and services across the globe. These
+include many brands and companies we all use each and every day such as
+Apple, Amazon, Microsoft, and even Minnesota's own, Medtronic. They all
+started with a dream, a lot of hope, and necessary access to tools,
+resources, and, most importantly, working capital.
+Not only does the limited access to working capital affect our State
+and local economies, it impacts opportunities and jobs for hardworking
+Americans. Small businesses are responsible for nearly 70 percent of
+new jobs in this country. This legislation will help put Americans to
+work.
+The Supporting America's Innovators Act updates current law to
+increase the number of individuals who are able to invest in and
+support startups and small businesses across the country. This bill
+will help jump-start capital formation for local businesses and
+entrepreneurs, enabling Main Street America to not just survive but to,
+once again, thrive.
+I want to thank Congressman McHenry for introducing this bill that
+received, again, near unanimous support in the committee, and I
+encourage all my colleagues on both sides of the aisle to support this
+important legislation.
+Ms. MAXINE WATERS of California. Madam Speaker, I continue to reserve
+the balance of my time.
+[[Page H2765]]
+Mr. HUIZENGA. Madam Speaker, may I inquire as to the balance of time
+each side has left?
+The SPEAKER pro tempore (Ms. Foxx). The gentleman from Michigan has
+14 minutes remaining. The gentlewoman from California has 15 minutes
+remaining.
+Mr. HUIZENGA. Madam Speaker, I yield 2 minutes to the gentleman from
+Ohio (Mr. Davidson).
+Mr. DAVIDSON. Madam Speaker, I thank Chairman Huizenga for the work
+on this with Patrick McHenry and the folks on the other side of the
+aisle. It is nice to come here and see something that is truly
+collaborative and underway that helps businesses.
+Prior to coming to Congress last year, I spent the past 16 years
+growing manufacturing companies in Ohio, so I know firsthand how
+difficult it is to acquire capital to start and operate and grow small
+businesses. Businesses that overcome the challenges are faced with
+numerous regulatory roadblocks that further hinder their growth. Many
+of those have come at the hands of regulatory frame works like Dodd-
+Frank.
+But this bipartisan measure that we are talking about today has the
+opportunity to help the challenges with capital acquisition that
+government has created and continues to create. Currently, the
+Investment Company Act of 1940 requires any qualified venture fund over
+100 to register with the Securities and Exchange Commission.
+The real burden of these regulations hits small companies in middle
+America like Ohio's Eighth District where, unlike major cities,
+particularly on the coast, we do not have as many options for raising
+capital.
+Not every company seeks to become the next billion-dollar
+blockbuster, but some of them do. All these companies offer great jobs
+and give many people the dignity of work, but they can also provide
+great returns. So we are crowding out investment opportunities, and we
+are crowding out job opportunities.
+This is why I am pleased to support H.R. 1219, the Supporting
+America's Innovators Act of 2017, which simply increases the cap to
+allow up to 250 investors to be exempt from registration for qualified
+venture capital funds, allowing America's small businesses the
+flexibility to operate and grow their companies, hire employees, and
+innovate.
+Last year, this Congress passed legislation similar to H.R. 1219 on a
+bipartisan vote of 388-9. I urge my colleagues to vote ``yes'' on H.R.
+1219 and, perhaps, increase its margin of victory.
+Ms. MAXINE WATERS of California. Madam Speaker, I continue to reserve
+the balance of my time.
+Mr. HUIZENGA. Madam Speaker, I yield 2 minutes to the gentleman from
+Indiana (Mr. Hollingsworth), a new member of our Financial Services
+Committee.
+Mr. HOLLINGSWORTH. Madam Speaker, I also rise in support of H.R.
+1219. I absolutely believe that the time has come for us to modernize
+how capital gets to our small businesses.
+Prior to Congress, I have a history in business, so I fundamentally
+understand that having a better mousetrap is not enough. Small
+businesses need capital, need access to more capital in order to grow
+and get their innovations out to market. They also need access to these
+sophisticated, accredited investors so that they can get the advice
+that they need in order to get those better mousetraps out to the
+people who need them, want to buy them, and want to use them to better
+their lives.
+Fundamentally, everybody can agree that we want Americans to have
+more economic opportunity, and many Americans find that economic
+opportunity by starting small businesses or by being a part of small
+businesses, by investing in small businesses, by working for and with
+small businesses.
+Whether it is a startup in New Albany, Indiana, or a small company
+growing in Franklin, Indiana, these businesses need access to capital
+to realize the dreams of their founders, the dreams of their investors,
+and the dreams of their employees.
+Quite simply, H.R. 1219 provides them with the access to more
+accredited investors, enabling them and empowering them to bring their
+innovations to market. I am excited to be a cosponsor of this important
+legislation, and I thank all of my colleagues in the Financial Services
+Committee, as well as, hopefully, on the floor later today, for their
+support of this important legislation.
+Ms. MAXINE WATERS of California. Madam Speaker, I continue to reserve
+the balance of my time.
+Mr. HUIZENGA. Madam Speaker, I yield as much time as he may consume
+to the gentleman from Texas (Mr. Hensarling), chairman of the Financial
+Services Committee.
+Mr. HENSARLING. Madam Speaker, first, I want to thank the gentleman
+from Michigan, not only for yielding but, more importantly, for his
+leadership in helping improve our capital markets and our economy here.
+I want to thank all of the Republican and Democrat cosponsors of H.R.
+1219, particularly our vice chairman of the full committee Mr. McHenry
+of North Carolina, for his leadership and also Ms. Velazquez on the
+other side of the aisle for her leadership on this issue as well. Both
+of these colleagues are senior members of the committee which I have
+the honor of chairing.
+Madam Speaker, we know that while optimism and confidence in our
+economy are up considerably over the last few months, our Nation still
+has a way to go to experience the robust economic growth the American
+people have experienced in the past of which they also deserve.
+One obvious reason that the economy continues to limp along is
+bureaucratic burdens imposed by Washington's top-down regulations on
+America's small businesses on Main Street.
+I got a message from a gentleman by the name of Larry, a small-
+business owner in Mabank, Texas, who I have the privilege of
+representing here in Congress, and he summed it up fairly well. He
+said: ``So many businesses have to deal with regulations and taxes that
+didn't exist a few years ago. It is especially hard on smaller
+businesses. While large companies have their own staff of attorneys and
+the capital to comply with regulations, small businesses don't.''
+So, Madam Speaker, as my colleagues on the Financial Services
+Committee know all too well, because we have had countless witnesses
+before our committee to attest to such, Washington has inflicted upon
+Main Street America a complex set of burdensome and expensive and
+confusing regulations.
+{time}  1000
+Many were written, again, with the largest public companies in mind,
+but they burden small companies and hurt their ability to access
+capital. That is exactly what Larry of Mabank, Texas, has told me, and
+I believe it.
+So, clearly, Congress should work, preferably on a bipartisan basis,
+to level the playing field while maintaining fair and efficient capital
+markets, protecting investors, and allowing small companies the chance
+to succeed.
+We can make progress on these goals today by advancing this
+bipartisan bill, the Supporting America's Innovators Act. This bill was
+approved by the Financial Services Committee with the overwhelming
+support of Republicans and Democrats. The vote in committee was 54-2.
+In addition, a similar bill passed the House last year overwhelmingly
+on a bipartisan basis.
+Madam Speaker, these vote totals demonstrate that just about
+everyone--Republican and Democrat--agrees that this commonsense
+legislation will indeed help grow our economy.
+H.R. 1219 specifically increases the limits on the number of
+individuals from 100 to 250 who invest in certain venture capital funds
+before those funds are forced to register with the SEC as ``investment
+companies.'' This change would permit angel and venture funds to better
+help accredited investors invest in small-business startups. These
+early stage investors play a vital role in helping many small
+businesses get their start. In 2015, angel investors deployed nearly
+$25 billion to 71,000 different startups across our Nation. In the
+first quarter of 2017, venture capital invested more than $16 billion
+in almost 1,800 startups.
+If anyone here, for some reason, doubts the impact these investors
+can have on our Nation's economic growth, let me remind them that
+companies such as Amazon, Costco, Google, Facebook, and Starbucks were
+all first funded by angel investors. Let's also remember, Madam
+Speaker, that almost half of the people who work in this country own or
+work for small
+[[Page H2766]]
+businesses. They create nearly historically two-thirds of the new jobs
+in America. So clearly our economy works better for working Americans
+when small businesses thrive and have access to capital and credit they
+need to innovate, expand, and create jobs.
+The Supporting America's Innovators Act modernizes a regulation to
+enhance the ability for startups and small businesses to receive
+critical funding and capital from the private markets and, in
+particular, angel investors and venture capital. Undoubtedly it will
+help today's small-business startups become the next great American
+entrepreneurial success story and, in doing so, help invigorate
+economic growth and help create more American jobs.
+I urge the adoption of H.R. 1219.
+Ms. MAXINE WATERS of California. Madam Speaker, I have no further
+requests for time, and I yield myself the balance of my time.
+Madam Speaker, I am pleased that, for the first time this Congress,
+committee Republicans have brought to the House floor a bill that has
+broad bipartisan support. Oftentimes, the opposite side of the aisle on
+our committee take a partisan approach to legislation and sometimes do
+not express a lot of interest in the views of the opposite side of the
+aisle or the millions of Americans whom they represent. However, in
+contrast, this bill before us today is the product of thoughtful,
+bipartisan compromise and will help startup companies and their
+investors equally. Madam Speaker, this is how laws should be made.
+Indeed, last Congress, Mr. McHenry and I worked together to promote
+liquidity in the secondary market for startup company stock by creating
+a clearer path for startup investors to resell their stock. The result
+of our bipartisan efforts was the Reforming Access for Investments in
+Startup Enterprises Act, which became law in 2015, along with seven
+other bipartisan, financial services bills included in the Fixing
+America's Surface Transportation Act.
+Going forward, I hope that my friends on the opposite side of the
+aisle will remember what we can achieve when we work together. So,
+again, I thank both Mr. McHenry for reaching across the aisle and Ms.
+Velazquez for working with me on H.R. 1219, the Supporting America's
+Innovators Act of 2017. I urge all of my colleagues to join me and vote
+``yes.''
+Madam Speaker, I yield back the balance of my time.
+Mr. HUIZENGA. Madam Speaker, I yield myself such time as I may
+consume.
+Madam Speaker, as I close on this very important bill that we have
+been talking about, H.R. 1219, I just want to say congratulations to
+our sponsors, Congressman McHenry and Congresswoman Velazquez, for
+their leadership on this, as well as my Capital Markets, Securities,
+and Investments Subcommittee ranking member, Representative Maloney,
+for working together to advance this commonsense bill.
+As was pointed out by both the chairman and the ranking member, there
+is strong bipartisan consensus that this bill is a winner for the
+American people. Some people today, as they tee off the Masters, we
+might say it is a 6-inch putt for the American people knowing that this
+is good for them and good for the economy.
+I want to encourage all of my colleagues on both sides of the aisle
+to support this bill, H.R. 1219.
+Madam Speaker, I yield back the balance of my time.
+The SPEAKER pro tempore. All time for debate has expired.
+Pursuant to House Resolution 242, the previous question is ordered on
+the bill.
+The question is on the engrossment and third reading of the bill.
+The bill was ordered to be engrossed and read a third time, and was
+read the third time.
+The SPEAKER pro tempore. The question is on the passage of the bill.
+The question was taken; and the Speaker pro tempore announced that
+the ayes appeared to have it.
+Mr. HUIZENGA. Madam Speaker, on that I demand the yeas and nays.
+The yeas and nays were ordered.
+The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, this 15-
+minute vote on passage of the bill will be followed by a 5-minute vote
+on agreeing to the Speaker's approval of the Journal, if ordered.
+The vote was taken by electronic device, and there were--yeas 417,
+nays 3, not voting 9, as follows:
+[Roll No. 221]
+YEAS--417
+Abraham
+Adams
+Aderholt
+Aguilar
+Allen
+Amodei
+Arrington
+Babin
+Bacon
+Banks (IN)
+Barletta
+Barr
+Barragan
+Barton
+Bass
+Beatty
+Bera
+Bergman
+Beyer
+Biggs
+Bilirakis
+Bishop (GA)
+Bishop (MI)
+Bishop (UT)
+Black
+Blackburn
+Blum
+Blumenauer
+Blunt Rochester
+Bonamici
+Bost
+Boyle, Brendan F.
+Brady (PA)
+Brady (TX)
+Brat
+Brooks (AL)
+Brooks (IN)
+Brown (MD)
+Brownley (CA)
+Buchanan
+Buck
+Bucshon
+Budd
+Burgess
+Bustos
+Butterfield
+Byrne
+Calvert
+Carbajal
+Cardenas
+Carson (IN)
+Carter (GA)
+Carter (TX)
+Cartwright
+Castor (FL)
+Castro (TX)
+Chabot
+Chaffetz
+Cheney
+Chu, Judy
+Cicilline
+Clark (MA)
+Clarke (NY)
+Clay
+Clyburn
+Coffman
+Cohen
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Comstock
+Conaway
+Connolly
+Conyers
+Cook
+Cooper
+Correa
+Costa
+Costello (PA)
+Courtney
+Cramer
+Crawford
+Crist
+Crowley
+Cuellar
+Culberson
+Cummings
+Curbelo (FL)
+Davidson
+Davis (CA)
+Davis, Rodney
+DeFazio
+DeGette
+Delaney
+DeLauro
+DelBene
+Demings
+Denham
+Dent
+DeSantis
+DeSaulnier
+DesJarlais
+Deutch
+Diaz-Balart
+Dingell
+Doggett
+Donovan
+Doyle, Michael F.
+Duffy
+Duncan (SC)
+Dunn
+Ellison
+Emmer
+Engel
+Eshoo
+Espaillat
+Esty
+Farenthold
+Faso
+Ferguson
+Fitzpatrick
+Fleischmann
+Flores
+Fortenberry
+Foster
+Foxx
+Frankel (FL)
+Franks (AZ)
+Frelinghuysen
+Fudge
+Gabbard
+Gaetz
+Gallagher
+Gallego
+Garamendi
+Garrett
+Gibbs
+Gohmert
+Gonzalez (TX)
+Goodlatte
+Gosar
+Gottheimer
+Gowdy
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Green, Al
+Green, Gene
+Griffith
+Grijalva
+Grothman
+Guthrie
+Gutierrez
+Hanabusa
+Harper
+Harris
+Hartzler
+Hastings
+Heck
+Hensarling
+Herrera Beutler
+Hice, Jody B.
+Higgins (LA)
+Higgins (NY)
+Hill
+Himes
+Holding
+Hollingsworth
+Hoyer
+Hudson
+Huffman
+Huizenga
+Hultgren
+Hunter
+Hurd
+Issa
+Jackson Lee
+Jayapal
+Jeffries
+Jenkins (KS)
+Jenkins (WV)
+Johnson (GA)
+Johnson (LA)
+Johnson (OH)
+Johnson, E. B.
+Johnson, Sam
+Jones
+Jordan
+Joyce (OH)
+Kaptur
+Katko
+Keating
+Kelly (IL)
+Kelly (MS)
+Kelly (PA)
+Kennedy
+Khanna
+Kihuen
+Kildee
+Kilmer
+Kind
+King (IA)
+Kinzinger
+Knight
+Krishnamoorthi
+Kuster (NH)
+Kustoff (TN)
+Labrador
+LaHood
+LaMalfa
+Lamborn
+Lance
+Langevin
+Larsen (WA)
+Larson (CT)
+Latta
+Lawrence
+Lawson (FL)
+Lee
+Levin
+Lewis (GA)
+Lewis (MN)
+Lieu, Ted
+Lipinski
+LoBiondo
+Loebsack
+Lofgren
+Long
+Loudermilk
+Love
+Lowenthal
+Lowey
+Lucas
+Luetkemeyer
+Lujan Grisham, M.
+Lujan, Ben Ray
+MacArthur
+Maloney, Carolyn B.
+Maloney, Sean
+Marchant
+Marino
+Marshall
+Massie
+Mast
+Matsui
+McCarthy
+McCaul
+McClintock
+McCollum
+McGovern
+McHenry
+McKinley
+McMorris Rodgers
+McNerney
+McSally
+Meadows
+Meehan
+Meeks
+Meng
+Messer
+Mitchell
+Moolenaar
+Mooney (WV)
+Moore
+Moulton
+Mullin
+Murphy (FL)
+Murphy (PA)
+Nadler
+Napolitano
+Neal
+Newhouse
+Noem
+Nolan
+Norcross
+Nunes
+O'Halleran
+O'Rourke
+Olson
+Palazzo
+Pallone
+Palmer
+Panetta
+Pascrell
+Paulsen
+Payne
+Pearce
+Pelosi
+Perlmutter
+Perry
+Peters
+Peterson
+Pingree
+Pittenger
+Pocan
+Poe (TX)
+Poliquin
+Polis
+Posey
+Price (NC)
+Quigley
+Raskin
+Ratcliffe
+Reed
+Reichert
+Renacci
+Rice (NY)
+Rice (SC)
+Richmond
+Roby
+Roe (TN)
+Rogers (AL)
+Rogers (KY)
+Rohrabacher
+Rokita
+Rooney, Francis
+Rooney, Thomas J.
+Ros-Lehtinen
+Rosen
+Roskam
+Ross
+Rothfus
+Rouzer
+Roybal-Allard
+Royce (CA)
+Ruiz
+Ruppersberger
+Rush
+Russell
+Rutherford
+Ryan (OH)
+Sanchez
+Sanford
+Sarbanes
+Scalise
+Schakowsky
+Schiff
+Schneider
+Schrader
+Schweikert
+Scott (VA)
+Scott, Austin
+Scott, David
+Sensenbrenner
+Serrano
+Sessions
+Sewell (AL)
+Shea-Porter
+Sherman
+Shimkus
+Shuster
+Simpson
+Sinema
+Sires
+Smith (MO)
+Smith (NE)
+Smith (NJ)
+Smith (TX)
+Smith (WA)
+Smucker
+Soto
+Speier
+Stefanik
+Stewart
+Stivers
+Suozzi
+Swalwell (CA)
+Takano
+Taylor
+Tenney
+Thompson (CA)
+Thompson (MS)
+Thompson (PA)
+Thornberry
+Tiberi
+Tipton
+Titus
+Tonko
+Torres
+Trott
+Turner
+Upton
+Valadao
+Vargas
+Veasey
+Vela
+Velazquez
+Visclosky
+Wagner
+Walberg
+Walden
+Walker
+Walorski
+Walters, Mimi
+Walz
+Wasserman Schultz
+Waters, Maxine
+Watson Coleman
+Weber (TX)
+Webster (FL)
+Welch
+Wenstrup
+[[Page H2767]]
+Westerman
+Williams
+Wilson (FL)
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Yarmuth
+Yoder
+Yoho
+Young (AK)
+Young (IA)
+Zeldin
+NAYS--3
+Amash
+Capuano
+Lynch
+NOT VOTING--9
+Bridenstine
+Cleaver
+Davis, Danny
+Duncan (TN)
+Evans
+King (NY)
+McEachin
+Slaughter
+Tsongas
+{time}  1031
+Mr. CAPUANO changed his vote from ``yea'' to ``nay.''
+Mses. SANCHEZ and SCHAKOWSKY changed their vote from ``nay'' to
+``yea.''
+So the bill was passed.
+The result of the vote was announced as above recorded.
+A motion to reconsider was laid on the table.
+personal explanation
+Ms. SLAUGHTER. Madam Speaker, I was unavoidably detained and missed
+rollcall vote Nos. 217, 218, 219, 220, 221, and 222. Had I been
+present, I would have voted ``aye'' on votes 220 and 221. I would have
+voted ``nay'' on votes 217, 218, 219, and 222.
+____________________
