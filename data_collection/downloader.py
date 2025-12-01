@@ -52,6 +52,12 @@ class SpeechDownloader:
         name = re.sub(r'[<>:"/\\|?*]', "", name)
         return name
 
+    def save_transcript(self, output_dir, foldername, filename, text):
+        filepath = os.path.join(output_dir, foldername, filename)
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(text)
+        return True
+
     def download_page(
         self,
         url: str,
@@ -156,15 +162,30 @@ class SpeechDownloader:
                     folder_name = os.path.join(output_dir, foldername)
                     os.makedirs(folder_name, exist_ok=True)
 
-                for filename, url in files.items():
-                    if self.download_page(
-                        url, foldername, filename, output_dir, download_file
-                    ):
-                        successful += 1
-                    else:
-                        failed += 1
+                if isinstance(files, list):
+                    for transcribe in files:
+                        filename = transcribe.get("title", None)
+                        transcript = transcribe.get("transcript", None)
+                        if filename is not None and transcript is not None:
+                            filename = str(filename).replace("/", "-").replace(":", "_")
+                            filename = (
+                                filename.lower().capitalize().replace(" ", "_") + ".txt"
+                            )
+                            saved_file = self.save_transcript(
+                                output_dir, foldername, filename, transcript
+                            )
+                            if saved_file:
+                                successful += 1
+                else:
+                    for filename, url in files.items():
+                        if self.download_page(
+                            url, foldername, filename, output_dir, download_file
+                        ):
+                            successful += 1
+                        else:
+                            failed += 1
 
-                    time.sleep(self.sleep_time)
+                        time.sleep(self.sleep_time)
             politician_summary_successful[politician] = successful
             politician_summary_fails[politician] = failed
 
