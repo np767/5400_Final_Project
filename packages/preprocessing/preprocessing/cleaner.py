@@ -13,7 +13,6 @@ from utils.helpers import (
     ensure_politician_data_folder,
 )
 
-from data_collection.config import RAW_DATA_DIR
 from .config import (
     PROCESSED_DATA_DIR,
     REMOVE_STOPWORDS,
@@ -27,6 +26,7 @@ from .config import (
     REMOVE_PUNCTUATION,
     MIN_TOKEN_LENGTH,
     CONTRACTIONS,
+    RAW_DATA_DIR,
 )
 
 PROCESSED_TOKENS_DIR = PROCESSED_DATA_DIR / "tokens"

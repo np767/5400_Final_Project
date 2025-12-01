@@ -1,0 +1,22 @@
+[project]
+name = "preprocessing"
+version = "0.1.0"
+description = "Political speech preprocessing tools"
+authors = [
+    {name = "DSAN 5400 - Comp Linguistics - SV, EB, VT, MY, NP"}
+]
+readme = "README.md"
+requires-python = "^3.10"
+dependencies = [
+    "nltk (>=3.9.2,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.1,<10.0.0)"
+]
