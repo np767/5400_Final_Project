@@ -9,7 +9,7 @@ import os
 import time
 import re
 import json
-
+from typing import Dict
 from .config import DEFAULT_HEADERS, TIMEOUT, SLEEP_TIME, RAW_DATA_DIR, SPEECH_URLS_FILE
 
 
@@ -18,10 +18,23 @@ class SpeechDownloader:
         self,
         output_dir: str | None = None,
         key_dir: str | Path = SPEECH_URLS_FILE,
-        headers=None,
+        headers: Dict | None = None,
         timeout: int = TIMEOUT,
         sleep_time: int = SLEEP_TIME,
     ):
+        """Downloads and manages political speech data from specified URLs or YouTube API transcribes.
+
+        This class handles the retrieval of speech transcripts from web sources,
+        organizing them by politician and maintaining a structured directory hierarchy
+        under the raw data folder.
+
+        Attributes:
+            headers (dict): HTTP headers for web requests.
+            timeout (int): Request timeout in seconds.
+            sleep_time (int): Delay between requests in seconds to avoid rate limiting.
+            key_dir (str | Path): Path to JSON file containing speech URLs.
+            output_dirs (list[str]): List of output directories for each politician.
+        """
         self.headers = headers if headers is not None else DEFAULT_HEADERS
         self.timeout = timeout
         self.sleep_time = sleep_time
