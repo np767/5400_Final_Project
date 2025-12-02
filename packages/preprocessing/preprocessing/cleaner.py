@@ -69,7 +69,7 @@ class SpeechCleaner:
 
         if politician:
             self.raw_data_folder = RAW_DATA_DIR / Path(politician)
-            folder_exists = ensure_politician_data_folder(politician)
+            folder_exists = ensure_politician_data_folder(politician, RAW_DATA_DIR)
             if not folder_exists:
                 raise ValueError(
                     f"{politician.capitalize()} raw directories do not exist"

@@ -8,7 +8,8 @@ authors = [
 readme = "README.md"
 requires-python = "^3.10"
 dependencies = [
-    "nltk (>=3.9.2,<4.0.0)"
+    "nltk (>=3.9.2,<4.0.0)",
+    "utils @ file:///Users/sebastianvillalobos/Downloads/Fall%202025/Computational%20Linguistics/Final%20Project/5400_Final_Project/packages/utils",
 ]
 
 

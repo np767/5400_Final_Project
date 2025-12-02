@@ -10,13 +10,7 @@ import time
 import re
 import json
 
-from .config import (
-    DEFAULT_HEADERS,
-    TIMEOUT,
-    SLEEP_TIME,
-    RAW_DATA_DIR,
-    SPEECH_URLS_FILE,
-)
+from .config import DEFAULT_HEADERS, TIMEOUT, SLEEP_TIME, RAW_DATA_DIR, SPEECH_URLS_FILE
 
 
 class SpeechDownloader:
@@ -41,7 +35,7 @@ class SpeechDownloader:
 
         for politician in self.politicians:
             output_dir = os.path.join(RAW_DATA_DIR, politician)
-            folder_created = ensure_politician_data_folder(politician)
+            folder_created = ensure_politician_data_folder(politician, RAW_DATA_DIR)
             if not folder_created:
                 os.makedirs(output_dir, exist_ok=True)
             self.output_dirs.append(output_dir)
@@ -156,7 +150,7 @@ class SpeechDownloader:
 
             for foldername, files in speeches[politician].items():
                 folder_exists = ensure_politician_raw_directories(
-                    politician, foldername
+                    politician, foldername, RAW_DATA_DIR
                 )
                 if not folder_exists:
                     folder_name = os.path.join(output_dir, foldername)

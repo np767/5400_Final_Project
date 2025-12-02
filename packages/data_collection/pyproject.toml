@@ -9,7 +9,8 @@ readme = "README.md"
 requires-python = "^3.10"
 dependencies = [
     "requests (>=2.32.5,<3.0.0)",
-    "beautifulsoup4 (>=4.14.3,<5.0.0)"
+    "beautifulsoup4 (>=4.14.3,<5.0.0)",
+    "utils @ file:///Users/sebastianvillalobos/Downloads/Fall%202025/Computational%20Linguistics/Final%20Project/5400_Final_Project/packages/utils",
 ]
 
 
