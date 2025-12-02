@@ -1,7 +1,7 @@
 # Track all data files with Git LFS
 data/** filter=lfs diff=lfs merge=lfs -text
-
 # Explicitly track raw, processed, and config directories
 data/raw/** filter=lfs diff=lfs merge=lfs -text
 data/processed/** filter=lfs diff=lfs merge=lfs -text
 data/config/** filter=lfs diff=lfs merge=lfs -text
+data/sentiment_scores/output_sentiment_clean.csv filter=lfs diff=lfs merge=lfs -text
