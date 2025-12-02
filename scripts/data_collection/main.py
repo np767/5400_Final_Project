@@ -22,8 +22,8 @@ if __name__ == "__main__":
     # downloader = SpeechDownloader(key_dir=FLOOR_SPEECHES)
     # downloader.download_all_speeches(download_file=True)
 
-    # downloader = SpeechDownloader(key_dir=RALLY_SPEECHES_1)
-    # downloader.download_all_speeches(download_file=True)
-
-    downloader = SpeechDownloader(key_dir=RALLY_SPEECHES_2)
+    downloader = SpeechDownloader(key_dir=RALLY_SPEECHES_1)
     downloader.download_all_speeches(download_file=True)
+
+    # downloader = SpeechDownloader(key_dir=RALLY_SPEECHES_2)
+    # downloader.download_all_speeches(download_file=True)
