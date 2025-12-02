@@ -54,12 +54,58 @@ class SpeechDownloader:
             self.output_dirs.append(output_dir)
 
     def sanitize_filename(self, name: str) -> str:
-        """Remove invalid characters from filename"""
+        """Remove invalid characters from filename to ensure cross-platform compatibility.
 
+        Strips characters that are not allowed in filenames,
+        preventing errors during file creation. This is particularly important for
+        speech titles that may contain special characters or punctuation.
+
+        Args:
+            name (str): Raw filename or title string that may contain invalid characters.
+
+        Note:
+            Removes the following Windows-invalid characters: < > : " / \\ | ? *
+            Does not collapse multiple spaces or trim whitespace.
+
+        Returns:
+            str: Sanitized filename with Windows-restricted characters removed.
+                Preserves spaces, hyphens, underscores, periods, and all alphanumeric
+                characters.
+
+        Example:
+            >>> downloader.sanitize_filename("Speech: Climate Change (2024)")
+            "Speech Climate Change (2024)"
+
+            >>> downloader.sanitize_filename('Senator\'s "Remarks" on Trade')
+            "Senator's Remarks on Trade"
+        """
         name = re.sub(r'[<>:"/\\|?*]', "", name)
         return name
 
     def save_transcript(self, output_dir, foldername, filename, text):
+        """Save a speech transcript in the appropriate directory structure.
+
+        Writes the transcript text to a file organized by politician and speech category,
+        maintaining the project's data hierarchy (e.g., data/raw/politician/category/speech.txt).
+
+        Args:
+            output_dir (str): Base output directory for the politician (e.g., "data/raw/bernie_sanders").
+            foldername (str): Category subdirectory name (e.g., "partisan_rally", "senate_floor").
+            filename (str): Name of the file to save (should be pre-sanitized).
+            text (str): Full transcript text content to write to file.
+
+        Returns:
+            bool: True if the file was successfully written.
+
+        Example:
+            >>> downloader.save_transcript(
+            ...     "data/raw/bernie_sanders",
+            ...     "partisan_rally",
+            ...     "healthcare_speech_2024.txt",
+            ...     "Thank you for coming today..."
+            ... )
+            True
+        """
         filepath = os.path.join(output_dir, foldername, filename)
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(text)
@@ -73,7 +119,33 @@ class SpeechDownloader:
         output_dir: str,
         download_file_regardless: bool = False,
     ) -> bool:
-        """Download a webpage and save as text"""
+        """Download a webpage, extract clean text content, and save to disk.
+
+        Fetches a speech transcript from a URL, strips HTML navigation and boilerplate
+        elements using BeautifulSoup, extracts the main content, and saves the cleaned
+        text. This method handles the data collection stage cleaning to avoid processing
+        website navigation and metadata in later analysis stages.
+
+        Args:
+            url (str): Full URL of the webpage to download.
+            foldername (str): Category subdirectory name (e.g., "partisan_rally", "senate_floor").
+            filename (str): Name for the saved file (should be pre-sanitized).
+            output_dir (str): Base output directory for the politician (e.g., "data/raw/bernie_sanders").
+            download_file_regardless (bool, optional): If True, re-download even if file exists.
+                Defaults to False (skip existing files).
+
+        Returns:
+            bool: True if download and save succeeded or file already exists, False if error occurred.
+
+        Note:
+            - Removes HTML elements: script, style, nav, header, footer, aside, form, button, iframe
+            - Attempts to find main content using common selectors (main-content, article, etc.)
+            - Falls back to <body> if no main content container found
+            - Collapses multiple consecutive newlines to maximum of two
+            - Strips empty lines and extra whitespace
+            - Uses UTF-8 encoding to preserve special characters
+            - Respects existing files unless download_file_regardless=True
+        """
 
         try:
             print(f"Downloading: {url}")
@@ -148,8 +220,30 @@ class SpeechDownloader:
             return False
 
     def download_all_speeches(self, download_file: bool = False):
-        """Download all speeches"""
+        """Download all speech transcripts for all politicians from configured URLs.
 
+        Iterates through all politicians and their speech categories defined in the
+        JSON configuration file, downloading each speech and organizing files by
+        politician and category. Tracks success/failure counts and ensures proper
+        directory structure exists before downloading.
+
+        Args:
+            download_file (bool, optional): If True, re-download files that already exist.
+                If False, skip existing files. Defaults to False.
+
+        Returns:
+            None. Prints progress and summary statistics to console.
+
+        Side Effects:
+            - Creates directory structure under RAW_DATA_DIR if needed
+            - Downloads and saves speech files to disk
+            - Prints download progress and results for each politician
+            - Respects self.sleep_time delay between requests
+
+        Note:
+            Uses ensure_politician_raw_directories() to check for existing folders
+            before creating them. Downloads are organized as: RAW_DATA_DIR/politician/category/speech.txt
+        """
         speeches = self.speeches
         politician_summary_successful = {}
         politician_summary_fails = {}
