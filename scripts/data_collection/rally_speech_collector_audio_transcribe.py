@@ -57,11 +57,29 @@ except ImportError:
 # Global flag to track if we've hit quota
 QUOTA_EXCEEDED = False
 
+# Load API keys from config file
+def load_api_keys() -> Dict[str, str]:
+    """Load API keys from api_keys.json file"""
+    api_keys_path = Path(__file__).parent / "api_keys.json"
+    if api_keys_path.exists():
+        try:
+            with open(api_keys_path, 'r') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Warning: Could not load API keys from {api_keys_path}: {e}")
+            return {}
+    else:
+        print(f"Warning: API keys file not found at {api_keys_path}")
+        print(f"  Please create {api_keys_path} using api_keys.json.example as a template")
+        return {}
+
+API_KEYS = load_api_keys()
+
 CONFIG = {
     "collected_speeches_path": "../../data/config/collected_speeches.json",
     "floor_speeches_path": "../../data/config/floor_speeches_congress_api.json",
     "output_json": "../../data/config/rally_speeches_audio_transcribed.json",
-    "youtube_api_key": "AIzaSyCkmnl5w39H1225smJG03GvhODiy_xOZPs",
+    "youtube_api_key": API_KEYS.get("youtube_api_key", ""),
     "min_video_duration_minutes": 3,  # Lowered from 5 to get more candidates
     "search_years": [2016, 2018, 2020, 2022, 2024, 2025],  # Added 2016, 2018
     "max_videos_per_query": 5,  # Reduced to save quota (was 10)
@@ -69,6 +87,12 @@ CONFIG = {
     "delay_between_downloads": 3,  # Reduced from 5 to speed up
     "delay_between_speakers": 5,  # Reduced from 10 to speed up
     "min_transcript_length": 300,  # Lowered from 500 to accept shorter speeches
+    # Rate-limit-avoidance settings for gap-filling mode
+    "gap_filling_mode": False,  # Set to True when filling gaps
+    "gap_filling_delay_between_downloads": 10,  # Longer delay to avoid rate limits
+    "gap_filling_delay_between_speakers": 15,  # Longer delay between speakers
+    "gap_filling_delay_before_search": 2,  # Delay before each search
+    "gap_filling_min_transcript_length": 150,  # Very lenient for 0-speech speakers
 }
 
 
@@ -191,6 +215,10 @@ def search_youtube_official(query: str, max_results: int = 5) -> List[Dict]:
 def search_youtube(query: str, max_results: int = 5) -> List[Dict]:
     """Search YouTube - tries official API first, falls back to unofficial"""
     global QUOTA_EXCEEDED
+    
+    # Conservative delay before search to avoid rate limiting
+    delay = CONFIG.get("gap_filling_delay_before_search", 0.5) if CONFIG.get("gap_filling_mode", False) else 0.5
+    time.sleep(delay + random.uniform(0, 1))
     
     # If quota exceeded, use unofficial immediately
     if QUOTA_EXCEEDED:
@@ -348,22 +376,108 @@ def collect_speeches_for_speaker(
         "{name} political rally {year}",
     ]
     
-    # For speakers with 0 speeches, also try queries without year (broader search)
+    # For speakers with 0 speeches, use more aggressive search strategies
     if existing_count == 0:
-        # Add generic queries without year
+        # Extract first and last name for alternative formats
+        name_parts = speaker['name'].split()
+        # Handle multi-part names better
+        # For "Blunt Rochester Lisa" -> first="Lisa", last="Blunt Rochester"
+        # For "Lisa Blunt Rochester" -> first="Lisa", last="Blunt Rochester"
+        if len(name_parts) >= 3:
+            # If name has 3+ parts, assume last part is first name if it's a common first name pattern
+            # Otherwise, assume first part is first name
+            # Common pattern: "Last Middle First" (from key format) vs "First Middle Last" (normal)
+            # Try both interpretations
+            first_name = name_parts[-1]  # Last word might be first name
+            last_name = " ".join(name_parts[:-1])  # Everything before last word
+            # Also create reverse version
+            first_name_reverse = name_parts[0]  # First word might be first name
+            last_name_reverse = " ".join(name_parts[1:])  # Everything after first word
+        elif len(name_parts) == 2:
+            first_name = name_parts[0]
+            last_name = name_parts[1]
+            first_name_reverse = name_parts[1]
+            last_name_reverse = name_parts[0]
+        else:
+            first_name = name_parts[0] if name_parts else speaker['name']
+            last_name = name_parts[0] if name_parts else speaker['name']
+            first_name_reverse = first_name
+            last_name_reverse = last_name
+        
+        # Create properly ordered name (for keys like "blunt_rochester_lisa" -> "Lisa Blunt Rochester")
+        # If name has 3+ parts, assume format is "Last Middle First" and reorder to "First Middle Last"
+        if len(name_parts) >= 3:
+            # Move last part to front: ["Blunt", "Rochester", "Lisa"] -> ["Lisa", "Blunt", "Rochester"]
+            reversed_name = f"{name_parts[-1]} {' '.join(name_parts[:-1])}"
+        elif len(name_parts) == 2:
+            # For 2 parts, try both orders
+            reversed_name = f"{name_parts[1]} {name_parts[0]}"
+        else:
+            reversed_name = speaker['name']
+        
+        # Add generic queries without year (broader search)
         generic_templates = [
             "{name} rally",
+            "{reversed_name} rally",  # Try reversed name format
             "{name} campaign speech",
+            "{reversed_name} campaign speech",
             "{name} victory speech",
+            "{reversed_name} victory speech",
             "{name} political speech",
+            "{reversed_name} political speech",
             "{name} election speech",
+            "{reversed_name} election speech",
             "{name} campaign rally",
+            "{reversed_name} campaign rally",
+            "{name} speech",
+            "{reversed_name} speech",
+            "{name} address",
+            "{reversed_name} address",
+            "{name} remarks",
+            "{reversed_name} remarks",
+            # Try with titles
+            "Senator {name} rally",
+            "Senator {name} speech",
+            "Congressman {name} rally",
+            "Congressman {name} speech",
+            "Congresswoman {name} rally",
+            "Congresswoman {name} speech",
+            "Rep {name} rally",
+            "Rep {name} speech",
+            "Sen {name} rally",
+            "Sen {name} speech",
+            # Try with just last name
+            "{last_name} rally",
+            "{last_name} speech",
+            "{last_name} campaign speech",
+            # Try with first name + last name variations (normal order)
+            "{first_name} {last_name} rally",
+            "{first_name} {last_name} speech",
+            # Try reverse order (in case name was stored backwards)
+            "{first_name_reverse} {last_name_reverse} rally",
+            "{first_name_reverse} {last_name_reverse} speech",
+            # Try with just the reversed last name
+            "{last_name_reverse} rally",
+            "{last_name_reverse} speech",
         ]
+        
         for template in generic_templates:
-            queries.append({
-                "query": template.format(name=speaker['name']),
-                "year": None  # Will use video publish date if available
-            })
+            try:
+                query = template.format(
+                    name=speaker['name'],
+                    reversed_name=reversed_name,
+                    first_name=first_name,
+                    last_name=last_name,
+                    first_name_reverse=first_name_reverse if len(name_parts) >= 2 else first_name,
+                    last_name_reverse=last_name_reverse if len(name_parts) >= 2 else last_name
+                )
+                queries.append({
+                    "query": query,
+                    "year": None  # Will use video publish date if available
+                })
+            except KeyError:
+                # Skip templates that don't match format
+                pass
     
     for year in CONFIG["search_years"]:
         for template in query_templates:
@@ -420,7 +534,9 @@ def collect_speeches_for_speaker(
                 if verbose:
                     print(f"    ✓ Downloaded audio: {Path(audio_file).name}")
                 
-                time.sleep(CONFIG["delay_between_downloads"])
+                # Use longer delay in gap-filling mode to avoid rate limits
+                delay = CONFIG.get("gap_filling_delay_between_downloads", CONFIG["delay_between_downloads"]) if CONFIG.get("gap_filling_mode", False) else CONFIG["delay_between_downloads"]
+                time.sleep(delay + random.uniform(0, 2))  # Add random jitter
                 
                 # Transcribe
                 if verbose:
@@ -446,7 +562,12 @@ def collect_speeches_for_speaker(
                     continue
                 
                 # For speakers with 0 speeches, be more lenient with transcript length
-                min_length = CONFIG["min_transcript_length"] if existing_count > 0 else max(200, CONFIG["min_transcript_length"] // 2)
+                if existing_count == 0 and CONFIG.get("gap_filling_mode", False):
+                    min_length = CONFIG.get("gap_filling_min_transcript_length", 150)
+                elif existing_count == 0:
+                    min_length = max(200, CONFIG["min_transcript_length"] // 2)
+                else:
+                    min_length = CONFIG["min_transcript_length"]
                 
                 if len(transcript) < min_length:
                     errors["too_short"] += 1
@@ -534,8 +655,14 @@ def main():
     parser.add_argument("--verbose", "-v", action="store_true", help="Verbose output")
     parser.add_argument("--output", type=str, default=None, help="Output JSON file")
     parser.add_argument("--save-interval", type=int, default=10, help="Save progress every N speakers (default: 10)")
+    parser.add_argument("--zero-only", action="store_true", help="Only process speakers with 0 speeches (gap-filling mode)")
     
     args = parser.parse_args()
+    
+    # Enable gap-filling mode if requested
+    if args.zero_only:
+        CONFIG["gap_filling_mode"] = True
+        print("  ⚠ Gap-filling mode enabled: Using longer delays to avoid rate limits")
     
     start_time = datetime.now()
     print("="*60)
@@ -614,8 +741,14 @@ def main():
             speakers_to_process = []
             for speaker in speakers:
                 existing_count = len(output.get(speaker["key"], {}).get("partisan_rally_speeches", []))
-                # Always process speakers with 0 speeches, even if they've been tried before
-                if existing_count < args.max_per_person:
+                # In zero-only mode, only process speakers with exactly 0 speeches
+                if args.zero_only:
+                    if existing_count == 0:
+                        speakers_to_process.append(speaker)
+                    elif args.verbose:
+                        print(f"  Skipping {speaker['name']} - has {existing_count} speeches (zero-only mode)")
+                # Normal mode: process if below max
+                elif existing_count < args.max_per_person:
                     speakers_to_process.append(speaker)
                 else:
                     if args.verbose:
@@ -623,7 +756,8 @@ def main():
             
             if len(speakers_to_process) < len(speakers):
                 skipped = len(speakers) - len(speakers_to_process)
-                print(f"  Skipping {skipped} speakers who already have enough speeches")
+                mode_str = "zero-only mode" if args.zero_only else "already have enough speeches"
+                print(f"  Skipping {skipped} speakers ({mode_str})")
                 speakers = speakers_to_process
         except Exception as e:
             print(f"  Warning: Could not load existing data ({e}), starting fresh")
@@ -691,7 +825,9 @@ def main():
                 total = sum(len(data.get("partisan_rally_speeches", [])) for data in output.values())
                 print(f"  [Saved] {total} speeches from {len(output)} speakers")
         
-        time.sleep(CONFIG["delay_between_speakers"])
+        # Use longer delay in gap-filling mode
+        delay = CONFIG.get("gap_filling_delay_between_speakers", CONFIG["delay_between_speakers"]) if CONFIG.get("gap_filling_mode", False) else CONFIG["delay_between_speakers"]
+        time.sleep(delay + random.uniform(0, 3))  # Add random jitter
     
     # Final save
     print("\n[3/3] Final save...")
