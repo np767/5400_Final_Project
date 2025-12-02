@@ -62,7 +62,7 @@ speech_sources.json (URLs by politician/context)
            ↓
     data/raw/{politician}/{category}/
            ↓
-    SpeechReader → SpeechCleaner (preprocessing)
+    SpeechCleaner (preprocessing)
            ↓
     data/processed/{politician}/{category}/
            ↓
@@ -71,7 +71,7 @@ speech_sources.json (URLs by politician/context)
 
 **Packages:**
 - `data_collection`: Web scraping with `SpeechDownloader`
-- `preprocessing`: Text processing with `SpeechReader` and `SpeechCleaner`
+- `preprocessing`: Text processing with `SpeechCleaner`
 - `utils`: Shared helper functions
 
 ## Quick Start
@@ -102,11 +102,8 @@ from preprocessing import SpeechCleaner
 
 cleaner = SpeechCleaner()
 
-# Read speeches
-speeches = reader.read_speeches(politician="bernie_sanders")
-
-# Clean text
-cleaned = cleaner.clean(raw_text)
+# Read Speeches & Clean text
+cleaned = cleaner.obtain_texts_to_clean()
 ```
 
 ## Key Features
@@ -144,13 +141,6 @@ cd packages/utils && poetry run pytest
 ```
 
 ### Package Dependencies
-
-**data_collection:**
-- requests
-- beautifulsoup4
-
-**preprocessing:**
-- nltk
 
 ## Linguistic Features
 
