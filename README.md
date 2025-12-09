@@ -12,7 +12,7 @@ This project examines rhetorical adaptation in political speech through computat
 
 ### Prerequisites
 - Python 3.10 or higher
-- Anaconda or Poetry (recommended)
+- Poetry (recommended)
 
 ### Setup
 
@@ -49,7 +49,7 @@ nltk.download('stopwords')
 ### Verify Installation
 ```python
 from data_collection import SpeechDownloader
-from preprocessing import SpeechReader, SpeechCleaner
+from preprocessing import SpeechCleaner
 
 print("Installation successful!")
 ```
@@ -89,30 +89,53 @@ Edit `data/config/speech_sources.json`:
 ```
 
 ### 2. Collect Data
-```python
-from data_collection import SpeechDownloader
 
-downloader = SpeechDownloader()
-downloader.download_all_speeches(download_file=True)
+**Using the command line:**
+```bash
+# Download speeches from specific configuration files
+python packages/data_collection/data_collection/main.py --config collected
+python packages/data_collection/data_collection/main.py --config floor
+python packages/data_collection/data_collection/main.py --config rally1
+python packages/data_collection/data_collection/main.py --config rally2
 ```
 
 ### 3. Preprocess Speeches
+
+**Using the command line:**
+```bash
+python packages/preprocessing/preprocessing/main.py # Use default preprocessing settings
+python packages/preprocessing/preprocessing/main.py --remove-stopwords --remove-numbers # Remove stopwords and numbers (preserve proper nouns)
+python packages/preprocessing/preprocessing/main.py --keep-urls --keep-case # Keep URLs and original case
+python packages/preprocessing/preprocessing/main.py --remove-stopwords --remove-numbers --remove-punctuation --remove-special-chars # Minimal cleaning (remove stopwords, numbers, punctuation, special chars)
+```
+
+**Preprocessing options:**
+
+- `--remove-stopwords`: Remove common stopwords from text
+- `--keep-urls`: Preserve URLs in text (default: remove)
+- `--keep-emails`: Preserve email addresses (default: remove)
+- `--remove-numbers`: Remove all numbers from text
+- `--remove-punctuation`: Remove punctuation marks
+- `--keep-case`: Preserve original capitalization (default: lowercase)
+- `--no-expand-contractions`: Don't expand contractions like "don't" → "do not"
+- `--remove-special-chars`: Remove special characters
+
+**Default settings:**
+
+- URLs and emails removed
+- Numbers and punctuation preserved (important for political analysis)
+- Text lowercased
+- Contractions expanded
+- Stopwords and special characters kept
+
+**Using Python:**
+
 ```python
 from preprocessing import SpeechCleaner
 
 cleaner = SpeechCleaner()
-
-# Read Speeches & Clean text
-cleaned = cleaner.obtain_texts_to_clean()
+cleaned = cleaner.obtain_texts_to_clean() # Read Speeches & Clean text
 ```
-
-## Key Features
-
-- **Flexible data collection** via JSON configuration
-- **Robust preprocessing** that preserves proper nouns, numbers, and sentence structure
-- **N-gram extraction** for linguistic pattern analysis
-- **Clean separation** between data validation and text processing
-- **Poetry-managed packages** for reproducible environments
 
 ## Project Structure
 ```
