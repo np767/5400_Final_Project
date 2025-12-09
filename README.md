@@ -148,7 +148,7 @@ cleaned = cleaner.obtain_texts_to_clean() # Read Speeches & Clean text
 │   ├── raw/                    # Original speeches
 │   ├── processed/              # Cleaned speeches
 │   └── config/                 # Configuration files
-├── notebooks/                  # Analysis notebooks
+├── analysis/                   # Analysis notebooks
 └── scripts/                    # Standalone scripts
 ```
 
