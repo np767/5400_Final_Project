@@ -1,70 +1,31 @@
 import pytest
 import json
-import tempfile
+import shutil
 from pathlib import Path
 from unittest.mock import Mock, patch
 from data_collection.downloader import SpeechDownloader
 
-
-@pytest.fixture
-def temp_dir():
-    """Create a temporary directory for testing"""
-    with tempfile.TemporaryDirectory() as tmpdir:
-        yield Path(tmpdir)
+FIXTURES_DIR = Path(__file__).parent / "fixtures"
 
 
 @pytest.fixture
-def sample_json_file(temp_dir):
-    """Create a sample JSON file with speech data"""
-    json_data = {
-        "test_politician": {
-            "rally": [
-                {
-                    "title": "Test Rally Speech",
-                    "transcript": "This is a test transcript from a rally.",
-                }
-            ]
-        }
-    }
-    json_path = temp_dir / "test_speeches.json"
-    with open(json_path, "w") as f:
-        json.dump(json_data, f)
-    return json_path
+def sample_json_mixed():
+    """Load the test speeches JSON file"""
+    return FIXTURES_DIR / "test_speeches.json"
 
 
-def test_download_from_json(temp_dir, sample_json_file):
-    """Test that SpeechDownloader can read and process JSON transcripts"""
+def test_json_loads(sample_json_mixed):
+    """Test that JSON file loads correctly"""
+    with open(sample_json_mixed, "r") as f:
+        data = json.load(f)
 
-    # Mock that creates actual directories when called
-    def mock_ensure_dirs(politician, category, raw_data_dir):
-        cat_dir = raw_data_dir / politician / category
-        cat_dir.mkdir(parents=True, exist_ok=True)
-        return False
-
-    with patch(
-        "data_collection.downloader.ensure_politician_data_folder", return_value=True
-    ):
-        with patch("data_collection.downloader.RAW_DATA_DIR", temp_dir):
-            with patch(
-                "data_collection.downloader.ensure_politician_raw_directories",
-                side_effect=mock_ensure_dirs,
-            ):
-                downloader = SpeechDownloader(key_dir=sample_json_file)
-                downloader.download_all_speeches()
-
-                # Check that the transcript was saved
-                output_file = (
-                    temp_dir / "test_politician" / "rally" / "Test_rally_speech.txt"
-                )
-                assert output_file.exists()
-                content = output_file.read_text()
-                assert "This is a test transcript from a rally." in content
+    assert "test_politician" in data
+    assert "rally" in data["test_politician"]
+    assert "senate_floor" in data["test_politician"]
 
 
-@patch("data_collection.downloader.requests.get")
-def test_download_from_html(mock_get, temp_dir):
-    """Test that SpeechDownloader can scrape and save HTML pages"""
-    # Mock HTML response
+def create_mock_html_response():
+    """Create a mock HTTP response with HTML content for testing"""
     mock_response = Mock()
     mock_response.text = """
     <html>
@@ -79,50 +40,59 @@ def test_download_from_html(mock_get, temp_dir):
     </html>
     """
     mock_response.raise_for_status = Mock()
-    mock_get.return_value = mock_response
+    return mock_response
 
-    # Create JSON with URL
-    json_data = {
-        "test_politician": {
-            "senate_floor": {"test_speech.txt": "https://example.com/speech"}
-        }
-    }
-    json_path = temp_dir / "test_speeches.json"
-    with open(json_path, "w") as f:
-        json.dump(json_data, f)
 
-    # Mock that creates actual directories when called
-    def mock_ensure_dirs(politician, category, raw_data_dir):
-        cat_dir = raw_data_dir / politician / category
-        cat_dir.mkdir(parents=True, exist_ok=True)
-        return False
+def test_speech_downloader_saves_files(sample_json_mixed):
+    """Test that SpeechDownloader saves transcript and HTML files correctly"""
 
-    with patch(
-        "data_collection.downloader.ensure_politician_data_folder", return_value=True
-    ):
-        with patch("data_collection.downloader.RAW_DATA_DIR", temp_dir):
-            with patch(
-                "data_collection.downloader.ensure_politician_raw_directories",
-                side_effect=mock_ensure_dirs,
-            ):
-                with patch("data_collection.downloader.time.sleep"):
-                    downloader = SpeechDownloader(key_dir=json_path)
-                    downloader.download_all_speeches()
+    mock_raw_dir = FIXTURES_DIR / "mock_raw_data"
 
-                    # Check that HTML was scraped and saved
-                    output_file = (
-                        temp_dir
-                        / "test_politician"
-                        / "senate_floor"
-                        / "test_speech.txt"
-                    )
-                    assert output_file.exists()
-                    content = output_file.read_text()
+    if mock_raw_dir.exists():
+        shutil.rmtree(mock_raw_dir)
+    mock_raw_dir.mkdir(parents=True)
 
-                    # Main content should be present
-                    assert "This is the main speech content" in content
-                    assert "It has multiple paragraphs" in content
+    # Override the raw data directory BEFORE initializing downloader
+    from data_collection import (
+        downloader as downloader_module,
+    )
 
-                    # Navigation and footer should be removed
-                    assert "Skip navigation" not in content
-                    assert "Footer content" not in content
+    original_raw_dir = downloader_module.RAW_DATA_DIR
+    downloader_module.RAW_DATA_DIR = mock_raw_dir
+
+    try:
+        mock_response = create_mock_html_response()
+        with patch(
+            "data_collection.downloader.requests.get", return_value=mock_response
+        ):
+            with patch("data_collection.downloader.time.sleep"):
+                downloader = SpeechDownloader(key_dir=sample_json_mixed)
+                downloader.download_all_speeches(download_file=True)
+
+        rally_file = (
+            mock_raw_dir / "test_politician" / "rally" / "Test_rally_speech.txt"
+        )
+        assert rally_file.exists(), "Rally speech file was not created"
+        rally_content = rally_file.read_text()
+        assert "This is a test transcript from a rally." in rally_content
+
+        senate_file = (
+            mock_raw_dir / "test_politician" / "senate_floor" / "test_speech.txt"
+        )
+        assert senate_file.exists(), "Senate speech file was not created"
+        senate_content = senate_file.read_text()
+
+        assert "This is the main speech content." in senate_content
+        assert "It has multiple paragraphs." in senate_content
+
+        assert "<nav>" not in senate_content
+        assert "<footer>" not in senate_content
+        assert "<html>" not in senate_content
+
+        assert "Skip navigation" not in senate_content
+        assert "Footer content" not in senate_content
+
+    finally:
+        downloader_module.RAW_DATA_DIR = original_raw_dir
+        if mock_raw_dir.exists():
+            shutil.rmtree(mock_raw_dir)
