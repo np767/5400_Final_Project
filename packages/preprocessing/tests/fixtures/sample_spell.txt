@@ -1,0 +1,5 @@
+This is a TEST speech! It contains URLs like https://example.com 
+and email addresses like test@example.com. Don't you think it's 
+interesting? We have numbers 123 and punctuation!!!
+
+â€™This has encoding issues.â€œ
