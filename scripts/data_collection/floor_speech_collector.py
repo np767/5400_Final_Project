@@ -4,12 +4,12 @@ Collects actual senate/house floor speeches from Congressional Record.
 Uses govinfo.gov CREC (Congressional Record) API for verbatim floor remarks.
 Writes to separate JSON to avoid overwriting bipartisan speeches.
 """
-import os
 import re
 import json
 import time
 import random
 import traceback
+import logging
 from pathlib import Path
 from typing import Dict, List, Optional, Set
 from datetime import datetime, timedelta
@@ -17,15 +17,54 @@ from tqdm import tqdm
 import requests
 from bs4 import BeautifulSoup
 
+# Setup logging
+def setup_logging(log_file: Optional[str] = None):
+    """Configure logging to both file and console"""
+    log_format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    date_format = '%Y-%m-%d %H:%M:%S'
+    
+    handlers = [logging.StreamHandler()]
+    
+    if log_file:
+        log_path = Path(log_file)
+        log_path.parent.mkdir(parents=True, exist_ok=True)
+        handlers.append(logging.FileHandler(log_path, encoding='utf-8'))
+    
+    logging.basicConfig(
+        level=logging.INFO,
+        format=log_format,
+        datefmt=date_format,
+        handlers=handlers
+    )
+    
+    return logging.getLogger(__name__)
+
+# Load API keys from config file
+def load_api_keys() -> Dict[str, str]:
+    """Load API keys from api_keys.json file"""
+    api_keys_path = Path(__file__).parent / "api_keys.json"
+    if api_keys_path.exists():
+        try:
+            with open(api_keys_path, 'r') as f:
+                return json.load(f)
+        except Exception as e:
+            logging.warning(f"Could not load API keys from {api_keys_path}: {e}")
+            return {}
+    else:
+        logging.warning(f"API keys file not found at {api_keys_path}")
+        return {}
+
+API_KEYS = load_api_keys()
+
 CONFIG = {
-    "api_key": "n9QGDwIkhtU1PWyuhCWMh6GSHK3Wyd95MEVvld4s",
+    "api_key": API_KEYS.get("govinfo_api_key", ""),
     "govinfo_base": "https://api.govinfo.gov",
     "sleep_min": 0.3,
     "sleep_max": 0.7,
     "timeout": 20,
     "max_speeches_per_person": 30,
-    "date_start": "2022-01-01",  # Start from recent congress
-    "date_end": None,  # Will be set to today
+    "date_start": "2022-01-01",
+    "date_end": None,
 }
 
 session = requests.Session()
@@ -51,14 +90,14 @@ def polite_get(url: str, use_api_key: bool = True) -> Optional[requests.Response
         if resp.status_code == 200:
             return resp
         elif resp.status_code == 429:
-            print("  Rate limited, waiting 60s...")
+            logging.warning("Rate limited, waiting 60s...")
             time.sleep(60)
             return polite_get(url, use_api_key)
         else:
             if resp.status_code != 404:  # Don't log 404s (normal for missing days)
-                print(f"  Status {resp.status_code} for {url}")
+                logging.warning(f"Status {resp.status_code} for {url}")
     except Exception as e:
-        print(f"  Error fetching {url}: {e}")
+        logging.error(f"Error fetching {url}: {e}")
     return None
 
 def slugify_name(name: str) -> str:
@@ -76,7 +115,7 @@ def load_existing_people(json_path: str) -> Set[str]:
                 data = json.load(f)
                 return set(data.keys())
     except Exception as e:
-        print(f"Warning: Could not load existing people: {e}")
+        logging.warning(f"Could not load existing people: {e}")
     return set()
 
 def build_member_lookup(existing_people: Set[str]) -> Dict[str, str]:
@@ -112,7 +151,7 @@ def get_crec_packages(start_date: str, end_date: str, max_results: int = 100) ->
     """
     packages = []
     
-    print(f"  Generating CREC package IDs from {start_date} to {end_date}...")
+    logging.info(f"Generating CREC package IDs from {start_date} to {end_date}...")
     
     # Parse dates
     start = datetime.strptime(start_date, "%Y-%m-%d")
@@ -144,7 +183,7 @@ def get_crec_packages(start_date: str, end_date: str, max_results: int = 100) ->
         
         current += timedelta(days=1)
     
-    print(f"  Found {len(packages)} CREC daily issues")
+    logging.info(f"Found {len(packages)} CREC daily issues")
     return packages
 
 def get_package_summary(package_id: str) -> Optional[Dict]:
@@ -218,7 +257,7 @@ def process_crec_package(package_id: str, member_lookup: Dict[str, str], current
     summary = get_package_summary(package_id)
     if not summary:
         if debug:
-            print(f"      No summary for {package_id}")
+            logging.debug(f"No summary for {package_id}")
         return speeches_by_person
     
     # Try to get HTML content
@@ -226,14 +265,14 @@ def process_crec_package(package_id: str, member_lookup: Dict[str, str], current
     granules_url = summary.get("granulesLink")
     if not granules_url:
         if debug:
-            print(f"      No granules link in summary")
+            logging.debug("No granules link in summary")
         return speeches_by_person
     
     # Get granules list
     resp = polite_get(granules_url)
     if not resp:
         if debug:
-            print(f"      Failed to fetch granules")
+            logging.debug("Failed to fetch granules")
         return speeches_by_person
     
     try:
@@ -241,7 +280,7 @@ def process_crec_package(package_id: str, member_lookup: Dict[str, str], current
         granules = granules_data.get("granules", [])
         
         if debug:
-            print(f"      Found {len(granules)} granules")
+            logging.debug(f"Found {len(granules)} granules")
         
         # Process each granule (typically sections like "Senate", "House")
         for granule in granules[:30]:  # Limit to first 30 granules per day
@@ -263,13 +302,13 @@ def process_crec_package(package_id: str, member_lookup: Dict[str, str], current
                 html_resp = polite_get(html_link, use_api_key=False)
                 if html_resp:
                     if debug:
-                        print(f"        Processing {chamber} section, HTML length: {len(html_resp.text)}")
+                        logging.debug(f"Processing {chamber} section, HTML length: {len(html_resp.text)}")
                     
                     # Extract speeches from this section
                     speeches = extract_speakers_from_html(html_resp.text, member_lookup)
                     
                     if debug:
-                        print(f"        Extracted {len(speeches)} speeches from {granule_id}")
+                        logging.debug(f"Extracted {len(speeches)} speeches from {granule_id}")
                     
                     for speech in speeches:
                         person_key = speech["person_key"]
@@ -297,83 +336,83 @@ def process_crec_package(package_id: str, member_lookup: Dict[str, str], current
                             "length": speech["full_length"]
                         })
     except Exception as e:
-        print(f"  Error processing granules for {package_id}: {e}")
+        logging.error(f"Error processing granules for {package_id}: {e}")
     
     return speeches_by_person
 
 def test_api_detailed():
     """Detailed API test to debug what's actually happening."""
-    print("\n" + "=" * 60)
-    print("DETAILED API TEST")
-    print("=" * 60)
+    logger = logging.getLogger(__name__)
+    logger.info("=" * 60)
+    logger.info("DETAILED API TEST")
+    logger.info("=" * 60)
     
     # Test 1: Try to fetch a specific known CREC package
-    print("\n[Test 1] Testing direct package access...")
+    logger.info("[Test 1] Testing direct package access...")
     # Use a known date when Congress was in session (Feb 2024)
     test_package_id = "CREC-2024-02-01"
     url = f"{CONFIG['govinfo_base']}/packages/{test_package_id}/summary"
-    print(f"Package ID: {test_package_id}")
-    print(f"URL: {url}")
+    logger.info(f"Package ID: {test_package_id}")
+    logger.info(f"URL: {url}")
     
     resp = polite_get(url)
     if resp and resp.status_code == 200:
         data = resp.json()
-        print(f"✓ Package found! Keys: {list(data.keys())}")
-        print(f"  Title: {data.get('title')}")
-        print(f"  Date: {data.get('dateIssued')}")
-        print(f"  Granules link: {data.get('granulesLink')}")
+        logger.info(f"Package found! Keys: {list(data.keys())}")
+        logger.info(f"  Title: {data.get('title')}")
+        logger.info(f"  Date: {data.get('dateIssued')}")
+        logger.info(f"  Granules link: {data.get('granulesLink')}")
         
         # Test 2: Get granules
         granules_url = data.get('granulesLink')
         if granules_url:
-            print(f"\n[Test 2] Getting granules...")
-            print(f"URL: {granules_url}")
+            logger.info("[Test 2] Getting granules...")
+            logger.info(f"URL: {granules_url}")
             
             granules_resp = polite_get(granules_url)
             if granules_resp and granules_resp.status_code == 200:
                 granules_data = granules_resp.json()
-                print(f"✓ Granules data keys: {list(granules_data.keys())}")
+                logger.info(f"Granules data keys: {list(granules_data.keys())}")
                 
                 if "granules" in granules_data:
                     granules = granules_data["granules"]
-                    print(f"✓ Found {len(granules)} granules")
+                    logger.info(f"Found {len(granules)} granules")
                     
                     # Show first few granules
                     for i, g in enumerate(granules[:3]):
-                        print(f"\n  Granule {i+1}:")
-                        print(f"    ID: {g.get('granuleId')}")
-                        print(f"    Title: {g.get('title')}")
+                        logger.info(f"Granule {i+1}:")
+                        logger.info(f"  ID: {g.get('granuleId')}")
+                        logger.info(f"  Title: {g.get('title')}")
                         
                         # Construct HTML URL (not provided in API response)
                         granule_id = g.get('granuleId')
                         html_url = f"https://www.govinfo.gov/content/pkg/{test_package_id}/html/{granule_id}.htm"
-                        print(f"    Constructed HTML: {html_url}")
+                        logger.info(f"  Constructed HTML: {html_url}")
                         
                         # Try to fetch HTML from first granule with text
                         if i == 0:
-                            print(f"\n[Test 3] Fetching HTML content sample...")
+                            logger.info("[Test 3] Fetching HTML content sample...")
                             html_resp = polite_get(html_url, use_api_key=False)
                             if html_resp and html_resp.status_code == 200:
                                 html_text = html_resp.text
-                                print(f"✓ HTML length: {len(html_text)} chars")
-                                print(f"✓ Sample (first 500 chars):")
-                                print(html_text[:500])
+                                logger.info(f"HTML length: {len(html_text)} chars")
+                                logger.info(f"Sample (first 500 chars): {html_text[:500]}")
                                 
                                 # Try to find speaker patterns
                                 speaker_matches = re.findall(r'((?:Mr\.|Ms\.|Mrs\.|Senator)\s+[A-Z]+)', html_text[:2000])
-                                print(f"\n✓ Found speaker patterns: {speaker_matches[:5]}")
+                                logger.info(f"Found speaker patterns: {speaker_matches[:5]}")
                             else:
-                                print(f"✗ Failed to fetch HTML (status: {html_resp.status_code if html_resp else 'None'})")
+                                logger.error(f"Failed to fetch HTML (status: {html_resp.status_code if html_resp else 'None'})")
                 else:
-                    print("✗ No 'granules' in response")
+                    logger.error("No 'granules' in response")
             else:
-                print(f"✗ Failed to get granules (status: {granules_resp.status_code if granules_resp else 'None'})")
+                logger.error(f"Failed to get granules (status: {granules_resp.status_code if granules_resp else 'None'})")
         else:
-            print("✗ No granules link in summary")
+            logger.error("No granules link in summary")
     else:
-        print(f"✗ Failed to fetch package (status: {resp.status_code if resp else 'None'})")
+        logger.error(f"Failed to fetch package (status: {resp.status_code if resp else 'None'})")
     
-    print("\n" + "=" * 60)
+    logger.info("=" * 60)
 
 def main():
     import argparse
@@ -394,7 +433,11 @@ def main():
     parser.add_argument("--debug", action="store_true", help="Enable debug output")
     parser.add_argument("--fresh-start", action="store_true", 
                         help="Start fresh (ignore existing output file)")
+    parser.add_argument("--log-file", type=str, default=None, help="Log file path (optional)")
     args = parser.parse_args()
+    
+    # Setup logging
+    logger = setup_logging(args.log_file)
     
     # Run test mode
     if args.test:
@@ -405,25 +448,25 @@ def main():
     CONFIG["date_start"] = args.start_date
     CONFIG["date_end"] = args.end_date
     
-    print("=" * 60)
-    print("Floor Speech Collector - GovInfo CREC API")
-    print("=" * 60)
-    print(f"\nDate range: {CONFIG['date_start']} to {CONFIG['date_end']}")
-    print(f"Max {args.max_per_person} speeches per person")
-    print(f"Processing up to {args.max_days} days of Congressional Record")
+    logger.info("=" * 60)
+    logger.info("Floor Speech Collector - GovInfo CREC API")
+    logger.info("=" * 60)
+    logger.info(f"Date range: {CONFIG['date_start']} to {CONFIG['date_end']}")
+    logger.info(f"Max {args.max_per_person} speeches per person")
+    logger.info(f"Processing up to {args.max_days} days of Congressional Record")
     
-    # Load existing people for overlap check (lightweight bonus)
-    print("\n[1/5] Loading existing people for overlap check...")
+    # Load existing people for overlap check
+    logger.info("[1/5] Loading existing people for overlap check...")
     existing_people = load_existing_people(args.overlap_check)
     if existing_people:
-        print(f"  Found {len(existing_people)} existing people to prioritize")
+        logger.info(f"Found {len(existing_people)} existing people to prioritize")
     else:
-        print("  No existing people found - will collect all speeches")
+        logger.info("No existing people found - will collect all speeches")
     
     # Build member lookup for matching CREC speakers
-    print("\n[2/5] Building member name lookup table...")
+    logger.info("[2/5] Building member name lookup table...")
     member_lookup = build_member_lookup(existing_people)
-    print(f"  Created {len(member_lookup)} name variations to match")
+    logger.info(f"Created {len(member_lookup)} name variations to match")
     
     # Output file setup
     output_path = Path(args.output)
@@ -438,27 +481,27 @@ def main():
                 len(v) for p in output.values() 
                 for k, v in p.items() if k.endswith("floor_speeches")
             )
-            print(f"  Loaded existing output: {len(output)} people, {existing_speeches_count} speeches")
-            print(f"  ✓ Will merge new speeches with existing data")
+            logger.info(f"Loaded existing output: {len(output)} people, {existing_speeches_count} speeches")
+            logger.info("Will merge new speeches with existing data")
         except:
             output = {}
-            print(f"  Could not load existing file, starting fresh")
+            logger.warning("Could not load existing file, starting fresh")
     else:
         output = {}
         if args.fresh_start:
-            print(f"  Fresh start requested - ignoring existing file")
+            logger.info("Fresh start requested - ignoring existing file")
     
     # Get CREC packages (daily issues)
-    print("\n[3/5] Fetching Congressional Record packages...")
+    logger.info("[3/5] Fetching Congressional Record packages...")
     packages = get_crec_packages(CONFIG["date_start"], CONFIG["date_end"], max_results=args.max_days * 2)
     
     if not packages:
-        print("  ✗ No packages found!")
+        logger.error("No packages found!")
         return
     
     # Limit packages to process
     packages = packages[:args.max_days]
-    print(f"  Processing {len(packages)} daily issues...")
+    logger.info(f"Processing {len(packages)} daily issues...")
     
     # Track speech counts per person
     speech_counts = {}
@@ -467,18 +510,17 @@ def main():
         speech_counts[person_key] = count
     
     # Process each package
-    print("\n[4/5] Extracting floor speeches from Congressional Record...")
-    print(f"  Limit: {args.max_per_person} speeches per person")
+    logger.info("[4/5] Extracting floor speeches from Congressional Record...")
+    logger.info(f"Limit: {args.max_per_person} speeches per person")
     total_new = 0
     debug = args.debug
-    people_at_limit = 0
     
     for idx, package in enumerate(tqdm(packages, desc="Processing daily issues")):
         package_id = package["packageId"]
         date = package["dateIssued"]
         
         if debug and idx < 3:
-            print(f"\n  DEBUG: Processing {package_id} ({date})")
+            logger.debug(f"Processing {package_id} ({date})")
         
         try:
             # Extract speeches from this daily issue
@@ -491,9 +533,9 @@ def main():
             )
             
             if debug and idx < 3:
-                print(f"  DEBUG: Found {len(speeches_by_person)} people with speeches")
+                logger.debug(f"Found {len(speeches_by_person)} people with speeches")
                 for person, spch_list in list(speeches_by_person.items())[:3]:
-                    print(f"    - {person}: {len(spch_list)} speeches")
+                    logger.debug(f"  - {person}: {len(spch_list)} speeches")
             
             # Add to output
             for person_key, speeches in speeches_by_person.items():
@@ -523,28 +565,28 @@ def main():
             # Check if we can stop early (all target people at limit)
             people_at_limit = sum(1 for k, v in speech_counts.items() if v >= args.max_per_person and k in existing_people)
             if people_at_limit >= len(existing_people) and len(existing_people) > 0:
-                print(f"\n  All {len(existing_people)} target people reached limit! Stopping early.")
+                logger.info(f"All {len(existing_people)} target people reached limit! Stopping early.")
                 break
         
         except Exception as e:
-            print(f"\n  Error processing {package_id}: {e}")
-            traceback.print_exc()
+            logger.error(f"Error processing {package_id}: {e}")
+            logger.debug(traceback.format_exc())
             continue
         
         # Save checkpoint every 10 packages
         if (idx + 1) % 10 == 0:
             output_path.write_text(json.dumps(output, indent=4), encoding="utf-8")
             if not debug:
-                print(f"\n  Checkpoint: Saved progress at {idx + 1}/{len(packages)} packages")
+                logger.info(f"Checkpoint: Saved progress at {idx + 1}/{len(packages)} packages")
     
     # Final save
-    print("\n[5/5] Saving results...")
+    logger.info("[5/5] Saving results...")
     output_path.write_text(json.dumps(output, indent=4), encoding="utf-8")
     
     # Summary
-    print("\n" + "=" * 60)
-    print("SUMMARY")
-    print("=" * 60)
+    logger.info("=" * 60)
+    logger.info("SUMMARY")
+    logger.info("=" * 60)
     
     total_people = len([p for p in output.values() if any(k.endswith("floor_speeches") for k in p.keys())])
     total_speeches_now = sum(
@@ -553,43 +595,43 @@ def main():
     )
     people_at_limit_final = sum(1 for k, v in speech_counts.items() if v >= args.max_per_person)
     
-    print(f"\n Collection Statistics:")
-    print(f"  People with floor speeches: {total_people}")
-    print(f"  Speeches before this run: {existing_speeches_count}")
-    print(f"  New speeches this run: {total_new}")
-    print(f"  Total speeches now: {total_speeches_now}")
-    print(f"  People at limit ({args.max_per_person}): {people_at_limit_final}/{total_people}")
+    logger.info("Collection Statistics:")
+    logger.info(f"People with floor speeches: {total_people}")
+    logger.info(f"Speeches before this run: {existing_speeches_count}")
+    logger.info(f"New speeches this run: {total_new}")
+    logger.info(f"Total speeches now: {total_speeches_now}")
+    logger.info(f"People at limit ({args.max_per_person}): {people_at_limit_final}/{total_people}")
     
-    print(f"\n✓ Saved to: {output_path}")
+    logger.info(f"Saved to: {output_path}")
     
     # Show top speakers
     if speech_counts:
-        print(f"\n  Top 10 Speakers (by total count):")
+        logger.info("Top 10 Speakers (by total count):")
         sorted_speakers = sorted(speech_counts.items(), key=lambda x: x[1], reverse=True)[:10]
         for i, (person, count) in enumerate(sorted_speakers, 1):
-            status = "✓ AT LIMIT" if count >= args.max_per_person else f"({args.max_per_person - count} more)"
-            print(f"  {i:2}. {person:30s} {count:3d} speeches {status}")
+            status = "[AT LIMIT]" if count >= args.max_per_person else f"({args.max_per_person - count} more)"
+            logger.info(f"  {i:2}. {person:30s} {count:3d} speeches {status}")
     
     # Show people who need more speeches
     people_need_more = [(k, v) for k, v in speech_counts.items() if v < args.max_per_person and k in existing_people]
     if people_need_more and len(people_need_more) <= 20:
-        print(f"\n Priority people still needing speeches ({len(people_need_more)}):")
+        logger.info(f"Priority people still needing speeches ({len(people_need_more)}):")
         people_need_more.sort(key=lambda x: x[1])
         for person, count in people_need_more[:10]:
             needed = args.max_per_person - count
-            print(f"  • {person:30s} has {count}, needs {needed} more")
+            logger.info(f"  - {person:30s} has {count}, needs {needed} more")
         if len(people_need_more) > 10:
-            print(f"  ... and {len(people_need_more) - 10} more")
+            logger.info(f"  ... and {len(people_need_more) - 10} more")
     
-    print(f"\n Tips for next run:")
-    print(f"  Use different --start-date and --end-date to collect from other periods")
-    print(f"  Example: --start-date 2023-01-01 --end-date 2023-12-31")
-    print(f"  Script automatically merges with existing data (no duplicates)")
-    print(f"  Use --fresh-start to ignore existing file and start over")
-    print(f"  Adjust --max-per-person to balance collection speed vs coverage")
+    logger.info("Tips for next run:")
+    logger.info("  Use different --start-date and --end-date to collect from other periods")
+    logger.info("  Example: --start-date 2023-01-01 --end-date 2023-12-31")
+    logger.info("  Script automatically merges with existing data (no duplicates)")
+    logger.info("  Use --fresh-start to ignore existing file and start over")
+    logger.info("  Adjust --max-per-person to balance collection speed vs coverage")
     
-    print(f"\n Note: Using GovInfo Congressional Record (CREC)")
-    print(f"         Actual verbatim floor remarks from official record")
+    logger.info("Note: Using GovInfo Congressional Record (CREC)")
+    logger.info("      Actual verbatim floor remarks from official record")
     
     return output
 

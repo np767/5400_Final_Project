@@ -4,12 +4,12 @@ Collects bipartisan_and_other_speeches from official member sites.
 Processes members one by one, 50 House + 50 Senate, 30 speeches each was run 
     for efficiency and setting size balance.
 """
-import os
 import re
 import json
 import time
 import random
 import urllib.parse
+import logging
 from pathlib import Path
 from typing import Dict, List, Optional
 from tqdm import tqdm
@@ -17,6 +17,28 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import dateparser
+
+# Setup logging
+def setup_logging(log_file: Optional[str] = None):
+    """Configure logging to both file and console"""
+    log_format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    date_format = '%Y-%m-%d %H:%M:%S'
+    
+    handlers = [logging.StreamHandler()]
+    
+    if log_file:
+        log_path = Path(log_file)
+        log_path.parent.mkdir(parents=True, exist_ok=True)
+        handlers.append(logging.FileHandler(log_path, encoding='utf-8'))
+    
+    logging.basicConfig(
+        level=logging.INFO,
+        format=log_format,
+        datefmt=date_format,
+        handlers=handlers
+    )
+    
+    return logging.getLogger(__name__)
 
 CONFIG = {
     "user_agent": "DSAN-5400-SpeechCollector/1.1 (+for research; contact: vt216@georgetown.edu)",
@@ -152,7 +174,7 @@ def collect_speeches_from_urls(urls: List[str]) -> Dict[str, str]:
     """Collect bipartisan speeches from a list of URLs."""
     speeches = {}
     
-    for url in urls[:CONFIG["max_speeches_per_person"] * 2]:  # Check more URLs than needed
+    for url in urls[:CONFIG["max_speeches_per_person"] * 2]:
         if len(speeches) >= CONFIG["max_speeches_per_person"]:
             break
             
@@ -204,7 +226,7 @@ def discover_house_member_sites() -> pd.DataFrame:
     out = []
     
     if not resp:
-        print("Warning: Could not fetch House directory")
+        logging.warning("Could not fetch House directory")
         return pd.DataFrame(columns=["name", "site_url", "chamber"])
     
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -264,7 +286,7 @@ def discover_senate_member_sites() -> pd.DataFrame:
     out = []
     
     if not resp:
-        print("Warning: Could not fetch Senate directory")
+        logging.warning("Could not fetch Senate directory")
         return pd.DataFrame(columns=["name", "site_url", "chamber"])
     
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -328,16 +350,20 @@ def main():
     parser.add_argument("--limit", type=int, default=50, help="Number of members per chamber (default: 50)")
     parser.add_argument("--max-per-person", type=int, default=30, help="Max speeches per person (default: 30)")
     parser.add_argument("--output", type=str, default="../../data/config/collected_speeches.json", help="Output JSON file")
+    parser.add_argument("--log-file", type=str, default=None, help="Log file path (optional)")
     args = parser.parse_args()
+    
+    # Setup logging
+    logger = setup_logging(args.log_file)
     
     CONFIG["max_speeches_per_person"] = args.max_per_person
     
-    print("=" * 60)
-    print("Simple Speech Collector v2 - Batch Mode")
-    print("=" * 60)
-    print(f"\nCollecting bipartisan_and_other_speeches")
-    print(f"Target: {args.limit} House + {args.limit} Senate members")
-    print(f"Max {args.max_per_person} speeches per person")
+    logger.info("=" * 60)
+    logger.info("Simple Speech Collector v2 - Batch Mode")
+    logger.info("=" * 60)
+    logger.info("Collecting bipartisan_and_other_speeches")
+    logger.info(f"Target: {args.limit} House + {args.limit} Senate members")
+    logger.info(f"Max {args.max_per_person} speeches per person")
     
     # Load existing JSON to use as template and avoid duplicates
     output_path = Path(args.output)
@@ -346,25 +372,25 @@ def main():
     if output_path.exists():
         try:
             output = json.loads(output_path.read_text(encoding="utf-8"))
-            print(f"\nLoaded existing JSON with {len(output)} people")
+            logger.info(f"Loaded existing JSON with {len(output)} people")
         except:
             output = {}
     else:
         output = {}
     
     # Discover members
-    print("\n[1/4] Discovering member sites...")
+    logger.info("[1/4] Discovering member sites...")
     house_df = discover_house_member_sites()
     senate_df = discover_senate_member_sites()
-    print(f"  House sites: {len(house_df)}")
-    print(f"  Senate sites: {len(senate_df)}")
+    logger.info(f"House sites: {len(house_df)}")
+    logger.info(f"Senate sites: {len(senate_df)}")
     
     # Limit members
     house_members = house_df.head(args.limit)
     senate_members = senate_df.head(args.limit)
     all_members = pd.concat([house_members, senate_members], ignore_index=True)
     
-    print(f"\n[2/4] Processing {len(all_members)} members...")
+    logger.info(f"[2/4] Processing {len(all_members)} members...")
     
     # Process each member
     total_new_speeches = 0
@@ -373,7 +399,6 @@ def main():
     for idx, row in tqdm(all_members.iterrows(), total=len(all_members), desc="Processing members"):
         name = row["name"]
         site_url = row["site_url"]
-        chamber = row["chamber"]
         
         person_key = slugify_name(name)
         
@@ -382,10 +407,10 @@ def main():
             continue
         
         # Skip common non-person keys
-        skip_keys = [
+        skip_keys = {
             "skip", "housegov", "states", "committees", "representatives",
             "leadership", "membership", "hearings", "history", "main", "content"
-        ]
+        }
         if any(skip in person_key for skip in skip_keys):
             continue
         
@@ -400,19 +425,17 @@ def main():
             speeches = process_member(site_url, name)
             
             # Merge speeches (don't overwrite existing)
-            new_count = 0
             for filename, url in speeches.items():
                 if filename not in output[person_key]["bipartisan_and_other_speeches"]:
                     output[person_key]["bipartisan_and_other_speeches"][filename] = url
                     total_new_speeches += 1
-                    new_count += 1
             
             # Remove empty categories
             output[person_key] = {k: v for k, v in output[person_key].items() if v}
             
             processed_count += 1
         except Exception as e:
-            print(f"\n  Error processing {name}: {e}")
+            logger.error(f"Error processing {name}: {e}")
             continue
         
         # Save periodically (every 10 members)
@@ -420,11 +443,7 @@ def main():
             output_path.write_text(json.dumps(output, indent=4), encoding="utf-8")
     
     # Clean up: remove any non-person entries
-    print("\n[3/4] Cleaning up non-person entries...")
-    skip_keys = [
-        "skip", "housegov", "states", "committees", "representatives",
-        "leadership", "membership", "hearings", "history", "main", "content"
-    ]
+    logger.info("[3/4] Cleaning up non-person entries...")
     cleaned_output = {}
     for key, value in output.items():
         if not any(skip in key for skip in skip_keys):
@@ -432,21 +451,21 @@ def main():
     output = cleaned_output
     
     # Final save
-    print("\n[4/4] Saving results...")
+    logger.info("[4/4] Saving results...")
     output_path.write_text(json.dumps(output, indent=4), encoding="utf-8")
     
     # Summary
-    print("\nSummary:")
+    logger.info("Summary:")
     total_people = len([p for p in output.values() if "bipartisan_and_other_speeches" in p and p["bipartisan_and_other_speeches"]])
     total_speeches_final = sum(
         len(p.get("bipartisan_and_other_speeches", {}))
         for p in output.values()
     )
-    print(f"  People processed: {processed_count}")
-    print(f"  People with speeches: {total_people}")
-    print(f"  Total speeches: {total_speeches_final}")
-    print(f"  New speeches added this run: {total_new_speeches}")
-    print(f"\n✓ Saved to: {output_path}")
+    logger.info(f"People processed: {processed_count}")
+    logger.info(f"People with speeches: {total_people}")
+    logger.info(f"Total speeches: {total_speeches_final}")
+    logger.info(f"New speeches added this run: {total_new_speeches}")
+    logger.info(f"Saved to: {output_path}")
     
     return output
 
