@@ -1,0 +1,13 @@
+{
+    "test_politician": {
+        "rally": [
+            {
+                "title": "Test Rally Speech",
+                "transcript": "This is a test transcript from a rally."
+            }
+        ],
+        "senate_floor": {
+            "test_speech.txt": "https://example.com/speech"
+        }
+    }
+}
