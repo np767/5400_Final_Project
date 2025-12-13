@@ -5,3 +5,4 @@ data/raw/** filter=lfs diff=lfs merge=lfs -text
 data/processed/** filter=lfs diff=lfs merge=lfs -text
 data/config/** filter=lfs diff=lfs merge=lfs -text
 data/sentiment_scores/output_sentiment_clean.csv filter=lfs diff=lfs merge=lfs -text
+data/sentiment_scores/eda_dataset.csv filter=lfs diff=lfs merge=lfs -text
