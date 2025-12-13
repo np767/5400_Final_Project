@@ -21,7 +21,7 @@ def mock_data_dirs(tmp_path):
     politician_dir.mkdir(parents=True)
 
     # Copy sample speech from fixtures
-    sample_speech = FIXTURES_DIR / "sample_speech.txt"
+    sample_speech = FIXTURES_DIR / "sample_spell.txt"
     speech_file = politician_dir / "test_speech.txt"
     shutil.copy(sample_speech, speech_file)
 

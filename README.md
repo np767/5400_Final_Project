@@ -24,18 +24,16 @@ cd 5400_Final_Project
 
 2. **Install the packages**
 
-Using conda (recommended):
+From the project root directory:
 ```bash
-pip install -e packages/data_collection
-pip install -e packages/preprocessing
-pip install -e packages/utils
+poetry install
 ```
 
-Using Poetry (for development):
+This will install all packages (data_collection, preprocessing, and utils) along with their dependencies in one command.
+
+For development with editable mode using pip:
 ```bash
-cd packages/data_collection && poetry install && cd ../..
-cd packages/preprocessing && poetry install && cd ../..
-cd packages/utils && poetry install && cd ../..
+pip install -e .
 ```
 
 3. **Download NLTK data** (if not already installed)
@@ -157,10 +155,19 @@ cleaned = cleaner.obtain_texts_to_clean() # Read Speeches & Clean text
 ## Development
 
 ### Running Tests
+
+Run all tests from the project root:
 ```bash
-cd packages/data_collection && poetry run pytest
-cd packages/preprocessing && poetry run pytest
-cd packages/utils && poetry run pytest
+poetry run pytest
+```
+
+Run tests for specific packages:
+```bash
+# Test data collection
+poetry run pytest packages/data_collection/tests/
+
+# Test preprocessing
+poetry run pytest packages/preprocessing/tests/
 ```
 
 ### Package Dependencies
